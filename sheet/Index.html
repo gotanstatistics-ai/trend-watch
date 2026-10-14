@@ -1,0 +1,56 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Trend watch</title>
+<style>
+ body{font-family:system-ui,sans-serif;margin:0;padding:12px;background:#f5f5f7;color:#222}
+ h1{font-size:20px;margin:0 0 8px} .bar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px}
+ select,input{font-size:15px;padding:6px} .card{background:#fff;border-radius:8px;padding:10px;margin-bottom:12px;box-shadow:0 1px 3px #0002}
+ table{width:100%;border-collapse:collapse;font-size:14px} th,td{text-align:left;padding:4px 6px;border-bottom:1px solid #eee}
+ th{color:#666;font-weight:600} .n{text-align:right} .small{color:#777;font-size:12px}
+</style></head><body>
+<h1>Trend watch, last 15 days</h1>
+<div class="bar">
+ <select id="country"></select>
+ <select id="city"></select>
+ <input id="q" placeholder="search a topic">
+</div>
+<div class="card"><b>Worldwide: best documentary candidates</b><div id="world"></div></div>
+<div class="card"><b id="ctitle">Country</b><div id="ctab"></div></div>
+<div class="card"><b id="ytitle">City</b><div id="ytab"></div></div>
+<p class="small">Data: github.com/REPO/data, refreshed every 6 hours. Score = countries x 3 + sources x 4 + days x 2 + rank bonus + size.</p>
+<script>
+let D = null;
+const $ = id => document.getElementById(id);
+function rows(list, cols) {
+  const q = $("q").value.toLowerCase();
+  list = list.filter(r => !q || String(r.topic).toLowerCase().includes(q));
+  if (!list.length) return "<p class='small'>no data yet</p>";
+  return "<table><tr>" + cols.map(c => "<th>" + c[0] + "</th>").join("") + "</tr>" +
+    list.map(r => "<tr>" + cols.map(c => "<td class='" + (c[2]||"") + "'>" + (r[c[1]] ?? "") + "</td>").join("") + "</tr>").join("") + "</table>";
+}
+function sortPlace(l) { return l.sort((a,b) => (b.days-a.days)||(b.seen-a.seen)||(a.best_rank-b.best_rank)); }
+function render() {
+  const c = $("country").value, y = $("city").value;
+  $("world").innerHTML = rows(D.topics.slice(0, 40),
+    [["Topic","topic"],["Score","score","n"],["Days","days","n"],["Countries","country_list"],["Sources","source_list"],["Headline","headline"]]);
+  $("ctitle").textContent = "Country: " + c;
+  $("ctab").innerHTML = rows(sortPlace(D.byCountry.filter(r => r.country === c)).slice(0, 40),
+    [["Topic","topic"],["Days","days","n"],["Seen","seen","n"],["Best rank","best_rank","n"],["Sources","sources"]]);
+  $("ytitle").textContent = "City: " + y;
+  $("ytab").innerHTML = rows(sortPlace(D.byCity.filter(r => r.city === y)).slice(0, 40),
+    [["Topic","topic"],["Days","days","n"],["Seen","seen","n"],["Best rank","best_rank","n"],["Sources","sources"]]);
+}
+function fillCities() {
+  const c = $("country").value;
+  const cities = [...new Set(D.byCity.filter(r => r.country === c).map(r => r.city))].sort();
+  $("city").innerHTML = cities.map(x => "<option>" + x + "</option>").join("") || "<option></option>";
+}
+google.script.run.withSuccessHandler(d => {
+  D = d;
+  const countries = [...new Set(d.byCountry.map(r => r.country))].filter(Boolean).sort();
+  $("country").innerHTML = countries.map(x => "<option" + (x === d.home ? " selected" : "") + ">" + x + "</option>").join("");
+  fillCities(); render();
+  $("country").onchange = () => { fillCities(); render(); };
+  $("city").onchange = render; $("q").oninput = render;
+}).getData();
+</script></body></html>

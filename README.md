@@ -47,8 +47,22 @@ Actions tab on GitHub, pick "fetch trends", press "Run workflow".
 3. Add tabs the same way for `by-country.csv`, `by-city.csv` and `latest.csv`.
 
 Google refreshes IMPORTDATA about every hour, so the sheet is always close to the latest run.
-If you prefer formatted tabs that never show "Loading", use `sheet/Code.gs` (Extensions, Apps Script,
-paste, run `refresh` once, then add an hourly trigger).
+
+### The dashboard (Apps Script)
+
+For a proper dashboard, India first, with a country picker and a city picker:
+
+1. In the Sheet: Extensions, Apps Script.
+2. Replace the contents of `Code.gs` with `sheet/Code.gs`. Add a file named `Index.html` (the + button,
+   HTML) and paste `sheet/Index.html` into it. Save.
+3. Pick the function `setup` at the top and press Run. Approve the permissions once. This fills the tabs,
+   builds the **Dashboard** tab and sets an hourly refresh.
+4. The Dashboard tab shows: worldwide top 25, India top 25, every Indian city, and on the right two
+   pickers (cell F3 country, cell F4 city) whose lists update as you choose.
+5. Optional phone page: Deploy, New deployment, Web app, execute as you, access only you. Open the URL.
+   It has the same pickers and a search box.
+
+A menu "Trend watch" appears in the sheet with "Refresh now" and "Rebuild dashboard".
 
 ## Running by hand
 
