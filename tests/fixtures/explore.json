@@ -1,0 +1,2 @@
+)]}',
+{"widgets":[{"id":"TIMESERIES","token":"t1","request":{}},{"id":"GEO_MAP","token":"geo-token","request":{"geo":{"country":"IN"},"comparisonItem":[{"time":"now 7-d","complexKeywordsRestriction":{"keyword":[{"type":"BROAD","value":"cricket"}]}}],"resolution":"REGION","locale":"en-US"}}]}
