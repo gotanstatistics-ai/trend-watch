@@ -109,11 +109,40 @@ def by_place(entries, field):
     return rows
 
 
+DAILY_COLUMNS = ["date", "topic", "countries", "sources", "cities", "best_rank", "peak_traffic"]
+
+
+def daily_rows(entries, topics, limit=500):
+    """One row per (day, topic) for the top `limit` topics: how wide it was that day."""
+    keep = {key(t["topic"]): t["topic"] for t in topics[:limit]}
+    agg = {}
+    for e in entries:
+        k = key(e.topic)
+        if k not in keep or not e.source.startswith(SCORED):
+            continue
+        a = agg.setdefault((e.date, k), {"date": e.date, "topic": keep[k], "countries": set(), "sources": set(),
+                                         "cities": set(), "best_rank": 999, "peak_traffic": 0})
+        if e.country:
+            a["countries"].add(e.country)
+        if e.city:
+            a["cities"].add(e.city)
+        a["sources"].add(e.source.split("-")[0] if e.source.startswith("wikipedia") else e.source)
+        a["best_rank"] = min(a["best_rank"], e.rank)
+        a["peak_traffic"] = max(a["peak_traffic"], e.traffic)
+    rows = []
+    for a in agg.values():
+        rows.append({"date": a["date"], "topic": a["topic"], "countries": len(a["countries"]), "sources": len(a["sources"]),
+                     "cities": len(a["cities"]), "best_rank": a["best_rank"], "peak_traffic": a["peak_traffic"]})
+    rows.sort(key=lambda r: (r["date"], -r["countries"]))
+    return rows
+
+
 def write_report(data_dir, today, log=print, top=50):
     from .store import load_window
     entries = load_window(data_dir, today)
     topics = rank_topics(entries, today)
     _write(os.path.join(data_dir, "topics-15d.csv"), TOPIC_COLUMNS, topics)
+    _write(os.path.join(data_dir, "topics-daily.csv"), DAILY_COLUMNS, daily_rows(entries, topics))
     cols = ["country", "topic", "days", "seen", "best_rank", "peak_traffic", "sources"]
     _write(os.path.join(data_dir, "by-country.csv"), cols, by_place(entries, "country"))
     _write(os.path.join(data_dir, "by-city.csv"), ["city"] + cols, by_place(entries, "city"))

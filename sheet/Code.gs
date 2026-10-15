@@ -13,7 +13,7 @@
 const REPO = "gotanstatistics-ai/trend-watch";
 const BASE = "https://raw.githubusercontent.com/" + REPO + "/main/data/";
 const TABS = {"Topics 15 days": "topics-15d.csv", "By country": "by-country.csv",
-              "By city": "by-city.csv", "Latest fetch": "latest.csv"};
+              "By city": "by-city.csv", "Daily": "topics-daily.csv", "Latest fetch": "latest.csv"};
 const HOME = "IN";              // the country shown first on the dashboard
 const HOME_NAME = "India";
 
@@ -52,6 +52,8 @@ function refresh() {
     sh.setFrozenRows(1);
     sh.getRange(1, 1, 1, rows[0].length).setFontWeight("bold");
   }
+  let info = ss.getSheetByName("Info") || ss.insertSheet("Info");
+  info.getRange("A1").setValue("Last refresh: " + new Date().toUTCString());
   buildDashboard();
 }
 
@@ -119,6 +121,21 @@ function buildDashboard() {
   sh.setColumnWidth(1, 320);
   sh.setColumnWidth(6, 420);
   sh.setFrozenRows(2);
+
+  // A bar chart of the top 15 real topics, placed to the right of the pickers
+  sh.getCharts().forEach(c => sh.removeChart(c));
+  const real = topics.filter(t => t.kind === "topic").slice(0, 15);
+  if (real.length) {
+    let cs = ss.getSheetByName("_chart") || ss.insertSheet("_chart");
+    cs.clearContents();
+    cs.getRange(1, 1, real.length + 1, 2).setValues([["Topic", "Score"], ...real.map(t => [t.topic, Number(t.score)])]);
+    cs.hideSheet();
+    const chart = sh.newChart().setChartType(Charts.ChartType.BAR)
+      .addRange(cs.getRange(1, 1, real.length + 1, 2))
+      .setPosition(6, 8, 0, 0).setOption("title", "Top 15 topics, last 15 days")
+      .setOption("legend", {position: "none"}).setOption("width", 700).setOption("height", 420).build();
+    sh.insertChart(chart);
+  }
 }
 
 // ---------- Web page (optional) ------------------------------------------------------------
@@ -130,6 +147,8 @@ function doGet() {
 function getData() {
   // Sent as text: the sheet turns dates into Date objects, which cannot travel to the page.
   const ss = SpreadsheetApp.getActiveSpreadsheet();
-  return JSON.stringify({topics: table(ss, "Topics 15 days").slice(0, 100),
-          byCountry: table(ss, "By country"), byCity: table(ss, "By city"), home: HOME});
+  const info = (ss.getSheetByName("Info") || {getRange: () => ({getValue: () => ""})}).getRange("A1").getValue();
+  return JSON.stringify({topics: table(ss, "Topics 15 days").slice(0, 600),
+          byCountry: table(ss, "By country"), byCity: table(ss, "By city"),
+          daily: table(ss, "Daily"), home: HOME, updated: String(info)});
 }

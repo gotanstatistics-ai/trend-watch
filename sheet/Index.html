@@ -1,64 +1,165 @@
 <!doctype html>
 <html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Trend watch</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
 <style>
- body{font-family:system-ui,sans-serif;margin:0;padding:12px;background:#f5f5f7;color:#222}
- h1{font-size:20px;margin:0 0 8px} .bar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px}
- select,input{font-size:15px;padding:6px} .card{background:#fff;border-radius:8px;padding:10px;margin-bottom:12px;box-shadow:0 1px 3px #0002}
- table{width:100%;border-collapse:collapse;font-size:14px} th,td{text-align:left;padding:4px 6px;border-bottom:1px solid #eee}
- th{color:#666;font-weight:600} .n{text-align:right} .small{color:#777;font-size:12px}
+ :root{--bg:#f3f4f6;--card:#fff;--ink:#1f2328;--mute:#6b7280;--line:#e5e7eb;--acc:#2563eb}
+ *{box-sizing:border-box} body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:0;padding:14px;background:var(--bg);color:var(--ink)}
+ h1{font-size:20px;margin:0 0 4px} .sub{color:var(--mute);font-size:12px;margin-bottom:10px}
+ .filters{display:flex;gap:8px;flex-wrap:wrap;align-items:end;background:var(--card);padding:10px;border-radius:10px;box-shadow:0 1px 3px #0002;margin-bottom:12px}
+ .f{display:flex;flex-direction:column;font-size:11px;color:var(--mute)} .f select,.f input{font-size:14px;padding:5px 6px;border:1px solid var(--line);border-radius:6px;min-width:110px}
+ .chk{display:flex;gap:10px;align-items:center;font-size:13px;color:var(--ink);padding-bottom:4px;flex-wrap:wrap} .chk label{display:flex;gap:4px;align-items:center}
+ .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-bottom:12px}
+ .tile{background:var(--card);border-radius:10px;padding:10px 12px;box-shadow:0 1px 3px #0002} .tile b{display:block;font-size:22px} .tile span{font-size:11px;color:var(--mute)}
+ .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:12px;margin-bottom:12px}
+ .card{background:var(--card);border-radius:10px;padding:12px;box-shadow:0 1px 3px #0002;min-width:0} .card h3{margin:0 0 8px;font-size:14px}
+ canvas{width:100%!important;height:300px!important}
+ table{width:100%;border-collapse:collapse;font-size:13px} th,td{text-align:left;padding:5px 6px;border-bottom:1px solid var(--line);vertical-align:top}
+ th{color:var(--mute);font-weight:600;cursor:pointer;white-space:nowrap;position:sticky;top:0;background:var(--card)} th.on{color:var(--acc)}
+ tr.pick td{background:#eef4ff} tr:hover td{background:#f8fafc;cursor:pointer} .n{text-align:right;white-space:nowrap}
+ .tag{display:inline-block;font-size:11px;padding:1px 6px;border-radius:10px;background:#eef;color:#335} .tag.match{background:#fee;color:#833} .tag.news{background:#efe;color:#363}
+ .wrap{max-height:520px;overflow:auto} .small{color:var(--mute);font-size:12px} a{color:var(--acc)}
+ button{font-size:13px;padding:6px 10px;border:1px solid var(--line);background:#fff;border-radius:6px;cursor:pointer}
 </style></head><body>
-<h1>Trend watch, last 15 days</h1>
-<div class="bar">
- <select id="country"></select>
- <select id="city"></select>
- <input id="q" placeholder="search a topic">
+<h1>Trend watch</h1>
+<div class="sub" id="updated">loading...</div>
+
+<div class="filters">
+ <div class="f">Days<select id="days"><option value="1">last 1 day</option><option value="3">last 3 days</option><option value="7">last 7 days</option><option value="15" selected>last 15 days</option></select></div>
+ <div class="f">Country<select id="country"><option value="">all</option></select></div>
+ <div class="f">City<select id="city"><option value="">all</option></select></div>
+ <div class="f">Kind<select id="kind"><option value="topic" selected>real topics</option><option value="">everything</option><option value="match">sports matches</option><option value="news">passing news</option></select></div>
+ <div class="f">Min countries<select id="minc"><option>1</option><option>2</option><option>3</option><option>5</option><option>10</option></select></div>
+ <div class="f">Search<input id="q" placeholder="topic contains..."></div>
+ <div class="chk" id="sources"></div>
+ <button id="reset">Reset</button>
 </div>
-<div class="card"><b>Worldwide: best documentary candidates</b><div id="world"></div></div>
-<div class="card"><b id="ctitle">Country</b><div id="ctab"></div></div>
-<div class="card"><b id="ytitle">City</b><div id="ytab"></div></div>
-<p class="small">Data: github.com/REPO/data, refreshed every 6 hours. Score = countries x 3 + sources x 4 + days x 2 + rank bonus + size.</p>
+
+<div class="tiles" id="tiles"></div>
+
+<div class="grid">
+ <div class="card"><h3>Top topics by score</h3><canvas id="cTop"></canvas></div>
+ <div class="card"><h3 id="hTrend">Day by day</h3><canvas id="cTrend"></canvas></div>
+ <div class="card"><h3>Which sources the shown topics come from</h3><canvas id="cSrc"></canvas></div>
+ <div class="card"><h3 id="hPlace">Top topics in the place picked</h3><div class="wrap"><table id="tPlace"></table></div></div>
+</div>
+
+<div class="card"><h3 id="hTable">Topics</h3><div class="wrap"><table id="tTopics"></table></div>
+ <p class="small">Click a column to sort, click a row to see its day-by-day line. Score = countries x 3 + sources x 4 + days x 2 + rank bonus + size. Days = on how many of the chosen days it trended. GitHub fetches every 6 hours; the sheet refreshes hourly.</p></div>
+
 <script>
-let D = null;
+let D = null, sel = null, sortKey = "score", sortDir = -1, charts = {};
 const $ = id => document.getElementById(id);
-function rows(list, cols) {
-  const q = $("q").value.toLowerCase();
-  list = list.filter(r => !q || String(r.topic).toLowerCase().includes(q));
-  if (!list.length) return "<p class='small'>no data yet</p>";
-  return "<table><tr>" + cols.map(c => "<th>" + c[0] + "</th>").join("") + "</tr>" +
-    list.map(r => "<tr>" + cols.map(c => "<td class='" + (c[2]||"") + "'>" + (r[c[1]] ?? "") + "</td>").join("") + "</tr>").join("") + "</table>";
+const COLORS = ["#2563eb","#16a34a","#dc2626","#d97706","#7c3aed","#0891b2","#db2777","#4b5563"];
+
+function dayOf(s) { return new Date(String(s).slice(0, 10) + "T00:00:00Z"); }
+function daysAgo(dateStr, today) { return Math.round((today - dayOf(dateStr)) / 86400000); }
+
+function state() {
+  const srcs = [...document.querySelectorAll("#sources input:checked")].map(i => i.value);
+  return {days: +$("days").value, country: $("country").value, city: $("city").value, kind: $("kind").value,
+          minc: +$("minc").value, q: $("q").value.toLowerCase(), srcs};
 }
-function sortPlace(l) { return l.sort((a,b) => (b.days-a.days)||(b.seen-a.seen)||(a.best_rank-b.best_rank)); }
+
+function topicsNow() {
+  const s = state();
+  const today = D.daily.length ? new Date(Math.max(...D.daily.map(r => +dayOf(r.date)))) : new Date();
+  const inWin = {};
+  for (const r of D.daily) {
+    if (daysAgo(r.date, today) >= s.days) continue;
+    const a = inWin[r.topic] || (inWin[r.topic] = {days: 0, countries: 0, peak: 0});
+    a.days++; a.countries = Math.max(a.countries, +r.countries); a.peak = Math.max(a.peak, +r.peak_traffic);
+  }
+  return D.topics.filter(t => {
+    const w = inWin[t.topic];
+    if (!w) return false;
+    if (s.kind && t.kind !== s.kind) return false;
+    if (+t.countries < s.minc) return false;
+    if (s.q && !String(t.topic).toLowerCase().includes(s.q)) return false;
+    if (s.country && !String(t.country_list).split(" ").includes(s.country)) return false;
+    if (s.city && !String(t.city_list).split(", ").includes(s.city)) return false;
+    if (s.srcs.length && !String(t.source_list).split(" ").some(x => s.srcs.includes(x))) return false;
+    return true;
+  }).map(t => ({...t, wdays: inWin[t.topic].days, wpeak: inWin[t.topic].peak}));
+}
+
+function chart(id, cfg) { if (charts[id]) charts[id].destroy(); charts[id] = new Chart($(id), cfg); }
+
 function render() {
-  const c = $("country").value, y = $("city").value;
-  $("world").innerHTML = rows(D.topics.slice(0, 40),
-    [["Topic","topic"],["Score","score","n"],["Days","days","n"],["Countries","country_list"],["Sources","source_list"],["Headline","headline"]]);
-  $("ctitle").textContent = "Country: " + c;
-  $("ctab").innerHTML = rows(sortPlace(D.byCountry.filter(r => r.country === c)).slice(0, 40),
-    [["Topic","topic"],["Days","days","n"],["Seen","seen","n"],["Best rank","best_rank","n"],["Sources","sources"]]);
-  $("ytitle").textContent = "City: " + y;
-  $("ytab").innerHTML = rows(sortPlace(D.byCity.filter(r => r.city === y)).slice(0, 40),
-    [["Topic","topic"],["Days","days","n"],["Seen","seen","n"],["Best rank","best_rank","n"],["Sources","sources"]]);
+  const s = state();
+  const rows = topicsNow();
+  const dir = sortDir, k = sortKey;
+  rows.sort((a, b) => { const x = a[k], y = b[k]; return (isNaN(x) || isNaN(y) ? String(x).localeCompare(String(y)) : (+x) - (+y)) * dir; });
+  if (sel && !rows.some(r => r.topic === sel)) sel = null;
+  const pick = sel || (rows[0] && rows[0].topic);
+
+  const countries = new Set(), cities = new Set(), dates = new Set(D.daily.map(r => String(r.date).slice(0, 10)));
+  rows.forEach(r => { String(r.country_list).split(" ").filter(Boolean).forEach(c => countries.add(c)); String(r.city_list).split(", ").filter(Boolean).forEach(c => cities.add(c)); });
+  $("tiles").innerHTML = [["Topics shown", rows.length], ["Countries", countries.size], ["Cities", cities.size],
+    ["Days of data", dates.size], ["Lasting (3+ days)", rows.filter(r => r.wdays >= 3).length],
+    ["Many countries (5+)", rows.filter(r => +r.countries >= 5).length]]
+    .map(([l, v]) => `<div class="tile"><b>${v}</b><span>${l}</span></div>`).join("");
+
+  const top = [...rows].sort((a, b) => b.score - a.score).slice(0, 15);
+  chart("cTop", {type: "bar", data: {labels: top.map(t => t.topic), datasets: [{data: top.map(t => +t.score), backgroundColor: top.map(t => t.topic === pick ? "#dc2626" : "#2563eb")}]},
+    options: {indexAxis: "y", plugins: {legend: {display: false}}, scales: {x: {beginAtZero: true}}, onClick: (e, el) => { if (el.length) { sel = top[el[0].index].topic; render(); } }}});
+
+  const days = [...dates].sort().slice(-s.days);
+  const mine = {};
+  D.daily.filter(r => r.topic === pick).forEach(r => mine[String(r.date).slice(0, 10)] = +r.countries);
+  $("hTrend").textContent = pick ? `Day by day: ${pick} (countries trending it)` : "Day by day";
+  chart("cTrend", {type: "line", data: {labels: days, datasets: [{label: pick || "", data: days.map(d => mine[d] || 0), borderColor: "#dc2626", backgroundColor: "#dc262633", fill: true, tension: .3}]},
+    options: {plugins: {legend: {display: false}}, scales: {y: {beginAtZero: true, ticks: {precision: 0}}}}});
+
+  const sc = {};
+  rows.forEach(r => String(r.source_list).split(" ").filter(Boolean).forEach(x => sc[x] = (sc[x] || 0) + 1));
+  const sk = Object.keys(sc);
+  chart("cSrc", {type: "doughnut", data: {labels: sk, datasets: [{data: sk.map(x => sc[x]), backgroundColor: COLORS}]}, options: {plugins: {legend: {position: "right"}}}});
+
+  const place = s.city ? D.byCity.filter(r => r.city === s.city) : D.byCountry.filter(r => r.country === (s.country || D.home));
+  $("hPlace").textContent = "Top topics in " + (s.city || s.country || D.home);
+  place.sort((a, b) => (b.days - a.days) || (b.seen - a.seen) || (a.best_rank - b.best_rank));
+  $("tPlace").innerHTML = "<tr><th>Topic</th><th class=n>Days</th><th class=n>Seen</th><th class=n>Best rank</th><th>Sources</th></tr>" +
+    place.slice(0, 40).map(r => `<tr onclick="selTopic(this.dataset.t)" data-t="${attr(r.topic)}"><td>${txt(r.topic)}</td><td class=n>${r.days}</td><td class=n>${r.seen}</td><td class=n>${r.best_rank}</td><td>${txt(r.sources)}</td></tr>`).join("");
+
+  const cols = [["topic","Topic"],["kind","Kind"],["score","Score","n"],["wdays","Days","n"],["countries","Countries","n"],["cities","Cities","n"],["sources","Sources","n"],["wpeak","Peak","n"],["country_list","Where"],["headline","Headline"]];
+  $("hTable").textContent = `Topics, last ${s.days} days (${rows.length})`;
+  $("tTopics").innerHTML = "<tr>" + cols.map(c => `<th class="${c[2]||""} ${sortKey===c[0]?"on":""}" onclick="sortBy('${c[0]}')">${c[1]}${sortKey===c[0]?(sortDir<0?" ▼":" ▲"):""}</th>`).join("") + "</tr>" +
+    rows.slice(0, 300).map(r => `<tr class="${r.topic===pick?"pick":""}" onclick="selTopic(this.dataset.t)" data-t="${attr(r.topic)}">` + cols.map(c => {
+      let v = r[c[0]];
+      if (c[0] === "kind") v = `<span class="tag ${v}">${v}</span>`;
+      else if (c[0] === "headline") v = r.url ? `<a href="${attr(r.url)}" target="_blank" rel="noopener">${txt(v || "link")}</a>` : txt(v || "");
+      else if (c[0] === "wpeak") v = Number(v).toLocaleString();
+      else v = txt(v);
+      return `<td class="${c[2]||""}">${v ?? ""}</td>`; }).join("") + "</tr>").join("");
 }
+
+function txt(s) { return String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;"); }
+function attr(s) { return txt(s).replace(/"/g, "&quot;"); }
+function selTopic(t) { sel = t; render(); }
+function sortBy(k) { if (sortKey === k) sortDir = -sortDir; else { sortKey = k; sortDir = ["topic","kind","country_list","headline"].includes(k) ? 1 : -1; } render(); }
+
 function fillCities() {
   const c = $("country").value;
-  const cities = [...new Set(D.byCity.filter(r => r.country === c).map(r => r.city))].sort();
-  $("city").innerHTML = cities.map(x => "<option>" + x + "</option>").join("") || "<option></option>";
+  const cities = [...new Set(D.byCity.filter(r => !c || r.country === c).map(r => r.city))].sort();
+  $("city").innerHTML = "<option value=''>all</option>" + cities.map(x => `<option>${txt(x)}</option>`).join("");
 }
-document.getElementById("world").innerHTML = "<p class='small'>loading...</p>";
+
+$("tiles").innerHTML = "<div class='tile'><b>…</b><span>loading the sheet</span></div>";
 google.script.run.withFailureHandler(err => {
-  document.getElementById("world").innerHTML = "<p class='small'>Error: " + err.message + "</p>";
+  $("updated").textContent = "Error: " + err.message;
 }).withSuccessHandler(text => {
-  const d = JSON.parse(text);
-  D = d;
-  if (!d.byCountry.length) {
-    document.getElementById("world").innerHTML = "<p class='small'>The sheet has no data yet. In the sheet, use the menu Trend watch, Refresh now (or run setup in Apps Script) and check that the tabs Topics 15 days, By country and By city are filled.</p>";
-    return;
-  }
-  const countries = [...new Set(d.byCountry.map(r => r.country))].filter(Boolean).sort();
-  $("country").innerHTML = countries.map(x => "<option" + (x === d.home ? " selected" : "") + ">" + x + "</option>").join("");
-  fillCities(); render();
-  $("country").onchange = () => { fillCities(); render(); };
-  $("city").onchange = render; $("q").oninput = render;
+  D = JSON.parse(text);
+  if (!D.byCountry.length) { $("updated").textContent = "The sheet has no data yet: in the sheet use Trend watch, Refresh now."; return; }
+  $("updated").textContent = (D.updated || "") + ". Data from github.com/gotanstatistics-ai/trend-watch, fetched every 6 hours.";
+  const countries = [...new Set(D.byCountry.map(r => r.country))].filter(Boolean).sort();
+  $("country").innerHTML = "<option value=''>all</option>" + countries.map(x => `<option>${x}</option>`).join("");
+  const srcs = [...new Set(D.topics.flatMap(t => String(t.source_list).split(" ")))].filter(Boolean).sort();
+  $("sources").innerHTML = "<span class=small>Sources:</span>" + srcs.map(x => `<label><input type=checkbox value="${x}">${x}</label>`).join("");
+  fillCities();
+  for (const id of ["days","country","city","kind","minc","q"]) $(id).addEventListener(id==="q"?"input":"change", () => { if (id==="country") fillCities(); render(); });
+  document.querySelectorAll("#sources input").forEach(i => i.addEventListener("change", render));
+  $("reset").onclick = () => { $("days").value = "15"; $("country").value = ""; fillCities(); $("city").value = ""; $("kind").value = "topic"; $("minc").value = "1"; $("q").value = ""; document.querySelectorAll("#sources input").forEach(i => i.checked = false); sel = null; render(); };
+  render();
 }).getData();
 </script></body></html>
