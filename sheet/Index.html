@@ -45,8 +45,15 @@ function fillCities() {
   const cities = [...new Set(D.byCity.filter(r => r.country === c).map(r => r.city))].sort();
   $("city").innerHTML = cities.map(x => "<option>" + x + "</option>").join("") || "<option></option>";
 }
-google.script.run.withSuccessHandler(d => {
+document.getElementById("world").innerHTML = "<p class='small'>loading...</p>";
+google.script.run.withFailureHandler(err => {
+  document.getElementById("world").innerHTML = "<p class='small'>Error: " + err.message + "</p>";
+}).withSuccessHandler(d => {
   D = d;
+  if (!d.byCountry.length) {
+    document.getElementById("world").innerHTML = "<p class='small'>The sheet has no data yet. In the sheet, use the menu Trend watch, Refresh now (or run setup in Apps Script) and check that the tabs Topics 15 days, By country and By city are filled.</p>";
+    return;
+  }
   const countries = [...new Set(d.byCountry.map(r => r.country))].filter(Boolean).sort();
   $("country").innerHTML = countries.map(x => "<option" + (x === d.home ? " selected" : "") + ">" + x + "</option>").join("");
   fillCities(); render();

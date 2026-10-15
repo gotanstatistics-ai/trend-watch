@@ -40,7 +40,11 @@ function refresh() {
   const ss = SpreadsheetApp.getActiveSpreadsheet();
   for (const [name, file] of Object.entries(TABS)) {
     let rows;
-    try { rows = fetchCsv(file); } catch (e) { Logger.log(e.message); continue; }
+    try { rows = fetchCsv(file); } catch (e) {
+      Logger.log(e.message);
+      SpreadsheetApp.getActiveSpreadsheet().toast(name + ": " + e.message, "Trend watch", 10);
+      continue;
+    }
     if (!rows.length) continue;
     let sh = ss.getSheetByName(name) || ss.insertSheet(name);
     sh.clearContents();
