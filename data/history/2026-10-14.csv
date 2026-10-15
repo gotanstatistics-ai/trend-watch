@@ -381,6 +381,30 @@ date,fetched_at,source,country,region,city,rank,topic,traffic,period,url,note
 2026-10-14,2026-10-15T02:48Z,wikipedia,MY,,,13,Hajime Moriyasu,1600,day,https://en.wikipedia.org/wiki/Hajime_Moriyasu,en.wikipedia
 2026-10-14,2026-10-15T02:48Z,wikipedia,MY,,,14,Menantu Tanpa Reda,1400,day,https://ms.wikipedia.org/wiki/Menantu_Tanpa_Reda,ms.wikipedia
 2026-10-14,2026-10-15T02:48Z,wikipedia,MY,,,15,Sumpahan Mencintai,1400,day,https://ms.wikipedia.org/wiki/Sumpahan_Mencintai,ms.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,1,Hoofdpagina,47900,day,https://nl.wikipedia.org/wiki/Hoofdpagina,nl.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,2,List of equations,11500,day,https://en.wikipedia.org/wiki/List_of_equations,en.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,3,Mathematics,11500,day,https://en.wikipedia.org/wiki/Mathematics,en.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,4,Katie Zacharia,10500,day,https://en.wikipedia.org/wiki/Katie_Zacharia,en.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,5,Заглавная страница,10300,day,https://ru.wikipedia.org/wiki/Заглавная_страница,ru.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,6,Trinity (The Matrix),9900,day,https://en.wikipedia.org/wiki/Trinity_(The_Matrix),en.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,7,Margaret Versteden-van Duijn,9900,day,https://nl.wikipedia.org/wiki/Margaret_Versteden-van_Duijn,nl.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,8,Lex Paleaux,8000,day,https://nl.wikipedia.org/wiki/Lex_Paleaux,nl.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,9,TNT Sports (United Kingdom),7700,day,https://en.wikipedia.org/wiki/TNT_Sports_(United_Kingdom),en.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,10,Stigmergy,6300,day,https://en.wikipedia.org/wiki/Stigmergy,en.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,11,Gjivai Zechiël,5100,day,https://nl.wikipedia.org/wiki/Gjivai_Zechiël,nl.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,12,Como 1907,5100,day,https://nl.wikipedia.org/wiki/Como_1907,nl.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,13,Cesc Fàbregas,4800,day,https://nl.wikipedia.org/wiki/Cesc_Fàbregas,nl.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,14,Koen Schuiling,4400,day,https://nl.wikipedia.org/wiki/Koen_Schuiling,nl.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,15,RJ Mitte,3700,day,https://en.wikipedia.org/wiki/RJ_Mitte,en.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,16,Pablo Paz,3300,day,https://en.wikipedia.org/wiki/Pablo_Paz,en.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,17,Nico Paz,3200,day,https://nl.wikipedia.org/wiki/Nico_Paz,nl.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,18,XXX,2900,day,https://en.wikipedia.org/wiki/XXX,en.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,19,Anis Hadj Moussa,2900,day,https://nl.wikipedia.org/wiki/Anis_Hadj_Moussa,nl.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,21,.xxx,2500,day,https://en.wikipedia.org/wiki/.xxx,en.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,22,Hans Cornelissen,2500,day,https://nl.wikipedia.org/wiki/Hans_Cornelissen,nl.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,23,Mark-Jan Fledderus,2500,day,https://nl.wikipedia.org/wiki/Mark-Jan_Fledderus,nl.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,24,Kimberly Guilfoyle,2500,day,https://en.wikipedia.org/wiki/Kimberly_Guilfoyle,en.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia,NL,,,25,"Гудков, Дмитрий Геннадьевич",2500,day,"https://ru.wikipedia.org/wiki/Гудков,_Дмитрий_Геннадьевич",ru.wikipedia
 2026-10-14,2026-10-15T02:48Z,wikipedia,NZ,,,1,Qiulae Wong,5300,day,https://en.wikipedia.org/wiki/Qiulae_Wong,en.wikipedia
 2026-10-14,2026-10-15T02:48Z,wikipedia,NZ,,,2,Katie Zacharia,4100,day,https://en.wikipedia.org/wiki/Katie_Zacharia,en.wikipedia
 2026-10-14,2026-10-15T02:48Z,wikipedia,NZ,,,3,Thank You/en,3500,day,https://thankyou.wikipedia.org/wiki/Thank_You/en,thankyou.wikipedia
@@ -544,6 +568,56 @@ date,fetched_at,source,country,region,city,rank,topic,traffic,period,url,note
 2026-10-14,2026-10-15T02:48Z,wikipedia-ar,,,,23,هالة سرحان,2007,day,https://ar.wikipedia.org/wiki/هالة_سرحان,ar.wikipedia
 2026-10-14,2026-10-15T02:48Z,wikipedia-ar,,,,24,علي عبد الله صالح,1979,day,https://ar.wikipedia.org/wiki/علي_عبد_الله_صالح,ar.wikipedia
 2026-10-14,2026-10-15T02:48Z,wikipedia-ar,,,,25,دوري أبطال إفريقيا لكرة اليد,1919,day,https://ar.wikipedia.org/wiki/دوري_أبطال_إفريقيا_لكرة_اليد,ar.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,1,পরীমনি,4071,day,https://bn.wikipedia.org/wiki/পরীমনি,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,2,প্রধান পাতা,3879,day,https://bn.wikipedia.org/wiki/প্রধান_পাতা,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,3,মেহজাবীন চৌধুরী,2804,day,https://bn.wikipedia.org/wiki/মেহজাবীন_চৌধুরী,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,4,মাছরাঙ্গা,1716,day,https://bn.wikipedia.org/wiki/মাছরাঙ্গা,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,5,মাছরাঙা টিভি,1230,day,https://bn.wikipedia.org/wiki/মাছরাঙা_টিভি,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,6,সালাহউদ্দিন আহমেদ (রাজনীতিবিদ),959,day,https://bn.wikipedia.org/wiki/সালাহউদ্দিন_আহমেদ_(রাজনীতিবিদ),bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,7,রবীন্দ্রনাথ ঠাকুর,562,day,https://bn.wikipedia.org/wiki/রবীন্দ্রনাথ_ঠাকুর,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,8,দুর্গাপূজা,552,day,https://bn.wikipedia.org/wiki/দুর্গাপূজা,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,9,শিশুদের বাণিজ্যিক যৌন শোষণ,509,day,https://bn.wikipedia.org/wiki/শিশুদের_বাণিজ্যিক_যৌন_শোষণ,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,10,বাংলা বাগধারার তালিকা,487,day,https://bn.wikipedia.org/wiki/বাংলা_বাগধারার_তালিকা,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,11,আমার সোনার বাংলা,382,day,https://bn.wikipedia.org/wiki/আমার_সোনার_বাংলা,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,12,মিয়া খলিফা,337,day,https://bn.wikipedia.org/wiki/মিয়া_খলিফা,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,13,বাংলাদেশ,328,day,https://bn.wikipedia.org/wiki/বাংলাদেশ,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,14,কাজী নজরুল ইসলাম,325,day,https://bn.wikipedia.org/wiki/কাজী_নজরুল_ইসলাম,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,15,যৌনসঙ্গম,312,day,https://bn.wikipedia.org/wiki/যৌনসঙ্গম,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,16,বাংলা ভাষা,304,day,https://bn.wikipedia.org/wiki/বাংলা_ভাষা,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,17,এক্স এক্স এক্স এক্স (অ্যালবাম),283,day,https://bn.wikipedia.org/wiki/এক্স_এক্স_এক্স_এক্স_(অ্যালবাম),bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,18,.বিএফ,268,day,https://bn.wikipedia.org/wiki/.বিএফ,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,19,কুষ্মাণ্ডা,253,day,https://bn.wikipedia.org/wiki/কুষ্মাণ্ডা,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,20,চ,241,day,https://bn.wikipedia.org/wiki/চ,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,21,ইন্না লিল্লাহি ওয়া ইন্না ইলাইহি রাজিউন,234,day,https://bn.wikipedia.org/wiki/ইন্না_লিল্লাহি_ওয়া_ইন্না_ইলাইহি_রাজিউন,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,22,১৪ অক্টোবর,230,day,https://bn.wikipedia.org/wiki/১৪_অক্টোবর,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,23,পুরুষে পুরুষে যৌনতা,228,day,https://bn.wikipedia.org/wiki/পুরুষে_পুরুষে_যৌনতা,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,24,এ. পি. জে. আবদুল কালাম,217,day,https://bn.wikipedia.org/wiki/এ._পি._জে._আবদুল_কালাম,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-bn,,,,25,নেহা বোরা,211,day,https://bn.wikipedia.org/wiki/নেহা_বোরা,bn.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,1,HTTP-Cookie,66199,day,https://de.wikipedia.org/wiki/HTTP-Cookie,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,2,Vanessa Emde,61793,day,https://de.wikipedia.org/wiki/Vanessa_Emde,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,3,RJ Mitte,44603,day,https://de.wikipedia.org/wiki/RJ_Mitte,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,4,Paul Panzer,41013,day,https://de.wikipedia.org/wiki/Paul_Panzer,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,5,Liste der größten Auslegerbrücken,32505,day,https://de.wikipedia.org/wiki/Liste_der_größten_Auslegerbrücken,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,6,Marleen Lohse,30477,day,https://de.wikipedia.org/wiki/Marleen_Lohse,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,7,Bärbel Bas,24522,day,https://de.wikipedia.org/wiki/Bärbel_Bas,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,8,Nicolò Tresoldi,22186,day,https://de.wikipedia.org/wiki/Nicolò_Tresoldi,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,9,No Angels,19608,day,https://de.wikipedia.org/wiki/No_Angels,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,10,Der beste Film aller Zeiten,19564,day,https://de.wikipedia.org/wiki/Der_beste_Film_aller_Zeiten,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,11,Katie Zacharia,18807,day,https://de.wikipedia.org/wiki/Katie_Zacharia,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,12,Nadja Benaissa,18742,day,https://de.wikipedia.org/wiki/Nadja_Benaissa,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,13,Leo XIV.,18279,day,https://de.wikipedia.org/wiki/Leo_XIV.,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,14,Straßenbahn Freiburg im Breisgau,17926,day,https://de.wikipedia.org/wiki/Straßenbahn_Freiburg_im_Breisgau,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,15,Alexander Schweitzer,17476,day,https://de.wikipedia.org/wiki/Alexander_Schweitzer,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,16,Vanessa Petruo,16550,day,https://de.wikipedia.org/wiki/Vanessa_Petruo,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,17,Christian Lell,16495,day,https://de.wikipedia.org/wiki/Christian_Lell,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,18,14. Oktober,12661,day,https://de.wikipedia.org/wiki/14._Oktober,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,19,Gedeon Burkhard,11829,day,https://de.wikipedia.org/wiki/Gedeon_Burkhard,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,20,Die Falle (2026),11526,day,https://de.wikipedia.org/wiki/Die_Falle_(2026),de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,21,Adriane Rickel,11296,day,https://de.wikipedia.org/wiki/Adriane_Rickel,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,22,Hauptseite,11117,day,https://de.wikipedia.org/wiki/Hauptseite,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,23,Liu Changcheng,10775,day,https://de.wikipedia.org/wiki/Liu_Changcheng,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,24,FK Bodø/Glimt,10511,day,https://de.wikipedia.org/wiki/FK_Bodø/Glimt,de.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-de,,,,25,Sandy Mölling,10296,day,https://de.wikipedia.org/wiki/Sandy_Mölling,de.wikipedia
 2026-10-14,2026-10-15T02:48Z,wikipedia-en,,,,1,Katie Zacharia,906890,day,https://en.wikipedia.org/wiki/Katie_Zacharia,en.wikipedia
 2026-10-14,2026-10-15T02:48Z,wikipedia-en,,,,2,RJ Mitte,409408,day,https://en.wikipedia.org/wiki/RJ_Mitte,en.wikipedia
 2026-10-14,2026-10-15T02:48Z,wikipedia-en,,,,3,Mathematics,236760,day,https://en.wikipedia.org/wiki/Mathematics,en.wikipedia
@@ -569,6 +643,31 @@ date,fetched_at,source,country,region,city,rank,topic,traffic,period,url,note
 2026-10-14,2026-10-15T02:48Z,wikipedia-en,,,,23,The Magician's Nephew,66934,day,https://en.wikipedia.org/wiki/The_Magician's_Nephew,en.wikipedia
 2026-10-14,2026-10-15T02:48Z,wikipedia-en,,,,24,Digger (2026 film),64341,day,https://en.wikipedia.org/wiki/Digger_(2026_film),en.wikipedia
 2026-10-14,2026-10-15T02:48Z,wikipedia-en,,,,25,Lizzie Borden,64044,day,https://en.wikipedia.org/wiki/Lizzie_Borden,en.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,1,RJ Mitte,34408,day,https://es.wikipedia.org/wiki/RJ_Mitte,es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,2,Jorge Fernando Castro,31306,day,https://es.wikipedia.org/wiki/Jorge_Fernando_Castro,es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,3,León XIV,28488,day,https://es.wikipedia.org/wiki/León_XIV,es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,4,Montse Mínguez,21170,day,https://es.wikipedia.org/wiki/Montse_Mínguez,es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,5,Salvador Sobral,20289,day,https://es.wikipedia.org/wiki/Salvador_Sobral,es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,6,Raphael (cantante),18548,day,https://es.wikipedia.org/wiki/Raphael_(cantante),es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,7,Juan Soto Ivars,15331,day,https://es.wikipedia.org/wiki/Juan_Soto_Ivars,es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,8,Jorge Castro (boxeador),12330,day,https://es.wikipedia.org/wiki/Jorge_Castro_(boxeador),es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,9,Club de Regatas Vasco da Gama,11096,day,https://es.wikipedia.org/wiki/Club_de_Regatas_Vasco_da_Gama,es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,10,Antonio Rüdiger,11042,day,https://es.wikipedia.org/wiki/Antonio_Rüdiger,es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,11,Frente Amplio (España),10700,day,https://es.wikipedia.org/wiki/Frente_Amplio_(España),es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,12,Francisco (papa),10579,day,https://es.wikipedia.org/wiki/Francisco_(papa),es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,13,Radio AM 750,10476,day,https://es.wikipedia.org/wiki/Radio_AM_750,es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,14,Lizzie Borden,10216,day,https://es.wikipedia.org/wiki/Lizzie_Borden,es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,15,Melilla,10149,day,https://es.wikipedia.org/wiki/Melilla,es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,16,Jenna Thiam,9751,day,https://es.wikipedia.org/wiki/Jenna_Thiam,es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,17,José Mourinho,9673,day,https://es.wikipedia.org/wiki/José_Mourinho,es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,18,Mario Hermoso,9603,day,https://es.wikipedia.org/wiki/Mario_Hermoso,es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,19,Tabla periódica de los elementos,9536,day,https://es.wikipedia.org/wiki/Tabla_periódica_de_los_elementos,es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,20,La bola negra (película),9285,day,https://es.wikipedia.org/wiki/La_bola_negra_(película),es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,21,Arroba (símbolo),9120,day,https://es.wikipedia.org/wiki/Arroba_(símbolo),es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,22,Romina Yan,9012,day,https://es.wikipedia.org/wiki/Romina_Yan,es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,23,Natalia Figueroa,8835,day,https://es.wikipedia.org/wiki/Natalia_Figueroa,es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,24,Ada Colau,8661,day,https://es.wikipedia.org/wiki/Ada_Colau,es.wikipedia
+2026-10-14,2026-10-15T11:32Z,wikipedia-es,,,,25,Eleuterio Sánchez,8362,day,https://es.wikipedia.org/wiki/Eleuterio_Sánchez,es.wikipedia
 2026-10-14,2026-10-15T02:48Z,wikipedia-fr,,,,1,Natacha Polony,129376,day,https://fr.wikipedia.org/wiki/Natacha_Polony,fr.wikipedia
 2026-10-14,2026-10-15T02:48Z,wikipedia-fr,,,,2,Cookie (informatique),113195,day,https://fr.wikipedia.org/wiki/Cookie_(informatique),fr.wikipedia
 2026-10-14,2026-10-15T02:48Z,wikipedia-fr,,,,3,Liste de sondages sur l'élection présidentielle française de 2027,31943,day,https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'élection_présidentielle_française_de_2027,fr.wikipedia
