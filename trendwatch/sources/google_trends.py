@@ -7,6 +7,7 @@ Cities: the unofficial explore API used by the Trends website. Needs two calls p
 from __future__ import annotations
 
 import json
+import os
 import re
 import time
 import xml.etree.ElementTree as ET
@@ -18,6 +19,7 @@ RSS = "https://trends.google.com/trending/rss?geo={geo}"
 RSS_OLD = "https://trends.google.com/trends/trendingsearches/daily/rss?geo={geo}"
 EXPLORE = "https://trends.google.com/trends/api/explore?hl=en-US&tz=-330&req={req}"
 GEO = "https://trends.google.com/trends/api/widgetdata/comparedgeo?hl=en-US&tz=-330&req={req}&token={token}"
+DEBUG_DIR = None
 NS = {"ht": "https://trends.google.com/trending/rss"}
 NS_OLD = {"ht": "https://trends.google.com/trends/trendingsearches/daily"}
 
@@ -71,7 +73,7 @@ def parse_geo(text):
 
 
 def cities_for(http, topic, country, resolution="CITY", log=print):
-    req = json.dumps({"comparisonItem": [{"keyword": topic, "geo": country, "time": "now 7-d"}],
+    req = json.dumps({"comparisonItem": [{"keyword": topic, "geo": country, "time": "today 1-m"}],
                       "category": 0, "property": ""}, separators=(",", ":"))
     explore = http.get(EXPLORE.format(req=quote(req)), accept="application/json",
                        headers={"Referer": "https://trends.google.com/trends/explore"})
@@ -84,8 +86,18 @@ def cities_for(http, topic, country, resolution="CITY", log=print):
     url = GEO.format(req=quote(json.dumps(request, separators=(",", ":"))), token=widget["token"])
     text = http.get(url, accept="application/json", headers={"Referer": "https://trends.google.com/trends/explore"})
     rows = parse_geo(text)
-    if not rows:
-        log(f"  google-cities: empty answer for '{topic}': {text[:200]!r}")
+    if not rows and resolution == "CITY":
+        # cities came back empty (Google often has no city split for 7 days): fall back to states
+        request["resolution"] = "REGION"
+        url = GEO.format(req=quote(json.dumps(request, separators=(",", ":"))), token=widget["token"])
+        text2 = http.get(url, accept="application/json", headers={"Referer": "https://trends.google.com/trends/explore"})
+        rows = [(name, v) for name, v in parse_geo(text2)]
+        if rows:
+            log(f"  google-cities: no city split for '{topic}', using states")
+        elif DEBUG_DIR:
+            os.makedirs(DEBUG_DIR, exist_ok=True)
+            with open(os.path.join(DEBUG_DIR, f"geo-{country}-{resolution}.json"), "w", encoding="utf-8") as f:
+                f.write(text[:100000])
     return rows
 
 
@@ -102,13 +114,15 @@ def fetch_cities(http, entries, country, today, fetched_at, log, top=5, pause=3.
             continue
         for rank, (city, value) in enumerate(rows[:15], 1):
             out.append(Entry(date=today, fetched_at=fetched_at, source="google-cities", country=country,
-                             city=city, rank=rank, topic=e.topic, traffic=value, period="7d",
+                             city=city, rank=rank, topic=e.topic, traffic=value, period="30d",
                              note="interest 0-100, 100 = city that searches it most"))
         time.sleep(pause)
     return out
 
 
 def fetch(http, config, today, fetched_at, log):
+    global DEBUG_DIR
+    DEBUG_DIR = config.get("_debug_dir")
     out = []
     for c in config["countries"]:
         code = c["code"]
