@@ -105,8 +105,11 @@ def fetch_cities(http, entries, country, today, fetched_at, log, top=5, pause=3.
     """For the top `top` trends of a country, ask which cities search them. Best effort:
     one try per call (Google rate-limits this API hard) and at most `budget` seconds per country."""
     out = []
-    quick = Http(cache_dir=http.cache_dir, tries=1, timeout=20, log=log)
-    quick.jar, quick.opener = http.jar, http.opener
+    if isinstance(http, Http):
+        quick = Http(cache_dir=http.cache_dir, tries=1, timeout=20, log=log)
+        quick.jar, quick.opener = http.jar, http.opener      # keep Google's cookies
+    else:
+        quick = http                                          # a fake in the tests
     started = time.time()
     try:
         quick.get("https://trends.google.com/trends/explore?geo=" + country, accept="text/html")  # cookies
