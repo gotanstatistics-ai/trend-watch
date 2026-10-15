@@ -13,7 +13,7 @@ import time
 import xml.etree.ElementTree as ET
 
 from ..model import Entry, to_int
-from ..http import quote
+from ..http import Http, quote
 
 RSS = "https://trends.google.com/trending/rss?geo={geo}"
 RSS_OLD = "https://trends.google.com/trends/trendingsearches/daily/rss?geo={geo}"
@@ -101,15 +101,29 @@ def cities_for(http, topic, country, resolution="CITY", log=print):
     return rows
 
 
-def fetch_cities(http, entries, country, today, fetched_at, log, top=5, pause=3.0):
-    """For the top `top` trends of a country, ask which cities search them. Best effort."""
+def fetch_cities(http, entries, country, today, fetched_at, log, top=5, pause=3.0, budget=90.0):
+    """For the top `top` trends of a country, ask which cities search them. Best effort:
+    one try per call (Google rate-limits this API hard) and at most `budget` seconds per country."""
     out = []
-    http.get("https://trends.google.com/trends/explore?geo=" + country, accept="text/html")  # cookies
+    quick = Http(cache_dir=http.cache_dir, tries=1, timeout=20, log=log)
+    quick.jar, quick.opener = http.jar, http.opener
+    started = time.time()
+    try:
+        quick.get("https://trends.google.com/trends/explore?geo=" + country, accept="text/html")  # cookies
+    except Exception as ex:
+        log(f"  google-cities {country}: cannot open Trends ({ex}); skipped")
+        return out
     for e in entries[:top]:
+        if time.time() - started > budget:
+            log(f"  google-cities {country}: time budget used, stopping")
+            break
         try:
-            rows = cities_for(http, e.topic, country, "CITY", log)
+            rows = cities_for(quick, e.topic, country, "CITY", log)
         except Exception as ex:
-            log(f"  google-cities {country} '{e.topic}': {ex}")
+            log(f"  google-cities {country} '{e.topic}': {str(ex)[:120]}")
+            if "429" in str(ex):
+                log(f"  google-cities {country}: rate-limited, stopping for this run")
+                break
             time.sleep(pause)
             continue
         for rank, (city, value) in enumerate(rows[:15], 1):
