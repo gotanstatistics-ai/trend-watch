@@ -30,13 +30,13 @@ TOPIC_COLUMNS = ["rank", "topic", "kind", "score", "days", "countries", "cities"
 
 # Headlines from Google News are full sentences; they rarely match other sources and would
 # flood the topic list, so they are kept as context (the 'headline' column) but not scored.
-SCORED = ("google-trends", "google-cities", "wikipedia", "x-trends", "youtube")
+SCORED = ("google-trends", "google-cities", "wikipedia", "x-trends", "youtube", "youtube-suggest")
 
 
 def _weight(source):
     if source.startswith("wikipedia"):
         return 1.0
-    return {"google-trends": 1.5, "x-trends": 1.0, "youtube": 1.2, "google-cities": 0.0}.get(source, 1.0)
+    return {"google-trends": 1.5, "x-trends": 1.0, "youtube": 1.2, "youtube-suggest": 1.2, "google-cities": 0.0}.get(source, 1.0)
 
 
 def rank_topics(entries, today):
@@ -162,6 +162,12 @@ def write_report(data_dir, today, log=print, top=50):
         lines.append(f"| {r['rank']} | {r['topic'].replace('|', '/')} | {r['score']} | {r['days']} | "
                      f"{r['country_list'][:40]} | {r['source_list']} | {r['city_list'][:50]} | "
                      f"{r['peak_traffic']:,} | {head} |")
+    today_s = days[-1] if days else ""
+    quick = [r for r in topics if r["kind"] == "topic" and r["last_seen"] == today_s and r["sources"] >= 2
+             and "youtube" in r["source_list"]][:10]
+    lines += ["", "## Quick explainer picks (5-minute videos): trending today in several sources, including YouTube", ""]
+    lines += [f"- **{r['topic']}**: {r['country_list'][:30] or 'worldwide'}; {r['source_list']}; "
+              f"{(r['headline'] or '')[:80]}" for r in quick] or ["- none today"]
     lines += ["", "## Sports matches and passing news (not documentary subjects)", ""]
     passing = [r for r in topics if r["kind"] != "topic"][:25]
     lines += [", ".join(r["topic"] for r in passing) or "none"]

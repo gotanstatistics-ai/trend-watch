@@ -29,9 +29,23 @@ country is passing news.
 | X (Twitter) via trends24.in | trending hashtags and topics, tweet counts | country and city | nothing |
 | Wikipedia (Wikimedia API) | most-read articles | country and language | nothing; one day late |
 | Google News | top headlines (context, not scored) | country | nothing |
+| YouTube search suggestions | what people type into YouTube's search box (completions of a to z, "how to", "what is"...) | country | nothing |
 | YouTube most popular | top 25 videos | country | free API key in a secret |
 
 Countries, cities and languages are in `countries.json`. Edit it to add or remove any.
+
+### Quick explainer picks
+
+`data/REPORT.md` has a section "Quick explainer picks": real topics that trend today in two or more
+sources, one of them YouTube. These suit a 5-minute explainer video made within a day ("Why is
+everyone searching X this week?"). Lasting topics (3+ days) suit full documentaries.
+
+### The YouTube key (optional, 5 minutes, free)
+
+1. https://console.cloud.google.com, create a project, "APIs and services", "Enable APIs", enable
+   "YouTube Data API v3", then "Credentials", "Create credentials", "API key". Copy it.
+2. On GitHub: the repository's Settings, "Secrets and variables", "Actions", "New repository secret",
+   name `YOUTUBE_API_KEY`, paste the key. The next run adds YouTube's most popular videos per country.
 
 ## How it runs
 

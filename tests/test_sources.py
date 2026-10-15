@@ -96,3 +96,15 @@ def test_youtube_without_key(monkeypatch):
     http = FakeHttp({"chart=mostPopular&regionCode=IN": json.dumps(data)})
     rows = youtube.fetch(http, CFG, T, F, log)
     assert rows[0].topic == "Big video" and rows[0].traffic == 12 and rows[0].url.endswith("abc")
+
+
+def test_youtube_suggest():
+    from trendwatch.sources import youtube_suggest
+    text = '["how to", ["how to make paneer", "how to", "how to tie a tie", "ab"]]'
+    rows = youtube_suggest.parse(text, "how to ", "IN", T, F)
+    assert [r.topic for r in rows] == ["how to make paneer", "how to tie a tie"]
+    assert rows[0].source == "youtube-suggest" and rows[0].rank == 1 and "search_query=" in rows[0].url
+    http = FakeHttp({"suggestqueries.google.com": '["a", ["apple recipe", "apple recipe", "amazon sale"]]'})
+    rows = youtube_suggest.fetch(http, CFG, T, F, log)
+    assert {r.topic for r in rows} == {"apple recipe", "amazon sale"}       # duplicates merged
+    assert http.calls == len(youtube_suggest.SEEDS)
