@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-10-15T02:22Z",
+  "fetched_at": "2026-10-15T02:48Z",
   "sources": {
     "google-trends": {
       "ok": true,
-      "rows": 390,
-      "seconds": 136
+      "rows": 515,
+      "seconds": 93
     },
     "wikipedia": {
       "ok": true,
-      "rows": 939,
-      "seconds": 41
+      "rows": 848,
+      "seconds": 44
     },
     "x-trends": {
       "ok": true,
       "rows": 3750,
-      "seconds": 29
+      "seconds": 24
     },
     "google-news": {
       "ok": true,
       "rows": 780,
-      "seconds": 18
+      "seconds": 13
     },
     "youtube": {
       "ok": true,

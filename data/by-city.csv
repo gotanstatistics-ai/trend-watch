@@ -1,63 +1,77 @@
 city,country,topic,days,seen,best_rank,peak_traffic,sources
 Abu Dhabi,AE,#Jailer2,1,1,1,0,x-trends
 Abu Dhabi,AE,مدريد,1,1,2,0,x-trends
-Abu Dhabi,AE,روما,1,1,3,0,x-trends
+Abu Dhabi,AE,روما,1,1,2,0,x-trends
 Abu Dhabi,AE,باريس,1,1,4,0,x-trends
 Abu Dhabi,AE,الريال,1,1,5,0,x-trends
-Abu Dhabi,AE,شباب الاهلي,1,1,6,0,x-trends
-Abu Dhabi,AE,السيتي,1,1,7,0,x-trends
+Abu Dhabi,AE,شباب الاهلي,1,1,5,0,x-trends
+Abu Dhabi,AE,السيتي,1,1,6,0,x-trends
+Abu Dhabi,AE,Roma,1,1,7,0,x-trends
 Abu Dhabi,AE,مورينيو,1,1,8,0,x-trends
-Abu Dhabi,AE,Roma,1,1,9,0,x-trends
-Abu Dhabi,AE,#2026MAMAVOTE,1,1,10,0,x-trends
-Abu Dhabi,AE,القريه العالميه,1,1,11,0,x-trends
-Abu Dhabi,AE,فالفيردي,1,1,12,0,x-trends
-Abu Dhabi,AE,زايد بن محمد بن زايد,1,1,13,0,x-trends
+Abu Dhabi,AE,#2026MAMAVOTE,1,1,8,0,x-trends
+Abu Dhabi,AE,القريه العالميه,1,1,9,0,x-trends
+Abu Dhabi,AE,مورينهو,1,1,10,0,x-trends
+Abu Dhabi,AE,فالفيردي,1,1,11,0,x-trends
+Abu Dhabi,AE,زايد بن محمد بن زايد,1,1,12,0,x-trends
+Abu Dhabi,AE,توريس,1,1,13,0,x-trends
+Abu Dhabi,AE,الهييه الافتراضيه,1,1,14,0,x-trends
 Abu Dhabi,AE,Real Madrid,1,1,15,0,x-trends
-Abu Dhabi,AE,توريس,1,1,16,0,x-trends
-Abu Dhabi,AE,الهييه الافتراضيه,1,1,17,0,x-trends
+Abu Dhabi,AE,#اريتريا,1,1,15,0,x-trends
+Abu Dhabi,AE,#دوري_ابطال_اوروبا,1,1,16,0,x-trends
+Abu Dhabi,AE,الوحدة,1,1,17,0,x-trends
 Abu Dhabi,AE,Vini,1,1,18,0,x-trends
-Abu Dhabi,AE,#اريتريا,1,1,19,0,x-trends
-Abu Dhabi,AE,#دوري_ابطال_اوروبا,1,1,20,0,x-trends
-Abu Dhabi,AE,الوحدة,1,1,21,0,x-trends
-Abu Dhabi,AE,سيلفا,1,1,22,0,x-trends
-Abu Dhabi,AE,انريكي,1,1,23,0,x-trends
-Abu Dhabi,AE,عمان,1,1,24,0,x-trends
+Abu Dhabi,AE,انريكي,1,1,18,0,x-trends
+Abu Dhabi,AE,عمان,1,1,20,0,x-trends
+Abu Dhabi,AE,سيلفا,1,1,21,0,x-trends
+Abu Dhabi,AE,كورتوا,1,1,22,0,x-trends
+Abu Dhabi,AE,#آئین_شکن_راج_نہیں_چلے_گا,1,1,23,0,x-trends
+Abu Dhabi,AE,دوري الابطال,1,1,24,0,x-trends
 Abu Dhabi,AE,Mourinho,1,1,25,0,x-trends
-Abu Dhabi,AE,كورتوا,1,1,26,0,x-trends
-Abu Dhabi,AE,#آئین_شکن_راج_نہیں_چلے_گا,1,1,27,0,x-trends
-Abu Dhabi,AE,دوري الابطال,1,1,28,0,x-trends
-Abu Dhabi,AE,14 اكتوبر,1,1,29,0,x-trends
-Abu Dhabi,AE,Donnarumma,1,1,30,0,x-trends
+Abu Dhabi,AE,14 اكتوبر,1,1,26,0,x-trends
+Abu Dhabi,AE,Donnarumma,1,1,27,0,x-trends
+Abu Dhabi,AE,اردا,1,1,28,0,x-trends
+Abu Dhabi,AE,الاجتماعات السنويه,1,1,29,0,x-trends
+Abu Dhabi,AE,LOVE TO THE MOON AND KEY,1,1,30,0,x-trends
 Ahmedabad,IN,#NakulDhull,1,1,1,0,x-trends
 Ahmedabad,IN,अब्दुल कलाम,1,1,2,0,x-trends
 Ahmedabad,IN,पंचम स्वरूप,1,1,3,0,x-trends
+Ahmedabad,IN,#Jailer2,1,1,3,0,x-trends
 Ahmedabad,IN,पूर्व राष्ट्रपति,1,1,4,0,x-trends
-Ahmedabad,IN,#Jailer2,1,1,5,0,x-trends
+Ahmedabad,IN,#APJAbdulKalam,1,1,5,0,x-trends
 Ahmedabad,IN,#MaaSkandamata,1,1,6,0,x-trends
 Ahmedabad,IN,महान वैज्ञानिक,1,1,7,0,x-trends
-Ahmedabad,IN,#APJAbdulKalam,1,1,8,0,x-trends
 Ahmedabad,IN,#GodMorningThursday,1,1,9,0,x-trends
 Ahmedabad,IN,अंकिता भंडारी,1,1,10,0,x-trends
 Ahmedabad,IN,सदा देवी,1,1,11,0,x-trends
 Ahmedabad,IN,इंडिया गेट,1,1,12,0,x-trends
+Ahmedabad,IN,श्री लक्ष्मी नारायण,1,1,12,0,x-trends
 Ahmedabad,IN,भगवान कार्तिकेय,1,1,13,0,x-trends
 Ahmedabad,IN,India Gate,1,1,14,0,x-trends
+Ahmedabad,IN,सूर्यकांत त्रिपाठी,1,1,14,0,x-trends
 Ahmedabad,IN,Real Madrid,1,1,15,0,x-trends
+Ahmedabad,IN,First Half,1,1,15,0,x-trends
 Ahmedabad,IN,Roma,1,1,16,0,x-trends
+Ahmedabad,IN,दुर्गा भाभी,1,1,16,0,x-trends
 Ahmedabad,IN,Show Time,1,1,17,0,x-trends
 Ahmedabad,IN,दुष्यंत गौतम,1,1,18,0,x-trends
+Ahmedabad,IN,पावन पंचम,1,1,18,0,x-trends
 Ahmedabad,IN,इमरान प्रतापगढ़ी,1,1,19,0,x-trends
+Ahmedabad,IN,Nelson,1,1,19,0,x-trends
 Ahmedabad,IN,Vini,1,1,20,0,x-trends
 Ahmedabad,IN,Espi,1,1,21,0,x-trends
 Ahmedabad,IN,VVIP,1,1,22,0,x-trends
 Ahmedabad,IN,Endrick,1,1,23,0,x-trends
 Ahmedabad,IN,Mourinho,1,1,24,0,x-trends
+Ahmedabad,IN,Governor,1,1,24,0,x-trends
 Ahmedabad,IN,पवन खेड़ा,1,1,25,0,x-trends
+Ahmedabad,IN,IDBI,1,1,25,0,x-trends
 Ahmedabad,IN,Valverde,1,1,26,0,x-trends
 Ahmedabad,IN,Maresca,1,1,27,0,x-trends
+Ahmedabad,IN,वास्तविक स्वरूप,1,1,27,0,x-trends
 Ahmedabad,IN,Dushyant Gautam,1,1,28,0,x-trends
-Ahmedabad,IN,IDBI,1,1,29,0,x-trends
 Ahmedabad,IN,Enzo,1,1,30,0,x-trends
+Alabama,US,delonte west,1,1,11,31,google-cities
+Alaska,US,denver nuggets,1,1,12,3,google-cities
 Amsterdam,NL,#feycom,1,1,1,0,x-trends
 Amsterdam,NL,Starlink,1,1,2,0,x-trends
 Amsterdam,NL,Halsema,1,1,3,0,x-trends
@@ -88,6 +102,7 @@ Amsterdam,NL,Boekholt,1,1,27,0,x-trends
 Amsterdam,NL,Bazooka,1,1,28,0,x-trends
 Amsterdam,NL,Diarra,1,1,29,0,x-trends
 Amsterdam,NL,Real Madrid,1,1,30,0,x-trends
+Andhra Pradesh,IN,weather report today,1,1,1,100,google-cities
 Ankara,TR,İsmail,1,1,1,0,x-trends
 Ankara,TR,#AVLvFB,1,1,2,0,x-trends
 Ankara,TR,Fenerbahçe,1,1,3,0,x-trends
@@ -118,73 +133,99 @@ Ankara,TR,Liverpool,1,1,27,0,x-trends
 Ankara,TR,#afet,1,1,28,0,x-trends
 Ankara,TR,Rezil,1,1,29,0,x-trends
 Ankara,TR,Tammy Abraham,1,1,30,0,x-trends
+Arizona,US,christian yelich,1,1,4,6,google-cities
+Arizona,US,world series,1,1,4,23,google-cities
+Arizona,US,justin wrobleski,1,1,7,10,google-cities
+Arizona,US,denver nuggets,1,1,9,4,google-cities
+Arizona,US,delonte west,1,1,10,31,google-cities
+Arunachal Pradesh,IN,weather report today,1,1,7,19,google-cities
+Assam,IN,weather report today,1,1,8,19,google-cities
 Atlanta,US,Medicare,1,1,1,0,x-trends
+Atlanta,US,Diddy,1,1,1,0,x-trends
 Atlanta,US,#AEWDynamite,1,1,2,0,x-trends
 Atlanta,US,#Survivor51,1,1,3,0,x-trends
-Atlanta,US,Snell,1,1,4,0,x-trends
+Atlanta,US,Snell,1,1,3,0,x-trends
+Atlanta,US,Jake Bauers,1,1,4,0,x-trends
 Atlanta,US,#RHOSLC,1,1,5,0,x-trends
+Atlanta,US,Uribe,1,1,5,0,x-trends
 Atlanta,US,Jackson Chourio,1,1,6,0,x-trends
 Atlanta,US,Joe Davis,1,1,7,0,x-trends
+Atlanta,US,Dave Roberts,1,1,7,0,x-trends
 Atlanta,US,Adam Copeland,1,1,8,0,x-trends
+Atlanta,US,#Dodgers,1,1,8,0,x-trends
 Atlanta,US,Giannis,1,1,9,0,x-trends
 Atlanta,US,Kilby,1,1,10,0,x-trends
 Atlanta,US,Gasser,1,1,11,0,x-trends
+Atlanta,US,Will Smith,1,1,11,0,x-trends
 Atlanta,US,Starshield,1,1,12,0,x-trends
 Atlanta,US,#ChicagoFire,1,1,13,0,x-trends
+Atlanta,US,Garrett Mitchell,1,1,13,0,x-trends
 Atlanta,US,Meredith,1,1,14,0,x-trends
+Atlanta,US,#NLCS,1,1,14,0,x-trends
 Atlanta,US,#AbbottElementary,1,1,15,0,x-trends
+Atlanta,US,Edman,1,1,15,0,x-trends
 Atlanta,US,Brian Cage,1,1,16,0,x-trends
+Atlanta,US,#Brewers,1,1,16,0,x-trends
 Atlanta,US,Myron Reed,1,1,17,0,x-trends
+Atlanta,US,Pat Murphy,1,1,17,0,x-trends
 Atlanta,US,Starlink,1,1,18,0,x-trends
-Atlanta,US,Edman,1,1,19,0,x-trends
+Atlanta,US,DL Hall,1,1,18,0,x-trends
 Atlanta,US,Christian Cage,1,1,20,0,x-trends
 Atlanta,US,Bronwyn,1,1,21,0,x-trends
+Atlanta,US,BACK TO BACK,1,1,21,0,x-trends
 Atlanta,US,Josh Alexander,1,1,22,0,x-trends
 Atlanta,US,Kennesaw State,1,1,23,0,x-trends
 Atlanta,US,Mitchell Robinson,1,1,24,0,x-trends
+Atlanta,US,Muncy,1,1,24,0,x-trends
 Atlanta,US,Bobby Diesel,1,1,25,0,x-trends
 Atlanta,US,Clockwork Carnage,1,1,26,0,x-trends
+Atlanta,US,Jalen Duren,1,1,26,0,x-trends
 Atlanta,US,Mister Miracle,1,1,27,0,x-trends
 Atlanta,US,Dodger Stadium,1,1,28,0,x-trends
 Atlanta,US,Josh Hutcherson,1,1,29,0,x-trends
 Atlanta,US,Kevin Long,1,1,30,0,x-trends
+Atlanta,US,Ohtani,1,1,30,0,x-trends
+Auckland,NZ,tvnz,1,2,14,0,x-trends
+Auckland,NZ,tova,1,2,18,0,x-trends
 Auckland,NZ,Brian Tamaki,1,1,1,0,x-trends
 Auckland,NZ,Ryan Bridge,1,1,2,0,x-trends
-Auckland,NZ,Piers,1,1,3,0,x-trends
+Auckland,NZ,Piers,1,1,2,0,x-trends
 Auckland,NZ,Metallica,1,1,4,0,x-trends
-Auckland,NZ,Harry Tam,1,1,5,0,x-trends
-Auckland,NZ,Starship,1,1,6,0,x-trends
-Auckland,NZ,Gangs,1,1,7,0,x-trends
+Auckland,NZ,Harry Tam,1,1,4,0,x-trends
+Auckland,NZ,Starship,1,1,5,0,x-trends
+Auckland,NZ,Gangs,1,1,6,0,x-trends
 Auckland,NZ,Starshield,1,1,8,0,x-trends
 Auckland,NZ,#2026MAMAVOTE,1,1,9,0,x-trends
 Auckland,NZ,Starlink,1,1,10,0,x-trends
 Auckland,NZ,Wong,1,1,11,0,x-trends
+Auckland,NZ,Charlie,1,1,11,0,x-trends
 Auckland,NZ,#leadersdebate,1,1,12,0,x-trends
-Auckland,NZ,Charlie,1,1,13,0,x-trends
 Auckland,NZ,Luxon,1,1,14,0,x-trends
-Auckland,NZ,TVNZ,1,1,15,0,x-trends
 Auckland,NZ,Omar,1,1,16,0,x-trends
-Auckland,NZ,Martinez,1,1,17,0,x-trends
-Auckland,NZ,Herald,1,1,18,0,x-trends
-Auckland,NZ,Tova,1,1,19,0,x-trends
+Auckland,NZ,Martinez,1,1,16,0,x-trends
+Auckland,NZ,Herald,1,1,17,0,x-trends
+Auckland,NZ,Queenstown,1,1,19,0,x-trends
 Auckland,NZ,Musk,1,1,20,0,x-trends
-Auckland,NZ,Queenstown,1,1,21,0,x-trends
+Auckland,NZ,Shane Gillis,1,1,21,0,x-trends
 Auckland,NZ,Barack Obama,1,1,22,0,x-trends
-Auckland,NZ,Ukraine,1,1,23,0,x-trends
-Auckland,NZ,Shane Gillis,1,1,24,0,x-trends
-Auckland,NZ,Greens and TPM,1,1,25,0,x-trends
-Auckland,NZ,Judith Collins,1,1,26,0,x-trends
-Auckland,NZ,Winston,1,1,27,0,x-trends
+Auckland,NZ,Ukraine,1,1,22,0,x-trends
+Auckland,NZ,Greens and TPM,1,1,23,0,x-trends
+Auckland,NZ,Judith Collins,1,1,24,0,x-trends
+Auckland,NZ,Cabinet,1,1,25,0,x-trends
+Auckland,NZ,Winston,1,1,26,0,x-trends
 Auckland,NZ,California,1,1,28,0,x-trends
+Auckland,NZ,Zelensky,1,1,28,0,x-trends
 Auckland,NZ,Narnia,1,1,29,0,x-trends
 Auckland,NZ,Helen Clark,1,1,30,0,x-trends
 Bandung,ID,#2026MAMAVOTE,1,1,1,0,x-trends
 Bandung,ID,#Happy21andOnlyJAMES,1,1,2,0,x-trends
 Bandung,ID,#제임스의_빛이_차오르길,1,1,3,0,x-trends
 Bandung,ID,maksimal menegakkan hukum,1,1,4,0,x-trends
+Bandung,ID,#MamixPhuwinHokkaidoDays,1,1,4,0,x-trends
 Bandung,ID,#ENHYPEN,1,1,5,0,x-trends
 Bandung,ID,I VOTE,1,1,6,0,x-trends
 Bandung,ID,#OverflowingLoveForEVAN,1,1,7,0,x-trends
+Bandung,ID,PHUWIN MAMI IN HOKKAIDO,1,1,7,0,x-trends
 Bandung,ID,sinergi semua elemen,1,1,8,0,x-trends
 Bandung,ID,Kalimantan,1,1,9,0,x-trends
 Bandung,ID,LOVE TO THE MOON AND KEY,1,1,10,0,x-trends
@@ -194,49 +235,63 @@ Bandung,ID,Kamis,1,1,13,0,x-trends
 Bandung,ID,A. SECEPAT ITU,1,1,14,0,x-trends
 Bandung,ID,BNPB,1,1,15,0,x-trends
 Bandung,ID,Vault Street,1,1,16,0,x-trends
+Bandung,ID,SPBU,1,1,16,0,x-trends
 Bandung,ID,klk group,1,1,17,0,x-trends
-Bandung,ID,SPBU,1,1,18,0,x-trends
 Bandung,ID,Roma,1,1,19,0,x-trends
 Bandung,ID,FIRSTONE 2ND SINGLE MV,1,1,20,0,x-trends
 Bandung,ID,pt menteng jaya sawit perdana,1,1,21,0,x-trends
 Bandung,ID,Pagiii,1,1,22,0,x-trends
 Bandung,ID,GET READY FOR FOURTH CONCERT,1,1,23,0,x-trends
+Bandung,ID,Anggur,1,1,23,0,x-trends
 Bandung,ID,Pantau Gambut,1,1,24,0,x-trends
-Bandung,ID,Rabu,1,1,25,0,x-trends
+Bandung,ID,Rabu,1,1,24,0,x-trends
 Bandung,ID,Palangka Raya,1,1,26,0,x-trends
-Bandung,ID,Kakang,1,1,27,0,x-trends
+Bandung,ID,Kakang,1,1,26,0,x-trends
 Bandung,ID,ELLEJAY SMOOTH LANDING,1,1,28,0,x-trends
 Bandung,ID,Angkut,1,1,29,0,x-trends
 Bandung,ID,Tebak,1,1,30,0,x-trends
+Bandung,ID,Kecuali,1,1,30,0,x-trends
 Bangalore,IN,अब्दुल कलाम,1,1,1,0,x-trends
 Bangalore,IN,पंचम स्वरूप,1,1,2,0,x-trends
+Bangalore,IN,#Jailer2,1,1,2,0,x-trends
 Bangalore,IN,पूर्व राष्ट्रपति,1,1,3,0,x-trends
-Bangalore,IN,#Jailer2,1,1,4,0,x-trends
+Bangalore,IN,#APJAbdulKalam,1,1,4,0,x-trends
 Bangalore,IN,#MaaSkandamata,1,1,5,0,x-trends
-Bangalore,IN,#APJAbdulKalam,1,1,6,0,x-trends
-Bangalore,IN,महान वैज्ञानिक,1,1,7,0,x-trends
+Bangalore,IN,महान वैज्ञानिक,1,1,6,0,x-trends
+Bangalore,IN,#SuprasavAbhiyan,1,1,7,0,x-trends
 Bangalore,IN,#GodMorningThursday,1,1,8,0,x-trends
+Bangalore,IN,Pregnancy Awareness,1,1,8,0,x-trends
 Bangalore,IN,अंकिता भंडारी,1,1,9,0,x-trends
 Bangalore,IN,सदा देवी,1,1,10,0,x-trends
 Bangalore,IN,इंडिया गेट,1,1,11,0,x-trends
 Bangalore,IN,#MissileManOfIndia,1,1,12,0,x-trends
 Bangalore,IN,भगवान कार्तिकेय,1,1,13,0,x-trends
+Bangalore,IN,श्री लक्ष्मी नारायण,1,1,13,0,x-trends
 Bangalore,IN,India Gate,1,1,14,0,x-trends
 Bangalore,IN,Real Madrid,1,1,15,0,x-trends
+Bangalore,IN,सूर्यकांत त्रिपाठी,1,1,15,0,x-trends
 Bangalore,IN,Roma,1,1,16,0,x-trends
+Bangalore,IN,First Half,1,1,16,0,x-trends
 Bangalore,IN,Show Time,1,1,17,0,x-trends
 Bangalore,IN,दुष्यंत गौतम,1,1,18,0,x-trends
+Bangalore,IN,दुर्गा भाभी,1,1,18,0,x-trends
 Bangalore,IN,इमरान प्रतापगढ़ी,1,1,19,0,x-trends
+Bangalore,IN,पावन पंचम,1,1,19,0,x-trends
 Bangalore,IN,Vini,1,1,20,0,x-trends
+Bangalore,IN,Nelson,1,1,20,0,x-trends
 Bangalore,IN,Espi,1,1,21,0,x-trends
 Bangalore,IN,VVIP,1,1,22,0,x-trends
 Bangalore,IN,Endrick,1,1,23,0,x-trends
+Bangalore,IN,प्रमुख स्तंभ,1,1,23,0,x-trends
 Bangalore,IN,पवन खेड़ा,1,1,24,0,x-trends
 Bangalore,IN,Mourinho,1,1,25,0,x-trends
+Bangalore,IN,रमन सिंह,1,1,25,0,x-trends
 Bangalore,IN,IDBI,1,1,26,0,x-trends
 Bangalore,IN,Maresca,1,1,27,0,x-trends
+Bangalore,IN,Governor,1,1,27,0,x-trends
 Bangalore,IN,Enzo,1,1,28,0,x-trends
 Bangalore,IN,Dushyant Gautam,1,1,29,0,x-trends
+Bangalore,IN,वास्तविक स्वरूप,1,1,29,0,x-trends
 Bangalore,IN,Anderson,1,1,30,0,x-trends
 Bangkok,TH,#ChestersxTeeteePor,1,1,1,0,x-trends
 Bangkok,TH,#8per7ByFirstOne,1,1,2,0,x-trends
@@ -273,31 +328,39 @@ Barcelona,ES,Endrick,1,1,2,0,x-trends
 Barcelona,ES,Vinicius,1,1,3,0,x-trends
 Barcelona,ES,Roma,1,1,4,0,x-trends
 Barcelona,ES,Espí,1,1,5,0,x-trends
+Barcelona,ES,Espi,1,1,5,0,x-trends
 Barcelona,ES,Valverde,1,1,6,0,x-trends
-Barcelona,ES,Mourinho,1,1,7,0,x-trends
+Barcelona,ES,Mourinho,1,1,6,0,x-trends
 Barcelona,ES,#ElChiringuitoenCuatro,1,1,8,0,x-trends
 Barcelona,ES,Bernardo,1,1,9,0,x-trends
 Barcelona,ES,Gema,1,1,10,0,x-trends
-Barcelona,ES,Betis,1,1,11,0,x-trends
+Barcelona,ES,Betis,1,1,10,0,x-trends
 Barcelona,ES,Guler,1,1,12,0,x-trends
-Barcelona,ES,Rubén,1,1,13,0,x-trends
+Barcelona,ES,Rubén,1,1,12,0,x-trends
+Barcelona,ES,Tchouameni,1,1,13,0,x-trends
 Barcelona,ES,Diomande,1,1,14,0,x-trends
 Barcelona,ES,Abde,1,1,15,0,x-trends
-Barcelona,ES,Mbappe,1,1,16,0,x-trends
+Barcelona,ES,Mbappe,1,1,15,0,x-trends
 Barcelona,ES,Irini,1,1,17,0,x-trends
+Barcelona,ES,Güler,1,1,17,0,x-trends
 Barcelona,ES,Nataly,1,1,18,0,x-trends
-Barcelona,ES,Champions,1,1,19,0,x-trends
+Barcelona,ES,Champions,1,1,18,0,x-trends
 Barcelona,ES,Kico,1,1,20,0,x-trends
+Barcelona,ES,Fede,1,1,20,0,x-trends
 Barcelona,ES,Nieves,1,1,21,0,x-trends
+Barcelona,ES,Xabi Alonso,1,1,21,0,x-trends
 Barcelona,ES,#LaMesa,1,1,22,0,x-trends
-Barcelona,ES,Fede,1,1,23,0,x-trends
-Barcelona,ES,Xabi Alonso,1,1,24,0,x-trends
-Barcelona,ES,Courtois,1,1,25,0,x-trends
-Barcelona,ES,Paola,1,1,26,0,x-trends
-Barcelona,ES,Florentino,1,1,27,0,x-trends
-Barcelona,ES,Oporto,1,1,28,0,x-trends
+Barcelona,ES,Courtois,1,1,22,0,x-trends
+Barcelona,ES,Paola,1,1,23,0,x-trends
+Barcelona,ES,Florentino,1,1,24,0,x-trends
+Barcelona,ES,Oporto,1,1,25,0,x-trends
+Barcelona,ES,El PSG,1,1,26,0,x-trends
+Barcelona,ES,Cucho,1,1,27,0,x-trends
+Barcelona,ES,Silva,1,1,28,0,x-trends
 Barcelona,ES,Gabri Veiga,1,1,29,0,x-trends
+Barcelona,ES,Rudiger,1,1,29,0,x-trends
 Barcelona,ES,Náyades,1,1,30,0,x-trends
+Barcelona,ES,Bellingham,1,1,30,0,x-trends
 Berlin,DE,Starlink,1,1,1,0,x-trends
 Berlin,DE,McRib,1,1,2,0,x-trends
 Berlin,DE,#BODBVB,1,1,3,0,x-trends
@@ -329,35 +392,42 @@ Berlin,DE,Anja Kohl,1,1,28,0,x-trends
 Berlin,DE,Organisationen,1,1,29,0,x-trends
 Berlin,DE,Schwäche und Unfreiheit,1,1,30,0,x-trends
 Bhopal,IN,अब्दुल कलाम,1,1,1,0,x-trends
+Bhopal,IN,#राम_भक्त_रेखा_गुप्ता,1,1,1,0,x-trends
 Bhopal,IN,पंचम स्वरूप,1,1,2,0,x-trends
 Bhopal,IN,#Jailer2,1,1,3,0,x-trends
 Bhopal,IN,#MaaSkandamata,1,1,4,0,x-trends
-Bhopal,IN,पूर्व राष्ट्रपति,1,1,5,0,x-trends
+Bhopal,IN,पूर्व राष्ट्रपति,1,1,4,0,x-trends
 Bhopal,IN,महान वैज्ञानिक,1,1,6,0,x-trends
+Bhopal,IN,#APJAbdulKalam,1,1,6,0,x-trends
 Bhopal,IN,#GodMorningThursday,1,1,7,0,x-trends
-Bhopal,IN,#APJAbdulKalam,1,1,8,0,x-trends
 Bhopal,IN,अंकिता भंडारी,1,1,9,0,x-trends
 Bhopal,IN,सदा देवी,1,1,10,0,x-trends
 Bhopal,IN,इंडिया गेट,1,1,11,0,x-trends
 Bhopal,IN,भगवान कार्तिकेय,1,1,12,0,x-trends
+Bhopal,IN,सूर्यकांत त्रिपाठी,1,1,12,0,x-trends
 Bhopal,IN,Roma,1,1,13,0,x-trends
+Bhopal,IN,First Half,1,1,13,0,x-trends
 Bhopal,IN,Real Madrid,1,1,14,0,x-trends
 Bhopal,IN,India Gate,1,1,15,0,x-trends
+Bhopal,IN,पावन पंचम,1,1,15,0,x-trends
 Bhopal,IN,Show Time,1,1,16,0,x-trends
+Bhopal,IN,दुर्गा भाभी,1,1,16,0,x-trends
 Bhopal,IN,Mourinho,1,1,17,0,x-trends
 Bhopal,IN,Endrick,1,1,18,0,x-trends
+Bhopal,IN,Nelson,1,1,18,0,x-trends
 Bhopal,IN,दुष्यंत गौतम,1,1,19,0,x-trends
 Bhopal,IN,Vini,1,1,20,0,x-trends
 Bhopal,IN,Espi,1,1,21,0,x-trends
-Bhopal,IN,VVIP,1,1,22,0,x-trends
+Bhopal,IN,VVIP,1,1,21,0,x-trends
 Bhopal,IN,Valverde,1,1,23,0,x-trends
+Bhopal,IN,इमरान प्रतापगढ़ी,1,1,23,0,x-trends
 Bhopal,IN,Enzo,1,1,24,0,x-trends
-Bhopal,IN,पवन खेड़ा,1,1,25,0,x-trends
+Bhopal,IN,पवन खेड़ा,1,1,24,0,x-trends
+Bhopal,IN,IDBI,1,1,25,0,x-trends
 Bhopal,IN,Maresca,1,1,26,0,x-trends
-Bhopal,IN,IDBI,1,1,27,0,x-trends
+Bhopal,IN,Governor,1,1,26,0,x-trends
 Bhopal,IN,Dushyant Gautam,1,1,28,0,x-trends
 Bhopal,IN,Anderson,1,1,29,0,x-trends
-Bhopal,IN,Governor,1,1,30,0,x-trends
 Birmingham,GB,Epic,1,1,1,0,x-trends
 Birmingham,GB,Martinez,1,1,2,0,x-trends
 Birmingham,GB,#MCIPSG,1,1,3,0,x-trends
@@ -389,19 +459,28 @@ Birmingham,GB,Musk,1,1,28,0,x-trends
 Birmingham,GB,Diego Garcia,1,1,29,0,x-trends
 Birmingham,GB,Barcola,1,1,30,0,x-trends
 Bogota,CO,Chile,1,1,1,0,x-trends
+Bogota,CO,ESMAD,1,1,1,0,x-trends
 Bogota,CO,Muriel,1,1,2,0,x-trends
+Bogota,CO,Amaranto,1,1,2,0,x-trends
 Bogota,CO,Pedraza,1,1,3,0,x-trends
+Bogota,CO,Lucas,1,1,3,0,x-trends
 Bogota,CO,Viera,1,1,4,0,x-trends
+Bogota,CO,Cataño,1,1,4,0,x-trends
 Bogota,CO,Don Omar,1,1,5,0,x-trends
+Bogota,CO,Cardona,1,1,5,0,x-trends
 Bogota,CO,Mafe,1,1,6,0,x-trends
 Bogota,CO,Congreso,1,1,7,0,x-trends
+Bogota,CO,Haydar,1,1,7,0,x-trends
 Bogota,CO,Capitolio,1,1,8,0,x-trends
+Bogota,CO,Fabra,1,1,8,0,x-trends
 Bogota,CO,Plaza de Bolívar,1,1,9,0,x-trends
+Bogota,CO,Parque de los Periodistas,1,1,9,0,x-trends
 Bogota,CO,Quedaste,1,1,10,0,x-trends
 Bogota,CO,Francotiradores,1,1,11,0,x-trends
 Bogota,CO,Madrid,1,1,12,0,x-trends
 Bogota,CO,Parque,1,1,13,0,x-trends
 Bogota,CO,Miguel Uribe,1,1,14,0,x-trends
+Bogota,CO,Kevin,1,1,14,0,x-trends
 Bogota,CO,Senado,1,1,15,0,x-trends
 Bogota,CO,Payasa,1,1,16,0,x-trends
 Bogota,CO,Herrera,1,1,17,0,x-trends
@@ -409,6 +488,7 @@ Bogota,CO,Honorio Henríquez,1,1,18,0,x-trends
 Bogota,CO,Pregúntele,1,1,19,0,x-trends
 Bogota,CO,Roma,1,1,20,0,x-trends
 Bogota,CO,Bruta,1,1,21,0,x-trends
+Bogota,CO,Dodgers,1,1,21,0,x-trends
 Bogota,CO,UNDMO,1,1,22,0,x-trends
 Bogota,CO,River,1,1,23,0,x-trends
 Bogota,CO,Vinicius,1,1,24,0,x-trends
@@ -538,6 +618,10 @@ Cairo,EG,افريقيا علي,1,1,27,0,x-trends
 Cairo,EG,بهبيت الحجاره,1,1,28,0,x-trends
 Cairo,EG,ليمينا,1,1,29,0,x-trends
 Cairo,EG,القضايا المرفوعه,1,1,30,0,x-trends
+California,US,justin wrobleski,1,1,1,100,google-cities
+California,US,christian yelich,1,1,2,10,google-cities
+California,US,world series,1,1,3,26,google-cities
+California,US,delonte west,1,1,15,25,google-cities
 Cape Town,ZA,Rwanda,1,1,1,0,x-trends
 Cape Town,ZA,Semenyo,1,1,2,0,x-trends
 Cape Town,ZA,#CarlingKnockoutCup,1,1,3,0,x-trends
@@ -568,6 +652,7 @@ Cape Town,ZA,Khusanov,1,1,27,0,x-trends
 Cape Town,ZA,Mourinho,1,1,28,0,x-trends
 Cape Town,ZA,snapdragon 8,1,1,29,0,x-trends
 Cape Town,ZA,Milford,1,1,30,0,x-trends
+Chandigarh,IN,weather shimla,1,1,2,11,google-cities
 Chennai,IN,अब्दुल कलाम,1,1,1,0,x-trends
 Chennai,IN,पंचम स्वरूप,1,1,2,0,x-trends
 Chennai,IN,पूर्व राष्ट्रपति,1,1,3,0,x-trends
@@ -598,42 +683,67 @@ Chennai,IN,Maresca,1,1,27,0,x-trends
 Chennai,IN,Enzo,1,1,28,0,x-trends
 Chennai,IN,Dushyant Gautam,1,1,29,0,x-trends
 Chennai,IN,Anderson,1,1,30,0,x-trends
+Chhattisgarh,IN,weather report today,1,1,13,11,google-cities
 Chicago,US,Musk,1,1,1,0,x-trends
+Chicago,US,Snell,1,1,1,0,x-trends
 Chicago,US,#AEWDynamite,1,1,2,0,x-trends
+Chicago,US,Jake Bauers,1,1,2,0,x-trends
 Chicago,US,#Survivor51,1,1,3,0,x-trends
-Chicago,US,Snell,1,1,4,0,x-trends
+Chicago,US,Brewers,1,1,3,0,x-trends
+Chicago,US,Dave Roberts,1,1,4,0,x-trends
 Chicago,US,#RHOSLC,1,1,5,0,x-trends
+Chicago,US,Uribe,1,1,5,0,x-trends
 Chicago,US,Joe Davis,1,1,6,0,x-trends
 Chicago,US,Jackson Chourio,1,1,7,0,x-trends
+Chicago,US,#Dodgers,1,1,7,0,x-trends
 Chicago,US,Adam Copeland,1,1,8,0,x-trends
 Chicago,US,Gasser,1,1,9,0,x-trends
 Chicago,US,Giannis,1,1,10,0,x-trends
+Chicago,US,Will Smith,1,1,10,0,x-trends
 Chicago,US,#SistasOnBET,1,1,11,0,x-trends
 Chicago,US,#Jailer2,1,1,12,0,x-trends
+Chicago,US,Garrett Mitchell,1,1,12,0,x-trends
 Chicago,US,Kilby,1,1,13,0,x-trends
+Chicago,US,#NLCS,1,1,13,0,x-trends
 Chicago,US,Meredith,1,1,14,0,x-trends
-Chicago,US,Edman,1,1,15,0,x-trends
+Chicago,US,Edman,1,1,14,0,x-trends
+Chicago,US,DL Hall,1,1,15,0,x-trends
 Chicago,US,Starshield,1,1,16,0,x-trends
+Chicago,US,Pat Murphy,1,1,16,0,x-trends
 Chicago,US,Myron Reed,1,1,17,0,x-trends
 Chicago,US,Brian Cage,1,1,18,0,x-trends
 Chicago,US,Bobby Diesel,1,1,19,0,x-trends
 Chicago,US,Starlink,1,1,20,0,x-trends
+Chicago,US,BACK TO BACK,1,1,20,0,x-trends
 Chicago,US,Bronwyn,1,1,21,0,x-trends
 Chicago,US,Christian Cage,1,1,22,0,x-trends
 Chicago,US,Josh Alexander,1,1,23,0,x-trends
+Chicago,US,Muncy,1,1,23,0,x-trends
 Chicago,US,Kennesaw State,1,1,24,0,x-trends
 Chicago,US,Mister Miracle,1,1,25,0,x-trends
+Chicago,US,Jalen Duren,1,1,25,0,x-trends
 Chicago,US,Clockwork Carnage,1,1,26,0,x-trends
 Chicago,US,Mitchell Robinson,1,1,27,0,x-trends
 Chicago,US,Dodger Stadium,1,1,28,0,x-trends
 Chicago,US,Josh Hutcherson,1,1,29,0,x-trends
+Chicago,US,Alex Tuch,1,1,29,0,x-trends
 Chicago,US,Mackenzie Davis,1,1,30,0,x-trends
+Colorado,US,denver nuggets,1,1,1,100,google-cities
+Colorado,US,christian yelich,1,1,14,4,google-cities
+Connecticut,US,world series,1,1,7,21,google-cities
+Daman and Diu,IN,weather shimla,1,1,6,1,google-cities
+Delaware,US,world series,1,1,11,19,google-cities
 Delhi,IN,अब्दुल कलाम,1,1,1,0,x-trends
 Delhi,IN,पंचम स्वरूप,1,1,2,0,x-trends
+Delhi,IN,#Jailer2,1,1,2,0,x-trends
+Delhi,IN,weather meerut,1,1,3,6,google-cities
 Delhi,IN,पूर्व राष्ट्रपति,1,1,3,0,x-trends
-Delhi,IN,#Jailer2,1,1,4,0,x-trends
+Delhi,IN,फ्लेवर्ड मिल्क,1,1,4,3,google-cities
+Delhi,IN,Pregnancy Awareness,1,1,4,0,x-trends
+Delhi,IN,weather shimla,1,1,5,1,google-cities
 Delhi,IN,#MaaSkandamata,1,1,5,0,x-trends
-Delhi,IN,#APJAbdulKalam,1,1,6,0,x-trends
+Delhi,IN,#APJAbdulKalam,1,1,5,0,x-trends
+Delhi,IN,#SuprasavAbhiyan,1,1,6,0,x-trends
 Delhi,IN,महान वैज्ञानिक,1,1,7,0,x-trends
 Delhi,IN,#GodMorningThursday,1,1,8,0,x-trends
 Delhi,IN,अंकिता भंडारी,1,1,9,0,x-trends
@@ -642,51 +752,67 @@ Delhi,IN,इंडिया गेट,1,1,11,0,x-trends
 Delhi,IN,#MissileManOfIndia,1,1,12,0,x-trends
 Delhi,IN,भगवान कार्तिकेय,1,1,13,0,x-trends
 Delhi,IN,India Gate,1,1,14,0,x-trends
+Delhi,IN,श्री लक्ष्मी नारायण,1,1,14,0,x-trends
 Delhi,IN,Real Madrid,1,1,15,0,x-trends
+Delhi,IN,सूर्यकांत त्रिपाठी,1,1,15,0,x-trends
 Delhi,IN,Roma,1,1,16,0,x-trends
+Delhi,IN,First Half,1,1,16,0,x-trends
 Delhi,IN,Show Time,1,1,17,0,x-trends
 Delhi,IN,दुष्यंत गौतम,1,1,18,0,x-trends
+Delhi,IN,दुर्गा भाभी,1,1,18,0,x-trends
 Delhi,IN,इमरान प्रतापगढ़ी,1,1,19,0,x-trends
+Delhi,IN,पावन पंचम,1,1,19,0,x-trends
 Delhi,IN,Vini,1,1,20,0,x-trends
+Delhi,IN,Nelson,1,1,20,0,x-trends
 Delhi,IN,पवन खेड़ा,1,1,21,0,x-trends
+Delhi,IN,महान कवि,1,1,21,0,x-trends
 Delhi,IN,VVIP,1,1,22,0,x-trends
 Delhi,IN,Espi,1,1,23,0,x-trends
 Delhi,IN,Endrick,1,1,24,0,x-trends
+Delhi,IN,प्रमुख स्तंभ,1,1,24,0,x-trends
 Delhi,IN,Mourinho,1,1,25,0,x-trends
 Delhi,IN,IDBI,1,1,26,0,x-trends
+Delhi,IN,रमन सिंह,1,1,26,0,x-trends
 Delhi,IN,Maresca,1,1,27,0,x-trends
 Delhi,IN,Enzo,1,1,28,0,x-trends
+Delhi,IN,Governor,1,1,28,0,x-trends
 Delhi,IN,Dushyant Gautam,1,1,29,0,x-trends
 Delhi,IN,Anderson,1,1,30,0,x-trends
+Delhi,IN,वास्तविक स्वरूप,1,1,30,0,x-trends
 Dubai,AE,#Jailer2,1,1,1,0,x-trends
 Dubai,AE,مدريد,1,1,2,0,x-trends
-Dubai,AE,روما,1,1,3,0,x-trends
+Dubai,AE,روما,1,1,2,0,x-trends
 Dubai,AE,باريس,1,1,4,0,x-trends
 Dubai,AE,شباب الاهلي,1,1,5,0,x-trends
 Dubai,AE,السيتي,1,1,6,0,x-trends
 Dubai,AE,Roma,1,1,7,0,x-trends
 Dubai,AE,#2026MAMAVOTE,1,1,8,0,x-trends
-Dubai,AE,القريه العالميه,1,1,9,0,x-trends
-Dubai,AE,مورينهو,1,1,10,0,x-trends
+Dubai,AE,القريه العالميه,1,1,8,0,x-trends
+Dubai,AE,مورينهو,1,1,9,0,x-trends
 Dubai,AE,فالفيردي,1,1,11,0,x-trends
 Dubai,AE,زايد بن محمد بن زايد,1,1,12,0,x-trends
+Dubai,AE,توريس,1,1,13,0,x-trends
 Dubai,AE,Real Madrid,1,1,14,0,x-trends
-Dubai,AE,توريس,1,1,15,0,x-trends
-Dubai,AE,الهييه الافتراضيه,1,1,16,0,x-trends
+Dubai,AE,الهييه الافتراضيه,1,1,14,0,x-trends
+Dubai,AE,#اريتريا,1,1,15,0,x-trends
+Dubai,AE,#دوري_ابطال_اوروبا,1,1,16,0,x-trends
 Dubai,AE,Vini,1,1,17,0,x-trends
-Dubai,AE,#اريتريا,1,1,18,0,x-trends
-Dubai,AE,#دوري_ابطال_اوروبا,1,1,19,0,x-trends
-Dubai,AE,الوحدة,1,1,20,0,x-trends
-Dubai,AE,انريكي,1,1,21,0,x-trends
+Dubai,AE,الوحدة,1,1,17,0,x-trends
+Dubai,AE,انريكي,1,1,18,0,x-trends
+Dubai,AE,سيلفا,1,1,19,0,x-trends
+Dubai,AE,عمان,1,1,20,0,x-trends
+Dubai,AE,كورتوا,1,1,21,0,x-trends
 Dubai,AE,الريال,1,1,22,0,x-trends
-Dubai,AE,عمان,1,1,23,0,x-trends
-Dubai,AE,سيلفا,1,1,24,0,x-trends
-Dubai,AE,Mourinho,1,1,25,0,x-trends
-Dubai,AE,كورتوا,1,1,26,0,x-trends
+Dubai,AE,دوري الابطال,1,1,22,0,x-trends
+Dubai,AE,#زالامبسا,1,1,23,0,x-trends
+Dubai,AE,Mourinho,1,1,24,0,x-trends
+Dubai,AE,14 اكتوبر,1,1,25,0,x-trends
+Dubai,AE,Donnarumma,1,1,26,0,x-trends
 Dubai,AE,#آئین_شکن_راج_نہیں_چلے_گا,1,1,27,0,x-trends
-Dubai,AE,دوري الابطال,1,1,28,0,x-trends
-Dubai,AE,14 اكتوبر,1,1,29,0,x-trends
-Dubai,AE,Donnarumma,1,1,30,0,x-trends
+Dubai,AE,اردا,1,1,27,0,x-trends
+Dubai,AE,الاجتماعات السنويه,1,1,28,0,x-trends
+Dubai,AE,LOVE TO THE MOON AND KEY,1,1,29,0,x-trends
+Dubai,AE,الجوله الثانيه,1,1,30,0,x-trends
 Dublin,IE,Martinez,1,1,1,0,x-trends
 Dublin,IE,LASK,1,1,2,0,x-trends
 Dublin,IE,#strike,1,1,3,0,x-trends
@@ -717,66 +843,105 @@ Dublin,IE,Koumas,1,1,27,0,x-trends
 Dublin,IE,The ADL,1,1,28,0,x-trends
 Dublin,IE,Lille,1,1,29,0,x-trends
 Dublin,IE,Musk,1,1,30,0,x-trends
+England,GB,north west,1,1,1,100,google-cities
+England,GB,crunchyroll,1,1,1,100,google-cities
+England,GB,fluminense vs palmeiras,1,1,1,100,google-cities
+England,GB,dodgers,1,1,1,100,google-cities
+England,GB,street fighter movie,1,1,1,100,google-cities
+Florida,US,delonte west,1,1,6,36,google-cities
+Florida,US,christian yelich,1,1,12,4,google-cities
+Georgia,US,justin wrobleski,1,1,4,14,google-cities
+Georgia,US,delonte west,1,1,5,36,google-cities
+Georgia,US,world series,1,1,9,20,google-cities
 Glasgow,GB,#AEWDynamite,1,1,1,0,x-trends
+Glasgow,GB,Martinez,1,1,1,0,x-trends
 Glasgow,GB,Bouaddi,1,1,2,0,x-trends
-Glasgow,GB,#MCIPSG,1,1,3,0,x-trends
+Glasgow,GB,#MCIPSG,1,1,2,0,x-trends
 Glasgow,GB,Donnarumma,1,1,4,0,x-trends
 Glasgow,GB,#avfc,1,1,5,0,x-trends
+Glasgow,GB,LASK,1,1,5,0,x-trends
 Glasgow,GB,Semenyo,1,1,6,0,x-trends
 Glasgow,GB,Enzo,1,1,7,0,x-trends
+Glasgow,GB,Wilcox,1,1,7,0,x-trends
 Glasgow,GB,Roma,1,1,8,0,x-trends
+Glasgow,GB,Champions League,1,1,8,0,x-trends
 Glasgow,GB,#ncfc,1,1,9,0,x-trends
 Glasgow,GB,Twinks,1,1,10,0,x-trends
+Glasgow,GB,Starlink,1,1,10,0,x-trends
 Glasgow,GB,#dcfc,1,1,11,0,x-trends
+Glasgow,GB,Frimpong,1,1,11,0,x-trends
 Glasgow,GB,Real Madrid,1,1,12,0,x-trends
+Glasgow,GB,Starshield,1,1,12,0,x-trends
 Glasgow,GB,Ndiaye,1,1,13,0,x-trends
 Glasgow,GB,Anderson,1,1,14,0,x-trends
+Glasgow,GB,Piddington,1,1,14,0,x-trends
 Glasgow,GB,Endrick,1,1,15,0,x-trends
+Glasgow,GB,Falklands,1,1,15,0,x-trends
 Glasgow,GB,Manzambi,1,1,16,0,x-trends
 Glasgow,GB,Vini,1,1,17,0,x-trends
+Glasgow,GB,Licha,1,1,17,0,x-trends
 Glasgow,GB,Lincoln,1,1,18,0,x-trends
+Glasgow,GB,Russian,1,1,18,0,x-trends
 Glasgow,GB,Maresca,1,1,19,0,x-trends
+Glasgow,GB,Brexit,1,1,19,0,x-trends
 Glasgow,GB,Mourinho,1,1,20,0,x-trends
+Glasgow,GB,Sally Rooney,1,1,20,0,x-trends
 Glasgow,GB,Eustace,1,1,21,0,x-trends
+Glasgow,GB,Doue,1,1,21,0,x-trends
 Glasgow,GB,Espi,1,1,22,0,x-trends
+Glasgow,GB,#PMQs,1,1,22,0,x-trends
 Glasgow,GB,Villa,1,1,23,0,x-trends
-Glasgow,GB,Starshield,1,1,24,0,x-trends
+Glasgow,GB,Chagos,1,1,23,0,x-trends
 Glasgow,GB,Cherki,1,1,25,0,x-trends
 Glasgow,GB,Palestine Action,1,1,26,0,x-trends
 Glasgow,GB,Clement,1,1,27,0,x-trends
+Glasgow,GB,Musk,1,1,27,0,x-trends
 Glasgow,GB,Nick Brown,1,1,28,0,x-trends
+Glasgow,GB,Diego Garcia,1,1,28,0,x-trends
 Glasgow,GB,Nunes,1,1,29,0,x-trends
-Glasgow,GB,Doue,1,1,30,0,x-trends
+Glasgow,GB,Barcola,1,1,29,0,x-trends
+Glasgow,GB,Tsimikas,1,1,30,0,x-trends
 Guadalajara,MX,#AntorchaGobiernaBien,1,1,1,0,x-trends
+Guadalajara,MX,Snell,1,1,1,0,x-trends
 Guadalajara,MX,#LaGranjaAsamblea,1,1,2,0,x-trends
 Guadalajara,MX,Ocoyucan,1,1,3,0,x-trends
 Guadalajara,MX,Madrid,1,1,4,0,x-trends
+Guadalajara,MX,#PorLaMedalla,1,1,4,0,x-trends
 Guadalajara,MX,Tecomatlán,1,1,5,0,x-trends
+Guadalajara,MX,Dodgers,1,1,5,0,x-trends
 Guadalajara,MX,#masadaltamimi,1,1,6,0,x-trends
+Guadalajara,MX,Dave Roberts,1,1,6,0,x-trends
 Guadalajara,MX,Roma,1,1,7,0,x-trends
-Guadalajara,MX,Snell,1,1,8,0,x-trends
+Guadalajara,MX,Will Smith,1,1,7,0,x-trends
+Guadalajara,MX,La Bonita,1,1,8,0,x-trends
 Guadalajara,MX,Endrick,1,1,9,0,x-trends
+Guadalajara,MX,SAVE ME,1,1,9,0,x-trends
 Guadalajara,MX,Roberto Velasco,1,1,10,0,x-trends
 Guadalajara,MX,#ConvoyEnChilango,1,1,11,0,x-trends
 Guadalajara,MX,Vini,1,1,12,0,x-trends
 Guadalajara,MX,#아로새겨_시작될_에반의_날,1,1,13,0,x-trends
+Guadalajara,MX,Junior H,1,1,13,0,x-trends
 Guadalajara,MX,Espi,1,1,14,0,x-trends
 Guadalajara,MX,Segundo Informe de Gobierno,1,1,15,0,x-trends
+Guadalajara,MX,Periférico Norte,1,1,15,0,x-trends
 Guadalajara,MX,Ovidio Guzmán,1,1,16,0,x-trends
-Guadalajara,MX,Ley de Ingresos 2027,1,1,17,0,x-trends
+Guadalajara,MX,Ley de Ingresos 2027,1,1,16,0,x-trends
+Guadalajara,MX,#OverflowingLoveForEVAN,1,1,17,0,x-trends
 Guadalajara,MX,Naim Darrechi,1,1,18,0,x-trends
 Guadalajara,MX,Clara Brugada,1,1,19,0,x-trends
-Guadalajara,MX,Periférico Norte,1,1,20,0,x-trends
 Guadalajara,MX,Raúl Jiménez,1,1,21,0,x-trends
 Guadalajara,MX,Barranca Honda,1,1,22,0,x-trends
 Guadalajara,MX,Mourinho,1,1,23,0,x-trends
+Guadalajara,MX,Brewers,1,1,23,0,x-trends
 Guadalajara,MX,Stolas,1,1,24,0,x-trends
 Guadalajara,MX,Champions,1,1,25,0,x-trends
 Guadalajara,MX,Jefa de Gobierno,1,1,26,0,x-trends
 Guadalajara,MX,Mbappe,1,1,27,0,x-trends
 Guadalajara,MX,Valverde,1,1,28,0,x-trends
+Guadalajara,MX,Vinicius,1,1,28,0,x-trends
 Guadalajara,MX,Parque Naucalli,1,1,29,0,x-trends
 Guadalajara,MX,Porto,1,1,30,0,x-trends
+Guadalajara,MX,Rappi,1,1,30,0,x-trends
 Hamburg,DE,Starlink,1,1,1,0,x-trends
 Hamburg,DE,McRib,1,1,2,0,x-trends
 Hamburg,DE,#bodbvb,1,1,3,0,x-trends
@@ -837,34 +1002,46 @@ Hanoi,VN,Sương,1,1,27,0,x-trends
 Hanoi,VN,ELLEJAY SMOOTH LANDING,1,1,28,0,x-trends
 Hanoi,VN,lena central dolce italia,1,1,29,0,x-trends
 Hanoi,VN,Ditto,1,1,30,0,x-trends
+Haryana,IN,फ्लेवर्ड मिल्क,1,1,3,3,google-cities
+Haryana,IN,weather shimla,1,1,4,3,google-cities
+Haryana,IN,weather meerut,1,1,6,1,google-cities
+Hawaii,US,christian yelich,1,1,8,5,google-cities
+Himachal Pradesh,IN,weather shimla,1,1,1,100,google-cities
+Himachal Pradesh,IN,weather report today,1,1,2,67,google-cities
 Ho Chi Minh City,VN,#InfluenceFamilyProof,1,1,1,0,x-trends
 Ho Chi Minh City,VN,Thứ 5,1,1,2,0,x-trends
 Ho Chi Minh City,VN,Chào,1,1,3,0,x-trends
-Ho Chi Minh City,VN,#2026MAMAVOTE,1,1,4,0,x-trends
+Ho Chi Minh City,VN,#2026MAMAVOTE,1,1,3,0,x-trends
 Ho Chi Minh City,VN,#제임스의_빛이_차오르길,1,1,5,0,x-trends
 Ho Chi Minh City,VN,#MoonshadowSeriesFinalEP,1,1,6,0,x-trends
 Ho Chi Minh City,VN,Thứ Năm,1,1,7,0,x-trends
-Ho Chi Minh City,VN,Ngày,1,1,8,0,x-trends
+Ho Chi Minh City,VN,Ngày,1,1,7,0,x-trends
+Ho Chi Minh City,VN,#Happy21andOnlyJAMES,1,1,8,0,x-trends
 Ho Chi Minh City,VN,LOVE TO THE MOON AND KEY,1,1,9,0,x-trends
-Ho Chi Minh City,VN,#Happy21andOnlyJAMES,1,1,10,0,x-trends
-Ho Chi Minh City,VN,all rounder birthday,1,1,11,0,x-trends
-Ho Chi Minh City,VN,LAST BUNKER,1,1,12,0,x-trends
-Ho Chi Minh City,VN,JAMASTERPIECE,1,1,13,0,x-trends
+Ho Chi Minh City,VN,all rounder birthday,1,1,10,0,x-trends
+Ho Chi Minh City,VN,LAST BUNKER,1,1,11,0,x-trends
+Ho Chi Minh City,VN,JAMASTERPIECE,1,1,12,0,x-trends
 Ho Chi Minh City,VN,Chúc,1,1,14,0,x-trends
+Ho Chi Minh City,VN,SINGER,1,1,14,0,x-trends
 Ho Chi Minh City,VN,PUINOONBINT DESTINY MOMENT,1,1,15,0,x-trends
 Ho Chi Minh City,VN,Ultra Rare,1,1,16,0,x-trends
+Ho Chi Minh City,VN,Quantum Echo,1,1,16,0,x-trends
 Ho Chi Minh City,VN,HBD FAYE PERAYA,1,1,17,0,x-trends
 Ho Chi Minh City,VN,Bình,1,1,18,0,x-trends
 Ho Chi Minh City,VN,Trader Score,1,1,19,0,x-trends
 Ho Chi Minh City,VN,I VOTE,1,1,20,0,x-trends
 Ho Chi Minh City,VN,Challenger,1,1,21,0,x-trends
+Ho Chi Minh City,VN,Dyson,1,1,21,0,x-trends
 Ho Chi Minh City,VN,Thứ 4,1,1,22,0,x-trends
 Ho Chi Minh City,VN,Nắng,1,1,23,0,x-trends
 Ho Chi Minh City,VN,Umbra V2,1,1,24,0,x-trends
+Ho Chi Minh City,VN,Quip Points,1,1,24,0,x-trends
 Ho Chi Minh City,VN,Sương,1,1,25,0,x-trends
+Ho Chi Minh City,VN,zScreen,1,1,25,0,x-trends
 Ho Chi Minh City,VN,ELLEJAY SMOOTH LANDING,1,1,26,0,x-trends
 Ho Chi Minh City,VN,lena central dolce italia,1,1,27,0,x-trends
 Ho Chi Minh City,VN,Fan's Choice Male,1,1,28,0,x-trends
+Ho Chi Minh City,VN,Bánh,1,1,28,0,x-trends
 Ho Chi Minh City,VN,Ditto,1,1,29,0,x-trends
 Ho Chi Minh City,VN,hash-based,1,1,30,0,x-trends
 Houston,US,#ShootingStar,1,1,1,0,x-trends
@@ -899,64 +1076,93 @@ Houston,US,Christian Cage,1,1,29,0,x-trends
 Houston,US,Dodger Stadium,1,1,30,0,x-trends
 Hyderabad,IN,अब्दुल कलाम,1,1,1,0,x-trends
 Hyderabad,IN,पंचम स्वरूप,1,1,2,0,x-trends
+Hyderabad,IN,#Jailer2,1,1,2,0,x-trends
 Hyderabad,IN,पूर्व राष्ट्रपति,1,1,3,0,x-trends
-Hyderabad,IN,#Jailer2,1,1,4,0,x-trends
+Hyderabad,IN,#APJAbdulKalam,1,1,4,0,x-trends
 Hyderabad,IN,#MaaSkandamata,1,1,5,0,x-trends
 Hyderabad,IN,महान वैज्ञानिक,1,1,6,0,x-trends
-Hyderabad,IN,#APJAbdulKalam,1,1,7,0,x-trends
+Hyderabad,IN,Pregnancy Awareness,1,1,6,0,x-trends
 Hyderabad,IN,#GodMorningThursday,1,1,8,0,x-trends
+Hyderabad,IN,#SuprasavAbhiyan,1,1,8,0,x-trends
 Hyderabad,IN,अंकिता भंडारी,1,1,9,0,x-trends
 Hyderabad,IN,सदा देवी,1,1,10,0,x-trends
 Hyderabad,IN,इंडिया गेट,1,1,11,0,x-trends
 Hyderabad,IN,#MissileManOfIndia,1,1,12,0,x-trends
 Hyderabad,IN,भगवान कार्तिकेय,1,1,13,0,x-trends
+Hyderabad,IN,श्री लक्ष्मी नारायण,1,1,13,0,x-trends
 Hyderabad,IN,India Gate,1,1,14,0,x-trends
 Hyderabad,IN,Real Madrid,1,1,15,0,x-trends
+Hyderabad,IN,सूर्यकांत त्रिपाठी,1,1,15,0,x-trends
 Hyderabad,IN,Roma,1,1,16,0,x-trends
+Hyderabad,IN,First Half,1,1,16,0,x-trends
 Hyderabad,IN,Show Time,1,1,17,0,x-trends
 Hyderabad,IN,दुष्यंत गौतम,1,1,18,0,x-trends
+Hyderabad,IN,दुर्गा भाभी,1,1,18,0,x-trends
 Hyderabad,IN,इमरान प्रतापगढ़ी,1,1,19,0,x-trends
+Hyderabad,IN,पावन पंचम,1,1,19,0,x-trends
 Hyderabad,IN,Vini,1,1,20,0,x-trends
+Hyderabad,IN,Nelson,1,1,20,0,x-trends
 Hyderabad,IN,Espi,1,1,21,0,x-trends
 Hyderabad,IN,VVIP,1,1,22,0,x-trends
 Hyderabad,IN,Endrick,1,1,23,0,x-trends
+Hyderabad,IN,प्रमुख स्तंभ,1,1,23,0,x-trends
 Hyderabad,IN,पवन खेड़ा,1,1,24,0,x-trends
 Hyderabad,IN,Mourinho,1,1,25,0,x-trends
+Hyderabad,IN,रमन सिंह,1,1,25,0,x-trends
 Hyderabad,IN,IDBI,1,1,26,0,x-trends
 Hyderabad,IN,Maresca,1,1,27,0,x-trends
+Hyderabad,IN,Governor,1,1,27,0,x-trends
 Hyderabad,IN,Enzo,1,1,28,0,x-trends
 Hyderabad,IN,Dushyant Gautam,1,1,29,0,x-trends
+Hyderabad,IN,वास्तविक स्वरूप,1,1,29,0,x-trends
 Hyderabad,IN,Anderson,1,1,30,0,x-trends
+Idaho,US,denver nuggets,1,1,6,5,google-cities
+Illinois,US,world series,1,1,2,31,google-cities
+Illinois,US,christian yelich,1,1,3,8,google-cities
+Illinois,US,justin wrobleski,1,1,8,10,google-cities
+Illinois,US,denver nuggets,1,1,14,3,google-cities
+Indiana,US,justin wrobleski,1,1,10,7,google-cities
 Indore,IN,अब्दुल कलाम,1,1,1,0,x-trends
+Indore,IN,#राम_भक्त_रेखा_गुप्ता,1,1,1,0,x-trends
 Indore,IN,पंचम स्वरूप,1,1,2,0,x-trends
 Indore,IN,#Jailer2,1,1,3,0,x-trends
 Indore,IN,#MaaSkandamata,1,1,4,0,x-trends
-Indore,IN,पूर्व राष्ट्रपति,1,1,5,0,x-trends
+Indore,IN,पूर्व राष्ट्रपति,1,1,4,0,x-trends
 Indore,IN,#GodMorningThursday,1,1,6,0,x-trends
+Indore,IN,#APJAbdulKalam,1,1,6,0,x-trends
 Indore,IN,महान वैज्ञानिक,1,1,7,0,x-trends
 Indore,IN,अंकिता भंडारी,1,1,8,0,x-trends
 Indore,IN,सदा देवी,1,1,9,0,x-trends
 Indore,IN,इंडिया गेट,1,1,10,0,x-trends
 Indore,IN,भगवान कार्तिकेय,1,1,11,0,x-trends
+Indore,IN,सूर्यकांत त्रिपाठी,1,1,11,0,x-trends
 Indore,IN,Roma,1,1,12,0,x-trends
+Indore,IN,First Half,1,1,12,0,x-trends
 Indore,IN,Real Madrid,1,1,13,0,x-trends
 Indore,IN,India Gate,1,1,14,0,x-trends
+Indore,IN,पावन पंचम,1,1,14,0,x-trends
 Indore,IN,Show Time,1,1,15,0,x-trends
+Indore,IN,दुर्गा भाभी,1,1,15,0,x-trends
 Indore,IN,Mourinho,1,1,16,0,x-trends
 Indore,IN,Endrick,1,1,17,0,x-trends
+Indore,IN,Nelson,1,1,17,0,x-trends
 Indore,IN,Vini,1,1,18,0,x-trends
+Indore,IN,दुष्यंत गौतम,1,1,18,0,x-trends
 Indore,IN,Espi,1,1,19,0,x-trends
-Indore,IN,दुष्यंत गौतम,1,1,20,0,x-trends
+Indore,IN,VVIP,1,1,20,0,x-trends
 Indore,IN,Valverde,1,1,21,0,x-trends
 Indore,IN,Enzo,1,1,22,0,x-trends
-Indore,IN,VVIP,1,1,23,0,x-trends
+Indore,IN,इमरान प्रतापगढ़ी,1,1,22,0,x-trends
+Indore,IN,पवन खेड़ा,1,1,23,0,x-trends
 Indore,IN,IDBI,1,1,24,0,x-trends
 Indore,IN,Maresca,1,1,25,0,x-trends
 Indore,IN,Dushyant Gautam,1,1,26,0,x-trends
-Indore,IN,पवन खेड़ा,1,1,27,0,x-trends
+Indore,IN,Governor,1,1,27,0,x-trends
 Indore,IN,Anderson,1,1,28,0,x-trends
-Indore,IN,Governor,1,1,29,0,x-trends
 Indore,IN,USTAAD ELVISH HYPING BB20,1,1,30,0,x-trends
+Iowa,US,denver nuggets,1,1,5,5,google-cities
+Iowa,US,christian yelich,1,1,11,4,google-cities
+Iowa,US,world series,1,1,14,18,google-cities
 Istanbul,TR,Ekrem,1,1,1,0,x-trends
 Istanbul,TR,Takım,1,1,2,0,x-trends
 Istanbul,TR,İsmail,1,1,3,0,x-trends
@@ -988,9 +1194,11 @@ Istanbul,TR,Liverpool,1,1,29,0,x-trends
 Istanbul,TR,#afet,1,1,30,0,x-trends
 Jaipur,IN,अब्दुल कलाम,1,1,1,0,x-trends
 Jaipur,IN,पंचम स्वरूप,1,1,2,0,x-trends
+Jaipur,IN,#Jailer2,1,1,2,0,x-trends
 Jaipur,IN,पूर्व राष्ट्रपति,1,1,3,0,x-trends
-Jaipur,IN,#Jailer2,1,1,4,0,x-trends
+Jaipur,IN,#SuprasavAbhiyan,1,1,4,0,x-trends
 Jaipur,IN,#MaaSkandamata,1,1,5,0,x-trends
+Jaipur,IN,Pregnancy Awareness,1,1,5,0,x-trends
 Jaipur,IN,#APJAbdulKalam,1,1,6,0,x-trends
 Jaipur,IN,महान वैज्ञानिक,1,1,7,0,x-trends
 Jaipur,IN,#GodMorningThursday,1,1,8,0,x-trends
@@ -1000,20 +1208,30 @@ Jaipur,IN,इंडिया गेट,1,1,11,0,x-trends
 Jaipur,IN,#MissileManOfIndia,1,1,12,0,x-trends
 Jaipur,IN,भगवान कार्तिकेय,1,1,13,0,x-trends
 Jaipur,IN,India Gate,1,1,14,0,x-trends
+Jaipur,IN,श्री लक्ष्मी नारायण,1,1,14,0,x-trends
 Jaipur,IN,Real Madrid,1,1,15,0,x-trends
+Jaipur,IN,सूर्यकांत त्रिपाठी,1,1,15,0,x-trends
 Jaipur,IN,Roma,1,1,16,0,x-trends
+Jaipur,IN,First Half,1,1,16,0,x-trends
 Jaipur,IN,Show Time,1,1,17,0,x-trends
 Jaipur,IN,दुष्यंत गौतम,1,1,18,0,x-trends
+Jaipur,IN,दुर्गा भाभी,1,1,18,0,x-trends
 Jaipur,IN,इमरान प्रतापगढ़ी,1,1,19,0,x-trends
+Jaipur,IN,पावन पंचम,1,1,19,0,x-trends
 Jaipur,IN,Vini,1,1,20,0,x-trends
+Jaipur,IN,Nelson,1,1,20,0,x-trends
 Jaipur,IN,पवन खेड़ा,1,1,21,0,x-trends
+Jaipur,IN,महान कवि,1,1,21,0,x-trends
 Jaipur,IN,VVIP,1,1,22,0,x-trends
 Jaipur,IN,Espi,1,1,23,0,x-trends
 Jaipur,IN,Endrick,1,1,24,0,x-trends
+Jaipur,IN,प्रमुख स्तंभ,1,1,24,0,x-trends
 Jaipur,IN,Mourinho,1,1,25,0,x-trends
 Jaipur,IN,IDBI,1,1,26,0,x-trends
+Jaipur,IN,रमन सिंह,1,1,26,0,x-trends
 Jaipur,IN,Maresca,1,1,27,0,x-trends
 Jaipur,IN,Enzo,1,1,28,0,x-trends
+Jaipur,IN,Governor,1,1,28,0,x-trends
 Jaipur,IN,Dushyant Gautam,1,1,29,0,x-trends
 Jaipur,IN,Anderson,1,1,30,0,x-trends
 Jakarta,ID,#2026MAMAVOTE,1,1,1,0,x-trends
@@ -1022,6 +1240,7 @@ Jakarta,ID,#제임스의_빛이_차오르길,1,1,3,0,x-trends
 Jakarta,ID,maksimal menegakkan hukum,1,1,4,0,x-trends
 Jakarta,ID,I VOTE,1,1,5,0,x-trends
 Jakarta,ID,sinergi semua elemen,1,1,6,0,x-trends
+Jakarta,ID,PHUWIN MAMI IN HOKKAIDO,1,1,6,0,x-trends
 Jakarta,ID,Kalimantan,1,1,7,0,x-trends
 Jakarta,ID,LOVE TO THE MOON AND KEY,1,1,8,0,x-trends
 Jakarta,ID,Choice Male,1,1,9,0,x-trends
@@ -1031,51 +1250,63 @@ Jakarta,ID,A. SECEPAT ITU,1,1,12,0,x-trends
 Jakarta,ID,BNPB,1,1,13,0,x-trends
 Jakarta,ID,Vault Street,1,1,14,0,x-trends
 Jakarta,ID,klk group,1,1,15,0,x-trends
-Jakarta,ID,SPBU,1,1,16,0,x-trends
+Jakarta,ID,SPBU,1,1,15,0,x-trends
 Jakarta,ID,Roma,1,1,17,0,x-trends
 Jakarta,ID,FIRSTONE 2ND SINGLE MV,1,1,18,0,x-trends
 Jakarta,ID,pt menteng jaya sawit perdana,1,1,19,0,x-trends
 Jakarta,ID,Pagiii,1,1,20,0,x-trends
 Jakarta,ID,GET READY FOR FOURTH CONCERT,1,1,21,0,x-trends
+Jakarta,ID,Rabu,1,1,21,0,x-trends
 Jakarta,ID,Pantau Gambut,1,1,22,0,x-trends
-Jakarta,ID,Rabu,1,1,23,0,x-trends
+Jakarta,ID,Anggur,1,1,22,0,x-trends
 Jakarta,ID,Palangka Raya,1,1,24,0,x-trends
-Jakarta,ID,Kakang,1,1,25,0,x-trends
+Jakarta,ID,Kakang,1,1,24,0,x-trends
 Jakarta,ID,ELLEJAY SMOOTH LANDING,1,1,26,0,x-trends
 Jakarta,ID,Angkut,1,1,27,0,x-trends
 Jakarta,ID,Tebak,1,1,28,0,x-trends
 Jakarta,ID,Kartu Jago,1,1,29,0,x-trends
 Jakarta,ID,sandy walsh,1,1,30,0,x-trends
+Jakarta,ID,Palembang,1,1,30,0,x-trends
+Jammu and Kashmir,IN,weather meerut,1,1,4,1,google-cities
+Jammu and Kashmir,IN,weather report today,1,1,5,28,google-cities
 Jeddah,SA,خالد الفيصل,1,1,1,0,x-trends
 Jeddah,SA,#شارك_مع_اندومي,1,1,2,0,x-trends
 Jeddah,SA,علي العهد,1,1,3,0,x-trends
+Jeddah,SA,#دون_الوطن_تهون_الارواح,1,1,3,0,x-trends
 Jeddah,SA,#نعم_سعوديون,1,1,4,0,x-trends
 Jeddah,SA,#رحله_المليون84,1,1,5,0,x-trends
+Jeddah,SA,#عشاق_الشاي_او_القهوه,1,1,5,0,x-trends
 Jeddah,SA,#اذا_غضبوا_غضبنا,1,1,6,0,x-trends
-Jeddah,SA,#٢٠٣٠_بلا_نقاب15,1,1,7,0,x-trends
-Jeddah,SA,جبل هان,1,1,8,0,x-trends
-Jeddah,SA,مدريد,1,1,9,0,x-trends
+Jeddah,SA,#٢٠٣٠_بلا_نقاب15,1,1,6,0,x-trends
+Jeddah,SA,جبل هان,1,1,7,0,x-trends
+Jeddah,SA,مدريد,1,1,8,0,x-trends
+Jeddah,SA,صوت سعيد,1,1,9,0,x-trends
 Jeddah,SA,باريس,1,1,10,0,x-trends
-Jeddah,SA,صوت سعيد,1,1,11,0,x-trends
-Jeddah,SA,السيتي,1,1,12,0,x-trends
-Jeddah,SA,مورينهو,1,1,13,0,x-trends
-Jeddah,SA,الريال,1,1,14,0,x-trends
+Jeddah,SA,السيتي,1,1,10,0,x-trends
+Jeddah,SA,مورينهو,1,1,12,0,x-trends
+Jeddah,SA,الريال,1,1,13,0,x-trends
+Jeddah,SA,سيد العذاري,1,1,14,0,x-trends
 Jeddah,SA,انريكي,1,1,15,0,x-trends
-Jeddah,SA,توريس,1,1,16,0,x-trends
-Jeddah,SA,سيد العذاري,1,1,17,0,x-trends
+Jeddah,SA,توريس,1,1,15,0,x-trends
+Jeddah,SA,فالفيردي,1,1,17,0,x-trends
 Jeddah,SA,اردا,1,1,18,0,x-trends
-Jeddah,SA,فالفيردي,1,1,19,0,x-trends
-Jeddah,SA,صيام الخميس,1,1,20,0,x-trends
+Jeddah,SA,صيام الخميس,1,1,18,0,x-trends
+Jeddah,SA,سيلفا,1,1,19,0,x-trends
+Jeddah,SA,كورتوا,1,1,20,0,x-trends
 Jeddah,SA,اندرسون,1,1,21,0,x-trends
-Jeddah,SA,بيريز,1,1,22,0,x-trends
+Jeddah,SA,بيريز,1,1,21,0,x-trends
+Jeddah,SA,عبدالصمد بادي,1,1,22,0,x-trends
 Jeddah,SA,علي الغامدي,1,1,23,0,x-trends
-Jeddah,SA,سيلفا,1,1,24,0,x-trends
-Jeddah,SA,ابو سلطان,1,1,25,0,x-trends
-Jeddah,SA,كورتوا,1,1,26,0,x-trends
-Jeddah,SA,عبدالصمد بادي,1,1,27,0,x-trends
+Jeddah,SA,ابو سلطان,1,1,24,0,x-trends
+Jeddah,SA,الفهد,1,1,25,0,x-trends
+Jeddah,SA,مانشستر سيتي,1,1,26,0,x-trends
+Jeddah,SA,غوارديولا,1,1,27,0,x-trends
 Jeddah,SA,العمل الصادق,1,1,28,0,x-trends
+Jeddah,SA,ليس كلمات,1,1,28,0,x-trends
 Jeddah,SA,تركي الدوسري,1,1,29,0,x-trends
-Jeddah,SA,الفهد,1,1,30,0,x-trends
+Jeddah,SA,النظام السعودي,1,1,29,0,x-trends
+Jeddah,SA,إنتر,1,1,30,0,x-trends
+Jharkhand,IN,weather report today,1,1,11,15,google-cities
 Johannesburg,ZA,Rwanda,1,1,1,0,x-trends
 Johannesburg,ZA,Semenyo,1,1,2,0,x-trends
 Johannesburg,ZA,#CarlingKnockoutCup,1,1,3,0,x-trends
@@ -1109,33 +1340,41 @@ Johannesburg,ZA,Milford,1,1,30,0,x-trends
 Kanpur,IN,#NakulDhull,1,1,1,0,x-trends
 Kanpur,IN,अब्दुल कलाम,1,1,2,0,x-trends
 Kanpur,IN,पंचम स्वरूप,1,1,3,0,x-trends
-Kanpur,IN,#Jailer2,1,1,4,0,x-trends
+Kanpur,IN,#Jailer2,1,1,3,0,x-trends
+Kanpur,IN,पूर्व राष्ट्रपति,1,1,4,0,x-trends
 Kanpur,IN,#MaaSkandamata,1,1,5,0,x-trends
-Kanpur,IN,पूर्व राष्ट्रपति,1,1,6,0,x-trends
+Kanpur,IN,#APJAbdulKalam,1,1,6,0,x-trends
 Kanpur,IN,महान वैज्ञानिक,1,1,7,0,x-trends
 Kanpur,IN,#GodMorningThursday,1,1,8,0,x-trends
 Kanpur,IN,अंकिता भंडारी,1,1,9,0,x-trends
 Kanpur,IN,सदा देवी,1,1,10,0,x-trends
 Kanpur,IN,इंडिया गेट,1,1,11,0,x-trends
 Kanpur,IN,भगवान कार्तिकेय,1,1,12,0,x-trends
+Kanpur,IN,सूर्यकांत त्रिपाठी,1,1,12,0,x-trends
 Kanpur,IN,Roma,1,1,13,0,x-trends
+Kanpur,IN,First Half,1,1,13,0,x-trends
 Kanpur,IN,Real Madrid,1,1,14,0,x-trends
 Kanpur,IN,India Gate,1,1,15,0,x-trends
+Kanpur,IN,पावन पंचम,1,1,15,0,x-trends
 Kanpur,IN,Show Time,1,1,16,0,x-trends
+Kanpur,IN,दुर्गा भाभी,1,1,16,0,x-trends
 Kanpur,IN,Mourinho,1,1,17,0,x-trends
 Kanpur,IN,Endrick,1,1,18,0,x-trends
+Kanpur,IN,Nelson,1,1,18,0,x-trends
 Kanpur,IN,Vini,1,1,19,0,x-trends
+Kanpur,IN,दुष्यंत गौतम,1,1,19,0,x-trends
 Kanpur,IN,Espi,1,1,20,0,x-trends
-Kanpur,IN,दुष्यंत गौतम,1,1,21,0,x-trends
+Kanpur,IN,VVIP,1,1,21,0,x-trends
 Kanpur,IN,Valverde,1,1,22,0,x-trends
 Kanpur,IN,Enzo,1,1,23,0,x-trends
+Kanpur,IN,इमरान प्रतापगढ़ी,1,1,23,0,x-trends
 Kanpur,IN,पवन खेड़ा,1,1,24,0,x-trends
-Kanpur,IN,VVIP,1,1,25,0,x-trends
-Kanpur,IN,IDBI,1,1,26,0,x-trends
+Kanpur,IN,IDBI,1,1,25,0,x-trends
 Kanpur,IN,Maresca,1,1,27,0,x-trends
 Kanpur,IN,Dushyant Gautam,1,1,28,0,x-trends
+Kanpur,IN,Governor,1,1,28,0,x-trends
 Kanpur,IN,Anderson,1,1,29,0,x-trends
-Kanpur,IN,Governor,1,1,30,0,x-trends
+Kansas,US,denver nuggets,1,1,4,5,google-cities
 Karachi,PK,#آئین_شکن_راج_نہیں_چلے_گا,1,1,1,0,x-trends
 Karachi,PK,#خوارج_کے_غلام_پکڑو,1,1,2,0,x-trends
 Karachi,PK,#سپہ_سالار_باکمال,1,1,3,0,x-trends
@@ -1166,35 +1405,44 @@ Karachi,PK,Goliath,1,1,27,0,x-trends
 Karachi,PK,Vladimir Kolokoltsev,1,1,28,0,x-trends
 Karachi,PK,$giri,1,1,29,0,x-trends
 Karachi,PK,Sukkur Barrage,1,1,30,0,x-trends
+Karnataka,IN,weather report today,1,1,10,16,google-cities
+Kerala,IN,കൊടുങ്ങല്ലൂര്,1,1,1,100,google-cities
 Kolkata,IN,STOP NEGATIVE PR AGAINST QAZI,1,1,1,0,x-trends
 Kolkata,IN,#2026MAMAVOTE,1,1,2,0,x-trends
-Kolkata,IN,अब्दुल कलाम,1,1,3,0,x-trends
+Kolkata,IN,अब्दुल कलाम,1,1,2,0,x-trends
+Kolkata,IN,#Jailer2,1,1,3,0,x-trends
 Kolkata,IN,पंचम स्वरूप,1,1,4,0,x-trends
-Kolkata,IN,#Jailer2,1,1,5,0,x-trends
+Kolkata,IN,पूर्व राष्ट्रपति,1,1,4,0,x-trends
 Kolkata,IN,#MaaSkandamata,1,1,6,0,x-trends
-Kolkata,IN,पूर्व राष्ट्रपति,1,1,7,0,x-trends
-Kolkata,IN,महान वैज्ञानिक,1,1,8,0,x-trends
+Kolkata,IN,#APJAbdulKalam,1,1,6,0,x-trends
+Kolkata,IN,महान वैज्ञानिक,1,1,7,0,x-trends
 Kolkata,IN,#GodMorningThursday,1,1,9,0,x-trends
-Kolkata,IN,#APJAbdulKalam,1,1,10,0,x-trends
-Kolkata,IN,अंकिता भंडारी,1,1,11,0,x-trends
-Kolkata,IN,सदा देवी,1,1,12,0,x-trends
-Kolkata,IN,इंडिया गेट,1,1,13,0,x-trends
+Kolkata,IN,अंकिता भंडारी,1,1,9,0,x-trends
+Kolkata,IN,सदा देवी,1,1,11,0,x-trends
+Kolkata,IN,इंडिया गेट,1,1,12,0,x-trends
+Kolkata,IN,सूर्यकांत त्रिपाठी,1,1,13,0,x-trends
 Kolkata,IN,भगवान कार्तिकेय,1,1,14,0,x-trends
+Kolkata,IN,First Half,1,1,14,0,x-trends
 Kolkata,IN,Roma,1,1,15,0,x-trends
+Kolkata,IN,दुर्गा भाभी,1,1,15,0,x-trends
 Kolkata,IN,Real Madrid,1,1,16,0,x-trends
 Kolkata,IN,India Gate,1,1,17,0,x-trends
+Kolkata,IN,पावन पंचम,1,1,17,0,x-trends
 Kolkata,IN,Show Time,1,1,18,0,x-trends
 Kolkata,IN,Mourinho,1,1,19,0,x-trends
+Kolkata,IN,Nelson,1,1,19,0,x-trends
 Kolkata,IN,Endrick,1,1,20,0,x-trends
-Kolkata,IN,दुष्यंत गौतम,1,1,21,0,x-trends
+Kolkata,IN,दुष्यंत गौतम,1,1,20,0,x-trends
 Kolkata,IN,Vini,1,1,22,0,x-trends
+Kolkata,IN,VVIP,1,1,22,0,x-trends
 Kolkata,IN,Espi,1,1,23,0,x-trends
-Kolkata,IN,VVIP,1,1,24,0,x-trends
+Kolkata,IN,इमरान प्रतापगढ़ी,1,1,24,0,x-trends
 Kolkata,IN,पवन खेड़ा,1,1,25,0,x-trends
+Kolkata,IN,Governor,1,1,25,0,x-trends
 Kolkata,IN,Valverde,1,1,26,0,x-trends
 Kolkata,IN,Enzo,1,1,27,0,x-trends
+Kolkata,IN,IDBI,1,1,27,0,x-trends
 Kolkata,IN,Maresca,1,1,28,0,x-trends
-Kolkata,IN,IDBI,1,1,29,0,x-trends
 Kolkata,IN,Dushyant Gautam,1,1,30,0,x-trends
 Kuala Lumpur,MY,#2026MAMAVOTE,1,1,1,0,x-trends
 Kuala Lumpur,MY,#MoonshadowSeriesFinalEP,1,1,2,0,x-trends
@@ -1205,27 +1453,28 @@ Kuala Lumpur,MY,#ENHYPEN,1,1,6,0,x-trends
 Kuala Lumpur,MY,HBD FAYE PERAYA,1,1,7,0,x-trends
 Kuala Lumpur,MY,I VOTE,1,1,8,0,x-trends
 Kuala Lumpur,MY,Donnarumma,1,1,9,0,x-trends
-Kuala Lumpur,MY,Somewhere Over the Rainbow,1,1,10,0,x-trends
-Kuala Lumpur,MY,Roma,1,1,11,0,x-trends
-Kuala Lumpur,MY,KHOM KHLANG EP6,1,1,12,0,x-trends
-Kuala Lumpur,MY,PERTH UNLEASH THE ROCK,1,1,13,0,x-trends
-Kuala Lumpur,MY,SMILEY BESIDE CHARLOTTE14,1,1,14,0,x-trends
+Kuala Lumpur,MY,Somewhere Over the Rainbow,1,1,9,0,x-trends
+Kuala Lumpur,MY,Roma,1,1,10,0,x-trends
+Kuala Lumpur,MY,KHOM KHLANG EP6,1,1,11,0,x-trends
+Kuala Lumpur,MY,PERTH UNLEASH THE ROCK,1,1,12,0,x-trends
+Kuala Lumpur,MY,SMILEY BESIDE CHARLOTTE14,1,1,13,0,x-trends
+Kuala Lumpur,MY,LASK,1,1,14,0,x-trends
 Kuala Lumpur,MY,Barcola,1,1,15,0,x-trends
-Kuala Lumpur,MY,LASK,1,1,16,0,x-trends
-Kuala Lumpur,MY,Wirtz,1,1,17,0,x-trends
-Kuala Lumpur,MY,BPP HAPPY FAM FANSIGN,1,1,18,0,x-trends
-Kuala Lumpur,MY,Martinez,1,1,19,0,x-trends
-Kuala Lumpur,MY,Rashford,1,1,20,0,x-trends
+Kuala Lumpur,MY,Wirtz,1,1,16,0,x-trends
+Kuala Lumpur,MY,BPP HAPPY FAM FANSIGN,1,1,17,0,x-trends
+Kuala Lumpur,MY,Martinez,1,1,18,0,x-trends
+Kuala Lumpur,MY,Rashford,1,1,19,0,x-trends
 Kuala Lumpur,MY,ELLEJAY SMOOTH LANDING,1,1,21,0,x-trends
 Kuala Lumpur,MY,Licha,1,1,22,0,x-trends
 Kuala Lumpur,MY,PUINOONBINT DESTINY MOMENT,1,1,23,0,x-trends
+Kuala Lumpur,MY,Real Madrid,1,1,23,0,x-trends
 Kuala Lumpur,MY,Azerbaijan,1,1,24,0,x-trends
 Kuala Lumpur,MY,INEOS,1,1,25,0,x-trends
 Kuala Lumpur,MY,Chan,1,1,26,0,x-trends
-Kuala Lumpur,MY,Real Madrid,1,1,27,0,x-trends
-Kuala Lumpur,MY,LOVE ON HIRE BLESSING DAY,1,1,28,0,x-trends
-Kuala Lumpur,MY,Avinash,1,1,29,0,x-trends
-Kuala Lumpur,MY,Karishma,1,1,30,0,x-trends
+Kuala Lumpur,MY,LOVE ON HIRE BLESSING DAY,1,1,27,0,x-trends
+Kuala Lumpur,MY,Avinash,1,1,28,0,x-trends
+Kuala Lumpur,MY,Karishma,1,1,29,0,x-trends
+Kuala Lumpur,MY,Choice Male,1,1,30,0,x-trends
 Lagos,NG,Real Madrid,1,1,1,0,x-trends
 Lagos,NG,Endrick,1,1,2,0,x-trends
 Lagos,NG,Mourinho,1,1,3,0,x-trends
@@ -1258,34 +1507,40 @@ Lagos,NG,Dumfries,1,1,29,0,x-trends
 Lagos,NG,Khusanov,1,1,30,0,x-trends
 Lahore,PK,#آئین_شکن_راج_نہیں_چلے_گا,1,1,1,0,x-trends
 Lahore,PK,#سپہ_سالار_نشان_جرات,1,1,2,0,x-trends
+Lahore,PK,#سپہ_سالار_باکمال,1,1,2,0,x-trends
 Lahore,PK,#خوارج_کے_غلام_پکڑو,1,1,3,0,x-trends
-Lahore,PK,#سپہ_سالار_باکمال,1,1,4,0,x-trends
-Lahore,PK,#سہولت_کاروں_کو_ختم_کرو,1,1,5,0,x-trends
+Lahore,PK,#سہولت_کاروں_کو_ختم_کرو,1,1,3,0,x-trends
+Lahore,PK,#سپہ_سالار_فتح_کا_نشان,1,1,4,0,x-trends
+Lahore,PK,#سپہ_سالار_فخر_امت,1,1,5,0,x-trends
 Lahore,PK,Shai,1,1,6,0,x-trends
-Lahore,PK,ali sheikhani,1,1,7,0,x-trends
+Lahore,PK,ali sheikhani,1,1,6,0,x-trends
+Lahore,PK,Shai Hope,1,1,7,0,x-trends
 Lahore,PK,200 USDT,1,1,8,0,x-trends
 Lahore,PK,Binance Earn,1,1,9,0,x-trends
 Lahore,PK,Roma,1,1,10,0,x-trends
-Lahore,PK,Pakistan and Russia,1,1,11,0,x-trends
+Lahore,PK,Pakistan and Russia,1,1,10,0,x-trends
 Lahore,PK,Wuhan,1,1,12,0,x-trends
-Lahore,PK,Mourinho,1,1,13,0,x-trends
+Lahore,PK,Mourinho,1,1,12,0,x-trends
 Lahore,PK,sipah salar asim munir,1,1,14,0,x-trends
 Lahore,PK,Mirelo SFX 2.0,1,1,15,0,x-trends
 Lahore,PK,Friends-inspired,1,1,16,0,x-trends
 Lahore,PK,Espi,1,1,17,0,x-trends
-Lahore,PK,William Chapman,1,1,18,0,x-trends
-Lahore,PK,rescue 1122,1,1,19,0,x-trends
-Lahore,PK,Endrick,1,1,20,0,x-trends
-Lahore,PK,CCNU,1,1,21,0,x-trends
+Lahore,PK,William Chapman,1,1,17,0,x-trends
+Lahore,PK,rescue 1122,1,1,18,0,x-trends
+Lahore,PK,Endrick,1,1,19,0,x-trends
+Lahore,PK,CCNU,1,1,20,0,x-trends
+Lahore,PK,Sibling,1,1,21,0,x-trends
 Lahore,PK,Simple Earn,1,1,22,0,x-trends
-Lahore,PK,Sibling,1,1,23,0,x-trends
-Lahore,PK,Georgia,1,1,24,0,x-trends
-Lahore,PK,real-time apr,1,1,25,0,x-trends
+Lahore,PK,real-time apr,1,1,22,0,x-trends
+Lahore,PK,Georgia,1,1,23,0,x-trends
+Lahore,PK,Goliath,1,1,24,0,x-trends
 Lahore,PK,Gemini 4 Argon,1,1,26,0,x-trends
+Lahore,PK,Vladimir Kolokoltsev,1,1,26,0,x-trends
 Lahore,PK,Real Madrid,1,1,27,0,x-trends
-Lahore,PK,Goliath,1,1,28,0,x-trends
-Lahore,PK,Vladimir Kolokoltsev,1,1,29,0,x-trends
-Lahore,PK,$giri,1,1,30,0,x-trends
+Lahore,PK,$giri,1,1,27,0,x-trends
+Lahore,PK,sukkur barrage,1,1,28,0,x-trends
+Lahore,PK,shamim sheikhani foundation,1,1,29,0,x-trends
+Lahore,PK,YouTubers,1,1,30,0,x-trends
 Leeds,GB,Epic,1,1,1,0,x-trends
 Leeds,GB,Martinez,1,1,2,0,x-trends
 Leeds,GB,#MCIPSG,1,1,3,0,x-trends
@@ -1347,65 +1602,92 @@ London,GB,Ndiaye,1,1,28,0,x-trends
 London,GB,Diego Garcia,1,1,29,0,x-trends
 London,GB,Barcola,1,1,30,0,x-trends
 Los Angeles,US,Kyle Tucker,1,1,1,0,x-trends
+Los Angeles,US,Rojas,1,1,1,0,x-trends
 Los Angeles,US,#ITFDB,1,1,2,0,x-trends
+Los Angeles,US,Kiké,1,1,2,0,x-trends
 Los Angeles,US,$RKLB,1,1,3,0,x-trends
-Los Angeles,US,Shohei,1,1,4,0,x-trends
+Los Angeles,US,Shohei,1,1,3,0,x-trends
 Los Angeles,US,Mbappe,1,1,5,0,x-trends
+Los Angeles,US,Real Madrid,1,1,5,0,x-trends
 Los Angeles,US,Valverde,1,1,6,0,x-trends
+Los Angeles,US,Roma,1,1,6,0,x-trends
 Los Angeles,US,Blitz,1,1,7,0,x-trends
+Los Angeles,US,Mourinho,1,1,7,0,x-trends
 Los Angeles,US,Raman,1,1,8,0,x-trends
+Los Angeles,US,Endrick,1,1,8,0,x-trends
 Los Angeles,US,$CRWV,1,1,9,0,x-trends
+Los Angeles,US,Kash,1,1,9,0,x-trends
 Los Angeles,US,#AEWDynamite,1,1,10,0,x-trends
+Los Angeles,US,Sydney Sweeney,1,1,10,0,x-trends
 Los Angeles,US,Snell,1,1,11,0,x-trends
+Los Angeles,US,Vini,1,1,11,0,x-trends
 Los Angeles,US,#Survivor51,1,1,12,0,x-trends
 Los Angeles,US,#RHOSLC,1,1,13,0,x-trends
 Los Angeles,US,Joe Davis,1,1,14,0,x-trends
+Los Angeles,US,Diddy,1,1,14,0,x-trends
 Los Angeles,US,Jackson Chourio,1,1,15,0,x-trends
 Los Angeles,US,Adam Copeland,1,1,16,0,x-trends
 Los Angeles,US,Kilby,1,1,17,0,x-trends
 Los Angeles,US,#AbbottElementary,1,1,18,0,x-trends
+Los Angeles,US,Jake Bauers,1,1,18,0,x-trends
 Los Angeles,US,Starshield,1,1,19,0,x-trends
+Los Angeles,US,Uribe,1,1,19,0,x-trends
 Los Angeles,US,Brian Cage,1,1,20,0,x-trends
 Los Angeles,US,Meredith,1,1,21,0,x-trends
+Los Angeles,US,Dave Roberts,1,1,21,0,x-trends
 Los Angeles,US,Christian Cage,1,1,22,0,x-trends
 Los Angeles,US,Gasser,1,1,23,0,x-trends
+Los Angeles,US,Will Smith,1,1,23,0,x-trends
 Los Angeles,US,Josh Alexander,1,1,24,0,x-trends
 Los Angeles,US,Kennesaw State,1,1,25,0,x-trends
 Los Angeles,US,Mister Miracle,1,1,26,0,x-trends
+Los Angeles,US,Garrett Mitchell,1,1,26,0,x-trends
 Los Angeles,US,Dodger Stadium,1,1,27,0,x-trends
+Los Angeles,US,Edman,1,1,27,0,x-trends
 Los Angeles,US,Josh Hutcherson,1,1,28,0,x-trends
+Los Angeles,US,#NLCS,1,1,28,0,x-trends
 Los Angeles,US,Bobby Diesel,1,1,29,0,x-trends
+Los Angeles,US,Pat Murphy,1,1,29,0,x-trends
 Los Angeles,US,Myron Reed,1,1,30,0,x-trends
+Los Angeles,US,#Brewers,1,1,30,0,x-trends
 Lucknow,IN,पंचायत चुनाव,1,1,1,0,x-trends
 Lucknow,IN,#NakulDhull,1,1,2,0,x-trends
 Lucknow,IN,अब्दुल कलाम,1,1,3,0,x-trends
 Lucknow,IN,पंचम स्वरूप,1,1,4,0,x-trends
-Lucknow,IN,#Jailer2,1,1,5,0,x-trends
-Lucknow,IN,पूर्व राष्ट्रपति,1,1,6,0,x-trends
+Lucknow,IN,#Jailer2,1,1,4,0,x-trends
+Lucknow,IN,पूर्व राष्ट्रपति,1,1,5,0,x-trends
 Lucknow,IN,#MaaSkandamata,1,1,7,0,x-trends
+Lucknow,IN,#APJAbdulKalam,1,1,7,0,x-trends
 Lucknow,IN,महान वैज्ञानिक,1,1,8,0,x-trends
 Lucknow,IN,#GodMorningThursday,1,1,9,0,x-trends
-Lucknow,IN,#APJAbdulKalam,1,1,10,0,x-trends
-Lucknow,IN,अंकिता भंडारी,1,1,11,0,x-trends
+Lucknow,IN,अंकिता भंडारी,1,1,10,0,x-trends
 Lucknow,IN,सदा देवी,1,1,12,0,x-trends
 Lucknow,IN,इंडिया गेट,1,1,13,0,x-trends
 Lucknow,IN,भगवान कार्तिकेय,1,1,14,0,x-trends
+Lucknow,IN,सूर्यकांत त्रिपाठी,1,1,14,0,x-trends
 Lucknow,IN,India Gate,1,1,15,0,x-trends
+Lucknow,IN,First Half,1,1,15,0,x-trends
 Lucknow,IN,Show Time,1,1,16,0,x-trends
 Lucknow,IN,Real Madrid,1,1,17,0,x-trends
+Lucknow,IN,दुर्गा भाभी,1,1,17,0,x-trends
 Lucknow,IN,Roma,1,1,18,0,x-trends
+Lucknow,IN,पावन पंचम,1,1,18,0,x-trends
 Lucknow,IN,Mourinho,1,1,19,0,x-trends
+Lucknow,IN,दुष्यंत गौतम,1,1,19,0,x-trends
 Lucknow,IN,Endrick,1,1,20,0,x-trends
-Lucknow,IN,दुष्यंत गौतम,1,1,21,0,x-trends
+Lucknow,IN,Nelson,1,1,21,0,x-trends
 Lucknow,IN,Vini,1,1,22,0,x-trends
 Lucknow,IN,Espi,1,1,23,0,x-trends
-Lucknow,IN,VVIP,1,1,24,0,x-trends
+Lucknow,IN,VVIP,1,1,23,0,x-trends
 Lucknow,IN,पवन खेड़ा,1,1,25,0,x-trends
+Lucknow,IN,इमरान प्रतापगढ़ी,1,1,25,0,x-trends
 Lucknow,IN,Valverde,1,1,26,0,x-trends
 Lucknow,IN,Enzo,1,1,27,0,x-trends
+Lucknow,IN,Governor,1,1,27,0,x-trends
 Lucknow,IN,Maresca,1,1,28,0,x-trends
-Lucknow,IN,IDBI,1,1,29,0,x-trends
+Lucknow,IN,IDBI,1,1,28,0,x-trends
 Lucknow,IN,Dushyant Gautam,1,1,30,0,x-trends
+Lucknow,IN,वास्तविक स्वरूप,1,1,30,0,x-trends
 Lyon,FR,#MCIPSG,1,1,1,0,x-trends
 Lyon,FR,Semenyo,1,1,2,0,x-trends
 Lyon,FR,Bouaddi,1,1,3,0,x-trends
@@ -1466,36 +1748,56 @@ Madrid,ES,Cucho,1,1,27,0,x-trends
 Madrid,ES,Silva,1,1,28,0,x-trends
 Madrid,ES,Rudiger,1,1,29,0,x-trends
 Madrid,ES,Bellingham,1,1,30,0,x-trends
+Maharashtra,IN,weather meerut,1,1,5,1,google-cities
+Maine,US,delonte west,1,1,1,100,google-cities
 Manchester,GB,Semenyo,1,1,1,0,x-trends
+Manchester,GB,Epic,1,1,1,0,x-trends
 Manchester,GB,Villa,1,1,2,0,x-trends
+Manchester,GB,Martinez,1,1,2,0,x-trends
 Manchester,GB,Palestine Action,1,1,3,0,x-trends
+Manchester,GB,#MCIPSG,1,1,3,0,x-trends
 Manchester,GB,Mbappe,1,1,4,0,x-trends
+Manchester,GB,#AEWDynamite,1,1,4,0,x-trends
 Manchester,GB,Derby,1,1,5,0,x-trends
+Manchester,GB,LASK,1,1,5,0,x-trends
 Manchester,GB,Emery,1,1,6,0,x-trends
-Manchester,GB,Epic,1,1,7,0,x-trends
+Manchester,GB,Donnarumma,1,1,6,0,x-trends
+Manchester,GB,Bouaddi,1,1,7,0,x-trends
 Manchester,GB,Zelenskyy,1,1,8,0,x-trends
-Manchester,GB,#AEWDynamite,1,1,9,0,x-trends
-Manchester,GB,Bouaddi,1,1,10,0,x-trends
-Manchester,GB,#MCIPSG,1,1,11,0,x-trends
-Manchester,GB,Donnarumma,1,1,12,0,x-trends
+Manchester,GB,Wilcox,1,1,8,0,x-trends
+Manchester,GB,Champions League,1,1,9,0,x-trends
+Manchester,GB,Starlink,1,1,11,0,x-trends
+Manchester,GB,Frimpong,1,1,12,0,x-trends
 Manchester,GB,#avfc,1,1,13,0,x-trends
+Manchester,GB,Starshield,1,1,13,0,x-trends
 Manchester,GB,Enzo,1,1,14,0,x-trends
 Manchester,GB,Roma,1,1,15,0,x-trends
+Manchester,GB,Piddington,1,1,15,0,x-trends
 Manchester,GB,#ncfc,1,1,16,0,x-trends
+Manchester,GB,Falklands,1,1,16,0,x-trends
 Manchester,GB,Twinks,1,1,17,0,x-trends
-Manchester,GB,#dcfc,1,1,18,0,x-trends
+Manchester,GB,#dcfc,1,1,17,0,x-trends
+Manchester,GB,Licha,1,1,18,0,x-trends
 Manchester,GB,Real Madrid,1,1,19,0,x-trends
+Manchester,GB,Russian,1,1,19,0,x-trends
 Manchester,GB,Ndiaye,1,1,20,0,x-trends
+Manchester,GB,Brexit,1,1,20,0,x-trends
 Manchester,GB,Anderson,1,1,21,0,x-trends
+Manchester,GB,Sally Rooney,1,1,21,0,x-trends
 Manchester,GB,Endrick,1,1,22,0,x-trends
+Manchester,GB,Doue,1,1,22,0,x-trends
 Manchester,GB,Manzambi,1,1,23,0,x-trends
 Manchester,GB,Vini,1,1,24,0,x-trends
+Manchester,GB,#PMQs,1,1,24,0,x-trends
 Manchester,GB,Lincoln,1,1,25,0,x-trends
+Manchester,GB,Chagos,1,1,25,0,x-trends
 Manchester,GB,Maresca,1,1,26,0,x-trends
 Manchester,GB,Mourinho,1,1,27,0,x-trends
 Manchester,GB,Eustace,1,1,28,0,x-trends
+Manchester,GB,Musk,1,1,28,0,x-trends
 Manchester,GB,Espi,1,1,29,0,x-trends
-Manchester,GB,Starshield,1,1,30,0,x-trends
+Manchester,GB,Diego Garcia,1,1,29,0,x-trends
+Manchester,GB,Barcola,1,1,30,0,x-trends
 Manila,PH,#2026MAMAVOTE,1,1,1,0,x-trends
 Manila,PH,#ENHYPEN,1,1,2,0,x-trends
 Manila,PH,#SEVENTEEN,1,1,3,0,x-trends
@@ -1526,36 +1828,55 @@ Manila,PH,DELIVERY BOI FULL TRAILER,1,1,27,0,x-trends
 Manila,PH,FIRSTONE 2ND SINGLE MV,1,1,28,0,x-trends
 Manila,PH,Mnet,1,1,29,0,x-trends
 Manila,PH,d5 dayone dod release,1,1,30,0,x-trends
+Manipur,IN,फ्लेवर्ड मिल्क,1,1,1,100,google-cities
+Manipur,IN,weather report today,1,1,9,18,google-cities
 Marseille,FR,Listing ID,1,1,1,0,x-trends
 Marseille,FR,#MCIPSG,1,1,2,0,x-trends
 Marseille,FR,Semenyo,1,1,3,0,x-trends
+Marseille,FR,Under 100,1,1,3,0,x-trends
 Marseille,FR,Bouaddi,1,1,4,0,x-trends
 Marseille,FR,Roma,1,1,5,0,x-trends
 Marseille,FR,#CityPSG,1,1,6,0,x-trends
 Marseille,FR,Endrick,1,1,7,0,x-trends
+Marseille,FR,#citypsg,1,1,7,0,x-trends
 Marseille,FR,Le PSG,1,1,8,0,x-trends
+Marseille,FR,#staracademylelive,1,1,8,0,x-trends
 Marseille,FR,Tchouameni,1,1,9,0,x-trends
-Marseille,FR,Donnarumma,1,1,10,0,x-trends
+Marseille,FR,Donnarumma,1,1,9,0,x-trends
 Marseille,FR,Mourinho,1,1,11,0,x-trends
+Marseille,FR,Under 50,1,1,11,0,x-trends
 Marseille,FR,Doué,1,1,12,0,x-trends
+Marseille,FR,Kvara,1,1,12,0,x-trends
 Marseille,FR,Cherki,1,1,13,0,x-trends
+Marseille,FR,Manchester City,1,1,13,0,x-trends
 Marseille,FR,Moonshot,1,1,14,0,x-trends
 Marseille,FR,Vini,1,1,15,0,x-trends
+Marseille,FR,Natacha Polony,1,1,15,0,x-trends
 Marseille,FR,Valverde,1,1,16,0,x-trends
+Marseille,FR,Ferrand,1,1,16,0,x-trends
 Marseille,FR,Haaland,1,1,17,0,x-trends
+Marseille,FR,#ROMRMA,1,1,17,0,x-trends
 Marseille,FR,Maresca,1,1,18,0,x-trends
+Marseille,FR,Soudan,1,1,18,0,x-trends
 Marseille,FR,Ferran,1,1,19,0,x-trends
 Marseille,FR,Espi,1,1,20,0,x-trends
+Marseille,FR,Starlink,1,1,20,0,x-trends
 Marseille,FR,Safonov,1,1,21,0,x-trends
 Marseille,FR,Vitinha,1,1,22,0,x-trends
-Marseille,FR,Kvara,1,1,23,0,x-trends
-Marseille,FR,Manchester City,1,1,24,0,x-trends
+Marseille,FR,Luis Enrique,1,1,24,0,x-trends
 Marseille,FR,Real Madrid,1,1,25,0,x-trends
-Marseille,FR,Luis Enrique,1,1,26,0,x-trends
+Marseille,FR,Khalil,1,1,25,0,x-trends
 Marseille,FR,Ousmane,1,1,27,0,x-trends
 Marseille,FR,Diomande,1,1,28,0,x-trends
+Marseille,FR,Akliouche,1,1,28,0,x-trends
 Marseille,FR,Ndiaye,1,1,29,0,x-trends
+Marseille,FR,Greta,1,1,29,0,x-trends
 Marseille,FR,Enzo Fernandez,1,1,30,0,x-trends
+Maryland,US,delonte west,1,1,2,52,google-cities
+Maryland,US,justin wrobleski,1,1,15,3,google-cities
+Massachusetts,US,delonte west,1,1,3,37,google-cities
+Massachusetts,US,justin wrobleski,1,1,13,7,google-cities
+Massachusetts,US,christian yelich,1,1,15,4,google-cities
 Melbourne,AU,#2026MAMAVOTE,1,1,1,0,x-trends
 Melbourne,AU,Starshield,1,1,2,0,x-trends
 Melbourne,AU,Murray,1,1,3,0,x-trends
@@ -1589,25 +1910,34 @@ Melbourne,AU,Sally Rooney,1,1,30,0,x-trends
 Mexico City,MX,Amazon,1,1,1,0,x-trends
 Mexico City,MX,Congreso,1,1,2,0,x-trends
 Mexico City,MX,#AntorchaGobiernaBien,1,1,3,0,x-trends
+Mexico City,MX,Snell,1,1,3,0,x-trends
 Mexico City,MX,#LaGranjaAsamblea,1,1,4,0,x-trends
 Mexico City,MX,Ocoyucan,1,1,5,0,x-trends
+Mexico City,MX,Dodgers,1,1,5,0,x-trends
 Mexico City,MX,Madrid,1,1,6,0,x-trends
 Mexico City,MX,Tecomatlán,1,1,7,0,x-trends
+Mexico City,MX,#PorLaMedalla,1,1,7,0,x-trends
 Mexico City,MX,#masadaltamimi,1,1,8,0,x-trends
-Mexico City,MX,Snell,1,1,9,0,x-trends
+Mexico City,MX,Dave Roberts,1,1,8,0,x-trends
+Mexico City,MX,La Bonita,1,1,9,0,x-trends
 Mexico City,MX,Endrick,1,1,10,0,x-trends
+Mexico City,MX,Will Smith,1,1,10,0,x-trends
 Mexico City,MX,Roma,1,1,11,0,x-trends
+Mexico City,MX,SAVE ME,1,1,11,0,x-trends
 Mexico City,MX,Roberto Velasco,1,1,12,0,x-trends
 Mexico City,MX,Ovidio Guzmán,1,1,13,0,x-trends
 Mexico City,MX,#ConvoyEnChilango,1,1,14,0,x-trends
+Mexico City,MX,Junior H,1,1,14,0,x-trends
 Mexico City,MX,Vini,1,1,15,0,x-trends
 Mexico City,MX,#아로새겨_시작될_에반의_날,1,1,16,0,x-trends
 Mexico City,MX,Periférico Norte,1,1,17,0,x-trends
 Mexico City,MX,Espi,1,1,18,0,x-trends
+Mexico City,MX,#OverflowingLoveForEVAN,1,1,18,0,x-trends
 Mexico City,MX,Clara Brugada,1,1,19,0,x-trends
+Mexico City,MX,Ley de Ingresos 2027,1,1,19,0,x-trends
 Mexico City,MX,Naim Darrechi,1,1,20,0,x-trends
 Mexico City,MX,Segundo Informe de Gobierno,1,1,21,0,x-trends
-Mexico City,MX,Ley de Ingresos 2027,1,1,22,0,x-trends
+Mexico City,MX,Brewers,1,1,21,0,x-trends
 Mexico City,MX,Stolas,1,1,23,0,x-trends
 Mexico City,MX,Raúl Jiménez,1,1,24,0,x-trends
 Mexico City,MX,Barranca Honda,1,1,25,0,x-trends
@@ -1616,6 +1946,7 @@ Mexico City,MX,Mourinho,1,1,27,0,x-trends
 Mexico City,MX,Champions,1,1,28,0,x-trends
 Mexico City,MX,Valverde,1,1,29,0,x-trends
 Mexico City,MX,Parque Naucalli,1,1,30,0,x-trends
+Mexico City,MX,Vinicius,1,1,30,0,x-trends
 Miami,US,Charlie,1,1,1,0,x-trends
 Miami,US,Vote YES,1,1,2,0,x-trends
 Miami,US,Madrid,1,1,3,0,x-trends
@@ -1676,6 +2007,10 @@ Milan,IT,Allegri,1,1,27,0,x-trends
 Milan,IT,Lautaro,1,1,28,0,x-trends
 Milan,IT,Dimarco,1,1,29,0,x-trends
 Milan,IT,Kone,1,1,30,0,x-trends
+Minnesota,US,christian yelich,1,1,5,6,google-cities
+Minnesota,US,justin wrobleski,1,1,14,3,google-cities
+Missouri,US,denver nuggets,1,1,13,3,google-cities
+Montana,US,denver nuggets,1,1,15,3,google-cities
 Montreal,CA,Andy,1,1,1,0,x-trends
 Montreal,CA,Prime,1,1,2,0,x-trends
 Montreal,CA,#Survivor51,1,1,3,0,x-trends
@@ -1706,6 +2041,7 @@ Montreal,CA,Hoekstra,1,1,27,0,x-trends
 Montreal,CA,Alaska,1,1,28,0,x-trends
 Montreal,CA,Raty,1,1,29,0,x-trends
 Montreal,CA,51st State,1,1,30,0,x-trends
+Moscow,RU,Скоро,1,2,17,0,x-trends
 Moscow,RU,Starlink,1,1,1,0,x-trends
 Moscow,RU,#PortfolioDay,1,1,2,0,x-trends
 Moscow,RU,#2026MAMAVOTE,1,1,3,0,x-trends
@@ -1718,11 +2054,10 @@ Moscow,RU,#지민날_1013_못참지,1,1,9,0,x-trends
 Moscow,RU,Яндекс,1,1,10,0,x-trends
 Moscow,RU,#디스이즈_지민데이,1,1,11,0,x-trends
 Moscow,RU,I VOTE,1,1,12,0,x-trends
-Moscow,RU,Kris,1,1,13,0,x-trends
+Moscow,RU,Kris,1,1,12,0,x-trends
 Moscow,RU,Зеленский,1,1,14,0,x-trends
 Moscow,RU,польши,1,1,15,0,x-trends
 Moscow,RU,Moscow,1,1,16,0,x-trends
-Moscow,RU,Скоро,1,1,17,0,x-trends
 Moscow,RU,Трампа,1,1,18,0,x-trends
 Moscow,RU,VibeShorts,1,1,19,0,x-trends
 Moscow,RU,Смотря,1,1,20,0,x-trends
@@ -1734,8 +2069,9 @@ Moscow,RU,USSR,1,1,25,0,x-trends
 Moscow,RU,Пусть,1,1,26,0,x-trends
 Moscow,RU,Ирана,1,1,27,0,x-trends
 Moscow,RU,Украине,1,1,28,0,x-trends
-Moscow,RU,European,1,1,29,0,x-trends
-Moscow,RU,легко,1,1,30,0,x-trends
+Moscow,RU,European,1,1,28,0,x-trends
+Moscow,RU,легко,1,1,29,0,x-trends
+Moscow,RU,Halloween,1,1,30,0,x-trends
 Mumbai,IN,अब्दुल कलाम,1,1,1,0,x-trends
 Mumbai,IN,पंचम स्वरूप,1,1,2,0,x-trends
 Mumbai,IN,पूर्व राष्ट्रपति,1,1,3,0,x-trends
@@ -1766,22 +2102,24 @@ Mumbai,IN,IDBI,1,1,27,0,x-trends
 Mumbai,IN,Maresca,1,1,28,0,x-trends
 Mumbai,IN,Governor,1,1,29,0,x-trends
 Mumbai,IN,Enzo,1,1,30,0,x-trends
+Munich,DE,#BODBVB,1,2,3,0,x-trends
+Munich,DE,#Maischberger,1,2,5,0,x-trends
 Munich,DE,Starlink,1,1,1,0,x-trends
 Munich,DE,McRib,1,1,2,0,x-trends
-Munich,DE,#BODBVB,1,1,3,0,x-trends
 Munich,DE,McDonald,1,1,4,0,x-trends
-Munich,DE,#Maischberger,1,1,5,0,x-trends
 Munich,DE,#2026MAMAVOTE,1,1,6,0,x-trends
-Munich,DE,Apotheke,1,1,7,0,x-trends
+Munich,DE,Apotheke,1,1,6,0,x-trends
 Munich,DE,Saal,1,1,8,0,x-trends
 Munich,DE,Schweinefleisch,1,1,9,0,x-trends
 Munich,DE,Musk,1,1,10,0,x-trends
+Munich,DE,#Jailer2,1,1,10,0,x-trends
 Munich,DE,Burger,1,1,11,0,x-trends
 Munich,DE,Böhmermann,1,1,12,0,x-trends
-Munich,DE,Zuckersteuer,1,1,13,0,x-trends
+Munich,DE,Zuckersteuer,1,1,12,0,x-trends
 Munich,DE,Wahlgang,1,1,14,0,x-trends
 Munich,DE,wochenteiler,1,1,15,0,x-trends
 Munich,DE,Bacon,1,1,16,0,x-trends
+Munich,DE,Dodgers,1,1,16,0,x-trends
 Munich,DE,Existenzrecht,1,1,17,0,x-trends
 Munich,DE,Kinderehen,1,1,18,0,x-trends
 Munich,DE,#vfkfcb,1,1,19,0,x-trends
@@ -1794,36 +2132,44 @@ Munich,DE,Roma,1,1,25,0,x-trends
 Munich,DE,Sortiment,1,1,26,0,x-trends
 Munich,DE,Real Madrid,1,1,27,0,x-trends
 Munich,DE,Anja Kohl,1,1,28,0,x-trends
-Munich,DE,Organisationen,1,1,29,0,x-trends
-Munich,DE,Schwäche und Unfreiheit,1,1,30,0,x-trends
+Munich,DE,Organisationen,1,1,28,0,x-trends
+Munich,DE,Schwäche und Unfreiheit,1,1,29,0,x-trends
 Nagpur,IN,अब्दुल कलाम,1,1,1,0,x-trends
 Nagpur,IN,पंचम स्वरूप,1,1,2,0,x-trends
-Nagpur,IN,#Jailer2,1,1,3,0,x-trends
+Nagpur,IN,#Jailer2,1,1,2,0,x-trends
+Nagpur,IN,पूर्व राष्ट्रपति,1,1,3,0,x-trends
 Nagpur,IN,#MaaSkandamata,1,1,4,0,x-trends
-Nagpur,IN,पूर्व राष्ट्रपति,1,1,5,0,x-trends
+Nagpur,IN,#APJAbdulKalam,1,1,5,0,x-trends
 Nagpur,IN,महान वैज्ञानिक,1,1,6,0,x-trends
 Nagpur,IN,#GodMorningThursday,1,1,7,0,x-trends
-Nagpur,IN,#APJAbdulKalam,1,1,8,0,x-trends
-Nagpur,IN,अंकिता भंडारी,1,1,9,0,x-trends
+Nagpur,IN,अंकिता भंडारी,1,1,8,0,x-trends
 Nagpur,IN,सदा देवी,1,1,10,0,x-trends
 Nagpur,IN,इंडिया गेट,1,1,11,0,x-trends
 Nagpur,IN,#MissileManOfIndia,1,1,12,0,x-trends
+Nagpur,IN,सूर्यकांत त्रिपाठी,1,1,12,0,x-trends
 Nagpur,IN,भगवान कार्तिकेय,1,1,13,0,x-trends
+Nagpur,IN,#JusticeForAnkitaBhandari,1,1,13,0,x-trends
 Nagpur,IN,Roma,1,1,14,0,x-trends
+Nagpur,IN,First Half,1,1,14,0,x-trends
 Nagpur,IN,Real Madrid,1,1,15,0,x-trends
+Nagpur,IN,दुर्गा भाभी,1,1,15,0,x-trends
 Nagpur,IN,India Gate,1,1,16,0,x-trends
 Nagpur,IN,Show Time,1,1,17,0,x-trends
+Nagpur,IN,पावन पंचम,1,1,17,0,x-trends
 Nagpur,IN,Mourinho,1,1,18,0,x-trends
 Nagpur,IN,Endrick,1,1,19,0,x-trends
+Nagpur,IN,Nelson,1,1,19,0,x-trends
 Nagpur,IN,दुष्यंत गौतम,1,1,20,0,x-trends
 Nagpur,IN,Vini,1,1,21,0,x-trends
 Nagpur,IN,Espi,1,1,22,0,x-trends
-Nagpur,IN,VVIP,1,1,23,0,x-trends
+Nagpur,IN,VVIP,1,1,22,0,x-trends
 Nagpur,IN,पवन खेड़ा,1,1,24,0,x-trends
+Nagpur,IN,इमरान प्रतापगढ़ी,1,1,24,0,x-trends
 Nagpur,IN,Valverde,1,1,25,0,x-trends
+Nagpur,IN,Governor,1,1,25,0,x-trends
 Nagpur,IN,Enzo,1,1,26,0,x-trends
 Nagpur,IN,Maresca,1,1,27,0,x-trends
-Nagpur,IN,IDBI,1,1,28,0,x-trends
+Nagpur,IN,IDBI,1,1,27,0,x-trends
 Nagpur,IN,Dushyant Gautam,1,1,29,0,x-trends
 Nagpur,IN,Anderson,1,1,30,0,x-trends
 Nairobi,KE,#TheTrumpetIsSounding,1,1,1,0,x-trends
@@ -1856,42 +2202,86 @@ Nairobi,KE,Rob Finnerty,1,1,27,0,x-trends
 Nairobi,KE,Nairobi,1,1,28,0,x-trends
 Nairobi,KE,ksh 2.3,1,1,29,0,x-trends
 Nairobi,KE,Licha,1,1,30,0,x-trends
+Nebraska,US,denver nuggets,1,1,7,4,google-cities
+Nevada,US,justin wrobleski,1,1,6,14,google-cities
+Nevada,US,world series,1,1,6,22,google-cities
+Nevada,US,christian yelich,1,1,9,5,google-cities
+New Jersey,US,delonte west,1,1,4,36,google-cities
+New Jersey,US,christian yelich,1,1,6,6,google-cities
+New Jersey,US,world series,1,1,8,20,google-cities
+New Mexico,US,denver nuggets,1,1,3,9,google-cities
+New Mexico,US,justin wrobleski,1,1,5,14,google-cities
+New Mexico,US,world series,1,1,12,19,google-cities
+New York,US,#SJUBB,1,2,4,0,x-trends
 New York,US,Musk,1,1,1,0,x-trends
-New York,US,Egor,1,1,2,0,x-trends
+New York,US,Egor,1,1,1,0,x-trends
+New York,US,Nets,1,1,2,0,x-trends
 New York,US,St. John,1,1,3,0,x-trends
-New York,US,Nets,1,1,4,0,x-trends
-New York,US,#sjubb,1,1,5,0,x-trends
-New York,US,Arizona,1,1,6,0,x-trends
+New York,US,Jenna,1,1,3,0,x-trends
+New York,US,Arizona,1,1,5,0,x-trends
+New York,US,Diddy,1,1,6,0,x-trends
 New York,US,Dudus,1,1,7,0,x-trends
+New York,US,Real Madrid,1,1,7,0,x-trends
 New York,US,#AEWDynamite,1,1,8,0,x-trends
+New York,US,Vini,1,1,8,0,x-trends
 New York,US,#Survivor51,1,1,9,0,x-trends
-New York,US,Snell,1,1,10,0,x-trends
+New York,US,Snell,1,1,9,0,x-trends
+New York,US,christian yelich,1,1,10,4,google-cities
+New York,US,Jake Bauers,1,1,10,0,x-trends
 New York,US,#RHOSLC,1,1,11,0,x-trends
+New York,US,Brewers,1,1,11,0,x-trends
 New York,US,Joe Davis,1,1,12,0,x-trends
+New York,US,Dave Roberts,1,1,12,0,x-trends
+New York,US,delonte west,1,1,13,27,google-cities
 New York,US,Jackson Chourio,1,1,13,0,x-trends
+New York,US,Uribe,1,1,13,0,x-trends
 New York,US,Adam Copeland,1,1,14,0,x-trends
+New York,US,world series,1,1,15,18,google-cities
 New York,US,Gasser,1,1,15,0,x-trends
+New York,US,#Dodgers,1,1,15,0,x-trends
 New York,US,Giannis,1,1,16,0,x-trends
 New York,US,#SistasOnBET,1,1,17,0,x-trends
 New York,US,Kilby,1,1,18,0,x-trends
+New York,US,Will Smith,1,1,18,0,x-trends
 New York,US,Meredith,1,1,19,0,x-trends
 New York,US,Edman,1,1,20,0,x-trends
+New York,US,Garrett Mitchell,1,1,20,0,x-trends
 New York,US,Starshield,1,1,21,0,x-trends
+New York,US,#NLCS,1,1,21,0,x-trends
 New York,US,Brian Cage,1,1,22,0,x-trends
 New York,US,Myron Reed,1,1,23,0,x-trends
+New York,US,DL Hall,1,1,23,0,x-trends
 New York,US,Bobby Diesel,1,1,24,0,x-trends
+New York,US,Pat Murphy,1,1,24,0,x-trends
 New York,US,Starlink,1,1,25,0,x-trends
 New York,US,Bronwyn,1,1,26,0,x-trends
 New York,US,Christian Cage,1,1,27,0,x-trends
+New York,US,BACK TO BACK,1,1,27,0,x-trends
 New York,US,Josh Alexander,1,1,28,0,x-trends
 New York,US,Kennesaw State,1,1,29,0,x-trends
 New York,US,Mister Miracle,1,1,30,0,x-trends
+New York,US,Muncy,1,1,30,0,x-trends
+North Carolina,US,delonte west,1,1,12,29,google-cities
+Northern Ireland,GB,north west,1,1,2,79,google-cities
+Northern Ireland,GB,dodgers,1,1,2,99,google-cities
+Northern Ireland,GB,crunchyroll,1,1,4,80,google-cities
+Northern Ireland,GB,street fighter movie,1,1,4,66,google-cities
+Odisha,IN,weather report today,1,1,15,9,google-cities
+Ohio,US,world series,1,1,5,23,google-cities
+Ohio,US,delonte west,1,1,9,31,google-cities
+Ohio,US,christian yelich,1,1,13,4,google-cities
+Oklahoma,US,denver nuggets,1,1,11,3,google-cities
+Oklahoma,US,justin wrobleski,1,1,12,7,google-cities
 Osaka,JP,#あさイチ,1,1,1,0,x-trends
 Osaka,JP,#もーにー,1,1,2,0,x-trends
+Osaka,JP,島村先生,1,1,2,0,x-trends
 Osaka,JP,#びっくりドンキーのおいもに沼ろう,1,1,3,0,x-trends
 Osaka,JP,IDOM,1,1,4,0,x-trends
+Osaka,JP,#ZIPバランスタワー毎日チャレンジ,1,1,4,0,x-trends
 Osaka,JP,任命責任,1,1,5,0,x-trends
+Osaka,JP,#ココスで味わうご褒美マロン,1,1,5,0,x-trends
 Osaka,JP,朝鮮学校,1,1,6,0,x-trends
+Osaka,JP,ゲーム性,1,1,6,0,x-trends
 Osaka,JP,サイゼリヤ,1,1,7,0,x-trends
 Osaka,JP,議員辞職,1,1,8,0,x-trends
 Osaka,JP,#目黒蓮,1,1,9,0,x-trends
@@ -1900,52 +2290,73 @@ Osaka,JP,遊佐浩二,1,1,11,0,x-trends
 Osaka,JP,遊佐さん,1,1,12,0,x-trends
 Osaka,JP,エキスパンション・パス,1,1,13,0,x-trends
 Osaka,JP,追加ストーリー,1,1,14,0,x-trends
+Osaka,JP,ドジャース,1,1,14,0,x-trends
 Osaka,JP,織田くん,1,1,15,0,x-trends
 Osaka,JP,織田翔希,1,1,16,0,x-trends
 Osaka,JP,結成3周年,1,1,17,0,x-trends
+Osaka,JP,エドマン,1,1,17,0,x-trends
 Osaka,JP,サンパラ,1,1,18,0,x-trends
-Osaka,JP,エドマン,1,1,19,0,x-trends
+Osaka,JP,年の差婚,1,1,18,0,x-trends
+Osaka,JP,バウアーズ,1,1,19,0,x-trends
 Osaka,JP,キオクシア,1,1,20,0,x-trends
 Osaka,JP,武部新氏,1,1,21,0,x-trends
+Osaka,JP,エキスパンションパス,1,1,21,0,x-trends
 Osaka,JP,ファミマの無限クリーム,1,1,22,0,x-trends
+Osaka,JP,須藤晃さん,1,1,22,0,x-trends
 Osaka,JP,初公開映像,1,1,23,0,x-trends
 Osaka,JP,世界手洗いの日,1,1,24,0,x-trends
 Osaka,JP,簗氏の後任,1,1,25,0,x-trends
+Osaka,JP,日経平均,1,1,25,0,x-trends
 Osaka,JP,メジャー挑戦,1,1,26,0,x-trends
+Osaka,JP,ブルワーズ,1,1,26,0,x-trends
 Osaka,JP,キノコの日,1,1,27,0,x-trends
+Osaka,JP,ロバーツ,1,1,27,0,x-trends
 Osaka,JP,異例の進路,1,1,28,0,x-trends
 Osaka,JP,AI開発者,1,1,29,0,x-trends
+Osaka,JP,ウリーベ,1,1,29,0,x-trends
 Osaka,JP,ドラフト1位確実,1,1,30,0,x-trends
 Paris,FR,Dembele,1,1,1,0,x-trends
-Paris,FR,#MCIPSG,1,1,2,0,x-trends
+Paris,FR,#MCIPSG,1,1,1,0,x-trends
+Paris,FR,Under 100,1,1,2,0,x-trends
 Paris,FR,Semenyo,1,1,3,0,x-trends
 Paris,FR,Bouaddi,1,1,4,0,x-trends
 Paris,FR,Roma,1,1,5,0,x-trends
 Paris,FR,#CityPSG,1,1,6,0,x-trends
 Paris,FR,Endrick,1,1,7,0,x-trends
+Paris,FR,Donnarumma,1,1,7,0,x-trends
 Paris,FR,Le PSG,1,1,8,0,x-trends
+Paris,FR,#StarAcademyLeLive,1,1,8,0,x-trends
 Paris,FR,Tchouameni,1,1,9,0,x-trends
-Paris,FR,Donnarumma,1,1,10,0,x-trends
+Paris,FR,Under 50,1,1,10,0,x-trends
 Paris,FR,Mourinho,1,1,11,0,x-trends
+Paris,FR,Kvara,1,1,11,0,x-trends
 Paris,FR,Cherki,1,1,12,0,x-trends
+Paris,FR,Manchester City,1,1,12,0,x-trends
 Paris,FR,Vini,1,1,13,0,x-trends
 Paris,FR,Moonshot,1,1,14,0,x-trends
+Paris,FR,Natacha Polony,1,1,14,0,x-trends
 Paris,FR,Doué,1,1,15,0,x-trends
+Paris,FR,Ferrand,1,1,15,0,x-trends
 Paris,FR,Ferran,1,1,16,0,x-trends
+Paris,FR,#ROMRMA,1,1,16,0,x-trends
 Paris,FR,Valverde,1,1,17,0,x-trends
+Paris,FR,Soudan,1,1,17,0,x-trends
 Paris,FR,Haaland,1,1,18,0,x-trends
 Paris,FR,Maresca,1,1,19,0,x-trends
+Paris,FR,Starlink,1,1,19,0,x-trends
 Paris,FR,Espi,1,1,20,0,x-trends
 Paris,FR,Safonov,1,1,21,0,x-trends
+Paris,FR,Khalil,1,1,21,0,x-trends
 Paris,FR,Vitinha,1,1,22,0,x-trends
-Paris,FR,Kvara,1,1,23,0,x-trends
-Paris,FR,Manchester City,1,1,24,0,x-trends
+Paris,FR,Luis Enrique,1,1,23,0,x-trends
 Paris,FR,Real Madrid,1,1,25,0,x-trends
-Paris,FR,Luis Enrique,1,1,26,0,x-trends
+Paris,FR,Akliouche,1,1,26,0,x-trends
 Paris,FR,Ousmane,1,1,27,0,x-trends
+Paris,FR,Greta,1,1,27,0,x-trends
 Paris,FR,Ndiaye,1,1,28,0,x-trends
 Paris,FR,Diomande,1,1,29,0,x-trends
 Paris,FR,Enzo Fernandez,1,1,30,0,x-trends
+Paris,FR,the cex,1,1,30,0,x-trends
 Patna,IN,#INDvsWI,1,1,1,0,x-trends
 Patna,IN,अब्दुल कलाम,1,1,2,0,x-trends
 Patna,IN,#Jailer2,1,1,3,0,x-trends
@@ -1976,6 +2387,9 @@ Patna,IN,इमरान प्रतापगढ़ी,1,1,27,0,x-trends
 Patna,IN,पवन खेड़ा,1,1,28,0,x-trends
 Patna,IN,Espi,1,1,29,0,x-trends
 Patna,IN,Endrick,1,1,30,0,x-trends
+Pennsylvania,US,delonte west,1,1,7,32,google-cities
+Pennsylvania,US,christian yelich,1,1,7,5,google-cities
+Pennsylvania,US,world series,1,1,13,19,google-cities
 Perth,AU,#2026MAMAVOTE,1,1,1,0,x-trends
 Perth,AU,Starshield,1,1,2,0,x-trends
 Perth,AU,Murray,1,1,3,0,x-trends
@@ -1985,70 +2399,87 @@ Perth,AU,Starlink,1,1,6,0,x-trends
 Perth,AU,Coleman,1,1,7,0,x-trends
 Perth,AU,Crows,1,1,8,0,x-trends
 Perth,AU,#Jailer2,1,1,9,0,x-trends
-Perth,AU,Stolas,1,1,10,0,x-trends
-Perth,AU,Narnia,1,1,11,0,x-trends
+Perth,AU,Stolas,1,1,9,0,x-trends
+Perth,AU,Narnia,1,1,10,0,x-trends
+Perth,AU,Ukraine,1,1,11,0,x-trends
 Perth,AU,Anne Aly,1,1,12,0,x-trends
+Perth,AU,Dodgers,1,1,12,0,x-trends
 Perth,AU,Roughead,1,1,13,0,x-trends
-Perth,AU,Ukraine,1,1,14,0,x-trends
+Perth,AU,Michelin,1,1,13,0,x-trends
 Perth,AU,Shane Gillis,1,1,15,0,x-trends
 Perth,AU,Sally Rooney,1,1,16,0,x-trends
-Perth,AU,Michelin,1,1,17,0,x-trends
 Perth,AU,Angie Bell,1,1,18,0,x-trends
+Perth,AU,Anika Wells,1,1,18,0,x-trends
 Perth,AU,Butts,1,1,19,0,x-trends
 Perth,AU,Roma,1,1,20,0,x-trends
-Perth,AU,Plibersek,1,1,21,0,x-trends
+Perth,AU,Plibersek,1,1,20,0,x-trends
 Perth,AU,Adelaide,1,1,22,0,x-trends
 Perth,AU,Musk,1,1,23,0,x-trends
 Perth,AU,SANFL,1,1,24,0,x-trends
+Perth,AU,Piers,1,1,24,0,x-trends
 Perth,AU,Brady,1,1,25,0,x-trends
 Perth,AU,#VisionQuest,1,1,26,0,x-trends
 Perth,AU,Bradley,1,1,27,0,x-trends
 Perth,AU,Richmond,1,1,28,0,x-trends
 Perth,AU,Whitlock,1,1,29,0,x-trends
+Perth,AU,Logue,1,1,29,0,x-trends
 Perth,AU,McLachlan,1,1,30,0,x-trends
 Pune,IN,अब्दुल कलाम,1,1,1,0,x-trends
 Pune,IN,पंचम स्वरूप,1,1,2,0,x-trends
-Pune,IN,#Jailer2,1,1,3,0,x-trends
+Pune,IN,#Jailer2,1,1,2,0,x-trends
+Pune,IN,पूर्व राष्ट्रपति,1,1,3,0,x-trends
 Pune,IN,#MaaSkandamata,1,1,4,0,x-trends
-Pune,IN,पूर्व राष्ट्रपति,1,1,5,0,x-trends
+Pune,IN,#APJAbdulKalam,1,1,5,0,x-trends
 Pune,IN,#GodMorningThursday,1,1,6,0,x-trends
-Pune,IN,महान वैज्ञानिक,1,1,7,0,x-trends
-Pune,IN,#APJAbdulKalam,1,1,8,0,x-trends
+Pune,IN,महान वैज्ञानिक,1,1,6,0,x-trends
+Pune,IN,अंकिता भंडारी,1,1,8,0,x-trends
 Pune,IN,सदा देवी,1,1,9,0,x-trends
-Pune,IN,अंकिता भंडारी,1,1,10,0,x-trends
 Pune,IN,इंडिया गेट,1,1,11,0,x-trends
 Pune,IN,#MissileManOfIndia,1,1,12,0,x-trends
+Pune,IN,सूर्यकांत त्रिपाठी,1,1,12,0,x-trends
 Pune,IN,भगवान कार्तिकेय,1,1,13,0,x-trends
+Pune,IN,#JusticeForAnkitaBhandari,1,1,13,0,x-trends
 Pune,IN,Roma,1,1,14,0,x-trends
+Pune,IN,First Half,1,1,14,0,x-trends
 Pune,IN,Real Madrid,1,1,15,0,x-trends
 Pune,IN,India Gate,1,1,16,0,x-trends
+Pune,IN,पावन पंचम,1,1,16,0,x-trends
 Pune,IN,Show Time,1,1,17,0,x-trends
+Pune,IN,दुर्गा भाभी,1,1,17,0,x-trends
 Pune,IN,Mourinho,1,1,18,0,x-trends
 Pune,IN,Endrick,1,1,19,0,x-trends
+Pune,IN,Nelson,1,1,19,0,x-trends
 Pune,IN,Donnarumma,1,1,20,0,x-trends
+Pune,IN,दुष्यंत गौतम,1,1,20,0,x-trends
 Pune,IN,Vini,1,1,21,0,x-trends
 Pune,IN,Espi,1,1,22,0,x-trends
-Pune,IN,दुष्यंत गौतम,1,1,23,0,x-trends
+Pune,IN,VVIP,1,1,22,0,x-trends
 Pune,IN,Valverde,1,1,24,0,x-trends
 Pune,IN,Enzo,1,1,25,0,x-trends
-Pune,IN,IDBI,1,1,26,0,x-trends
+Pune,IN,IDBI,1,1,25,0,x-trends
+Pune,IN,इमरान प्रतापगढ़ी,1,1,26,0,x-trends
 Pune,IN,Maresca,1,1,27,0,x-trends
+Pune,IN,पवन खेड़ा,1,1,27,0,x-trends
 Pune,IN,Dushyant Gautam,1,1,28,0,x-trends
-Pune,IN,पवन खेड़ा,1,1,29,0,x-trends
-Pune,IN,VVIP,1,1,30,0,x-trends
+Pune,IN,Governor,1,1,30,0,x-trends
+Punjab,IN,weather shimla,1,1,3,5,google-cities
+Punjab,IN,weather report today,1,1,14,9,google-cities
 Quezon City,PH,#2026MAMAVOTE,1,1,1,0,x-trends
 Quezon City,PH,#ENHYPEN,1,1,2,0,x-trends
 Quezon City,PH,#SEVENTEEN,1,1,3,0,x-trends
 Quezon City,PH,BINI GLOBAL IMPACT AWARD,1,1,4,0,x-trends
 Quezon City,PH,#MoonshadowSeriesFinalEP,1,1,5,0,x-trends
 Quezon City,PH,#HALLOWEENTIPS,1,1,6,0,x-trends
+Quezon City,PH,#OverflowingLoveForEVAN,1,1,6,0,x-trends
 Quezon City,PH,PEEMAK ANG UNANG ARAW,1,1,7,0,x-trends
 Quezon City,PH,LOVE TO THE MOON AND KEY,1,1,8,0,x-trends
 Quezon City,PH,I VOTE,1,1,9,0,x-trends
 Quezon City,PH,HBD FAYE PERAYA,1,1,10,0,x-trends
 Quezon City,PH,SB19 HAS GLOBAL IMPACT,1,1,11,0,x-trends
+Quezon City,PH,PHUWIN MAMI IN HOKKAIDO,1,1,11,0,x-trends
 Quezon City,PH,LOVE ON HIRE BLESSING DAY,1,1,12,0,x-trends
-Quezon City,PH,ELLEJAY SMOOTH LANDING,1,1,13,0,x-trends
+Quezon City,PH,ELLEJAY SMOOTH LANDING,1,1,12,0,x-trends
+Quezon City,PH,Dodgers,1,1,13,0,x-trends
 Quezon City,PH,Machong Chismisan,1,1,14,0,x-trends
 Quezon City,PH,Sir Ogie,1,1,15,0,x-trends
 Quezon City,PH,Josh,1,1,16,0,x-trends
@@ -2056,16 +2487,17 @@ Quezon City,PH,Kris,1,1,17,0,x-trends
 Quezon City,PH,dayone dod group concept one,1,1,18,0,x-trends
 Quezon City,PH,ROAD TO 500K,1,1,19,0,x-trends
 Quezon City,PH,I LOVE YOU YENCE,1,1,20,0,x-trends
-Quezon City,PH,Dodgers,1,1,21,0,x-trends
+Quezon City,PH,Oktubre 15,1,1,20,0,x-trends
 Quezon City,PH,Fan's Choice Male,1,1,22,0,x-trends
 Quezon City,PH,Daesang,1,1,23,0,x-trends
 Quezon City,PH,Cecilia,1,1,24,0,x-trends
-Quezon City,PH,Oktubre 15,1,1,25,0,x-trends
 Quezon City,PH,Laban,1,1,26,0,x-trends
 Quezon City,PH,Huwebes,1,1,27,0,x-trends
 Quezon City,PH,DELIVERY BOI FULL TRAILER,1,1,28,0,x-trends
+Quezon City,PH,Blythe,1,1,28,0,x-trends
 Quezon City,PH,FIRSTONE 2ND SINGLE MV,1,1,29,0,x-trends
 Quezon City,PH,d5 dayone dod release,1,1,30,0,x-trends
+Rajasthan,IN,फ्लेवर्ड मिल्क,1,1,2,6,google-cities
 Rajkot,IN,#NakulDhull,1,1,1,0,x-trends
 Rajkot,IN,अब्दुल कलाम,1,1,2,0,x-trends
 Rajkot,IN,पंचम स्वरूप,1,1,3,0,x-trends
@@ -2098,34 +2530,45 @@ Rajkot,IN,Governor,1,1,29,0,x-trends
 Rajkot,IN,Dushyant Gautam,1,1,30,0,x-trends
 Ranchi,IN,अब्दुल कलाम,1,1,1,0,x-trends
 Ranchi,IN,पंचम स्वरूप,1,1,2,0,x-trends
+Ranchi,IN,#Jailer2,1,1,2,0,x-trends
 Ranchi,IN,पूर्व राष्ट्रपति,1,1,3,0,x-trends
-Ranchi,IN,#Jailer2,1,1,4,0,x-trends
+Ranchi,IN,#APJAbdulKalam,1,1,4,0,x-trends
 Ranchi,IN,#MaaSkandamata,1,1,5,0,x-trends
-Ranchi,IN,#APJAbdulKalam,1,1,6,0,x-trends
+Ranchi,IN,Pregnancy Awareness,1,1,6,0,x-trends
 Ranchi,IN,महान वैज्ञानिक,1,1,7,0,x-trends
 Ranchi,IN,#GodMorningThursday,1,1,8,0,x-trends
+Ranchi,IN,#SuprasavAbhiyan,1,1,8,0,x-trends
 Ranchi,IN,अंकिता भंडारी,1,1,9,0,x-trends
 Ranchi,IN,सदा देवी,1,1,10,0,x-trends
 Ranchi,IN,इंडिया गेट,1,1,11,0,x-trends
 Ranchi,IN,भगवान कार्तिकेय,1,1,12,0,x-trends
+Ranchi,IN,श्री लक्ष्मी नारायण,1,1,12,0,x-trends
 Ranchi,IN,India Gate,1,1,13,0,x-trends
 Ranchi,IN,Real Madrid,1,1,14,0,x-trends
+Ranchi,IN,सूर्यकांत त्रिपाठी,1,1,14,0,x-trends
 Ranchi,IN,Roma,1,1,15,0,x-trends
+Ranchi,IN,First Half,1,1,15,0,x-trends
 Ranchi,IN,Show Time,1,1,16,0,x-trends
 Ranchi,IN,दुष्यंत गौतम,1,1,17,0,x-trends
+Ranchi,IN,दुर्गा भाभी,1,1,17,0,x-trends
 Ranchi,IN,इमरान प्रतापगढ़ी,1,1,18,0,x-trends
+Ranchi,IN,पावन पंचम,1,1,18,0,x-trends
 Ranchi,IN,Vini,1,1,19,0,x-trends
+Ranchi,IN,Nelson,1,1,19,0,x-trends
 Ranchi,IN,पवन खेड़ा,1,1,20,0,x-trends
 Ranchi,IN,VVIP,1,1,21,0,x-trends
 Ranchi,IN,Espi,1,1,22,0,x-trends
+Ranchi,IN,प्रमुख स्तंभ,1,1,22,0,x-trends
 Ranchi,IN,Endrick,1,1,23,0,x-trends
 Ranchi,IN,Mourinho,1,1,24,0,x-trends
+Ranchi,IN,रमन सिंह,1,1,24,0,x-trends
 Ranchi,IN,IDBI,1,1,25,0,x-trends
 Ranchi,IN,Maresca,1,1,26,0,x-trends
+Ranchi,IN,Governor,1,1,26,0,x-trends
 Ranchi,IN,Enzo,1,1,27,0,x-trends
 Ranchi,IN,Dushyant Gautam,1,1,28,0,x-trends
+Ranchi,IN,वास्तविक स्वरूप,1,1,28,0,x-trends
 Ranchi,IN,Anderson,1,1,29,0,x-trends
-Ranchi,IN,Governor,1,1,30,0,x-trends
 Rio De Janeiro,BR,Fluminense x Palmeiras,1,1,1,0,x-trends
 Rio De Janeiro,BR,GIGANTE,1,1,2,0,x-trends
 Rio De Janeiro,BR,Biden,1,1,3,0,x-trends
@@ -2186,13 +2629,14 @@ Riyadh,SA,الفهد,1,1,27,0,x-trends
 Riyadh,SA,مانشستر سيتي,1,1,28,0,x-trends
 Riyadh,SA,غوارديولا,1,1,29,0,x-trends
 Riyadh,SA,ليس كلمات,1,1,30,0,x-trends
+Rome,IT,inzaghi,1,2,12,0,x-trends
 Rome,IT,#RomaRealMadrid,1,1,1,0,x-trends
 Rome,IT,#taleequaleshow,1,1,2,0,x-trends
 Rome,IT,Champions,1,1,3,0,x-trends
 Rome,IT,#chilhavisto,1,1,4,0,x-trends
 Rome,IT,Chivu,1,1,5,0,x-trends
-Rome,IT,#14ottobre,1,1,6,0,x-trends
-Rome,IT,Mourinho,1,1,7,0,x-trends
+Rome,IT,#14ottobre,1,1,5,0,x-trends
+Rome,IT,Mourinho,1,1,6,0,x-trends
 Rome,IT,#InterBrugge,1,1,8,0,x-trends
 Rome,IT,Starlink,1,1,9,0,x-trends
 Rome,IT,Tresoldi,1,1,10,0,x-trends
@@ -2200,22 +2644,26 @@ Rome,IT,Gasperini,1,1,11,0,x-trends
 Rome,IT,Hermoso,1,1,12,0,x-trends
 Rome,IT,Martinez,1,1,13,0,x-trends
 Rome,IT,Molina,1,1,14,0,x-trends
-Rome,IT,Inzaghi,1,1,15,0,x-trends
+Rome,IT,Endrick,1,1,14,0,x-trends
+Rome,IT,Politano,1,1,15,0,x-trends
 Rome,IT,Gollini,1,1,16,0,x-trends
-Rome,IT,Endrick,1,1,17,0,x-trends
-Rome,IT,Politano,1,1,18,0,x-trends
+Rome,IT,Dybala,1,1,16,0,x-trends
+Rome,IT,Starshield,1,1,18,0,x-trends
 Rome,IT,Pellegrini,1,1,19,0,x-trends
-Rome,IT,Dybala,1,1,20,0,x-trends
-Rome,IT,Starshield,1,1,21,0,x-trends
+Rome,IT,Pepo,1,1,19,0,x-trends
+Rome,IT,Akanji,1,1,21,0,x-trends
 Rome,IT,Mancini,1,1,22,0,x-trends
-Rome,IT,Colombo,1,1,23,0,x-trends
-Rome,IT,Musk,1,1,24,0,x-trends
-Rome,IT,Pepo,1,1,25,0,x-trends
-Rome,IT,Akanji,1,1,26,0,x-trends
-Rome,IT,Somewhere Over the Rainbow,1,1,27,0,x-trends
+Rome,IT,Colombo,1,1,22,0,x-trends
+Rome,IT,Musk,1,1,23,0,x-trends
+Rome,IT,Somewhere Over the Rainbow,1,1,24,0,x-trends
+Rome,IT,Provedel,1,1,25,0,x-trends
+Rome,IT,Allegri,1,1,26,0,x-trends
+Rome,IT,Lautaro,1,1,27,0,x-trends
 Rome,IT,Gino Paoli,1,1,28,0,x-trends
-Rome,IT,Provedel,1,1,29,0,x-trends
-Rome,IT,Allegri,1,1,30,0,x-trends
+Rome,IT,Dimarco,1,1,28,0,x-trends
+Rome,IT,Kone,1,1,29,0,x-trends
+Rome,IT,Diouf,1,1,30,0,x-trends
+Saint Petersburg,RU,Скоро,1,2,17,0,x-trends
 Saint Petersburg,RU,Starlink,1,1,1,0,x-trends
 Saint Petersburg,RU,#PortfolioDay,1,1,2,0,x-trends
 Saint Petersburg,RU,#2026MAMAVOTE,1,1,3,0,x-trends
@@ -2228,11 +2676,10 @@ Saint Petersburg,RU,#지민날_1013_못참지,1,1,9,0,x-trends
 Saint Petersburg,RU,Яндекс,1,1,10,0,x-trends
 Saint Petersburg,RU,#디스이즈_지민데이,1,1,11,0,x-trends
 Saint Petersburg,RU,I VOTE,1,1,12,0,x-trends
-Saint Petersburg,RU,Kris,1,1,13,0,x-trends
+Saint Petersburg,RU,Kris,1,1,12,0,x-trends
 Saint Petersburg,RU,Зеленский,1,1,14,0,x-trends
 Saint Petersburg,RU,польши,1,1,15,0,x-trends
 Saint Petersburg,RU,Moscow,1,1,16,0,x-trends
-Saint Petersburg,RU,Скоро,1,1,17,0,x-trends
 Saint Petersburg,RU,Трампа,1,1,18,0,x-trends
 Saint Petersburg,RU,VibeShorts,1,1,19,0,x-trends
 Saint Petersburg,RU,Смотря,1,1,20,0,x-trends
@@ -2277,30 +2724,40 @@ San Francisco,US,#RHOSLC,1,1,28,0,x-trends
 San Francisco,US,Adam Copeland,1,1,29,0,x-trends
 San Francisco,US,Jackson Chourio,1,1,30,0,x-trends
 Santiago,CL,#BANGTANPALOOZA,1,1,1,0,x-trends
+Santiago,CL,#MasterChefEliminacion,1,1,1,0,x-trends
 Santiago,CL,Chile,1,1,2,0,x-trends
 Santiago,CL,#2026MAMAVOTE,1,1,3,0,x-trends
+Santiago,CL,#SiempreHayUnChileno,1,1,3,0,x-trends
 Santiago,CL,Matías Fernández,1,1,4,0,x-trends
+Santiago,CL,Cynthia,1,1,4,0,x-trends
 Santiago,CL,Santiago,1,1,5,0,x-trends
+Santiago,CL,#FiebreDeCantoCHV,1,1,5,0,x-trends
 Santiago,CL,AFPs,1,1,6,0,x-trends
 Santiago,CL,Y LOS FUEGOS ARTIFICIALES,1,1,7,0,x-trends
 Santiago,CL,#masterchefburger,1,1,8,0,x-trends
+Santiago,CL,CONY CAPELLI EN FDC,1,1,8,0,x-trends
 Santiago,CL,Metallica,1,1,9,0,x-trends
+Santiago,CL,Kim Taehyung,1,1,9,0,x-trends
 Santiago,CL,#granizos,1,1,10,0,x-trends
 Santiago,CL,SAVE ME,1,1,11,0,x-trends
+Santiago,CL,Las AFP,1,1,11,0,x-trends
 Santiago,CL,Roma,1,1,12,0,x-trends
-Santiago,CL,Kim Taehyung,1,1,13,0,x-trends
+Santiago,CL,Stana,1,1,12,0,x-trends
 Santiago,CL,Madrid,1,1,14,0,x-trends
 Santiago,CL,Regina,1,1,15,0,x-trends
 Santiago,CL,Fondo E,1,1,16,0,x-trends
 Santiago,CL,US$7.700,1,1,17,0,x-trends
 Santiago,CL,#StrayKids,1,1,18,0,x-trends
+Santiago,CL,LES TINCA,1,1,18,0,x-trends
 Santiago,CL,Mourinho,1,1,19,0,x-trends
 Santiago,CL,Valentina,1,1,20,0,x-trends
 Santiago,CL,I VOTE,1,1,21,0,x-trends
+Santiago,CL,Cami,1,1,21,0,x-trends
 Santiago,CL,Endrick,1,1,22,0,x-trends
 Santiago,CL,army zone,1,1,23,0,x-trends
+Santiago,CL,into the sun,1,1,23,0,x-trends
 Santiago,CL,Espi,1,1,24,0,x-trends
-Santiago,CL,Cami,1,1,25,0,x-trends
+Santiago,CL,MIJITO RICO,1,1,25,0,x-trends
 Santiago,CL,Mara Sedini,1,1,26,0,x-trends
 Santiago,CL,Vini,1,1,27,0,x-trends
 Santiago,CL,Ñuñoa,1,1,28,0,x-trends
@@ -2336,6 +2793,11 @@ Sao Paulo,BR,Champions League,1,1,27,0,x-trends
 Sao Paulo,BR,cage the elephant,1,1,28,0,x-trends
 Sao Paulo,BR,O Globo,1,1,29,0,x-trends
 Sao Paulo,BR,VITÓRIA DA CLASSE TRABALHADORA,1,1,30,0,x-trends
+Scotland,GB,fluminense vs palmeiras,1,1,2,50,google-cities
+Scotland,GB,crunchyroll,1,1,3,83,google-cities
+Scotland,GB,dodgers,1,1,3,97,google-cities
+Scotland,GB,street fighter movie,1,1,3,86,google-cities
+Scotland,GB,north west,1,1,4,53,google-cities
 Seattle,US,Musk,1,1,1,0,x-trends
 Seattle,US,#AEWDynamite,1,1,2,0,x-trends
 Seattle,US,#Survivor51,1,1,3,0,x-trends
@@ -2368,34 +2830,45 @@ Seattle,US,Mitchell Robinson,1,1,29,0,x-trends
 Seattle,US,Dodger Stadium,1,1,30,0,x-trends
 Seoul,KR,#HYPERDRIVE,1,1,1,0,x-trends
 Seoul,KR,예수료 3천원,1,1,2,0,x-trends
-Seoul,KR,바로 투표,1,1,3,0,x-trends
+Seoul,KR,바로 투표,1,1,2,0,x-trends
+Seoul,KR,두쫀김장선물,1,1,3,0,x-trends
 Seoul,KR,사이드카,1,1,4,0,x-trends
-Seoul,KR,스포티파이,1,1,5,0,x-trends
+Seoul,KR,스포티파이,1,1,4,0,x-trends
+Seoul,KR,TOP10 방탄소년단,1,1,5,0,x-trends
 Seoul,KR,TOP10 임영웅,1,1,6,0,x-trends
+Seoul,KR,TOP10 투표,1,1,6,0,x-trends
 Seoul,KR,예매환경,1,1,7,0,x-trends
-Seoul,KR,#PLAVE,1,1,8,0,x-trends
+Seoul,KR,#PLAVE,1,1,7,0,x-trends
 Seoul,KR,예매수수료,1,1,9,0,x-trends
+Seoul,KR,#팸이랑_플리랑,1,1,9,0,x-trends
 Seoul,KR,롬앤 10주년,1,1,10,0,x-trends
 Seoul,KR,#마비노기_트친소,1,1,11,0,x-trends
 Seoul,KR,오하욘사,1,1,12,0,x-trends
-Seoul,KR,TOP10 투표,1,1,13,0,x-trends
+Seoul,KR,추가투표권,1,1,13,0,x-trends
 Seoul,KR,영양군민체육대회,1,1,14,0,x-trends
 Seoul,KR,하이닉스,1,1,15,0,x-trends
+Seoul,KR,이번주 음중,1,1,15,0,x-trends
 Seoul,KR,무사만루,1,1,16,0,x-trends
+Seoul,KR,유사코지,1,1,16,0,x-trends
 Seoul,KR,음중 역조공,1,1,17,0,x-trends
 Seoul,KR,축하 무대,1,1,18,0,x-trends
 Seoul,KR,진뷔국밥,1,1,19,0,x-trends
+Seoul,KR,스페셜 엠씨,1,1,19,0,x-trends
 Seoul,KR,띠부씰 교환,1,1,20,0,x-trends
 Seoul,KR,#아로새겨_시작될_에반의_날,1,1,21,0,x-trends
+Seoul,KR,유니 오하,1,1,21,0,x-trends
 Seoul,KR,워닝워닝,1,1,22,0,x-trends
 Seoul,KR,#ENHYPEN,1,1,23,0,x-trends
-Seoul,KR,서버관리,1,1,24,0,x-trends
+Seoul,KR,서버관리,1,1,23,0,x-trends
 Seoul,KR,북미투어,1,1,25,0,x-trends
 Seoul,KR,음중 띠부씰,1,1,26,0,x-trends
 Seoul,KR,비서실장,1,1,27,0,x-trends
 Seoul,KR,배우 이규한,1,1,28,0,x-trends
 Seoul,KR,꼬들 1748,1,1,29,0,x-trends
 Seoul,KR,두더지잡기,1,1,30,0,x-trends
+Seoul,KR,에버라인,1,1,30,0,x-trends
+South Dakota,US,denver nuggets,1,1,10,4,google-cities
+Stockholm,SE,Leksand,1,2,25,0,x-trends
 Stockholm,SE,Starlink,1,1,1,0,x-trends
 Stockholm,SE,Starshield,1,1,2,0,x-trends
 Stockholm,SE,Bodström,1,1,3,0,x-trends
@@ -2404,35 +2877,37 @@ Stockholm,SE,Mourinho,1,1,5,0,x-trends
 Stockholm,SE,Roma,1,1,6,0,x-trends
 Stockholm,SE,LASK,1,1,7,0,x-trends
 Stockholm,SE,Real Madrid,1,1,8,0,x-trends
+Stockholm,SE,Champions League,1,1,8,0,x-trends
 Stockholm,SE,Maud Olofsson,1,1,9,0,x-trends
-Stockholm,SE,Champions League,1,1,10,0,x-trends
-Stockholm,SE,Frimpong,1,1,11,0,x-trends
-Stockholm,SE,#2026MAMAVOTE,1,1,12,0,x-trends
-Stockholm,SE,Metallica,1,1,13,0,x-trends
-Stockholm,SE,Enzo,1,1,14,0,x-trends
-Stockholm,SE,member invite,1,1,15,0,x-trends
-Stockholm,SE,Endrick,1,1,16,0,x-trends
-Stockholm,SE,Espi,1,1,17,0,x-trends
-Stockholm,SE,American Express,1,1,18,0,x-trends
+Stockholm,SE,Frimpong,1,1,10,0,x-trends
+Stockholm,SE,#2026MAMAVOTE,1,1,11,0,x-trends
+Stockholm,SE,Metallica,1,1,12,0,x-trends
+Stockholm,SE,Enzo,1,1,13,0,x-trends
+Stockholm,SE,member invite,1,1,14,0,x-trends
+Stockholm,SE,Endrick,1,1,15,0,x-trends
+Stockholm,SE,Espi,1,1,16,0,x-trends
+Stockholm,SE,American Express,1,1,17,0,x-trends
 Stockholm,SE,Ulla Andersson,1,1,19,0,x-trends
 Stockholm,SE,Nordstream,1,1,20,0,x-trends
 Stockholm,SE,Novus,1,1,21,0,x-trends
 Stockholm,SE,Tony,1,1,22,0,x-trends
 Stockholm,SE,Peking,1,1,23,0,x-trends
 Stockholm,SE,Musk,1,1,24,0,x-trends
-Stockholm,SE,Leksand,1,1,25,0,x-trends
 Stockholm,SE,kronofogden,1,1,26,0,x-trends
 Stockholm,SE,Maresca,1,1,27,0,x-trends
 Stockholm,SE,Vini,1,1,28,0,x-trends
-Stockholm,SE,Licha,1,1,29,0,x-trends
-Stockholm,SE,Amex,1,1,30,0,x-trends
+Stockholm,SE,Licha,1,1,28,0,x-trends
+Stockholm,SE,Amex,1,1,29,0,x-trends
+Stockholm,SE,Pentagon,1,1,30,0,x-trends
 Surabaya,ID,#2026MAMAVOTE,1,1,1,0,x-trends
 Surabaya,ID,#Happy21andOnlyJAMES,1,1,2,0,x-trends
 Surabaya,ID,#제임스의_빛이_차오르길,1,1,3,0,x-trends
 Surabaya,ID,maksimal menegakkan hukum,1,1,4,0,x-trends
+Surabaya,ID,#MamixPhuwinHokkaidoDays,1,1,4,0,x-trends
 Surabaya,ID,#ENHYPEN,1,1,5,0,x-trends
 Surabaya,ID,I VOTE,1,1,6,0,x-trends
 Surabaya,ID,#OverflowingLoveForEVAN,1,1,7,0,x-trends
+Surabaya,ID,PHUWIN MAMI IN HOKKAIDO,1,1,7,0,x-trends
 Surabaya,ID,sinergi semua elemen,1,1,8,0,x-trends
 Surabaya,ID,Kalimantan,1,1,9,0,x-trends
 Surabaya,ID,LOVE TO THE MOON AND KEY,1,1,10,0,x-trends
@@ -2443,17 +2918,19 @@ Surabaya,ID,A. SECEPAT ITU,1,1,14,0,x-trends
 Surabaya,ID,BNPB,1,1,15,0,x-trends
 Surabaya,ID,Vault Street,1,1,16,0,x-trends
 Surabaya,ID,klk group,1,1,17,0,x-trends
-Surabaya,ID,SPBU,1,1,18,0,x-trends
+Surabaya,ID,SPBU,1,1,17,0,x-trends
 Surabaya,ID,Roma,1,1,19,0,x-trends
 Surabaya,ID,FIRSTONE 2ND SINGLE MV,1,1,20,0,x-trends
 Surabaya,ID,pt menteng jaya sawit perdana,1,1,21,0,x-trends
 Surabaya,ID,Pagiii,1,1,22,0,x-trends
 Surabaya,ID,GET READY FOR FOURTH CONCERT,1,1,23,0,x-trends
-Surabaya,ID,Rabu,1,1,24,0,x-trends
+Surabaya,ID,Rabu,1,1,23,0,x-trends
 Surabaya,ID,Pantau Gambut,1,1,25,0,x-trends
+Surabaya,ID,Anggur,1,1,25,0,x-trends
 Surabaya,ID,Palangka Raya,1,1,26,0,x-trends
-Surabaya,ID,Kakang,1,1,27,0,x-trends
+Surabaya,ID,Kakang,1,1,26,0,x-trends
 Surabaya,ID,ELLEJAY SMOOTH LANDING,1,1,28,0,x-trends
+Surabaya,ID,Kecuali,1,1,28,0,x-trends
 Surabaya,ID,Angkut,1,1,29,0,x-trends
 Surabaya,ID,Tebak,1,1,30,0,x-trends
 Surat,IN,#NakulDhull,1,1,1,0,x-trends
@@ -2516,126 +2993,206 @@ Sydney,AU,Logue,1,1,27,0,x-trends
 Sydney,AU,Whitlock,1,1,28,0,x-trends
 Sydney,AU,Sally Rooney,1,1,29,0,x-trends
 Sydney,AU,Richmond,1,1,30,0,x-trends
+Telangana,IN,weather report today,1,1,6,22,google-cities
+Texas,US,delonte west,1,1,14,27,google-cities
 Thane,IN,अब्दुल कलाम,1,1,1,0,x-trends
 Thane,IN,पंचम स्वरूप,1,1,2,0,x-trends
+Thane,IN,#Jailer2,1,1,2,0,x-trends
 Thane,IN,पूर्व राष्ट्रपति,1,1,3,0,x-trends
-Thane,IN,#Jailer2,1,1,4,0,x-trends
+Thane,IN,#APJAbdulKalam,1,1,4,0,x-trends
 Thane,IN,#MaaSkandamata,1,1,5,0,x-trends
 Thane,IN,महान वैज्ञानिक,1,1,6,0,x-trends
-Thane,IN,#APJAbdulKalam,1,1,7,0,x-trends
+Thane,IN,Pregnancy Awareness,1,1,7,0,x-trends
 Thane,IN,#GodMorningThursday,1,1,8,0,x-trends
+Thane,IN,#SuprasavAbhiyan,1,1,8,0,x-trends
 Thane,IN,अंकिता भंडारी,1,1,9,0,x-trends
 Thane,IN,सदा देवी,1,1,10,0,x-trends
 Thane,IN,इंडिया गेट,1,1,11,0,x-trends
 Thane,IN,#MissileManOfIndia,1,1,12,0,x-trends
 Thane,IN,भगवान कार्तिकेय,1,1,13,0,x-trends
 Thane,IN,India Gate,1,1,14,0,x-trends
+Thane,IN,श्री लक्ष्मी नारायण,1,1,14,0,x-trends
 Thane,IN,Real Madrid,1,1,15,0,x-trends
+Thane,IN,सूर्यकांत त्रिपाठी,1,1,15,0,x-trends
 Thane,IN,Roma,1,1,16,0,x-trends
+Thane,IN,First Half,1,1,16,0,x-trends
 Thane,IN,Show Time,1,1,17,0,x-trends
 Thane,IN,दुष्यंत गौतम,1,1,18,0,x-trends
+Thane,IN,दुर्गा भाभी,1,1,18,0,x-trends
 Thane,IN,इमरान प्रतापगढ़ी,1,1,19,0,x-trends
+Thane,IN,पावन पंचम,1,1,19,0,x-trends
 Thane,IN,Vini,1,1,20,0,x-trends
+Thane,IN,Nelson,1,1,20,0,x-trends
 Thane,IN,Espi,1,1,21,0,x-trends
 Thane,IN,VVIP,1,1,22,0,x-trends
 Thane,IN,Endrick,1,1,23,0,x-trends
+Thane,IN,प्रमुख स्तंभ,1,1,23,0,x-trends
 Thane,IN,पवन खेड़ा,1,1,24,0,x-trends
 Thane,IN,Mourinho,1,1,25,0,x-trends
+Thane,IN,रमन सिंह,1,1,25,0,x-trends
 Thane,IN,IDBI,1,1,26,0,x-trends
 Thane,IN,Maresca,1,1,27,0,x-trends
+Thane,IN,Governor,1,1,27,0,x-trends
 Thane,IN,Enzo,1,1,28,0,x-trends
 Thane,IN,Dushyant Gautam,1,1,29,0,x-trends
+Thane,IN,वास्तविक स्वरूप,1,1,29,0,x-trends
 Thane,IN,Anderson,1,1,30,0,x-trends
 Tokyo,JP,#あさイチ,1,1,1,0,x-trends
 Tokyo,JP,青年誌の作品,1,1,2,0,x-trends
-Tokyo,JP,四コマ漫画,1,1,3,0,x-trends
+Tokyo,JP,四コマ漫画,1,1,2,0,x-trends
 Tokyo,JP,歴史漫画の終盤,1,1,4,0,x-trends
+Tokyo,JP,#ドスパラ周年祭でほしいもの,1,1,4,0,x-trends
 Tokyo,JP,#STARスター,1,1,5,0,x-trends
+Tokyo,JP,#都道府県ゲーム,1,1,5,0,x-trends
 Tokyo,JP,現代の会社組織,1,1,6,0,x-trends
+Tokyo,JP,追加シナリオ,1,1,6,0,x-trends
 Tokyo,JP,月の出費,1,1,7,0,x-trends
+Tokyo,JP,結婚・子1人,1,1,7,0,x-trends
 Tokyo,JP,#ちょうどいいラジオ,1,1,8,0,x-trends
+Tokyo,JP,スポ根漫画,1,1,8,0,x-trends
 Tokyo,JP,作品の最終巻,1,1,9,0,x-trends
+Tokyo,JP,時代ものの漫画,1,1,9,0,x-trends
 Tokyo,JP,ハードSF漫画,1,1,10,0,x-trends
+Tokyo,JP,小物の描き込み,1,1,10,0,x-trends
 Tokyo,JP,歴史通り,1,1,11,0,x-trends
+Tokyo,JP,作者さんの体調,1,1,11,0,x-trends
 Tokyo,JP,#ohayomorning,1,1,12,0,x-trends
+Tokyo,JP,人形の日,1,1,12,0,x-trends
 Tokyo,JP,スポ根漫画の顧問の先生,1,1,13,0,x-trends
+Tokyo,JP,ガッサー,1,1,13,0,x-trends
 Tokyo,JP,葛葉のZIP,1,1,14,0,x-trends
 Tokyo,JP,SF漫画のロボットもの,1,1,15,0,x-trends
+Tokyo,JP,NPB経由,1,1,15,0,x-trends
 Tokyo,JP,エリンギ,1,1,16,0,x-trends
-Tokyo,JP,作者さんの体調,1,1,17,0,x-trends
+Tokyo,JP,作家さんの引き出しの多さ,1,1,16,0,x-trends
+Tokyo,JP,異世界もののヒロイン,1,1,17,0,x-trends
 Tokyo,JP,#お弁当記録,1,1,18,0,x-trends
+Tokyo,JP,SF漫画の近未来都市,1,1,18,0,x-trends
 Tokyo,JP,一気買い,1,1,19,0,x-trends
+Tokyo,JP,歴史漫画の食事シーン,1,1,19,0,x-trends
 Tokyo,JP,休載明けの一話,1,1,20,0,x-trends
-Tokyo,JP,NPB経由,1,1,21,0,x-trends
+Tokyo,JP,青年誌の短編集,1,1,20,0,x-trends
+Tokyo,JP,#企業公式が毎朝地元の天気を言い合う,1,1,21,0,x-trends
 Tokyo,JP,紙の単行本,1,1,22,0,x-trends
+Tokyo,JP,KOSPI,1,1,22,0,x-trends
 Tokyo,JP,きのこ料理,1,1,23,0,x-trends
+Tokyo,JP,飯テロのラーメン漫画,1,1,23,0,x-trends
 Tokyo,JP,リュディガー,1,1,24,0,x-trends
+Tokyo,JP,千と千尋の神隠し,1,1,24,0,x-trends
 Tokyo,JP,ザシザマ,1,1,25,0,x-trends
+Tokyo,JP,禁止34枚,1,1,25,0,x-trends
 Tokyo,JP,きのこの日,1,1,26,0,x-trends
+Tokyo,JP,ミステリー漫画の伏線回収,1,1,26,0,x-trends
 Tokyo,JP,エキスパンション・パス,1,1,27,0,x-trends
+Tokyo,JP,日本企業の働き方転機,1,1,27,0,x-trends
 Tokyo,JP,遊佐浩二,1,1,28,0,x-trends
+Tokyo,JP,遊佐さん,1,1,28,0,x-trends
 Tokyo,JP,織田くん,1,1,29,0,x-trends
 Tokyo,JP,追加ストーリー,1,1,30,0,x-trends
+Tokyo,JP,ドジャース,1,1,30,0,x-trends
+Toronto,CA,#cfmtl,1,2,13,0,x-trends
 Toronto,CA,Kick,1,1,1,0,x-trends
+Toronto,CA,Dodgers,1,1,1,0,x-trends
 Toronto,CA,#Survivor51,1,1,2,0,x-trends
+Toronto,CA,#TFCLive,1,1,2,0,x-trends
 Toronto,CA,Wilson,1,1,3,0,x-trends
 Toronto,CA,#GoHabsGo,1,1,4,0,x-trends
+Toronto,CA,Starlink,1,1,4,0,x-trends
 Toronto,CA,Josh Anderson,1,1,5,0,x-trends
-Toronto,CA,Dobes,1,1,6,0,x-trends
+Toronto,CA,Dobes,1,1,5,0,x-trends
+Toronto,CA,Blake Snell,1,1,6,0,x-trends
 Toronto,CA,Greenland,1,1,7,0,x-trends
 Toronto,CA,Starshield,1,1,8,0,x-trends
+Toronto,CA,Jake Bauers,1,1,8,0,x-trends
 Toronto,CA,Thanksgiving,1,1,9,0,x-trends
 Toronto,CA,Slaf,1,1,10,0,x-trends
 Toronto,CA,Hutson,1,1,11,0,x-trends
+Toronto,CA,Brewers,1,1,11,0,x-trends
 Toronto,CA,#AEWDynamite,1,1,12,0,x-trends
-Toronto,CA,#cfmtl,1,1,13,0,x-trends
 Toronto,CA,Indians,1,1,14,0,x-trends
 Toronto,CA,Alain Crête,1,1,15,0,x-trends
+Toronto,CA,Doby,1,1,15,0,x-trends
 Toronto,CA,Metallica,1,1,16,0,x-trends
+Toronto,CA,Doerkson,1,1,16,0,x-trends
 Toronto,CA,Joe Davis,1,1,17,0,x-trends
 Toronto,CA,Snell,1,1,18,0,x-trends
 Toronto,CA,#2026MAMAVOTE,1,1,19,0,x-trends
 Toronto,CA,Andy,1,1,20,0,x-trends
 Toronto,CA,Prime,1,1,21,0,x-trends
+Toronto,CA,Emily Lowan,1,1,21,0,x-trends
 Toronto,CA,Stolarz,1,1,22,0,x-trends
 Toronto,CA,Davis Schneider,1,1,23,0,x-trends
 Toronto,CA,Roma,1,1,24,0,x-trends
 Toronto,CA,Jackson Chourio,1,1,25,0,x-trends
+Toronto,CA,Caufield,1,1,25,0,x-trends
 Toronto,CA,Russian,1,1,26,0,x-trends
+Toronto,CA,Capitals,1,1,26,0,x-trends
 Toronto,CA,Donnarumma,1,1,27,0,x-trends
+Toronto,CA,Washington,1,1,27,0,x-trends
 Toronto,CA,Hoekstra,1,1,28,0,x-trends
+Toronto,CA,Ravi,1,1,28,0,x-trends
 Toronto,CA,Alaska,1,1,29,0,x-trends
+Toronto,CA,51st State,1,1,29,0,x-trends
 Toronto,CA,Raty,1,1,30,0,x-trends
+Toronto,CA,Joly,1,1,30,0,x-trends
+Tripura,IN,weather report today,1,1,3,45,google-cities
+Utah,US,denver nuggets,1,1,8,4,google-cities
+Utah,US,justin wrobleski,1,1,9,10,google-cities
+Uttar Pradesh,IN,weather meerut,1,1,1,100,google-cities
+Uttarakhand,IN,weather meerut,1,1,2,23,google-cities
+Uttarakhand,IN,weather report today,1,1,12,13,google-cities
 Vancouver,CA,#Survivor51,1,1,1,0,x-trends
+Vancouver,CA,Starlink,1,1,1,0,x-trends
 Vancouver,CA,Wilson,1,1,2,0,x-trends
+Vancouver,CA,Dobes,1,1,2,0,x-trends
 Vancouver,CA,#GoHabsGo,1,1,3,0,x-trends
+Vancouver,CA,Blake Snell,1,1,3,0,x-trends
 Vancouver,CA,Josh Anderson,1,1,4,0,x-trends
-Vancouver,CA,Dobes,1,1,5,0,x-trends
 Vancouver,CA,Greenland,1,1,6,0,x-trends
+Vancouver,CA,Jake Bauers,1,1,6,0,x-trends
 Vancouver,CA,Slaf,1,1,7,0,x-trends
 Vancouver,CA,Starshield,1,1,8,0,x-trends
+Vancouver,CA,Brewers,1,1,8,0,x-trends
 Vancouver,CA,Thanksgiving,1,1,9,0,x-trends
 Vancouver,CA,#AEWDynamite,1,1,10,0,x-trends
+Vancouver,CA,Doby,1,1,10,0,x-trends
 Vancouver,CA,Hutson,1,1,11,0,x-trends
-Vancouver,CA,#CFMTL,1,1,12,0,x-trends
+Vancouver,CA,#CFMTL,1,1,11,0,x-trends
 Vancouver,CA,Alain Crête,1,1,13,0,x-trends
+Vancouver,CA,Doerkson,1,1,13,0,x-trends
 Vancouver,CA,Indians,1,1,14,0,x-trends
 Vancouver,CA,Metallica,1,1,15,0,x-trends
-Vancouver,CA,Joe Davis,1,1,16,0,x-trends
+Vancouver,CA,Joe Davis,1,1,15,0,x-trends
 Vancouver,CA,Snell,1,1,17,0,x-trends
 Vancouver,CA,#2026MAMAVOTE,1,1,18,0,x-trends
+Vancouver,CA,Emily Lowan,1,1,18,0,x-trends
 Vancouver,CA,Andy,1,1,19,0,x-trends
+Vancouver,CA,#TFCLive,1,1,19,0,x-trends
 Vancouver,CA,Prime,1,1,20,0,x-trends
 Vancouver,CA,Stolarz,1,1,21,0,x-trends
+Vancouver,CA,Washington,1,1,21,0,x-trends
 Vancouver,CA,Davis Schneider,1,1,22,0,x-trends
 Vancouver,CA,Roma,1,1,23,0,x-trends
 Vancouver,CA,Jackson Chourio,1,1,24,0,x-trends
+Vancouver,CA,Capitals,1,1,24,0,x-trends
 Vancouver,CA,Russian,1,1,25,0,x-trends
+Vancouver,CA,Caufield,1,1,25,0,x-trends
 Vancouver,CA,Donnarumma,1,1,26,0,x-trends
+Vancouver,CA,51st State,1,1,26,0,x-trends
 Vancouver,CA,Hoekstra,1,1,27,0,x-trends
+Vancouver,CA,Ravi,1,1,27,0,x-trends
 Vancouver,CA,Alaska,1,1,28,0,x-trends
+Vancouver,CA,Joly,1,1,28,0,x-trends
 Vancouver,CA,Raty,1,1,29,0,x-trends
+Vancouver,CA,Giannis,1,1,29,0,x-trends
 Vancouver,CA,Shane Gillis,1,1,30,0,x-trends
+Vermont,US,justin wrobleski,1,1,2,42,google-cities
+Vermont,US,world series,1,1,10,19,google-cities
+Virginia,US,delonte west,1,1,8,32,google-cities
+Wales,GB,crunchyroll,1,1,2,97,google-cities
+Wales,GB,street fighter movie,1,1,2,98,google-cities
+Wales,GB,north west,1,1,3,63,google-cities
+Wales,GB,dodgers,1,1,4,82,google-cities
 Warsaw,PL,Berek,1,1,1,0,x-trends
 Warsaw,PL,Berka,1,1,2,0,x-trends
 Warsaw,PL,Trybunału Konstytucyjnego,1,1,3,0,x-trends
@@ -2665,3 +3222,9 @@ Warsaw,PL,Czarzasty,1,1,27,0,x-trends
 Warsaw,PL,Godzilla,1,1,28,0,x-trends
 Warsaw,PL,Starshield,1,1,29,0,x-trends
 Warsaw,PL,Pawłowicz,1,1,30,0,x-trends
+Washington,US,justin wrobleski,1,1,11,7,google-cities
+West Bengal,IN,weather report today,1,1,4,36,google-cities
+Wisconsin,US,christian yelich,1,1,1,100,google-cities
+Wisconsin,US,world series,1,1,1,100,google-cities
+Wisconsin,US,justin wrobleski,1,1,3,39,google-cities
+Wyoming,US,denver nuggets,1,1,2,18,google-cities
