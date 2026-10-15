@@ -20,11 +20,17 @@ def _ymd(day):
     return {"y": day.strftime("%Y"), "m": day.strftime("%m"), "d": day.strftime("%d")}
 
 
+NAMESPACE = re.compile(r"^[^\s:]+:")      # 'Special:Search', 'Speciel:Søgning', 'Wikipedia:...' in any language
+
+
 def _rank_pages(items, limit):
     out = []
     for it in items:
         title = it.get("article") or it.get("page") or ""
-        if not title or SKIP.match(title):
+        proj = it.get("project", "")
+        if not title or SKIP.match(title) or NAMESPACE.match(title):
+            continue
+        if proj and not proj.endswith("wikipedia"):      # wiktionary, wikibooks, wikiquote: not topics
             continue
         out.append((title.replace("_", " "), title, it))
         if len(out) >= limit:
