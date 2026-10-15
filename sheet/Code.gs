@@ -148,7 +148,10 @@ function getData() {
   // Sent as text: the sheet turns dates into Date objects, which cannot travel to the page.
   const ss = SpreadsheetApp.getActiveSpreadsheet();
   const info = (ss.getSheetByName("Info") || {getRange: () => ({getValue: () => ""})}).getRange("A1").getValue();
+  // the latest fetch, only what the platform columns need (top 15 per source and place)
+  const latest = table(ss, "Latest fetch").filter(r => +r.rank <= 15 &&
+    ["google-trends", "youtube-suggest", "youtube", "x-trends"].includes(r.source));
   return JSON.stringify({topics: table(ss, "Topics 15 days").slice(0, 600),
           byCountry: table(ss, "By country"), byCity: table(ss, "By city"),
-          daily: table(ss, "Daily"), home: HOME, updated: String(info)});
+          daily: table(ss, "Daily"), latest: latest, home: HOME, updated: String(info)});
 }

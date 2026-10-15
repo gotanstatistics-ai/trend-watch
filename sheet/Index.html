@@ -37,6 +37,12 @@
 
 <div class="tiles" id="tiles"></div>
 
+<div class="grid" id="platforms">
+ <div class="card"><h3 id="hG">Google: searched today</h3><div class="wrap"><table id="tG"></table></div></div>
+ <div class="card"><h3 id="hY">YouTube: typed into search today</h3><div class="wrap"><table id="tY"></table></div></div>
+ <div class="card"><h3 id="hI">Instagram-ready picks (hashtags and topics trending in the place picked)</h3><div class="wrap"><table id="tI"></table></div></div>
+</div>
+
 <div class="grid">
  <div class="card"><h3>Top topics by score</h3><canvas id="cTop"></canvas></div>
  <div class="card"><h3 id="hTrend">Day by day</h3><canvas id="cTrend"></canvas></div>
@@ -117,6 +123,21 @@ function render() {
   rows.forEach(r => String(r.source_list).split(" ").filter(Boolean).forEach(x => sc[x] = (sc[x] || 0) + 1));
   const sk = Object.keys(sc);
   chart("cSrc", {type: "doughnut", data: {labels: sk, datasets: [{data: sk.map(x => sc[x]), backgroundColor: COLORS}]}, options: {plugins: {legend: {position: "right"}}}});
+
+  // platform columns from the latest fetch
+  const cc = s.country || D.home;
+  const latest = D.latest || [];
+  const col = (id, rows, cols) => { $(id).innerHTML = rows.length ? "<tr>" + cols.map(c => `<th class="${c[2]||""}">${c[0]}</th>`).join("") + "</tr>" +
+      rows.map(r => "<tr>" + cols.map(c => `<td class="${c[2]||""}">${c[1](r)}</td>`).join("") + "</tr>").join("") : "<p class='small'>no data yet for this place</p>"; };
+  const g = latest.filter(r => r.source === "google-trends" && r.country === cc && !r.city).sort((a, b) => a.rank - b.rank).slice(0, 15);
+  $("hG").textContent = `Google: searched today in ${name(cc)}`;
+  col("tG", g, [["#", r => r.rank, "n"], ["Search", r => r.url ? `<a href="${attr(r.url)}" target="_blank" rel="noopener">${txt(r.topic)}</a>` : txt(r.topic)], ["Searches", r => Number(r.traffic).toLocaleString(), "n"], ["Headline", r => txt(r.note)]]);
+  const y = latest.filter(r => (r.source === "youtube-suggest" || r.source === "youtube") && r.country === cc).sort((a, b) => a.rank - b.rank).slice(0, 15);
+  $("hY").textContent = `YouTube: typed into search today in ${name(cc)}`;
+  col("tY", y, [["#", r => r.rank, "n"], ["Search", r => `<a href="${attr(r.url)}" target="_blank" rel="noopener">${txt(r.topic)}</a>`], ["Seen as", r => txt(r.note)]]);
+  const xi = latest.filter(r => r.source === "x-trends" && r.country === cc && (s.city ? r.city === s.city : !r.city)).sort((a, b) => a.rank - b.rank).slice(0, 15);
+  $("hI").textContent = `Instagram-ready picks: trending now in ${[name(cc), s.city].filter(Boolean).join(", ")} (from X and Google)`;
+  col("tI", xi, [["#", r => r.rank, "n"], ["Hashtag or topic", r => txt(r.topic)], ["Posts", r => r.traffic > 0 ? Number(r.traffic).toLocaleString() : "", "n"]]);
 
   const place = s.city ? D.byCity.filter(r => r.city === s.city) : D.byCountry.filter(r => r.country === (s.country || D.home));
   $("hPlace").textContent = "Top topics in " + (s.city || name(s.country || D.home));

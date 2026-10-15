@@ -174,6 +174,13 @@ def write_report(data_dir, today, log=print, top=50):
     lines += ["", "## Lasting topics (seen on 3 or more days)", ""]
     lasting = [r for r in topics if r["days"] >= 3][:30]
     lines += [f"- **{r['topic']}** ({r['days']} days, {r['country_list'] or 'worldwide'})" for r in lasting] or ["- none yet"]
+    latest_day = days[-1] if days else ""
+    lines += ["", "## By platform, India, today", ""]
+    for src, title in (("google-trends", "Google searches"), ("youtube-suggest", "YouTube searches (typed into the search box)"),
+                       ("x-trends", "Instagram-ready picks (hashtags trending on X)")):
+        rows = sorted([e for e in entries if e.source == src and e.country == "IN" and not e.city and e.date == latest_day],
+                      key=lambda e: e.rank)[:10]
+        lines.append(f"- **{title}**: " + (", ".join(e.topic for e in rows) if rows else "no data yet"))
     lines += ["", "## India, by city (X trends and Google city interest)", ""]
     india = [e for e in entries if e.country == "IN" and e.city]
     seen = defaultdict(list)
