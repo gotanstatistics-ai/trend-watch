@@ -31,7 +31,11 @@
  <div class="f">Kind<select id="kind"><option value="topic" selected>real topics</option><option value="">everything</option><option value="match">sports matches</option><option value="news">passing news</option></select></div>
  <div class="f">Min countries<select id="minc"><option>1</option><option>2</option><option>3</option><option>5</option><option>10</option></select></div>
  <div class="f">Search<input id="q" placeholder="topic contains..."></div>
- <div class="f">Platform<select id="platform"><option value="">all platforms</option><option value="google-trends">Google searches</option><option value="youtube">YouTube searches</option><option value="x-trends">Instagram-ready (X hashtags)</option><option value="wikipedia">Wikipedia reading</option></select></div>
+ <div class="chk" id="platforms"><span class="small">Platforms (none ticked = all):</span>
+  <label><input type="checkbox" value="google-trends">Google</label>
+  <label><input type="checkbox" value="youtube">YouTube</label>
+  <label><input type="checkbox" value="x-trends">Instagram-ready (X)</label>
+  <label><input type="checkbox" value="wikipedia">Wikipedia</label></div>
  <button id="reset">Reset</button>
 </div>
 
@@ -64,10 +68,11 @@ function dayOf(s) { return new Date(String(s).slice(0, 10) + "T00:00:00Z"); }
 function daysAgo(dateStr, today) { return Math.round((today - dayOf(dateStr)) / 86400000); }
 
 function state() {
-  const pf = $("platform").value;
-  const srcs = pf === "youtube" ? ["youtube", "youtube-suggest"] : pf ? [pf] : [];
+  const picked = [...document.querySelectorAll("#platforms input:checked")].map(i => i.value);
+  const srcs = picked.flatMap(p => p === "youtube" ? ["youtube", "youtube-suggest"] : [p]);
+  const show = p => !picked.length || picked.includes(p);
   return {days: +$("days").value, country: $("country").value, city: $("city").value, kind: $("kind").value,
-          minc: +$("minc").value, q: $("q").value.toLowerCase(), srcs, platform: pf};
+          minc: +$("minc").value, q: $("q").value.toLowerCase(), srcs, show};
 }
 
 function topicsNow() {
@@ -130,9 +135,9 @@ function render() {
   const latest = D.latest || [];
   const col = (id, rows, cols) => { $(id).innerHTML = rows.length ? "<tr>" + cols.map(c => `<th class="${c[2]||""}">${c[0]}</th>`).join("") + "</tr>" +
       rows.map(r => "<tr>" + cols.map(c => `<td class="${c[2]||""}">${c[1](r)}</td>`).join("") + "</tr>").join("") : "<p class='small'>no data yet for this place</p>"; };
-  document.querySelector("#hG").parentElement.style.display = (!s.platform || s.platform === "google-trends") ? "" : "none";
-  document.querySelector("#hY").parentElement.style.display = (!s.platform || s.platform === "youtube") ? "" : "none";
-  document.querySelector("#hI").parentElement.style.display = (!s.platform || s.platform === "x-trends") ? "" : "none";
+  document.querySelector("#hG").parentElement.style.display = s.show("google-trends") ? "" : "none";
+  document.querySelector("#hY").parentElement.style.display = s.show("youtube") ? "" : "none";
+  document.querySelector("#hI").parentElement.style.display = s.show("x-trends") ? "" : "none";
   const g = latest.filter(r => r.source === "google-trends" && r.country === cc && !r.city).sort((a, b) => a.rank - b.rank).slice(0, 15);
   $("hG").textContent = `Google: searched today in ${name(cc)}`;
   col("tG", g, [["#", r => r.rank, "n"], ["Search", r => r.url ? `<a href="${attr(r.url)}" target="_blank" rel="noopener">${txt(r.topic)}</a>` : txt(r.topic)], ["Searches", r => Number(r.traffic).toLocaleString(), "n"], ["Headline", r => txt(r.note)]]);
@@ -184,8 +189,9 @@ google.script.run.withFailureHandler(err => {
   const countries = [...new Set(D.byCountry.map(r => r.country))].filter(Boolean).sort();
   $("country").innerHTML = "<option value=''>all countries</option>" + countries.map(x => `<option value="${x}">${name(x)}</option>`).join("");
   fillCities();
-  for (const id of ["days","country","city","kind","minc","q","platform"]) $(id).addEventListener(id==="q"?"input":"change", () => { if (id==="country") fillCities(); render(); });
-  $("reset").onclick = () => { $("days").value = "15"; $("country").value = ""; fillCities(); $("city").value = ""; $("kind").value = "topic"; $("minc").value = "1"; $("q").value = ""; $("platform").value = ""; sel = null; render(); };
+  document.querySelectorAll("#platforms input").forEach(i => i.addEventListener("change", render));
+  for (const id of ["days","country","city","kind","minc","q"]) $(id).addEventListener(id==="q"?"input":"change", () => { if (id==="country") fillCities(); render(); });
+  $("reset").onclick = () => { $("days").value = "15"; $("country").value = ""; fillCities(); $("city").value = ""; $("kind").value = "topic"; $("minc").value = "1"; $("q").value = ""; document.querySelectorAll("#platforms input").forEach(i => i.checked = false); sel = null; render(); };
   render();
 }).getData();
 </script></body></html>
