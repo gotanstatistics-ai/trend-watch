@@ -128,7 +128,8 @@ function doGet() {
 }
 
 function getData() {
+  // Sent as text: the sheet turns dates into Date objects, which cannot travel to the page.
   const ss = SpreadsheetApp.getActiveSpreadsheet();
-  return {topics: table(ss, "Topics 15 days").slice(0, 100),
-          byCountry: table(ss, "By country"), byCity: table(ss, "By city"), home: HOME};
+  return JSON.stringify({topics: table(ss, "Topics 15 days").slice(0, 100),
+          byCountry: table(ss, "By country"), byCity: table(ss, "By city"), home: HOME});
 }

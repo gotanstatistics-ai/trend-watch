@@ -48,7 +48,8 @@ function fillCities() {
 document.getElementById("world").innerHTML = "<p class='small'>loading...</p>";
 google.script.run.withFailureHandler(err => {
   document.getElementById("world").innerHTML = "<p class='small'>Error: " + err.message + "</p>";
-}).withSuccessHandler(d => {
+}).withSuccessHandler(text => {
+  const d = JSON.parse(text);
   D = d;
   if (!d.byCountry.length) {
     document.getElementById("world").innerHTML = "<p class='small'>The sheet has no data yet. In the sheet, use the menu Trend watch, Refresh now (or run setup in Apps Script) and check that the tabs Topics 15 days, By country and By city are filled.</p>";
