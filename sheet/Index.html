@@ -50,6 +50,8 @@
 <script>
 let D = null, sel = null, sortKey = "score", sortDir = -1, charts = {};
 const $ = id => document.getElementById(id);
+const NAMES = {"IN": "India", "US": "United States", "GB": "United Kingdom", "CA": "Canada", "AU": "Australia", "NZ": "New Zealand", "IE": "Ireland", "SG": "Singapore", "MY": "Malaysia", "PH": "Philippines", "PK": "Pakistan", "BD": "Bangladesh", "LK": "Sri Lanka", "AE": "United Arab Emirates", "SA": "Saudi Arabia", "EG": "Egypt", "ZA": "South Africa", "NG": "Nigeria", "KE": "Kenya", "DE": "Germany", "FR": "France", "IT": "Italy", "ES": "Spain", "NL": "Netherlands", "SE": "Sweden", "PL": "Poland", "TR": "Turkey", "RU": "Russia", "JP": "Japan", "KR": "South Korea", "TW": "Taiwan", "ID": "Indonesia", "TH": "Thailand", "VN": "Vietnam", "BR": "Brazil", "MX": "Mexico", "AR": "Argentina", "CO": "Colombia", "CL": "Chile"};
+const name = c => NAMES[c] || c;
 const COLORS = ["#2563eb","#16a34a","#dc2626","#d97706","#7c3aed","#0891b2","#db2777","#4b5563"];
 
 function dayOf(s) { return new Date(String(s).slice(0, 10) + "T00:00:00Z"); }
@@ -117,19 +119,21 @@ function render() {
   chart("cSrc", {type: "doughnut", data: {labels: sk, datasets: [{data: sk.map(x => sc[x]), backgroundColor: COLORS}]}, options: {plugins: {legend: {position: "right"}}}});
 
   const place = s.city ? D.byCity.filter(r => r.city === s.city) : D.byCountry.filter(r => r.country === (s.country || D.home));
-  $("hPlace").textContent = "Top topics in " + (s.city || s.country || D.home);
+  $("hPlace").textContent = "Top topics in " + (s.city || name(s.country || D.home));
   place.sort((a, b) => (b.days - a.days) || (b.seen - a.seen) || (a.best_rank - b.best_rank));
   $("tPlace").innerHTML = "<tr><th>Topic</th><th class=n>Days</th><th class=n>Seen</th><th class=n>Best rank</th><th>Sources</th></tr>" +
     place.slice(0, 40).map(r => `<tr onclick="selTopic(this.dataset.t)" data-t="${attr(r.topic)}"><td>${txt(r.topic)}</td><td class=n>${r.days}</td><td class=n>${r.seen}</td><td class=n>${r.best_rank}</td><td>${txt(r.sources)}</td></tr>`).join("");
 
-  const cols = [["topic","Topic"],["kind","Kind"],["score","Score","n"],["wdays","Days","n"],["countries","Countries","n"],["cities","Cities","n"],["sources","Sources","n"],["wpeak","Peak","n"],["country_list","Where"],["headline","Headline"]];
-  $("hTable").textContent = `Topics, last ${s.days} days (${rows.length})`;
+  const cols = [["topic","Topic"],["kind","Kind"],["score","Score","n"],["wdays","Days","n"],["countries","Countries","n"],["cities","Cities","n"],["sources","Sources","n"],["wpeak","Peak","n"],["country_list","Countries where it trended"],["headline","Headline"]];
+  const placeName = s.country ? "trending in " + [name(s.country), s.city].filter(Boolean).join(", ") : "worldwide";
+  $("hTable").textContent = `Topics ${placeName}, last ${s.days} days (${rows.length})`;
   $("tTopics").innerHTML = "<tr>" + cols.map(c => `<th class="${c[2]||""} ${sortKey===c[0]?"on":""}" onclick="sortBy('${c[0]}')">${c[1]}${sortKey===c[0]?(sortDir<0?" ▼":" ▲"):""}</th>`).join("") + "</tr>" +
     rows.slice(0, 300).map(r => `<tr class="${r.topic===pick?"pick":""}" onclick="selTopic(this.dataset.t)" data-t="${attr(r.topic)}">` + cols.map(c => {
       let v = r[c[0]];
       if (c[0] === "kind") v = `<span class="tag ${v}">${v}</span>`;
       else if (c[0] === "headline") v = r.url ? `<a href="${attr(r.url)}" target="_blank" rel="noopener">${txt(v || "link")}</a>` : txt(v || "");
       else if (c[0] === "wpeak") v = Number(v).toLocaleString();
+      else if (c[0] === "country_list") v = txt(String(v).split(" ").filter(Boolean).map(name).join(", "));
       else v = txt(v);
       return `<td class="${c[2]||""}">${v ?? ""}</td>`; }).join("") + "</tr>").join("");
 }
@@ -142,7 +146,7 @@ function sortBy(k) { if (sortKey === k) sortDir = -sortDir; else { sortKey = k; 
 function fillCities() {
   const c = $("country").value;
   const cities = [...new Set(D.byCity.filter(r => !c || r.country === c).map(r => r.city))].sort();
-  $("city").innerHTML = "<option value=''>all</option>" + cities.map(x => `<option>${txt(x)}</option>`).join("");
+  $("city").innerHTML = "<option value=''>all cities</option>" + cities.map(x => `<option>${txt(x)}</option>`).join("");
 }
 
 $("tiles").innerHTML = "<div class='tile'><b>…</b><span>loading the sheet</span></div>";
@@ -153,7 +157,7 @@ google.script.run.withFailureHandler(err => {
   if (!D.byCountry.length) { $("updated").textContent = "The sheet has no data yet: in the sheet use Trend watch, Refresh now."; return; }
   $("updated").textContent = (D.updated || "") + ". Data from github.com/gotanstatistics-ai/trend-watch, fetched every 6 hours.";
   const countries = [...new Set(D.byCountry.map(r => r.country))].filter(Boolean).sort();
-  $("country").innerHTML = "<option value=''>all</option>" + countries.map(x => `<option>${x}</option>`).join("");
+  $("country").innerHTML = "<option value=''>all countries</option>" + countries.map(x => `<option value="${x}">${name(x)}</option>`).join("");
   const srcs = [...new Set(D.topics.flatMap(t => String(t.source_list).split(" ")))].filter(Boolean).sort();
   $("sources").innerHTML = "<span class=small>Sources:</span>" + srcs.map(x => `<label><input type=checkbox value="${x}">${x}</label>`).join("");
   fillCities();

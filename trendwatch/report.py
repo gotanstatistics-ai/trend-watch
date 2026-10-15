@@ -67,7 +67,7 @@ def rank_topics(entries, today):
         head = headlines.get(k)
         rows.append({"topic": display, "kind": kind_of(display), "score": round(score, 1), "days": len(days), "countries": len(countries),
                      "cities": len(cities), "sources": len(sources), "first_seen": days[0], "last_seen": days[-1],
-                     "peak_traffic": peak, "country_list": " ".join(countries), "city_list": ", ".join(cities[:12]),
+                     "peak_traffic": peak, "country_list": " ".join(countries), "city_list": ", ".join(cities),
                      "source_list": " ".join(sources), "headline": (head.note + ": " + head.topic) if head else best.note,
                      "url": best.url or (head.url if head else "")})
     rows.sort(key=lambda r: (-r["score"], -r["peak_traffic"]))
