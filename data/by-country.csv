@@ -1,23 +1,57 @@
 country,topic,days,seen,best_rank,peak_traffic,sources
+AE,#Jailer2,1,3,1,0,x-trends
+AE,روما,1,3,2,0,x-trends
+AE,مدريد,1,3,2,0,x-trends
+AE,باريس,1,3,4,0,x-trends
+AE,شباب الاهلي,1,3,5,0,x-trends
+AE,الريال,1,3,5,0,x-trends
+AE,السيتي,1,3,6,0,x-trends
+AE,Roma,1,3,7,0,x-trends
+AE,#2026MAMAVOTE,1,3,8,0,x-trends
+AE,القريه العالميه,1,3,9,0,x-trends
+AE,فالفيردي,1,3,11,0,x-trends
+AE,زايد بن محمد بن زايد,1,3,12,0,x-trends
+AE,Real Madrid,1,3,14,0,x-trends
+AE,توريس,1,3,15,0,x-trends
+AE,الهييه الافتراضيه,1,3,16,0,x-trends
+AE,#اريتريا,1,3,17,0,x-trends
+AE,#دوري_ابطال_اوروبا,1,3,18,0,x-trends
+AE,الوحدة,1,3,19,0,x-trends
+AE,انريكي,1,3,20,0,x-trends
+AE,عمان,1,3,22,0,x-trends
+AE,سيلفا,1,3,22,0,x-trends
+AE,كورتوا,1,3,24,0,x-trends
+AE,#آئین_شکن_راج_نہیں_چلے_گا,1,3,25,0,x-trends
+AE,Mourinho,1,3,25,0,x-trends
+AE,دوري الابطال,1,3,26,0,x-trends
+AE,14 اكتوبر,1,3,28,0,x-trends
+AE,Donnarumma,1,3,29,0,x-trends
+AE,مورينهو,1,2,10,0,x-trends
+AE,Vini,1,2,17,0,x-trends
 AE,"Pope Leo slept well after cancer surgery, but recovery could take ‘longer than expected’",1,1,1,0,google-news
+AE,"U.S. warnings sow confusion, alarm in Ukraine over intelligence, Starlink access",1,1,1,0,google-news
 AE,abdulrahman alfozan openai,1,1,1,100,google-trends
 AE,"Ukraine's Starlink restrictions raise suspicions of Musk, Trump retaliation",1,1,2,0,google-news
+AE,"Ilhan Omar’s phone seized and relatives subpoenaed in criminal inquiry, source says",1,1,2,0,google-news
 AE,mls,1,1,2,500,google-trends
 AE,Election Updates: Trump Heads to Montana After Rally in Arizona; Talarico Keeps His Edge in Tightening Texas Senate Race,1,1,3,0,google-news
+AE,"Election Dispatches: Talarico Remains Ahead in Texas Senate Race, Polls Show, but His Lead Has Narrowed",1,1,3,0,google-news
 AE,inter miami vs new york city,1,1,3,5000,google-trends
-AE,"Ilhan Omar’s phone seized and relatives subpoenaed in criminal inquiry, source says",1,1,4,0,google-news
+AE,"Katie Zacharia May Have Committed A ‘Crime’ By Claiming She’s A Lawyer, Complaint Suggests",1,1,4,0,google-news
 AE,tiktok,1,1,4,200,google-trends
-AE,"Katie Zacharia May Have Committed A ‘Crime’ By Claiming She’s A Lawyer, Complaint Suggests",1,1,5,0,google-news
 AE,starlink,1,1,5,200,google-trends
 AE,GOP gets another Supreme Court win in TV political ad fight,1,1,6,0,google-news
+AE,Supreme Court sides with Republicans in dispute over cost of campaign ads,1,1,6,0,google-news
 AE,ship,1,1,6,1000,google-trends
 AE,Sexual assault reported at frat house near University of Chicago,1,1,7,0,google-news
 AE,aston villa vs fenerbahçe standings,1,1,7,500,google-trends
 AE,"ICE officer appeared to intentionally hit a man with a vehicle in Houston, Texas prosecutor says",1,1,8,0,google-news
+AE,Capitol agenda: Some Republicans write off the House - Live Updates,1,1,8,0,google-news
 AE,donyell malen,1,1,8,200,google-trends
-AE,Capitol agenda: Some Republicans write off the House - Live Updates,1,1,9,0,google-news
+AE,مورينيو,1,1,8,0,x-trends
+AE,Roller coaster rider’s death puts spotlight on the safety of ever more thrilling rides,1,1,9,0,google-news
 AE,kylian mbappé,1,1,9,100,google-trends
-AE,Roller coaster rider’s death puts spotlight on the safety of ever more thrilling rides,1,1,10,0,google-news
+AE,Trump says Taiwan will buy Alaska LNG. The project is still in flux.,1,1,10,0,google-news
 AE,مباراة ريال مدريد,1,1,10,100,google-trends
 AE,Iranian attacks sink two ships in Strait of Hormuz,1,1,11,0,google-news
 AE,World’s oldest shipwreck discovered off coast of Turkey,1,1,12,0,google-news
@@ -29,37 +63,130 @@ AE,"'Yikes': CoreWeave stock tanks on bond yield woes, CEO blames market acting 
 AE,OpenAI employee accused of bugging office booked one-way ticket to Saudi Arabia,1,1,18,0,google-news
 AE,"Apple HomeView Has These 15 Apps, Some CarPlay Apps and Widgets Also Supported",1,1,19,0,google-news
 AE,Epic says its new vibe-coded Epic Games Launcher is faster than Steam,1,1,20,0,google-news
+AE,اردا,1,1,30,0,x-trends
+AR,River,1,2,1,0,x-trends
+AR,#MartinFierroDeLaMusica,1,2,2,0,x-trends
+AR,Ponzio,1,2,3,0,x-trends
+AR,Sarmiento,1,2,4,0,x-trends
+AR,Montiel,1,2,5,0,x-trends
+AR,Beltrán,1,2,6,0,x-trends
+AR,Pereyra,1,2,7,0,x-trends
+AR,Driussi,1,2,8,0,x-trends
+AR,Almada,1,2,9,0,x-trends
+AR,Vera,1,2,10,0,x-trends
+AR,Martinez,1,2,11,0,x-trends
+AR,Otamendi,1,2,12,0,x-trends
+AR,Varsky,1,2,13,0,x-trends
+AR,Correa,1,2,14,0,x-trends
+AR,Coudet,1,2,15,0,x-trends
+AR,Acuña,1,2,16,0,x-trends
+AR,Norberto Di Próspero,1,2,17,0,x-trends
+AR,Ramón,1,2,17,0,x-trends
+AR,Flaco López,1,2,18,0,x-trends
+AR,Dalila,1,2,20,0,x-trends
+AR,Zunino,1,2,21,0,x-trends
+AR,Andrada,1,2,22,0,x-trends
+AR,#MunicipiosArgentinos,1,2,23,0,x-trends
+AR,#ElMinisterioFantasma,1,2,24,0,x-trends
+AR,Di Carlo,1,2,24,0,x-trends
+AR,Wanda Nara,1,2,26,0,x-trends
+AR,Ubfal,1,2,27,0,x-trends
+AR,Inter Miami,1,2,27,0,x-trends
+AR,Meza,1,2,28,0,x-trends
 AR,"Diputados. Llaryora se suma a la ofensiva contra el DNU 70, pero con la sesión lejos del quórum",1,1,1,0,google-news
 AR,posiciones de inter miami contra new york city football club,1,1,1,20000,google-trends
+AR,inter miami vs nyc fc,1,1,1,500,google-trends
+AR,RJ Mitte,1,1,1,28100,wikipedia
 AR,"Los médicos del Papa informan que camina y se recupera ""según lo previsto"" tras su cirugía por un cáncer de pulmón",1,1,2,0,google-news
 AR,karina mazzocco,1,1,2,500,google-trends
+AR,Romina Yan,1,1,2,14400,wikipedia
 AR,“Sin financiamiento no hay ciencia ni educación”: el video de la UBA para convocar a la Marcha Universitaria,1,1,3,0,google-news
 AR,niño clima,1,1,3,100,google-trends
+AR,Radio AM 750,1,1,3,8500,wikipedia
 AR,Financiamiento Universitario: la Justicia le impuso una multa diaria al Gobierno por incumplimiento,1,1,4,0,google-news
+AR,"Javier Milei llegó a Washington: una gala, premios, discursos y un nuevo gesto de apoyo a Trump",1,1,4,0,google-news
 AR,marcha universitaria,1,1,4,1000,google-trends
-AR,"Javier Milei llegó a Washington: una gala, premios, discursos y un nuevo gesto de apoyo a Trump",1,1,5,0,google-news
-AR,chicago fire - philadelphia,1,1,5,200,google-trends
+AR,chicago fire - philadelphia,1,1,4,200,google-trends
+AR,Gustavo Yankelevich,1,1,4,7800,wikipedia
+AR,Especial:Buscar,1,1,5,7500,wikipedia
 AR,Las claves de la avanzada argentina ante el Tribunal del Mar por el petróleo de Malvinas y la respuesta británica para blindar a las empresas,1,1,6,0,google-news
 AR,premio,1,1,6,200,google-trends
+AR,León XIV,1,1,6,6400,wikipedia
 AR,"Javier Milei y sus medidas, EN VIVO: el Presidente pidió que Trump salga “fortalecido” en las elecciones de Estados Unidos",1,1,7,0,google-news
+AR,"""IVA 0, Tasa 0"": el desafío de un intendente a Javier Milei",1,1,7,0,google-news
 AR,nashville sc - sporting kc,1,1,7,200,google-trends
-AR,"""IVA 0, Tasa 0"": el desafío de un intendente a Javier Milei",1,1,8,0,google-news
+AR,Cris Morena,1,1,7,5700,wikipedia
+AR,"Murió Norberto Di Próspero, secretario general de la Asociación del Personal Legislativo",1,1,8,0,google-news
 AR,sebastián ortega,1,1,8,100,google-trends
-AR,"Murió Norberto Di Próspero, secretario general de la Asociación del Personal Legislativo",1,1,9,0,google-news
+AR,Emanuel Ortega,1,1,8,4100,wikipedia
+AR,Diputados: no hubo acuerdo en el debate por Malvinas y el oficialismo posterga la firma del dictamen para la próxima semana,1,1,9,0,google-news
 AR,montréal - atlanta united,1,1,9,200,google-trends
+AR,Raphael (cantante),1,1,9,4000,wikipedia
 AR,"""Gildus"", el increíble videojuego que hicieron en Formosa en el que Gildo Insfrán pelea contra un león con una motosierra",1,1,10,0,google-news
+AR,"El aumento bimestral de octubre de los estatales de Río Negro será del 4,18% y un inicio trabado en la paritaria docente",1,1,10,0,google-news
 AR,abel ferreira,1,1,10,200,google-trends
+AR,Julieta Prandi,1,1,10,3600,wikipedia
 AR,"La salud del papa León XIV, EN VIVO: nuevo parte médico tras la operación por cáncer de pulmón y noticias de hoy 14 de octubre",1,1,11,0,google-news
+AR,Elecciones en Brasil: Flávio Bolsonaro se ubica dos puntos arriba de Lula en una nueva encuesta para la segunda vuelta,1,1,11,0,google-news
+AR,Hernán Coronel,1,1,11,3500,wikipedia
 AR,"Encuestas de las elecciones de Brasil 2026: una por una, qué dicen en los días previos a la segunda vuelta",1,1,12,0,google-news
-AR,"El Senado de Brasil aprueba el fin de la jornada “6x1”, la gran apuesta de Lula antes del balotaje",1,1,13,0,google-news
+AR,"El Senado de Brasil aprueba el fin de la jornada “6x1”, la gran apuesta de Lula antes del balotaje",1,1,12,0,google-news
+AR,Speciel:Søgning,1,1,12,3400,wikipedia
 AR,"Videos: tormenta eléctrica, granizo y hasta un tornado causaron estragos nuevamente en Santiago de Chile",1,1,14,0,google-news
+AR,Wiphala,1,1,14,3300,wikipedia
 AR,El Banco Central compró otros USD 100 millones y busca fortalecer la “bazuca” de dólares para evitar tensiones en 2027,1,1,15,0,google-news
+AR,Mike Amigorena,1,1,15,3100,wikipedia
 AR,El riesgo país superó los 600 puntos y las acciones argentinas cayeron hasta 4% en Wall Street,1,1,16,0,google-news
+AR,Francisco (papa),1,1,16,3000,wikipedia
 AR,"Horacio Marín, de YPF, en el Cicyp: la inspiración de Messi y cómo Argentina pasó de ser un país con petróleo a uno petrolero",1,1,17,0,google-news
+AR,Nicolò Tresoldi,1,1,17,2900,wikipedia
 AR,"Así cerró el dólar en bancos, blue y MEP este miércoles 14 de octubre",1,1,18,0,google-news
+AR,Alejo Isakk,1,1,18,2900,wikipedia
 AR,"BLACK de Xbox ya tiene Port Nativo para PC con 4K, 120 FPS, FOV, KM&, Mejoras Gráficas y más – Guía y Video",1,1,19,0,google-news
+AR,Event:Wiki Loves Monuments 2026 in Argentina,1,1,19,2800,wikipedia
 AR,"Shadow of the Colossus Remake ya tiene Port Nativo para PC con 60 FPS, 4K, FSR y Teclado y Mouse – Descarga y Guía",1,1,20,0,google-news
+AR,Especial:Cerca,1,1,20,2600,wikipedia
+AR,Rocío Robles,1,1,21,2600,wikipedia
+AR,Speciális:Keresés,1,1,22,2400,wikipedia
+AR,Represa de Itaipú,1,1,23,2300,wikipedia
+AR,Club de Regatas Vasco da Gama,1,1,24,2100,wikipedia
+AR,Walter White Jr.,1,1,25,2000,wikipedia
+AR,Primark,1,1,28,0,x-trends
+AR,Contrera,1,1,30,0,x-trends
+AU,#2026MAMAVOTE,1,5,1,0,x-trends
+AU,Starshield,1,5,2,0,x-trends
+AU,Murray,1,5,3,0,x-trends
+AU,Metallica,1,5,4,0,x-trends
+AU,Viney,1,5,5,0,x-trends
+AU,Starlink,1,5,6,0,x-trends
+AU,Coleman,1,5,7,0,x-trends
+AU,Crows,1,5,8,0,x-trends
+AU,Stolas,1,5,9,0,x-trends
+AU,#Jailer2,1,5,9,0,x-trends
+AU,Narnia,1,5,10,0,x-trends
+AU,Ukraine,1,5,11,0,x-trends
+AU,Michelin,1,5,12,0,x-trends
+AU,Anne Aly,1,5,12,0,x-trends
+AU,Roughead,1,5,13,0,x-trends
+AU,Shane Gillis,1,5,15,0,x-trends
+AU,Sally Rooney,1,5,16,0,x-trends
+AU,Butts,1,5,17,0,x-trends
+AU,Angie Bell,1,5,17,0,x-trends
+AU,Plibersek,1,5,18,0,x-trends
+AU,Roma,1,5,19,0,x-trends
+AU,Adelaide,1,5,21,0,x-trends
+AU,Musk,1,5,22,0,x-trends
+AU,SANFL,1,5,22,0,x-trends
+AU,Brady,1,5,23,0,x-trends
+AU,#VisionQuest,1,5,24,0,x-trends
+AU,Bradley,1,4,26,0,x-trends
+AU,Logue,1,4,27,0,x-trends
+AU,Richmond,1,4,28,0,x-trends
+AU,Piers,1,3,22,0,x-trends
+AU,Whitlock,1,3,28,0,x-trends
+AU,McLachlan,1,2,30,0,x-trends
 AU,"COVID-19 grants paid to 9,000 ineligible Victorian businesses",1,1,1,0,google-news
+AU,"Beau Lamarre-Condon allegedly asked celebrity chaser friend if he could post phone to her in WA to throw in water, court told",1,1,1,0,google-news
 AU,anika wells,1,1,1,100,google-trends
 AU,19yo charged over Sydney school pick-up attempted shooting,1,1,2,0,google-news
 AU,lionel messi,1,1,2,500,google-trends
@@ -70,45 +197,56 @@ AU,rory mcilroy,1,1,4,500,google-trends
 AU,Zelenskyy says Trump's decision to take Russia's side 'painful',1,1,5,0,google-news
 AU,jailer 2,1,1,5,500,google-trends
 AU,Bogong moths could stick around for months but biologist says it’s all a promising sign for nature,1,1,6,0,google-news
+AU,Builder chosen for Hobart's Macquarie Point stadium,1,1,6,0,google-news
 AU,fluminense vs palmeiras,1,1,6,200,google-trends
 AU,RBA on notice to hold off on rate rises as jobless rate hits 5-year high,1,1,7,0,google-news
+AU,"Unemployment at five-year high after nearly 40,000 jobs lost",1,1,7,0,google-news
 AU,inter miami,1,1,7,1000,google-trends
-AU,"Beau Lamarre-Condon allegedly asked celebrity chaser friend if he could post phone to her in WA to throw in water, court told",1,1,8,0,google-news
+AU,Conroy targets 'rot' in Defence after $15.6m bungle unmasked,1,1,8,0,google-news
 AU,wtc asx,1,1,8,100,google-trends
-AU,Conroy targets 'rot' in Defence after $15.6m bungle unmasked,1,1,9,0,google-news
+AU,Free abortions pledged to remove women’s ‘postcode lottery’ of care,1,1,9,0,google-news
 AU,dodgers vs brewers,1,1,9,2000,google-trends
 AU,Longer trip times the price of extra train services in timetable shake-up,1,1,10,0,google-news
+AU,Overhaul means more South Coast rail services but longer trips,1,1,10,0,google-news
 AU,wealth,1,1,10,200,google-trends
 AU,Starlink: Musk says US government may be behind slowdown of Ukraine drone speeds,1,1,11,0,google-news
 AU,Royal spotted unconscious on London street,1,1,12,0,google-news
-AU,‘Sexual predator’ Brand ‘hoped to sleep with 5000 girls’,1,1,13,0,google-news
-AU,Alleged Chinese spies used LinkedIn to target former premier,1,1,14,0,google-news
+AU,‘Sexual predator’ Brand ‘hoped to sleep with 5000 girls’,1,1,12,0,google-news
+AU,Alleged Chinese spies used LinkedIn to target former premier,1,1,13,0,google-news
+AU,"Two Singapore-registered vessels hit in the Strait of Hormuz, one sinks",1,1,14,0,google-news
 AU,Firmus rival bleeds as IPO blame game erupts,1,1,15,0,google-news
 AU,ASIC drops insider trading probe into billionaire Richard White,1,1,16,0,google-news
 AU,Lifestyle benefits outweigh costs of apartment living for some downsizers,1,1,17,0,google-news
 AU,Is it really ‘madness’ to account for emissions from fossil fuels burned overseas? The Coalition sure thinks so,1,1,18,0,google-news
+AU,Delta to offer free in-flight Wi-Fi on all Australian flights within weeks,1,1,18,0,google-news
 AU,2027 Mercedes-Benz GLE450e PHEV priced for Australia,1,1,19,0,google-news
 AU,"Rockstar's next game won't take eight years to make: ""The engine, the tools and the team we've built during GTA 6 will allow us to do things more quickly""",1,1,20,0,google-news
 BD,"Pope Leo slept well after cancer surgery, but recovery could take ‘longer than expected’",1,1,1,0,google-news
+BD,"U.S. warnings sow confusion, alarm in Ukraine over intelligence, Starlink access",1,1,1,0,google-news
 BD,toronto vs orlando city,1,1,1,100,google-trends
+BD,inter miami vs new york city fc standings,1,1,1,5000,google-trends
 BD,"Ukraine's Starlink restrictions raise suspicions of Musk, Trump retaliation",1,1,2,0,google-news
+BD,"Ilhan Omar’s phone seized and relatives subpoenaed in criminal inquiry, source says",1,1,2,0,google-news
 BD,germán berterame,1,1,2,100,google-trends
 BD,Election Updates: Trump Heads to Montana After Rally in Arizona; Talarico Keeps His Edge in Tightening Texas Senate Race,1,1,3,0,google-news
+BD,"Election Dispatches: Talarico Remains Ahead in Texas Senate Race, Polls Show, but His Lead Has Narrowed",1,1,3,0,google-news
 BD,nashville vs sporting kc,1,1,3,500,google-trends
-BD,"Ilhan Omar’s phone seized and relatives subpoenaed in criminal inquiry, source says",1,1,4,0,google-news
+BD,"Katie Zacharia May Have Committed A ‘Crime’ By Claiming She’s A Lawyer, Complaint Suggests",1,1,4,0,google-news
 BD,montréal vs atlanta united,1,1,4,200,google-trends
-BD,"Katie Zacharia May Have Committed A ‘Crime’ By Claiming She’s A Lawyer, Complaint Suggests",1,1,5,0,google-news
 BD,chicago vs philadelphia,1,1,5,500,google-trends
 BD,GOP gets another Supreme Court win in TV political ad fight,1,1,6,0,google-news
+BD,Supreme Court sides with Republicans in dispute over cost of campaign ads,1,1,6,0,google-news
 BD,columbus vs charlotte,1,1,6,200,google-trends
 BD,Sexual assault reported at frat house near University of Chicago,1,1,7,0,google-news
 BD,fluminense vs palmeiras,1,1,7,1000,google-trends
 BD,"ICE officer appeared to intentionally hit a man with a vehicle in Houston, Texas prosecutor says",1,1,8,0,google-news
+BD,Capitol agenda: Some Republicans write off the House - Live Updates,1,1,8,0,google-news
 BD,mls,1,1,8,2000,google-trends
-BD,Capitol agenda: Some Republicans write off the House - Live Updates,1,1,9,0,google-news
+BD,Roller coaster rider’s death puts spotlight on the safety of ever more thrilling rides,1,1,9,0,google-news
 BD,inter miami,1,1,9,2000,google-trends
-BD,Roller coaster rider’s death puts spotlight on the safety of ever more thrilling rides,1,1,10,0,google-news
-BD,ন্যাশনাল ব্যাংক,1,1,10,100,google-trends
+BD,ন্যাশনাল ব্যাংক,1,1,9,100,google-trends
+BD,Trump says Taiwan will buy Alaska LNG. The project is still in flux.,1,1,10,0,google-news
+BD,inter miami vs new york city,1,1,10,50000,google-trends
 BD,Iranian attacks sink two ships in Strait of Hormuz,1,1,11,0,google-news
 BD,World’s oldest shipwreck discovered off coast of Turkey,1,1,12,0,google-news
 BD,"Burnham treads carefully in Zelensky visit, balancing Trump and Ukraine",1,1,13,0,google-news
@@ -119,156 +257,526 @@ BD,"'Yikes': CoreWeave stock tanks on bond yield woes, CEO blames market acting 
 BD,OpenAI employee accused of bugging office booked one-way ticket to Saudi Arabia,1,1,18,0,google-news
 BD,"Apple HomeView Has These 15 Apps, Some CarPlay Apps and Widgets Also Supported",1,1,19,0,google-news
 BD,Epic says its new vibe-coded Epic Games Launcher is faster than Steam,1,1,20,0,google-news
+BR,Luiz Inácio Lula da Silva,2,2,1,10500,wikipedia x-trends
+BR,VITÓRIA DA CLASSE TRABALHADORA,1,3,1,0,x-trends
+BR,ERIKA HILTON,1,2,2,0,x-trends
+BR,Biden,1,2,2,0,x-trends
+BR,FIM DA ESCALA 6X1,1,2,3,0,x-trends
+BR,Hulk,1,2,4,0,x-trends
+BR,Real Madrid,1,2,4,0,x-trends
+BR,#GolpeNoSenado,1,2,5,0,x-trends
+BR,Endrick,1,2,5,0,x-trends
+BR,#LulaPeloFimDа6х1,1,2,6,0,x-trends
+BR,FLÁVIO É O CRIME,1,2,6,0,x-trends
+BR,LULA ACABOU COM A 6X1,1,2,7,0,x-trends
+BR,LOPEZ,1,2,8,0,x-trends
+BR,Mourinho,1,2,8,0,x-trends
+BR,Hamilton Mourão,1,2,9,0,x-trends
+BR,Roma,1,2,9,0,x-trends
+BR,Canobbio,1,2,10,0,x-trends
+BR,FOGE NÃO LULA,1,2,10,0,x-trends
+BR,#ProvaDoFazendeiro,1,2,11,0,x-trends
+BR,SOMOS TODOS ANA ELISA,1,2,12,0,x-trends
+BR,Discord,1,2,12,0,x-trends
+BR,#FandomsPelaEscala5x2,1,2,13,0,x-trends
+BR,CAGA NÃO FLÁVIO,1,2,14,0,x-trends
+BR,FLÁVIO É SÓCIO DO VORCARO,1,2,15,0,x-trends
+BR,Arana,1,2,16,0,x-trends
 BR,"Ausente nas discussões, Flávio Bolsonaro cede a pressão e vota a favor da PEC do fim do 6x1",1,1,1,0,google-news
 BR,iphone 18,1,1,1,1000,google-trends
+BR,Fluminense x Palmeiras,1,1,1,0,x-trends
+BR,Netinho (cantor),1,1,1,51400,wikipedia
 BR,"Quaest: Flávio tem 46% no 2º turno; Lula, 44%",1,1,2,0,google-news
 BR,classificações de inter miami x new york city fc,1,1,2,10000,google-trends
+BR,GIGANTE,1,1,2,0,x-trends
+BR,RJ Mitte,1,1,2,34000,wikipedia
 BR,'SUS da Segurança' e fim da 'saidinha' para integrantes de facções: o que prevê a PEC da Segurança,1,1,3,0,google-news
 BR,sport club corinthians paulista,1,1,3,2000,google-trends
+BR,Ricardo Nunes,1,1,3,0,x-trends
+BR,Speciel:Søgning,1,1,3,27700,wikipedia
 BR,"Em áudio, Gayer demonstra preocupação com mobilização do PT nas ruas",1,1,4,0,google-news
 BR,murat boz,1,1,4,200,google-trends
+BR,Faz o T,1,1,4,0,x-trends
+BR,Speciális:Keresés,1,1,4,20000,wikipedia
 BR,Câmara aprova pacote eleitoral de Lula que perdoa dívidas e aumenta teto do MEI,1,1,5,0,google-news
+BR,Câmara aprova aumento no teto do MEI e perdão a dívidas,1,1,5,0,google-news
 BR,palmeiras hj,1,1,5,200,google-trends
+BR,Especial:Cerca,1,1,5,20000,wikipedia
 BR,PT vai à OEA contra Meta por interferência pró-Flávio Bolsonaro nas eleições,1,1,6,0,google-news
 BR,reginaldo lopes,1,1,6,200,google-trends
+BR,Especial:Pesquisar,1,1,6,14300,wikipedia
 BR,Veja fotos dos alagamentos e transtornos provocados por temporal em SP nesta quarta-feira,1,1,7,0,google-news
+BR,Chuva forte alaga túnel do Vale do Anhangabaú e deixa carros boiando em SP,1,1,7,0,google-news
 BR,flaco lopez,1,1,7,500,google-trends
+BR,Champions,1,1,7,0,x-trends
+BR,Maurício,1,1,7,0,x-trends
+BR,विशेष:खोज,1,1,7,14000,wikipedia
 BR,Dia do Servidor: Prefeitura de Teresina transfere folga para 30 de outubro,1,1,8,0,google-news
 BR,mackenzie davis,1,1,8,200,google-trends
+BR,Sosa,1,1,8,0,x-trends
+BR,Istimewa:Pencarian,1,1,8,13900,wikipedia
 BR,"MDB, PP, PSD e outros 7 partidos fecham apoio à reeleição de Motta",1,1,9,0,google-news
 BR,técnico do palmeiras,1,1,9,500,google-trends
+BR,TRANSbordando,1,1,9,0,x-trends
+BR,خاص:بحث,1,1,9,13200,wikipedia
 BR,Lula regulamenta marco dos games e propõe crédito mais barato para o setor,1,1,10,0,google-news
+BR,"Governo Milei fala em ""oportunismo"" em mandado contra Eduardo Bolsonaro",1,1,10,0,google-news
 BR,nashville sc x sporting kc,1,1,10,200,google-trends
+BR,Posebno:Traži,1,1,10,13000,wikipedia
 BR,Papa Leão XIV pede orações por sua saúde após cirurgia para retirar tumor no pulmão; leia íntegra da carta,1,1,11,0,google-news
+BR,Copa do Brasil,1,1,11,0,x-trends
+BR,특수:검색,1,1,11,10800,wikipedia
 BR,Ucrânia acusa Musk de restringir Starlink e prejudicar ações militares,1,1,12,0,google-news
+BR,julian casablancas,1,1,12,0,x-trends
+BR,Flávio Bolsonaro,1,1,12,10600,wikipedia
 BR,"Trump anuncia exploração de petróleo, gás e minerais na Groenlândia",1,1,13,0,google-news
+BR,Keiko Fujimori realiza o sonho de Damares Alves nas escolas peruanas,1,1,13,0,google-news
+BR,Epstein,1,1,13,0,x-trends
 BR,Polícia da Turquia toma o controle de TV de oposição e prende 11 funcionários,1,1,14,0,google-news
+BR,Vitor Roque,1,1,14,0,x-trends
+BR,Spesial:Søk,1,1,14,10100,wikipedia
 BR,"Ibovespa fecha negativo, com eleição e dados de inflação; dólar vale R$ 5,02",1,1,15,0,google-news
+BR,Wiki:Sykje,1,1,15,10100,wikipedia
 BR,Mega-Sena 3070 acumula e prêmio vai a R$ 170 milhões; confira os números sorteados,1,1,16,0,google-news
+BR,Prometo,1,1,16,0,x-trends
+BR,Špeciálne:Hľadanie,1,1,16,9900,wikipedia
 BR,"Gol anuncia suspensão de voos para Miami, Orlando e Punta Cana em 2027",1,1,17,0,google-news
+BR,Ganso,1,1,17,0,x-trends
+BR,Obrigado Lula,1,1,17,0,x-trends
+BR,Özel:Ara,1,1,17,9900,wikipedia
 BR,"Contagem regressiva para opção pelo Simples Nacional: prazo termina nesta quinta-feira, 15/10",1,1,18,0,google-news
+BR,Dólar abaixo de R$ 5: especialistas veem oportunidade para ampliar investimentos internacionais,1,1,18,0,google-news
+BR,O Palmeiras,1,1,18,0,x-trends
+BR,The Strokes,1,1,18,0,x-trends
+BR,Clarence Seedorf,1,1,18,9900,wikipedia
 BR,Cyberleek divulga ‘vazamento final’ de GTA 6 e promete parar com vídeos do jogo,1,1,19,0,google-news
-BR,Apple lança novos dispositivos domésticos e atualiza Siri com IA,1,1,20,0,google-news
+BR,Apple lança novos dispositivos domésticos e atualiza Siri com IA,1,1,19,0,google-news
+BR,ACABOU A 6X1,1,1,19,0,x-trends
+BR,Speciale:Ricerca,1,1,19,9500,wikipedia
+BR,Quaest,1,1,20,0,x-trends
+BR,Stolas,1,1,20,0,x-trends
+BR,Lista de presidentes do Brasil,1,1,20,8500,wikipedia
+BR,#UpfrontGlobo2027,1,1,21,0,x-trends
+BR,#ANobrezaDoAmor,1,1,21,0,x-trends
+BR,Jair Bolsonaro,1,1,21,8200,wikipedia
+BR,Andreas,1,1,22,0,x-trends
+BR,SE VOCÊ VER NA SUA TML,1,1,22,0,x-trends
+BR,Ειδικό:Αναζήτηση,1,1,22,7800,wikipedia
+BR,Martinelli,1,1,23,0,x-trends
+BR,Bagi,1,1,23,0,x-trends
+BR,Katseye,1,1,23,7500,wikipedia
+BR,VITÓRIA DO POVO BRASILEIRO,1,1,24,0,x-trends
+BR,FAÇA ISSO,1,1,24,0,x-trends
+BR,Arias,1,1,25,0,x-trends
+BR,João Gomes,1,1,25,0,x-trends
+BR,VITÓRIA DOS TRABALHADORES,1,1,26,0,x-trends
+BR,Justiça Eleitoral,1,1,26,0,x-trends
+BR,Marlon Freitas,1,1,27,0,x-trends
+BR,Fim da 6x1,1,1,27,0,x-trends
+BR,Champions League,1,1,27,0,x-trends
+BR,Cannobio,1,1,28,0,x-trends
+BR,cage the elephant,1,1,28,0,x-trends
+BR,Serna,1,1,29,0,x-trends
+BR,O Globo,1,1,29,0,x-trends
+BR,BLOQUINHO DO 22 NAS RUAS,1,1,30,0,x-trends
+CA,Shane Gillis,2,3,9,11100,wikipedia x-trends
+CA,#Survivor51,1,4,1,0,x-trends
+CA,Andy,1,4,1,0,x-trends
+CA,Wilson,1,4,2,0,x-trends
+CA,Prime,1,4,2,0,x-trends
+CA,Josh Anderson,1,4,3,0,x-trends
+CA,#GoHabsGo,1,4,3,0,x-trends
+CA,Greenland,1,4,5,0,x-trends
+CA,Dobes,1,4,5,0,x-trends
+CA,Slaf,1,4,7,0,x-trends
+CA,Starshield,1,4,8,0,x-trends
+CA,Thanksgiving,1,4,9,0,x-trends
+CA,#AEWDynamite,1,4,10,0,x-trends
+CA,Hutson,1,4,11,0,x-trends
+CA,#CFMTL,1,4,12,0,x-trends
+CA,Alain Crête,1,4,13,0,x-trends
+CA,Indians,1,4,14,0,x-trends
+CA,Metallica,1,4,15,0,x-trends
+CA,Joe Davis,1,4,16,0,x-trends
+CA,Snell,1,4,17,0,x-trends
+CA,#2026MAMAVOTE,1,4,18,0,x-trends
+CA,Stolarz,1,4,20,0,x-trends
+CA,Davis Schneider,1,4,22,0,x-trends
+CA,Roma,1,4,23,0,x-trends
+CA,Jackson Chourio,1,4,24,0,x-trends
+CA,Russian,1,4,25,0,x-trends
+CA,Donnarumma,1,4,26,0,x-trends
+CA,Hoekstra,1,4,27,0,x-trends
+CA,Alaska,1,4,28,0,x-trends
+CA,Raty,1,4,29,0,x-trends
 CA,Alberta’s referendum draws 174K ballots in the 1st day of advance polls,1,1,1,0,google-news
 CA,abner uribe,1,1,1,200,google-trends
+CA,jake bauers,1,1,1,200,google-trends
+CA,Kick,1,1,1,0,x-trends
+CA,RJ Mitte,1,1,1,156400,wikipedia
 CA,Violent abduction targeting man’s crypto assets leads to arrest of 3 CAF members: Toronto police,1,1,2,0,google-news
+CA,B.C.'s major party leaders discuss province's deficit at only debate of election campaign,1,1,2,0,google-news
 CA,yellowjackets,1,1,2,100,google-trends
+CA,justin holl,1,1,2,200,google-trends
+CA,Katie Zacharia,1,1,2,40700,wikipedia
 CA,"U.S. 'monitoring' Canada for signs of midterm election interference, ambassador says",1,1,3,0,google-news
+CA,"Canada would never interfere in U.S. elections, Joly says after ambassador’s accusation",1,1,3,0,google-news
 CA,lionel messi,1,1,3,2000,google-trends
+CA,jakub dobeš,1,1,3,1000,google-trends
+CA,Selma Blair,1,1,3,27100,wikipedia
 CA,Trump says Canada will ‘end up being the 51st state’,1,1,4,0,google-news
 CA,denise richards,1,1,4,100,google-trends
+CA,palmeiras,1,1,4,100,google-trends
+CA,Kimberly Guilfoyle,1,1,4,20200,wikipedia
 CA,Person injured in Tsawwassen Mills crash dies from her injuries,1,1,5,0,google-news
 CA,excès de vitesse,1,1,5,100,google-trends
+CA,new york city fc vs inter miami standings,1,1,5,500,google-trends
+CA,Below (miniseries),1,1,5,15700,wikipedia
 CA,Three B.C. party leaders to face off in only televised debate of election,1,1,6,0,google-news
+CA,"Ukraine says Starlink restricted operations overnight, disrupting military missions",1,1,6,0,google-news
 CA,linda blair,1,1,6,200,google-trends
+CA,Carrie (miniseries),1,1,6,12500,wikipedia
 CA,Arrests made at Toronto bike lane removal protest,1,1,7,0,google-news
 CA,gary oldman,1,1,7,100,google-trends
+CA,Hailee Steinfeld,1,1,7,12200,wikipedia
 CA,Key figure in Pearson gold heist cites trauma for his trouble with testifying,1,1,8,0,google-news
+CA,Two people arrested as protest disrupts Bloor Street bike lane removal in Etobicoke,1,1,8,0,google-news
 CA,great wolf lodge,1,1,8,100,google-trends
+CA,Daniel and Luis Moncada,1,1,8,11700,wikipedia
 CA,Washington resident charged with conspiracy in Canada school shooting is ordered detained,1,1,9,0,google-news
 CA,cale makar wife,1,1,9,100,google-trends
 CA,More than 300 Tickets Issued During Thanksgiving Traffic Blitz,1,1,10,0,google-news
 CA,emily lowan,1,1,10,1000,google-trends
+CA,Deaths in 2026,1,1,10,10300,wikipedia
 CA,Cornell suspends all frat parties as alleged gang rape fuels continued calls for action,1,1,11,0,google-news
+CA,Unparliamentary language,1,1,11,10000,wikipedia
 CA,"After Katie Zacharia’s debut as White House press secretary, her credentials are now being questioned",1,1,12,0,google-news
 CA,"Pope Leo has lung cancer, Vatican says",1,1,13,0,google-news
+CA,Quebec earthquake simulation will take place Thursday morning,1,1,13,0,google-news
+CA,Luis Moncada,1,1,13,8900,wikipedia
 CA,Six Flags closes 9 North American roller-coasters after families watch man fall to his death,1,1,14,0,google-news
+CA,Harrison Mevis,1,1,14,8500,wikipedia
 CA,"Opinion: Hot mess: France’s melted freezers hack can happen in Canada, too",1,1,15,0,google-news
+CA,Jean-Luc Mongrain,1,1,15,8000,wikipedia
 CA,"Stelco could be forced to sell Canadian assets if layoffs continue, Joly warns",1,1,16,0,google-news
+CA,Josh Hartnett,1,1,16,7900,wikipedia
 CA,Real estate developer testifies he gave 'Crypto King’ Aiden Pleterski $4.5M to invest,1,1,17,0,google-news
+CA,East of Eden (2026 miniseries),1,1,17,7400,wikipedia
 CA,"A tough housing market could revive multigenerational homes, poll suggests",1,1,18,0,google-news
+CA,Godfathers of AI Say Models Are So Out of Control That They Need to Be Airgapped for the Safety of Us All,1,1,18,0,google-news
+CA,Beauty Revealed,1,1,18,7100,wikipedia
 CA,"Apple's HomeView brings personalized Siri to smart home, takes on Amazon and Google",1,1,19,0,google-news
+CA,Thank You/en,1,1,19,6700,wikipedia
 CA,"Defective phone charger, not arson, caused car fire, lawsuit against MPI alleges",1,1,20,0,google-news
+CA,See More of The Legend of Zelda: Ocarina of Time Remake in Overview Trailer,1,1,20,0,google-news
+CA,Ilhan Omar,1,1,20,6400,wikipedia
+CA,Josie Totah,1,1,21,6400,wikipedia
+CA,Nidal Hasan,1,1,22,6300,wikipedia
+CA,East of Eden (novel),1,1,23,6100,wikipedia
+CA,Josh Allen,1,1,24,6000,wikipedia
+CA,Walter White Jr.,1,1,25,6000,wikipedia
+CA,51st State,1,1,30,0,x-trends
+CL,#BANGTANPALOOZA,1,2,1,0,x-trends
+CL,Chile,1,2,2,0,x-trends
+CL,#2026MAMAVOTE,1,2,3,0,x-trends
+CL,Matías Fernández,1,2,4,0,x-trends
+CL,Kim Taehyung,1,2,5,0,x-trends
+CL,Santiago,1,2,5,0,x-trends
+CL,Y LOS FUEGOS ARTIFICIALES,1,2,6,0,x-trends
+CL,#masterchefburger,1,2,8,0,x-trends
+CL,Metallica,1,2,9,0,x-trends
+CL,#granizos,1,2,10,0,x-trends
+CL,SAVE ME,1,2,11,0,x-trends
+CL,Roma,1,2,12,0,x-trends
+CL,Madrid,1,2,14,0,x-trends
+CL,Regina,1,2,15,0,x-trends
+CL,Fondo E,1,2,16,0,x-trends
+CL,US$7.700,1,2,17,0,x-trends
+CL,#StrayKids,1,2,18,0,x-trends
+CL,Mourinho,1,2,19,0,x-trends
+CL,I VOTE,1,2,21,0,x-trends
+CL,Endrick,1,2,22,0,x-trends
+CL,Cami,1,2,23,0,x-trends
+CL,army zone,1,2,23,0,x-trends
+CL,Espi,1,2,24,0,x-trends
+CL,Mara Sedini,1,2,26,0,x-trends
+CL,Vini,1,2,27,0,x-trends
+CL,Sichel,1,2,29,0,x-trends
 CL,Superintendente de Pensiones se reunió con las AFP por fuerte caída del fondo E,1,1,1,0,google-news
+CL,"¿Qué nos pasó? Una ""tormenta convectiva severa"" fortificada por el Súper Niño",1,1,1,0,google-news
 CL,chicago fire - philadelphia,1,1,1,100,google-trends
+CL,RJ Mitte,1,1,1,14100,wikipedia
 CL,Minvu adelanta estudio de riesgos en la precordillera de Santiago: identifican 44 quebradas y diez de ellas son de “alto riesgo”,1,1,2,0,google-news
 CL,singapur,1,1,2,500,google-trends
-CL,"¿Qué nos pasó? Una ""tormenta convectiva severa"" fortificada por el Súper Niño",1,1,3,0,google-news
+CL,Gabriel Prieto,1,1,2,4300,wikipedia
 CL,lionel messi,1,1,3,1000,google-trends
+CL,Especial:Buscar,1,1,3,3700,wikipedia
 CL,Dos días después de su muerte: Corte Suprema revisó requerimiento de Aliste Vega con el que buscaba dejar la cárcel,1,1,4,0,google-news
+CL,Codina confirma habilitación del 2% de emergencia para comprar radares meteorológicos en la RM,1,1,4,0,google-news
 CL,alexis sánchez,1,1,4,1000,google-trends
+CL,Speciel:Søgning,1,1,4,2900,wikipedia
 CL,SLEP Santiago Centro suspende clases en todos sus establecimientos tras daños por precipitaciones,1,1,5,0,google-news
 CL,club de deportes puerto montt,1,1,5,1000,google-trends
+CL,Speciális:Keresés,1,1,5,2200,wikipedia
 CL,Gratuidad a la pizarra: más de 272 mil beneficiarios abandonaron sus estudios con un costo fiscal millonario,1,1,6,0,google-news
+CL,Suspensión de clases en la Región Metropolitana: revisa los colegios que no tendrán actividades este miércoles,1,1,6,0,google-news
 CL,tu día,1,1,6,1000,google-trends
+CL,AFPs,1,1,6,0,x-trends
+CL,Especial:Cerca,1,1,6,2200,wikipedia
 CL,Compra de radares metereológicos desata pugna entre Orrego y Codina por origen del financiamiento,1,1,7,0,google-news
+CL,Bomberos descarta emergencia química en la Clínica Santa María: hubo un fallo en un sensor,1,1,7,0,google-news
 CL,libertadores 2026,1,1,7,200,google-trends
-CL,Bomberos descarta emergencia química en la Clínica Santa María: hubo un fallo en un sensor,1,1,8,0,google-news
-CL,posiciones de junior de barranquilla contra deportivo pereira,1,1,8,200,google-trends
-CL,Derrumbe de cerro bloquea carretera Fernando Maira en Lota: masa de tierra destruyó frontis de casa,1,1,9,0,google-news
-CL,palmeiras,1,1,9,5000,google-trends
-CL,Gremios acusan abandono del Estado tras atentado en Angol: senador Becker pide reforzar seguridad,1,1,10,0,google-news
-CL,dodgers - brewers,1,1,10,500,google-trends
+CL,posiciones de junior de barranquilla contra deportivo pereira,1,1,7,200,google-trends
+CL,Las AFP,1,1,7,0,x-trends
+CL,Derrumbe de cerro bloquea carretera Fernando Maira en Lota: masa de tierra destruyó frontis de casa,1,1,8,0,google-news
+CL,palmeiras,1,1,8,5000,google-trends
+CL,Romina Yan,1,1,8,2000,wikipedia
+CL,Gremios acusan abandono del Estado tras atentado en Angol: senador Becker pide reforzar seguridad,1,1,9,0,google-news
+CL,dodgers - brewers,1,1,9,500,google-trends
+CL,Raphael (cantante),1,1,9,1900,wikipedia
+CL,"Cae el ""Watón Nacho"" en Lampa: narcotraficante fue detenido junto a más de $200 millones en drogas",1,1,10,0,google-news
+CL,montreal fc,1,1,10,200,google-trends
+CL,Istimewa:Pencarian,1,1,10,1500,wikipedia
 CL,Miles marchan Colombia en primera protesta contra gobierno,1,1,11,0,google-news
+CL,विशेष:खोज,1,1,11,1500,wikipedia
 CL,El Vaticano confirma que el papa León XIV padece un cáncer de pulmón y fue operado “con éxito”,1,1,12,0,google-news
+CL,Posebno:Traži,1,1,12,1400,wikipedia
 CL,"Trump anuncia exploración ""masiva"" de petróleo, gas y minerales en Groenlandia",1,1,13,0,google-news
+CL,CONY CAPELLI EN FDC,1,1,13,0,x-trends
+CL,Lizzie Borden,1,1,13,1400,wikipedia
 CL,Arabia Saudita intercepta ataque hutí tras operación en Saná,1,1,14,0,google-news
+CL,خاص:بحث,1,1,14,1300,wikipedia
 CL,Swaps de tasas de las AFP les cuestan más de US$ 11.000 millones a los afiliados y explican el 80% de la caída del fondo E,1,1,15,0,google-news
+CL,LES TINCA,1,1,15,0,x-trends
+CL,Event:Latinoamérica en Wikidata 2026,1,1,15,1300,wikipedia
 CL,Rematan excedentes de inventario de Sodimac con lotes desde los $5.000: revisa cómo participar,1,1,16,0,google-news
+CL,특수:검색,1,1,16,1100,wikipedia
 CL,Tucar pide acogerse a una reorganización para evitar la quiebra y revela deudas por más de $ 17.000 millones,1,1,17,0,google-news
+CL,Spesial:Søk,1,1,17,1100,wikipedia
 CL,Confirman edición 2026 de Black Friday: revisa las fechas y qué deberías saber antes del evento,1,1,18,0,google-news
+CL,Špeciálne:Hľadanie,1,1,18,1100,wikipedia
 CL,"""Huesito de la suerte"" de una perdiz chilena despeja dudas sobre evolución de dinosaurios a aves",1,1,19,0,google-news
+CL,Özel:Ara,1,1,19,1100,wikipedia
 CL,Conciertos: cinco ajustes de la cámara del Samsung Galaxy S26 Ultra para capturar cada momento,1,1,20,0,google-news
+CL,Valentina,1,1,20,0,x-trends
+CL,into the sun,1,1,22,0,x-trends
+CL,Ñuñoa,1,1,28,0,x-trends
+CL,LOVE TO THE MOON AND KEY,1,1,30,0,x-trends
+CO,Chile,1,2,1,0,x-trends
+CO,Muriel,1,2,2,0,x-trends
+CO,Pedraza,1,2,3,0,x-trends
+CO,Viera,1,2,4,0,x-trends
+CO,Don Omar,1,2,5,0,x-trends
+CO,Mafe,1,2,6,0,x-trends
+CO,Congreso,1,2,7,0,x-trends
+CO,Capitolio,1,2,8,0,x-trends
+CO,Plaza de Bolívar,1,2,9,0,x-trends
+CO,Miguel Uribe,1,2,10,0,x-trends
+CO,Quedaste,1,2,10,0,x-trends
+CO,Francotiradores,1,2,11,0,x-trends
+CO,Madrid,1,2,12,0,x-trends
+CO,Payasa,1,2,16,0,x-trends
+CO,UNDMO,1,2,18,0,x-trends
+CO,Honorio Henríquez,1,2,18,0,x-trends
+CO,Pregúntele,1,2,19,0,x-trends
+CO,Roma,1,2,20,0,x-trends
+CO,River,1,2,23,0,x-trends
+CO,Fracaso,1,2,24,0,x-trends
+CO,Vinicius,1,2,24,0,x-trends
+CO,Ibagué,1,2,26,0,x-trends
+CO,María Claudia Tarazona,1,2,27,0,x-trends
+CO,Cuidando,1,2,29,0,x-trends
 CO,Así fueron las marchas de este 14 de octubre: Petro no habló en tarima,1,1,1,0,google-news
 CO,copa betplay 2026,1,1,1,200,google-trends
+CO,partidos hoy,1,1,1,500,google-trends
+CO,RJ Mitte,1,1,1,10600,wikipedia
 CO,Manuel Grau anuncia acciones legales contra Eva Ferrer por injuria y calumnia tras revelaciones de presunto tráfico de drogas y dinero: 'Decepción',1,1,2,0,google-news
+CO,"Movilidad en Bogotá hoy, miércoles 14 de octubre: reportan el cierre temporal de cinco estaciones de TransMilenio por presencia de manifestantes",1,1,2,0,google-news
 CO,nashville sc - sporting kc,1,1,2,100,google-trends
+CO,dodgers vs brewers,1,1,2,100,google-trends
+CO,Parque de los Periodistas,1,1,2,0,x-trends
+CO,Speciel:Søgning,1,1,2,4400,wikipedia
 CO,Esquema de seguridad de Petro solicitó ubicar militares en terraza del Congreso en manifestaciones,1,1,3,0,google-news
+CO,Las acusaciones más graves de Eva Ferrer se sostienen sólo sobre su palabra,1,1,3,0,google-news
 CO,lionel messi,1,1,3,2000,google-trends
+CO,Haydar,1,1,3,0,x-trends
+CO,Especial:Buscar,1,1,3,4200,wikipedia
 CO,"Exclusivo: retiran de la Policía al coronel Carlos Feria, exjefe de seguridad del expresidente Gustavo Petro",1,1,4,0,google-news
 CO,gabriel gilinski,1,1,4,500,google-trends
+CO,posiciones de inter miami contra new york city football club,1,1,4,5000,google-trends
+CO,Speciális:Keresés,1,1,4,3100,wikipedia
 CO,VIDEOS | Fuerte vendaval en Funza dejó varias viviendas destechadas: barrios afectados,1,1,5,0,google-news
 CO,super,1,1,5,200,google-trends
+CO,deportes,1,1,5,500,google-trends
+CO,Especial:Cerca,1,1,5,3100,wikipedia
 CO,"Estados Unidos llevaría a Colombia tecnología para rastrear movimientos, rutinas y posibles escondites de grupos armados ilegales: así operaría",1,1,6,0,google-news
 CO,win,1,1,6,200,google-trends
+CO,Mon Laferte,1,1,6,2400,wikipedia
 CO,Abelardo ya firmó el decreto que modifica las reglas para la protesta,1,1,7,0,google-news
 CO,reforma,1,1,7,1000,google-trends
+CO,Cardona,1,1,7,0,x-trends
+CO,Rata Blanca,1,1,7,2300,wikipedia
 CO,De la Espriella convierte Colombia en el mayor país latinoamericano con embajada en Jerusalén,1,1,8,0,google-news
 CO,chicago fire - philadelphia,1,1,8,200,google-trends
 CO,"Avenida Cañasgordas: ya fueron habilitados los primeros 2,9 kilómetros de nueva calzada",1,1,9,0,google-news
 CO,nacional,1,1,9,50000,google-trends
+CO,विशेष:खोज,1,1,9,2200,wikipedia
 CO,"Marchas en Cali hoy, 14 de octubre: así está la movilidad en la ciudad; vías habilitadas y puntos con congestión",1,1,10,0,google-news
+CO,[Video] Emergencia cerca de Bogotá por fuertes vientos que sacaron volando tejados y causaron destrucción,1,1,10,0,google-news
 CO,seguridad,1,1,10,1000,google-trends
+CO,Julio César González (caricaturista),1,1,10,2200,wikipedia
 CO,"Los médicos del Papa informan que camina y se recupera ""según lo previsto"" tras su cirugía por un cáncer de pulmón",1,1,11,0,google-news
+CO,خاص:بحث,1,1,11,2200,wikipedia
 CO,Terremoto en Panamá provocó una ruptura de falla estimada en 73 kilómetros,1,1,12,0,google-news
+CO,Istimewa:Pencarian,1,1,12,2200,wikipedia
 CO,Bukele quedó atrapado en su propia paradoja de “mano dura”; su modelo se desmorona,1,1,13,0,google-news
-CO,"El Tesoro de EE.UU. retira las sanciones contra Jorge Rodríguez, líder chavista y hermano de Delcy Rodríguez",1,1,14,0,google-news
+CO,"El Tesoro de EE.UU. retira las sanciones contra Jorge Rodríguez, líder chavista y hermano de Delcy Rodríguez",1,1,13,0,google-news
+CO,Parque,1,1,13,0,x-trends
+CO,Posebno:Traži,1,1,13,2000,wikipedia
+CO,"Muere a los 26 años una 'influencer' de 2,18 metros que se hizo famosa por la enorme diferencia de estatura con su marido",1,1,14,0,google-news
+CO,ChatGPT,1,1,14,1900,wikipedia
 CO,Lotería del Tolima hoy 13 de octubre: número ganador y resultados de los premios secos,1,1,15,0,google-news
+CO,Senado,1,1,15,0,x-trends
+CO,Commons:Wiki Loves Monuments 2026 in Colombia/Participa,1,1,15,1800,wikipedia
 CO,Seis empresas antioqueñas están entre las 10 de mejor reputación en Colombia | El Colombiano,1,1,16,0,google-news
+CO,Kevin,1,1,16,0,x-trends
+CO,Raphael (cantante),1,1,16,1800,wikipedia
 CO,¿De cuánto deben ser sus ingresos al mes para acceder a una tarjeta de crédito premium?,1,1,17,0,google-news
+CO,Herrera,1,1,17,0,x-trends
+CO,Viking Stavanger FK,1,1,17,1800,wikipedia
 CO,Google ofrece 15.000 becas en Colombia en más de seis campos: requisitos y cómo inscribirse,1,1,18,0,google-news
+CO,특수:검색,1,1,18,1700,wikipedia
 CO,Lo están espiando desde su celular: la aplicación que expertos recomiendan desinstalar ahora mismo,1,1,19,0,google-news
+CO,Spesial:Søk,1,1,19,1600,wikipedia
 CO,Cyberleek publica su última filtración de GTA 6 y cancela el lanzamiento de la Build Jugable tras el fracaso de su campaña de crypto,1,1,20,0,google-news
+CO,Špeciálne:Hľadanie,1,1,20,1600,wikipedia
+CO,Bruta,1,1,21,0,x-trends
+CO,Özel:Ara,1,1,21,1500,wikipedia
+CO,Wiki:Sykje,1,1,22,1500,wikipedia
+CO,Senadora,1,1,23,0,x-trends
+CO,Adrián Barilari,1,1,23,1500,wikipedia
+CO,Lizzie Borden,1,1,24,1400,wikipedia
+CO,Endrick,1,1,25,0,x-trends
+CO,Speciale:Ricerca,1,1,25,1300,wikipedia
+CO,Espí,1,1,27,0,x-trends
+CO,Pereira,1,1,28,0,x-trends
+DE,Starlink,1,4,1,0,x-trends
+DE,McRib,1,4,2,0,x-trends
+DE,#bodbvb,1,4,3,0,x-trends
+DE,McDonald,1,4,4,0,x-trends
+DE,#Maischberger,1,4,5,0,x-trends
+DE,Apotheke,1,4,6,0,x-trends
+DE,#2026MAMAVOTE,1,4,6,0,x-trends
+DE,Saal,1,4,8,0,x-trends
+DE,Schweinefleisch,1,4,9,0,x-trends
+DE,Musk,1,4,10,0,x-trends
+DE,Burger,1,4,11,0,x-trends
+DE,Zuckersteuer,1,4,12,0,x-trends
+DE,Böhmermann,1,4,12,0,x-trends
+DE,Wahlgang,1,4,14,0,x-trends
+DE,wochenteiler,1,4,15,0,x-trends
+DE,Bacon,1,4,16,0,x-trends
+DE,Existenzrecht,1,4,17,0,x-trends
+DE,Kinderehen,1,4,18,0,x-trends
+DE,#vfkfcb,1,4,19,0,x-trends
+DE,Abgeordneten,1,4,21,0,x-trends
+DE,Kovac,1,4,22,0,x-trends
+DE,Mourinho,1,4,23,0,x-trends
+DE,Siegmund,1,4,24,0,x-trends
+DE,Sortiment,1,4,26,0,x-trends
+DE,Real Madrid,1,4,27,0,x-trends
+DE,Anja Kohl,1,4,28,0,x-trends
+DE,Organisationen,1,4,29,0,x-trends
+DE,Schwäche und Unfreiheit,1,4,30,0,x-trends
+DE,Dodgers,1,3,15,0,x-trends
+DE,#dasperfektedinner,1,3,20,0,x-trends
 DE,Erklärung zu Antisemitismus - Sondierungen in Berlin gehen weiter,1,1,1,0,google-news
 DE,fortnite shop,1,1,1,100,google-trends
+DE,focus online,1,1,1,2000,google-trends
+DE,RJ Mitte,1,1,1,159900,wikipedia
 DE,Sachsen-Anhalt: So lief die erste Sitzung im AfD-geführten Landtag in Magdeburg,1,1,2,0,google-news
 DE,mls,1,1,2,200,google-trends
+DE,Spezial:Suche,1,1,2,96700,wikipedia
 DE,Wahl zum Ministerpräsidenten – CDU möchte bei drittem Wahlgang im Saal sein,1,1,3,0,google-news
+DE,"""Geht sehr schnell voran"": Russland feiert Diesel-Deal mit den USA - und will Weltmarkt beliefern",1,1,3,0,google-news
 DE,gta 6,1,1,3,200,google-trends
-DE,"""Geht sehr schnell voran"": Russland feiert Diesel-Deal mit den USA - und will Weltmarkt beliefern",1,1,4,0,google-news
+DE,Bärbel Bas,1,1,3,68400,wikipedia
 DE,k,1,1,4,100,google-trends
+DE,inter miami,1,1,4,500,google-trends
+DE,Paul Panzer,1,1,4,48400,wikipedia
 DE,Satellitennutzung in der Ukraine: Musk betont »defensive« Beschränkung bei Nutzung von Starlink,1,1,5,0,google-news
 DE,citizen vigilante,1,1,5,200,google-trends
+DE,Vanessa Emde,1,1,5,47000,wikipedia
 DE,USA: Trumps neue Sprecherin beendet ersten Auftritt nach wenigen Minuten,1,1,6,0,google-news
 DE,karoline herfurth,1,1,6,100,google-trends
 DE,"Eistee, Cola und Limos: Diese Getränke sind von der Zuckersteuer betroffen",1,1,7,0,google-news
 DE,markt,1,1,7,200,google-trends
+DE,Alexander Schweitzer,1,1,7,36700,wikipedia
 DE,"Drogen, sexuelle Vorwürfe und zehn Beschuldigte: Bundeswehr untersucht Vorfälle in Weißenfels",1,1,8,0,google-news
 DE,inter miami – nyc fc,1,1,8,1000,google-trends
+DE,Infantile Zerebralparese,1,1,8,35600,wikipedia
 DE,"Durchschnittlich bei 2,9 Prozent: Linnemann rechnet 2027 mit stabilem Krankenkassen-Zusatzbeitrag",1,1,9,0,google-news
 DE,hilary swank,1,1,9,100,google-trends
+DE,Liste der größten Auslegerbrücken,1,1,9,32300,wikipedia
 DE,"„Putin hält uns für komplette Weicheier“, moniert FDP-Politikerin Strack-Zimmermann",1,1,10,0,google-news
 DE,masked singer,1,1,10,200,google-trends
+DE,Viking Stavanger,1,1,10,19600,wikipedia
 DE,"Russland bombt, und Trump erhöht den Druck auf Kiew",1,1,11,0,google-news
+DE,Wahlkampfrede: Trump spricht von Erschießungen wie „in den alten Zeiten üblich“ und sucht Anführer für den Iran,1,1,11,0,google-news
+DE,Fertighaus 63,1,1,11,18800,wikipedia
 DE,Angriffe auf Saudi-Arabien: Huthi-Miliz trifft Zentrale des weltgrößten Ölunternehmens Aramco,1,1,12,0,google-news
+DE,Christian Lell,1,1,12,14500,wikipedia
 DE,Papst Leo XIV. hat Lungenkrebs,1,1,13,0,google-news
-DE,Wahlkampfrede: Trump spricht von Erschießungen wie „in den alten Zeiten üblich“ und sucht Anführer für den Iran,1,1,14,0,google-news
+DE,Jørgen Thor Møhlen,1,1,13,14400,wikipedia
+DE,Breaking Bad,1,1,14,13100,wikipedia
 DE,Lufthansa Group erhält Zuschlag für Einstieg bei TAP Portugal,1,1,15,0,google-news
+DE,Заглавная страница,1,1,15,12700,wikipedia
 DE,Waren bei Galeria in Regensburg plötzlich hinter Absperrband – Ein Hersteller spricht Klartext,1,1,16,0,google-news
+DE,#Jailer2,1,1,16,0,x-trends
+DE,Ventilator-Jacke,1,1,16,12600,wikipedia
 DE,Einer geht an Rewe: Was aus den Tegut-Märkten in Thüringen wird,1,1,17,0,google-news
+DE,Stavanger,1,1,17,12100,wikipedia
 DE,"Nachfolger für Riester-Rente: Das Altersvorsorgedepot gibt es von kostenlos bis 1,5 Prozent im Jahr",1,1,18,0,google-news
+DE,13. Oktober,1,1,18,11000,wikipedia
 DE,Neues Apple TV 4K und HomeView: Wie Apple die EU unter Druck setzt,1,1,19,0,google-news
+DE,Katie Zacharia,1,1,19,10800,wikipedia
 DE,Test: Mobile Filmtools iPhone 18 Pro Max im Praxistest versus DJI Osmo Pocket 4P und iPhone 17 Pro Max,1,1,20,0,google-news
+DE,Tatort: Warum,1,1,20,10500,wikipedia
+DE,Die Falle (2026),1,1,21,10500,wikipedia
+DE,Nekrolog 2026,1,1,22,10300,wikipedia
+DE,Datei:Germany adm location map.svg,1,1,23,10300,wikipedia
+DE,Tatort: Aus der Traum (2006),1,1,24,9900,wikipedia
+DE,Roma,1,1,25,0,x-trends
+DE,Viking-Stadion,1,1,25,9200,wikipedia
+EG,روما,1,2,1,0,x-trends
+EG,باريس,1,2,2,0,x-trends
+EG,السيتي,1,2,3,0,x-trends
+EG,الريال,1,2,4,0,x-trends
+EG,مورينيو,1,2,5,0,x-trends
+EG,#دوري_ابطال_اوروبا,1,2,5,0,x-trends
+EG,السودان,1,2,6,0,x-trends
+EG,الندوه التثقيفيه,1,2,7,0,x-trends
+EG,دوري الابطال,1,2,9,0,x-trends
+EG,انريكي,1,2,10,0,x-trends
+EG,14 اكتوبر 2026,1,2,10,0,x-trends
+EG,#الاتحاد_شباب_الاهلي,1,2,12,0,x-trends
+EG,اليوم الاربعاء,1,2,13,0,x-trends
+EG,#شكرا_ابطال_الدفاع_الجوي,1,2,14,0,x-trends
+EG,برشلونة,1,2,15,0,x-trends
+EG,كورتوا,1,2,15,0,x-trends
+EG,سيدات الاهلي,1,2,17,0,x-trends
+EG,جبل هان,1,2,18,0,x-trends
+EG,فالفيردي,1,2,19,0,x-trends
+EG,#الهلال_السد,1,2,20,0,x-trends
+EG,#اذا_غضبوا_غضبنا,1,2,21,0,x-trends
+EG,ابو الغيط,1,2,22,0,x-trends
+EG,ملعب الاتحاد,1,2,22,0,x-trends
+EG,اردا,1,2,23,0,x-trends
+EG,المره الرابعه,1,2,25,0,x-trends
+EG,ملوك الصالات,1,2,26,0,x-trends
+EG,افريقيا علي,1,2,27,0,x-trends
+EG,بهبيت الحجاره,1,2,28,0,x-trends
+EG,ليمينا,1,2,29,0,x-trends
 EG,تقلبات جوية وأمطار.. تفاصيل حالة الطقس اليوم الخميس 15 أكتوبر 2026,1,1,1,0,google-news
 EG,برج الدلو حظك اليوم,1,1,1,100,google-trends
 EG,الحوثيون يعلنون استهداف مطار الرياض بصاروخ بالستي,1,1,2,0,google-news
@@ -299,254 +807,850 @@ EG,تاسي يتراجع 1.7% عند 10139 نقطة.. بتداولات 3.9 مل�
 EG,هل يواصل الانخفاض؟.. آخر تطورات أسعار الذهب اليوم الخميس 15 أكتوبر 2026,1,1,18,0,google-news
 EG,"تحديث One UI 9 يتسبب في مشاكل لبعض هواتف ""سامسونغ""",1,1,19,0,google-news
 EG,أخبار و مراجعات ألعاب الفيديو | Castlevania: Belmont’s Curse - مراجعة,1,1,20,0,google-news
+EG,حسن رشاد,1,1,29,0,x-trends
+EG,القضايا المرفوعه,1,1,30,0,x-trends
+ES,#LaIslaDeLasTentaciones12,1,3,1,0,x-trends
+ES,Endrick,1,3,2,0,x-trends
+ES,Vinicius,1,3,3,0,x-trends
+ES,Roma,1,3,4,0,x-trends
+ES,Mourinho,1,3,6,0,x-trends
+ES,Valverde,1,3,6,0,x-trends
+ES,#ElChiringuitoenCuatro,1,3,8,0,x-trends
+ES,Bernardo,1,3,9,0,x-trends
+ES,Betis,1,3,10,0,x-trends
+ES,Gema,1,3,10,0,x-trends
+ES,Rubén,1,3,12,0,x-trends
+ES,Diomande,1,3,14,0,x-trends
+ES,Mbappe,1,3,15,0,x-trends
+ES,Abde,1,3,15,0,x-trends
+ES,Irini,1,3,17,0,x-trends
+ES,Champions,1,3,19,0,x-trends
+ES,Fede,1,3,20,0,x-trends
+ES,Xabi Alonso,1,3,21,0,x-trends
+ES,Courtois,1,3,22,0,x-trends
+ES,Paola,1,3,23,0,x-trends
+ES,Florentino,1,3,24,0,x-trends
+ES,Oporto,1,3,25,0,x-trends
+ES,Espi,1,2,5,0,x-trends
+ES,Tchouameni,1,2,13,0,x-trends
+ES,Güler,1,2,18,0,x-trends
+ES,El PSG,1,2,26,0,x-trends
+ES,Cucho,1,2,27,0,x-trends
+ES,Silva,1,2,28,0,x-trends
+ES,Rudiger,1,2,29,0,x-trends
+ES,Bellingham,1,2,30,0,x-trends
 ES,Una visita histórica; un gobierno culpable,1,1,1,0,google-news
 ES,fluminense - palmeiras,1,1,1,200,google-trends
+ES,lionel messi,1,1,1,1000,google-trends
+ES,RJ Mitte,1,1,1,49000,wikipedia
 ES,El delegado del Gobierno pide explicaciones al jefe de la Policía por las cargas en la Complutense,1,1,2,0,google-news
 ES,inter miami,1,1,2,1000,google-trends
+ES,Jordi Mollà,1,1,2,23600,wikipedia
 ES,"Los médicos del Papa informan que camina y se recupera ""según lo previsto"" tras su cirugía por un cáncer de pulmón",1,1,3,0,google-news
 ES,mls,1,1,3,500,google-trends
+ES,Especial:Buscar,1,1,3,22600,wikipedia
 ES,Margarita Robles será la dos de Sánchez y Félix Bolaños el tres en las listas del PSOE para el 29N,1,1,4,0,google-news
 ES,maría zurita,1,1,4,200,google-trends
 ES,El Gobierno torpedea el veto del Supremo a los falsos nietos: el BOE no ha publicado aún la orden de suspen...,1,1,5,0,google-news
 ES,jose ramon de la morena,1,1,5,200,google-trends
+ES,Espí,1,1,5,0,x-trends
+ES,Cruz de Borgoña,1,1,5,14200,wikipedia
 ES,Estados Unidos propone un arancel de 200.000 dólares por cada buque con bandera de España y adelanta restricciones a productos,1,1,6,0,google-news
+ES,"El Departamento Segundo de Enjuiciamiento dicta sentencia en el Procedimiento de Reintegro por Alcance n.º B-180/2021 (Gastos referéndum 1 de octubre de 2017/ Acción Exterior GENCAT), aplicando la Ley Orgánica de Amnistía.",1,1,6,0,google-news
 ES,bibiana fernández,1,1,6,200,google-trends
+ES,Montse Mínguez,1,1,6,12600,wikipedia
 ES,Primeros obsequios y fotografías oficiales para Beatriz y Julia,1,1,7,0,google-news
 ES,vélez-málaga,1,1,7,200,google-trends
+ES,Miriam González Durántez,1,1,7,10500,wikipedia
 ES,"PP y Vox firman la moción de censura contra el alcalde de Algeciras, acusado de acoso sexual",1,1,8,0,google-news
 ES,inter miami - nyc fc,1,1,8,2000,google-trends
+ES,Galatasaray Spor Kulübü (fútbol),1,1,8,10500,wikipedia
 ES,Pedraz frena la tesis de Biedma sobre el plan contra ella y rechaza citar como testigo a la jefa de un clan de Badajoz,1,1,9,0,google-news
 ES,oscar lopez,1,1,9,2000,google-trends
+ES,Frente Amplio (España),1,1,9,9400,wikipedia
 ES,"Colau se abre a apartarse y renunciar al nombre de Frente Amplio para unir a la izquierda: ""Compartimos programa""",1,1,10,0,google-news
 ES,ola de frío,1,1,10,200,google-trends
+ES,La bola negra (película),1,1,10,9000,wikipedia
 ES,Guerra de Irán en directo | Singapur confirma el hundimiento de un carguero por el impacto de un proyectil en el estrecho de Ormuz,1,1,11,0,google-news
+ES,Ada Colau,1,1,11,7500,wikipedia
 ES,"Nicolás Maduro y Cilia Flores, citados al tribunal de Nueva York para responder a nuevos cargos - EFE",1,1,12,0,google-news
+ES,Trump vuelve a advertir de un posible ataque iraní contra la costa oeste de EEUU si Teherán logra armas nucleares,1,1,12,0,google-news
+ES,Guler,1,1,12,0,x-trends
+ES,Guitarricadelafuente,1,1,12,7300,wikipedia
 ES,Venezuela | EE.UU. levanta las sanciones a Jorge Rodríguez,1,1,13,0,google-news
+ES,El juez convoca a Maduro y Flores al tribunal mañana para responder a nuevos cargos,1,1,13,0,google-news
+ES,Juan Soto Ivars,1,1,13,6700,wikipedia
 ES,El “desastroso” estreno de la portavoz de la Casa Blanca provoca apuestas sobre su permanencia,1,1,14,0,google-news
+ES,Portada,1,1,14,6300,wikipedia
 ES,Cupón diario de la ONCE: comprobar sorteo del miércoles 14 de octubre,1,1,15,0,google-news
+ES,Raphael (cantante),1,1,15,6100,wikipedia
 ES,"Comprobar Bonoloto: resultados de hoy, miércoles 14 de octubre de 2026",1,1,16,0,google-news
+ES,Sarah Santaolalla,1,1,16,5900,wikipedia
 ES,"La inflación se ceba con los alimentos frescos: los huevos se disparan un 12%, frutas y legumbres casi un 10% y la ternera, un 8%",1,1,17,0,google-news
+ES,Candela Peña,1,1,17,5900,wikipedia
 ES,La industria valora la previsión para la próxima Campaña de Navidad y Reyes (Parte 2),1,1,18,0,google-news
+ES,Nataly,1,1,18,0,x-trends
+ES,Ceuta,1,1,18,5800,wikipedia
 ES,Gran Turismo 7 recibe su actualización SPEC IV y anuncia su nuevo Dualsense Edición Limitada,1,1,19,0,google-news
+ES,Evento:Mes de América Latina 2026,1,1,19,5300,wikipedia
 ES,La leyenda de Nintendo 64 renace triunfante: el remake de Zelda: Ocarina of Time es mucho más de lo que podía soñar,1,1,20,0,google-news
+ES,Kico,1,1,20,0,x-trends
+ES,José Ignacio Landaluce,1,1,20,5300,wikipedia
+ES,Nieves,1,1,21,0,x-trends
+ES,Federico García Lorca,1,1,21,5200,wikipedia
+ES,#LaMesa,1,1,22,0,x-trends
+ES,Rafael Rodríguez Rapún,1,1,22,5200,wikipedia
+ES,Ruth Lorenzo,1,1,23,5000,wikipedia
+ES,Elecciones generales de España de 2026,1,1,24,4800,wikipedia
+ES,Antonio de la Rúa,1,1,25,4600,wikipedia
+ES,Gabri Veiga,1,1,29,0,x-trends
+ES,Náyades,1,1,30,0,x-trends
+FR,#MCIPSG,1,4,1,0,x-trends
+FR,Bouaddi,1,4,2,0,x-trends
+FR,Semenyo,1,4,2,0,x-trends
+FR,Roma,1,4,4,0,x-trends
+FR,Moonshot,1,4,5,0,x-trends
+FR,#CityPSG,1,4,5,0,x-trends
+FR,Endrick,1,4,6,0,x-trends
+FR,Le PSG,1,4,7,0,x-trends
+FR,Tchouameni,1,4,8,0,x-trends
+FR,Doué,1,4,9,0,x-trends
+FR,Donnarumma,1,4,9,0,x-trends
+FR,Mourinho,1,4,11,0,x-trends
+FR,Cherki,1,4,12,0,x-trends
+FR,Vini,1,4,13,0,x-trends
+FR,Valverde,1,4,15,0,x-trends
+FR,Haaland,1,4,16,0,x-trends
+FR,Ferran,1,4,16,0,x-trends
+FR,Maresca,1,4,17,0,x-trends
+FR,Safonov,1,4,19,0,x-trends
+FR,Espi,1,4,19,0,x-trends
+FR,Vitinha,1,4,20,0,x-trends
+FR,Kvara,1,4,21,0,x-trends
+FR,Real Madrid,1,4,22,0,x-trends
+FR,Manchester City,1,4,24,0,x-trends
+FR,Luis Enrique,1,4,25,0,x-trends
+FR,Ousmane,1,4,26,0,x-trends
+FR,Diomande,1,4,27,0,x-trends
+FR,Ndiaye,1,4,28,0,x-trends
+FR,Enzo Fernandez,1,4,29,0,x-trends
 FR,L'adolescent de 14 ans qui a blessé par balles un principal et une enseignante à Aubagne mis en examen et placé en détention provisoire,1,1,1,0,google-news
 FR,mls,1,1,1,200,google-trends
+FR,Listing ID,1,1,1,0,x-trends
+FR,Dembele,1,1,1,0,x-trends
+FR,RJ Mitte,1,1,1,115800,wikipedia
 FR,"En cas de défaite aux midterms, Trump pourrait crouler sous les enquêtes",1,1,2,0,google-news
+FR,"« Une véritable bouffée d’oxygène » : Jean-François Dauré, déçu par la gauche, soutient Natacha Polony pour la présidentielle",1,1,2,0,google-news
 FR,haakon viii,1,1,2,100,google-trends
-FR,"« Une véritable bouffée d’oxygène » : Jean-François Dauré, déçu par la gauche, soutient Natacha Polony pour la présidentielle",1,1,3,0,google-news
+FR,Greta Thunberg,1,1,2,47900,wikipedia
 FR,idealogeek,1,1,3,100,google-trends
+FR,Spécial:Recherche,1,1,3,47200,wikipedia
 FR,Ce rapport sur le poids des retraites publié par Bercy a tout pour dynamiter la présidentielle,1,1,4,0,google-news
+FR,Toutes les associations féministes ne se réjouissent pas du vote de la loi intégrale à l’Assemblée,1,1,4,0,google-news
 FR,inter miami – new york city fc,1,1,4,2000,google-trends
+FR,Monsieur (téléfilm),1,1,4,38400,wikipedia
 FR,"Mobilisation du 17 octobre : Gilets jaunes, lycéens, syndicats… À quoi faut-il s’attendre samedi ?",1,1,5,0,google-news
+FR,Budget 2027 : 32 % des dépenses du ministère de l’éducation nationale dévolues aux retraites des fonctionnaires,1,1,5,0,google-news
 FR,starshield,1,1,5,1000,google-trends
+FR,Raphaël Glucksmann,1,1,5,33100,wikipedia
 FR,ÉDITO. Il se préparait à émerger en homme providentiel après la primaire PS: les plans de François Hollande ont été contrecarrés par la large victoire de Raphaël Glucksmann,1,1,6,0,google-news
+FR,Une prof de maths remplaçante pour un cours de français ? Édouard Geffray répond sur ce couac,1,1,6,0,google-news
 FR,aston villa - fenerbahçe puan durumları,1,1,6,200,google-trends
+FR,David Lisnard,1,1,6,29500,wikipedia
 FR,"Mouvement des lycéens : la mobilisation se poursuit, l’affectation de professeurs remplaçants s’accélère",1,1,7,0,google-news
+FR,Présidentielle 2027 : quels sont les soutiens de Raphaël Glucksmann dans sa campagne ?,1,1,7,0,google-news
 FR,bellingham,1,1,7,100,google-trends
+FR,Assassinat de Dominique Bernard,1,1,7,25200,wikipedia
 FR,Mouvement des lycéens en colère à Lyon : une manifestation annoncée ce jeudi en plein centre-ville,1,1,8,0,google-news
 FR,simon cowell,1,1,8,200,google-trends
+FR,Liste de sondages sur l'élection présidentielle française de 2027,1,1,8,22700,wikipedia
 FR,Sevran : la sénatrice Corinne Narassiguin prise dans une fusillade alors qu’elle était dans un véhicule de la Bac,1,1,9,0,google-news
 FR,hélène laporte,1,1,9,1000,google-trends
 FR,"INFO BFMTV. Mouvement lycéen: le syndicat de police Alliance dépose plainte contre l'État pour ""mise en danger de la vie d'autrui""",1,1,10,0,google-news
 FR,microsoft,1,1,10,500,google-trends
+FR,Lionel Messi,1,1,10,15200,wikipedia
 FR,Guerre en Ukraine : Elon Musk suggère que les États-Unis sont responsables du ralentissement du réseau Starshield,1,1,11,0,google-news
+FR,"France (film, 2021)",1,1,11,14000,wikipedia
 FR,"""Je n’ai jamais rien vu de pareil"" : les débuts laborieux de Katie Zacharia, nouvelle voix du trumpisme à la Maison Blanche",1,1,12,0,google-news
+FR,Assassinat de Samuel Paty,1,1,12,13300,wikipedia
 FR,"EN DIRECT, guerre en Ukraine : des frappes russes font trois morts dans l’oblast de Kirovohrad, selon l’administration militaire régionale",1,1,13,0,google-news
+FR,Cat's Eyes (série télévisée),1,1,13,12400,wikipedia
 FR,Santé du pape : un début de pontificat percuté par le diagnostic d’un cancer du poumon,1,1,14,0,google-news
+FR,Tahar Rahim,1,1,14,11500,wikipedia
 FR,"Les retraites complémentaires du privé revalorisées de 1,4% au 1er novembre",1,1,15,0,google-news
-FR,Cyberattaque des supermarchés : un test inédit révèle qu'il a suffi de 28 minutes à l'IA Claude pour pirater les frigos connectés,1,1,16,0,google-news
+FR,Cyberattaque des supermarchés : un test inédit révèle qu'il a suffi de 28 minutes à l'IA Claude pour pirater les frigos connectés,1,1,15,0,google-news
+FR,Outre-mer La Première,1,1,15,11400,wikipedia
+FR,"Retraites complémentaires : 1,4 % de hausse après un an de gel, les syndicats divisés",1,1,16,0,google-news
+FR,Olivier Giroud,1,1,16,10700,wikipedia
 FR,"Tensions sur la dette française : «La solution se trouve d’abord en France» au niveau du budget, avertit Christine Lagarde",1,1,17,0,google-news
+FR,"Cantines, James Bond, redressements judiciaires… L'histoire mouvementée de Duralex, la marque aux verres incassables",1,1,17,0,google-news
+FR,"Les Misérables (film, 2026)",1,1,17,10200,wikipedia
 FR,TGV M : la SNCF va inaugurer le 6 novembre son train à grande vitesse de nouvelle génération,1,1,18,0,google-news
+FR,Thank You/fr,1,1,18,10000,wikipedia
 FR,XBOX Nano Controller : Microsoft rétrécit sa manette XBOX pour les petites mains et les poches,1,1,19,0,google-news
+FR,Francis Renaud,1,1,19,9900,wikipedia
 FR,"""On a beau s'y préparer, c'est très éprouvant"", confie Sophie Adenot après son retour sur terre",1,1,20,0,google-news
+FR,Kars,1,1,20,8300,wikipedia
+FR,Naza (film),1,1,21,7900,wikipedia
+FR,Union nationale inter-universitaire,1,1,22,7900,wikipedia
+FR,Lizzie Borden,1,1,23,7800,wikipedia
+FR,Sophie Le Tellier,1,1,24,7500,wikipedia
+FR,Jean-Luc Mélenchon,1,1,25,7300,wikipedia
+FR,Anderson,1,1,30,0,x-trends
+FR,Doku,1,1,30,0,x-trends
+GB,#AEWDynamite,1,6,1,0,x-trends
+GB,Semenyo,1,6,1,0,x-trends
+GB,#MCIPSG,1,6,2,0,x-trends
+GB,Bouaddi,1,6,2,0,x-trends
+GB,Donnarumma,1,6,4,0,x-trends
+GB,#avfc,1,6,5,0,x-trends
+GB,Enzo,1,6,7,0,x-trends
+GB,#dcfc,1,6,11,0,x-trends
+GB,Starshield,1,6,12,0,x-trends
+GB,Lincoln,1,6,18,0,x-trends
+GB,#ncfc,1,5,9,0,x-trends
+GB,Doue,1,5,22,0,x-trends
+GB,Martinez,1,4,1,0,x-trends
+GB,Epic,1,4,1,0,x-trends
+GB,LASK,1,4,3,0,x-trends
+GB,Wilcox,1,4,7,0,x-trends
+GB,Champions League,1,4,8,0,x-trends
+GB,Starlink,1,4,10,0,x-trends
+GB,Frimpong,1,4,11,0,x-trends
+GB,Piddington,1,4,13,0,x-trends
+GB,Ndiaye,1,4,13,0,x-trends
+GB,Falklands,1,4,15,0,x-trends
+GB,Licha,1,4,17,0,x-trends
+GB,Russian,1,4,19,0,x-trends
+GB,Chagos,1,4,20,0,x-trends
+GB,Brexit,1,4,20,0,x-trends
+GB,Sally Rooney,1,4,21,0,x-trends
+GB,Musk,1,4,26,0,x-trends
+GB,Diego Garcia,1,4,27,0,x-trends
+GB,Barcola,1,4,28,0,x-trends
+GB,Villa,1,2,2,0,x-trends
+GB,Palestine Action,1,2,3,0,x-trends
+GB,Roma,1,2,8,0,x-trends
+GB,Twinks,1,2,10,0,x-trends
+GB,Real Madrid,1,2,12,0,x-trends
+GB,Anderson,1,2,14,0,x-trends
+GB,Endrick,1,2,15,0,x-trends
+GB,Manzambi,1,2,16,0,x-trends
+GB,Vini,1,2,17,0,x-trends
+GB,Maresca,1,2,19,0,x-trends
+GB,Mourinho,1,2,20,0,x-trends
+GB,Eustace,1,2,21,0,x-trends
+GB,Espi,1,2,22,0,x-trends
+GB,Tsimikas,1,2,29,0,x-trends
 GB,Starlink: Musk says US government may be behind slowdown of Ukraine drone speeds,1,1,1,0,google-news
 GB,crunchyroll,1,1,1,100,google-trends
+GB,RJ Mitte,1,1,1,285200,wikipedia
 GB,UK rolls out King Charles to welcome Zelenskyy after Trump rift,1,1,2,0,google-news
 GB,fluminense vs palmeiras,1,1,2,100,google-trends
+GB,Katie Zacharia,1,1,2,38900,wikipedia
 GB,Reform UK councillors and candidates filmed making racist and extreme comments,1,1,3,0,google-news
 GB,tradingview,1,1,3,1000,google-trends
+GB,dodgers,1,1,3,100,google-trends
+GB,Killing of Leah Croucher,1,1,3,29400,wikipedia
 GB,Green Party sued by Jewish members over Zionism policy,1,1,4,0,google-news
+GB,Family of man killed by tiger criticise online content as Trump posts videos,1,1,4,0,google-news
 GB,dodgers vs brewers,1,1,4,200,google-trends
+GB,street fighter movie,1,1,4,100,google-trends
+GB,Mbappe,1,1,4,0,x-trends
+GB,Selma Blair,1,1,4,24900,wikipedia
 GB,Sally Rooney’s books will no longer be available in UK over her support for Palestine Action,1,1,5,0,google-news
+GB,"Pope walking and recovering 'as expected' after surgery, doctors say",1,1,5,0,google-news
 GB,inter miami,1,1,5,1000,google-trends
-GB,Family of man killed by tiger criticise online content as Trump posts videos,1,1,6,0,google-news
+GB,Derby,1,1,5,0,x-trends
+GB,Luis Moncada,1,1,5,23100,wikipedia
 GB,mls,1,1,6,500,google-trends
+GB,Emery,1,1,6,0,x-trends
+GB,Ken McCallum,1,1,6,22500,wikipedia
 GB,"Russell Brand a ruthless sexual predator, court told",1,1,7,0,google-news
 GB,rory mcilroy,1,1,7,200,google-trends
+GB,Deaths in 2026,1,1,7,22200,wikipedia
 GB,Major update on four men arrested for alleged rape in car park of GP surgery,1,1,8,0,google-news
 GB,john simpson,1,1,8,200,google-trends
+GB,Zelenskyy,1,1,8,0,x-trends
+GB,Unparliamentary language,1,1,8,22100,wikipedia
 GB,'Man and child' break into pub and flood cellar,1,1,9,0,google-news
 GB,inter miami vs new york city,1,1,9,2000,google-trends
+GB,Kimberly Guilfoyle,1,1,9,21300,wikipedia
 GB,Woman 'repeatedly sexually assaulted' on train as police seek man in connection,1,1,10,0,google-news
+GB,Sally Rooney’s books no longer sold in UK over support for banned pro-Palestinian group,1,1,10,0,google-news
 GB,koffee with karan,1,1,10,200,google-trends
+GB,Carrie (miniseries),1,1,10,19000,wikipedia
 GB,Pope thanks wellwishers for prayers after cancer operation,1,1,11,0,google-news
-GB,Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access,1,1,12,0,google-news
-GB,Trump insiders fear Kimberly Guilfoyle will release her ‘burn book’ with all the dirt on the president’s family,1,1,13,0,google-news
-GB,Waterford: Vigil held after murder of four family members,1,1,14,0,google-news
+GB,Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access,1,1,11,0,google-news
+GB,Time (2021 TV series),1,1,11,18400,wikipedia
+GB,Trump insiders fear Kimberly Guilfoyle will release her ‘burn book’ with all the dirt on the president’s family,1,1,12,0,google-news
+GB,Christa Pike,1,1,12,18400,wikipedia
+GB,Waterford: Vigil held after murder of four family members,1,1,13,0,google-news
+GB,The Party (2026 TV series),1,1,13,16900,wikipedia
+GB,US floats unfreezing some Russian assets to restart Ukraine peace talks,1,1,14,0,google-news
+GB,Daniel and Luis Moncada,1,1,14,16600,wikipedia
 GB,"Netflix to lay off about 1,000 employees in biggest cuts since 2022",1,1,15,0,google-news
+GB,Opinion polling for the next United Kingdom general election,1,1,15,16500,wikipedia
 GB,Eight states accuse OpenAI of coaching children to harm themselves in lawsuit,1,1,16,0,google-news
+GB,John Simpson (journalist),1,1,16,16400,wikipedia
 GB,US inflation hotter than expected as Iran war stokes fuel costs,1,1,17,0,google-news
+GB,"Rejoining single market could give UK a £150bn boost, Goldman Sachs claims",1,1,17,0,google-news
+GB,Below (miniseries),1,1,17,13800,wikipedia
 GB,Trump administration promises social security recipients 3.6% increase in 2027,1,1,18,0,google-news
+GB,Faisal Islam: What surprise praise for UK economy tells us about the Budget,1,1,18,0,google-news
+GB,Digger (2026 film),1,1,18,13700,wikipedia
 GB,Apple unveils new smart home devices that showcase upgraded Siri AI,1,1,19,0,google-news
+GB,Beauty Revealed,1,1,19,13600,wikipedia
 GB,A pocket issue has broken more USB-C ports than I can count,1,1,20,0,google-news
+GB,Olivier Giroud,1,1,20,13300,wikipedia
+GB,Viking FK,1,1,21,13200,wikipedia
+GB,East of Eden (2026 miniseries),1,1,22,13000,wikipedia
+GB,Bella Ramsey,1,1,23,13000,wikipedia
+GB,#2026MAMAVOTE,1,1,24,0,x-trends
+GB,メインページ,1,1,24,12600,wikipedia
+GB,Cherki,1,1,25,0,x-trends
+GB,Paul Bettany,1,1,25,12500,wikipedia
+GB,Clement,1,1,27,0,x-trends
+GB,Nick Brown,1,1,28,0,x-trends
+GB,Nunes,1,1,29,0,x-trends
+GB,Metallica,1,1,30,0,x-trends
+ID,#2026MAMAVOTE,1,4,1,0,x-trends
+ID,#Happy21andOnlyJAMES,1,4,2,0,x-trends
+ID,#제임스의_빛이_차오르길,1,4,3,0,x-trends
+ID,maksimal menegakkan hukum,1,4,4,0,x-trends
+ID,I VOTE,1,4,5,0,x-trends
+ID,sinergi semua elemen,1,4,6,0,x-trends
+ID,Kalimantan,1,4,7,0,x-trends
+ID,LOVE TO THE MOON AND KEY,1,4,8,0,x-trends
+ID,Choice Male,1,4,9,0,x-trends
+ID,Kotor,1,4,10,0,x-trends
+ID,Kamis,1,4,11,0,x-trends
+ID,A. SECEPAT ITU,1,4,12,0,x-trends
+ID,BNPB,1,4,13,0,x-trends
+ID,Vault Street,1,4,14,0,x-trends
+ID,klk group,1,4,15,0,x-trends
+ID,SPBU,1,4,16,0,x-trends
+ID,Roma,1,4,17,0,x-trends
+ID,FIRSTONE 2ND SINGLE MV,1,4,18,0,x-trends
+ID,pt menteng jaya sawit perdana,1,4,19,0,x-trends
+ID,Pagiii,1,4,20,0,x-trends
+ID,GET READY FOR FOURTH CONCERT,1,4,21,0,x-trends
+ID,Pantau Gambut,1,4,22,0,x-trends
+ID,Rabu,1,4,23,0,x-trends
+ID,Palangka Raya,1,4,24,0,x-trends
+ID,Kakang,1,4,25,0,x-trends
+ID,ELLEJAY SMOOTH LANDING,1,4,26,0,x-trends
+ID,#ENHYPEN,1,3,5,0,x-trends
+ID,#OverflowingLoveForEVAN,1,3,7,0,x-trends
+ID,Angkut,1,3,27,0,x-trends
+ID,Tebak,1,3,28,0,x-trends
 ID,"Barbuk OTT KPK di BNPB: Duit Rp 3,3 M, Kripto, hingga Ratusan Gram Emas",1,1,1,0,google-news
+ID,Alasan KPK Jerat Tersangka Kasus DSP BNPB Pakai Pasal 12 Huruf i UU Tipikor,1,1,1,0,google-news
 ID,inter miami vs new york city fc standings,1,1,1,200,google-trends
+ID,lafc vs austin fc,1,1,1,200,google-trends
+ID,Halaman Utama,1,1,1,17600,wikipedia
 ID,"Pria Berpakaian Ojol di Bali Diduga Jual BBM ke Bule Rp 200 Ribu Per 1,5 Liter",1,1,2,0,google-news
 ID,lionel messi,1,1,2,5000,google-trends
+ID,Istimewa:Pencarian,1,1,2,11100,wikipedia
 ID,Brimob Polda Metro Evakuasi Korban Ledakan di Pasar Cimanggis Ciputat,1,1,3,0,google-news
 ID,kospi index,1,1,3,100,google-trends
+ID,RJ Mitte,1,1,3,7900,wikipedia
 ID,"Don Ritto Bantah Dakwaan TPPU, Sebut Jaksa Campuradukkan Honor Advokat dan Aktivitas Bisnis",1,1,4,0,google-news
 ID,colorado rapids,1,1,4,100,google-trends
+ID,Speciel:Søgning,1,1,4,3900,wikipedia
 ID,Bahlil Sebut Pemadaman Listrik Batam Salah Satunya karena Kelelawar,1,1,5,0,google-news
 ID,liga champions elit afc,1,1,5,100,google-trends
+ID,D'Academy (musim 8),1,1,5,3500,wikipedia
 ID,"Dilaporkan ke DKPP soal Pasal Selundupan Loloskan Gibran, KPU Siap Buka-bukaan",1,1,6,0,google-news
+ID,Menkop Pastikan Gaji ASN akan Dialihkan Via Kopdes,1,1,6,0,google-news
 ID,madrasah kemenag sahabat kbc,1,1,6,100,google-trends
+ID,Widi Prasetijono,1,1,6,3200,wikipedia
 ID,"Kabut Asap Selimuti Singapura, Kapal hingga Kereta Gantung Tersamar",1,1,7,0,google-news
 ID,dodgers vs brewers,1,1,7,100,google-trends
+ID,Rustian,1,1,7,3100,wikipedia
 ID,"Di Balik Telepon Prabowo, 8.000 Kopdes Beroperasi Serentak Hari Ini",1,1,8,0,google-news
 ID,fc bayern munich,1,1,8,100,google-trends
+ID,Yandex,1,1,8,3100,wikipedia
 ID,Prabowo Klaim Karhutla Turun Drastis karena Pemerintah Turun Tangan Besar-besaran,1,1,9,0,google-news
 ID,cincinnati vs new england,1,1,9,100,google-trends
+ID,Especial:Cerca,1,1,9,2900,wikipedia
 ID,Menhut Tahu Orang Utan Tak Bisa Minta Tolong Saat Kebakaran Kepung Habitat,1,1,10,0,google-news
 ID,kospi,1,1,10,500,google-trends
+ID,Suyudi Ario Seto,1,1,10,2900,wikipedia
 ID,"Serangan Houthi Sasar Kompleks Aramco, Arab Saudi Gempur Ibu Kota Yaman",1,1,11,0,google-news
+ID,Speciális:Keresés,1,1,11,2800,wikipedia
 ID,"Paus Leo XIV Didiagnosis Kanker Paru-paru, Vatikan Sebut Operasi Berhasil",1,1,12,0,google-news
+ID,PHUWIN MAMI IN HOKKAIDO,1,1,12,0,x-trends
+ID,Bokeh (film),1,1,12,2600,wikipedia
 ID,Trump Akui Pembunuhan ke Pemimpin Tertinggi Iran Kelewatan,1,1,13,0,google-news
+ID,Hong Kong,1,1,13,2500,wikipedia
 ID,"Trump Setujui Kesepakatan Diesel dengan Rusia, Kongres AS Protes Keras",1,1,14,0,google-news
+ID,Reino Barack,1,1,14,2400,wikipedia
 ID,"Darmawan Prasodjo Diganti dari Dirut PLN, Penggantinya Ternyata Telah Menghadap Prabowo",1,1,15,0,google-news
+ID,DuckDuckGo,1,1,15,2400,wikipedia
 ID,"IHSG Dibawah Level 6.000, Tapi 10 saham Ini Diburu Asing",1,1,16,0,google-news
+ID,Speciale:Ricerca,1,1,16,2300,wikipedia
 ID,Bersiaplah! Harga Emas Bakal Terguncang-guncang Hari Ini,1,1,17,0,google-news
 ID,Bersinar! Simak Deretan Lawyer dan Law Firm Top Pilihan In-House Counsel Indonesia 2026,1,1,18,0,google-news
+ID,विशेष:खोज,1,1,18,2100,wikipedia
 ID,Meta perluas utilitas WhatsApp dengan fitur panggilan tamu tanpa akun,1,1,19,0,google-news
+ID,خاص:بحث,1,1,19,2000,wikipedia
 ID,"Itel City 300 5G Meluncur, HP Android 16 Go Harga Rp 2 Jutaan",1,1,20,0,google-news
+ID,Posebno:Traži,1,1,20,2000,wikipedia
+ID,특수:검색,1,1,22,1700,wikipedia
+ID,Prabowo Subianto,1,1,23,1600,wikipedia
+ID,Özel:Ara,1,1,24,1600,wikipedia
+ID,Špeciálne:Hľadanie,1,1,25,1500,wikipedia
+ID,Anggur,1,1,29,0,x-trends
+ID,Kartu Jago,1,1,29,0,x-trends
+ID,sandy walsh,1,1,30,0,x-trends
+IE,Martinez,1,2,1,0,x-trends
+IE,LASK,1,2,2,0,x-trends
+IE,#strike,1,2,3,0,x-trends
+IE,Frimpong,1,2,4,0,x-trends
+IE,Sally Rooney,1,2,5,0,x-trends
+IE,Palestine Action,1,2,6,0,x-trends
+IE,Donnarumma,1,2,7,0,x-trends
+IE,Gomez,1,2,8,0,x-trends
+IE,Licha,1,2,9,0,x-trends
+IE,Wilcox,1,2,10,0,x-trends
+IE,Glazers,1,2,11,0,x-trends
+IE,Herbert Park Hotel,1,2,12,0,x-trends
+IE,#avfc,1,2,13,0,x-trends
+IE,Starlink,1,2,14,0,x-trends
+IE,Semenyo,1,2,15,0,x-trends
+IE,Enzo,1,2,16,0,x-trends
+IE,#ChampionsLeague,1,2,17,0,x-trends
+IE,Teachers,1,2,18,0,x-trends
+IE,Metallica,1,2,19,0,x-trends
+IE,Tsimikas,1,2,20,0,x-trends
+IE,#MCIPSG,1,2,21,0,x-trends
+IE,#MUFC,1,2,22,0,x-trends
+IE,Dembele,1,2,23,0,x-trends
+IE,Araujo,1,2,24,0,x-trends
+IE,Stolas,1,2,25,0,x-trends
+IE,Starshield,1,2,26,0,x-trends
+IE,Koumas,1,2,27,0,x-trends
+IE,The ADL,1,2,28,0,x-trends
+IE,Lille,1,2,29,0,x-trends
+IE,Musk,1,2,30,0,x-trends
 IE,Government seeks ‘negotiation process’ to avoid second round of public sector strikes,1,1,1,0,google-news
 IE,inter miami vs new york city,1,1,1,100,google-trends
+IE,RJ Mitte,1,1,1,25600,wikipedia
 IE,Waterford: Vigil held after murder of four family members,1,1,2,0,google-news
+IE,Waterford family's deaths in fire 'due to a €20k drug debt’,1,1,2,0,google-news
 IE,lisa fallon,1,1,2,200,google-trends
+IE,Katie Zacharia,1,1,2,5800,wikipedia
 IE,Gardaí assessing credibility of threat sent to schools,1,1,3,0,google-news
+IE,Heavy and persistent rain and possible flooding on the way as weather warnings are in place,1,1,3,0,google-news
 IE,prison,1,1,3,500,google-trends
+IE,Selma Blair,1,1,3,4100,wikipedia
 IE,EU takes a page from Ireland's AI playbook - at Dublin AI summit,1,1,4,0,google-news
 IE,gardaí investigating email sent to schools,1,1,4,2000,google-trends
+IE,real betis vs fc porto standings,1,1,4,1000,google-trends
+IE,Kimberly Guilfoyle,1,1,4,3000,wikipedia
 IE,Historic human remains discovered in Limerick,1,1,5,0,google-news
-IE,real betis vs fc porto standings,1,1,5,2000,google-trends
+IE,man city vs psg standings,1,1,5,5000,google-trends
+IE,メインページ,1,1,5,3000,wikipedia
 IE,Carla Ward warns Poland will be ‘gunning for revenge’ as Ireland eye second successive World Cup spot,1,1,6,0,google-news
-IE,man city vs psg standings,1,1,6,20000,google-trends
+IE,aston villa vs fenerbahçe standings,1,1,6,5000,google-trends
+IE,Killing of Leah Croucher,1,1,6,2500,wikipedia
 IE,Numbers applying for Irish citizenship soars by 236% ahead of 'massively unfair' rules change,1,1,7,0,google-news
-IE,aston villa vs fenerbahçe standings,1,1,7,2000,google-trends
+IE,roma,1,1,7,100,google-trends
+IE,Luis Moncada,1,1,7,2400,wikipedia
 IE,"Woman tells gardaí she was 'kidnapped, tied up, struck with bars and burned' in Tallaght last week",1,1,8,0,google-news
-IE,roma,1,1,8,100,google-trends
+IE,"Three charged after woman said she was ‘tortured’, beaten and burned during 13-hour violent ordeal",1,1,8,0,google-news
+IE,rory mcilroy,1,1,8,500,google-trends
+IE,Patrick O'Donovan,1,1,8,2200,wikipedia
 IE,Judge’s comments on legal-aid case ‘significant’,1,1,9,0,google-news
-IE,rory mcilroy,1,1,9,500,google-trends
+IE,visionquest,1,1,9,200,google-trends
+IE,Jack Chambers (politician),1,1,9,2000,wikipedia
 IE,N5 Mayo bypass safety scheme plans unveiled,1,1,10,0,google-news
-IE,visionquest,1,1,10,200,google-trends
+IE,ferran torres,1,1,10,200,google-trends
+IE,Unparliamentary language,1,1,10,1900,wikipedia
 IE,Dominic Cummings stuns peers with rant about Britain’s ‘duff’ political system,1,1,11,0,google-news
+IE,Amanda Knox,1,1,11,1800,wikipedia
 IE,Pope thanks wellwishers for prayers after cancer operation,1,1,12,0,google-news
+IE,Daniel and Luis Moncada,1,1,12,1600,wikipedia
 IE,Taoiseach rejects EU budget criticism from aid groups,1,1,13,0,google-news
+IE,East of Eden (2026 miniseries),1,1,13,1600,wikipedia
 IE,"Russell Brand ‘was sexual predator who laughed at women he abused’, court hears",1,1,14,0,google-news
+IE,Carrie (miniseries),1,1,14,1600,wikipedia
 IE,"AI hacks 'early warning shots', Google Deepmind chairman tells Dublin summit",1,1,15,0,google-news
+IE,Tech leaders outline AI dangers and opportunities at Dublin summit,1,1,15,0,google-news
+IE,Denise O'Sullivan,1,1,15,1300,wikipedia
 IE,Daktronics to close Clare facility with the loss of over 100 jobs,1,1,16,0,google-news
+IE,100 jobs to go as Daktronics to close Ennistymon plant,1,1,16,0,google-news
+IE,Below (miniseries),1,1,16,1300,wikipedia
 IE,Strong weanling trade leaves store sellers facing a costly return to the ring,1,1,17,0,google-news
-IE,'That's just my face': Mark Zuckerberg responds to video of him sipping a pint of Guinness,1,1,18,0,google-news
+IE,'That's just my face': Mark Zuckerberg responds to video of him sipping a pint of Guinness,1,1,17,0,google-news
+IE,Olivier Giroud,1,1,17,1200,wikipedia
+IE,Ireland's best Asian restaurants of 2026 revealed,1,1,18,0,google-news
+IE,Shane Gillis,1,1,18,1200,wikipedia
 IE,See More of The Legend of Zelda: Ocarina of Time Remake in Overview Trailer,1,1,19,0,google-news
 IE,Siobhán McSweeney to guest star on RTÉ sketch show,1,1,20,0,google-news
+IN,अब्दुल कलाम,1,20,1,0,x-trends
+IN,पंचम स्वरूप,1,20,2,0,x-trends
+IN,पूर्व राष्ट्रपति,1,20,3,0,x-trends
+IN,#Jailer2,1,20,3,0,x-trends
+IN,#MaaSkandamata,1,20,4,0,x-trends
+IN,महान वैज्ञानिक,1,20,6,0,x-trends
+IN,अंकिता भंडारी,1,20,8,0,x-trends
+IN,सदा देवी,1,20,9,0,x-trends
+IN,इंडिया गेट,1,20,10,0,x-trends
+IN,भगवान कार्तिकेय,1,20,11,0,x-trends
+IN,Roma,1,20,12,0,x-trends
+IN,India Gate,1,20,13,0,x-trends
+IN,Real Madrid,1,20,13,0,x-trends
+IN,दुष्यंत गौतम,1,20,14,0,x-trends
+IN,Show Time,1,20,15,0,x-trends
+IN,Endrick,1,20,17,0,x-trends
+IN,VVIP,1,20,18,0,x-trends
+IN,Espi,1,20,19,0,x-trends
+IN,पवन खेड़ा,1,20,20,0,x-trends
+IN,IDBI,1,20,24,0,x-trends
+IN,#GodMorningThursday,1,19,6,0,x-trends
+IN,Mourinho,1,19,16,0,x-trends
+IN,Vini,1,19,18,0,x-trends
+IN,Enzo,1,19,22,0,x-trends
+IN,Maresca,1,19,25,0,x-trends
+IN,#APJAbdulKalam,1,18,6,0,x-trends
+IN,Dushyant Gautam,1,17,26,0,x-trends
+IN,इमरान प्रतापगढ़ी,1,13,18,0,x-trends
+IN,Anderson,1,11,28,0,x-trends
+IN,Valverde,1,9,21,0,x-trends
+IN,#MissileManOfIndia,1,8,12,0,x-trends
+IN,Governor,1,7,29,0,x-trends
+IN,#NakulDhull,1,5,1,0,x-trends
+IN,Thalaivar,1,3,23,0,x-trends
+IN,First Half,1,2,14,0,x-trends
 IN,"3 Indians Killed In Germany Building Fire, Man Arrested For Suspected Murder",1,1,1,0,google-news
 IN,കൊടുങ്ങല്ലൂര്,1,1,1,100,google-trends
+IN,weather report today,1,1,1,100,google-trends
+IN,STOP NEGATIVE PR AGAINST QAZI,1,1,1,0,x-trends
+IN,पंचायत चुनाव,1,1,1,0,x-trends
+IN,#INDvsWI,1,1,1,0,x-trends
+IN,RJ Mitte,1,1,1,96400,wikipedia
 IN,Air India Frankfurt-Delhi flight hijack alert turns out to be false alarm,1,1,2,0,google-news
+IN,"Delhi Protest Highlights: Amit Shah says Congress needs ‘serious introspection’, highlights BJP bypoll wins",1,1,2,0,google-news
 IN,weather shimla,1,1,2,200,google-trends
+IN,weather weather,1,1,2,100,google-trends
+IN,#2026MAMAVOTE,1,1,2,0,x-trends
+IN,Neha Bora,1,1,2,63900,wikipedia
 IN,Rubio to visit India next week as Jaishankar says trade talks near landing point,1,1,3,0,google-news
 IN,fluminense vs palmeiras,1,1,3,100,google-trends
+IN,.xxx,1,1,3,59700,wikipedia
 IN,Ukraine's Zelenskiy says it is 'painful' when Trump chooses a different side,1,1,4,0,google-news
 IN,15 अक्टूबर को क्या है,1,1,4,100,google-trends
+IN,Drishyam: The Conclusion,1,1,4,57300,wikipedia
 IN,"Exclusive: ACP accused of molesting journalist accuses her of ‘casteist slurs’, FIR under SC/ST Act",1,1,5,0,google-news
 IN,skandmata ki aarti,1,1,5,200,google-trends
+IN,XXXX (beer),1,1,5,27200,wikipedia
 IN,Exclusive - Need To Strike Balance: Canadian Foreign Minister On Khalistani Slogans,1,1,6,0,google-news
 IN,inter miami match,1,1,6,100,google-trends
+IN,Sudha Yadav,1,1,6,26500,wikipedia
 IN,"Supreme Court to hear Rahul Gandhi, Oppn. leaders’ plea against CEC Gyanesh Kumar and SIR on Oct. 15",1,1,7,0,google-news
+IN,Muskaan Rastogi Gets Death. What Husband's Family Said On Daughters' Future,1,1,7,0,google-news
 IN,whether,1,1,7,200,google-trends
-IN,Muskaan Rastogi Gets Death. What Husband's Family Said On Daughters' Future,1,1,8,0,google-news
+IN,சூரி,1,1,7,100,google-trends
+IN,Bigg Boss (Hindi TV series) season 20,1,1,7,21300,wikipedia
+IN,ATC software glitch behind Air India false hijack scare? Probe on,1,1,8,0,google-news
 IN,weather update,1,1,8,100,google-trends
+IN,Speciel:Søgning,1,1,8,19500,wikipedia
 IN,Rahul Gandhi joins Ankita Bhandari’s parents at India Gate protest against Dushyant Gautam’s governor appointment,1,1,9,0,google-news
-IN,சூரி,1,1,9,100,google-trends
-IN,"Asaduddin Owaisi Moves Supreme Court Seeking Review Of Bihar SIR Verdict, Says New Material Raises...",1,1,10,0,google-news
+IN,"Asaduddin Owaisi Moves Supreme Court Seeking Review Of Bihar SIR Verdict, Says New Material Raises...",1,1,9,0,google-news
+IN,Jailer 2,1,1,9,19300,wikipedia
 IN,toronto vs orlando city,1,1,10,100,google-trends
+IN,Gyanesh Kumar,1,1,10,19200,wikipedia
 IN,"US-Iran War Live News Updates: Ship carrying over 2,500 containers sinks after naval mine strike near Hormuz, Iran says",1,1,11,0,google-news
+IN,Iran reports cargo ship sinks after hitting mine in Strait of Hormuz,1,1,11,0,google-news
+IN,Hanuman Ansh,1,1,11,17200,wikipedia
 IN,Saudi-led coalition intercepts Houthi missile launched towards Riyadh,1,1,12,0,google-news
+IN,"US Teen Arrested For Planning ""Mass Shooting"" At Chicago Hindu Temple",1,1,12,0,google-news
+IN,#NavratriDay5,1,1,12,0,x-trends
+IN,#JusticeForAnkitaBhandari,1,1,12,0,x-trends
+IN,L. Murugan,1,1,12,15800,wikipedia
 IN,Fire at Aramco headquarters in Saudi Arabia after Houthi strike,1,1,13,0,google-news
+IN,सूर्यकांत त्रिपाठी,1,1,13,0,x-trends
+IN,List of Hindi films of 2026,1,1,13,15700,wikipedia
 IN,'Owned and controlled by US govt': Musk refutes Ukraine's charge of crippling Starlink,1,1,14,0,google-news
+IN,Nana Patekar,1,1,14,15200,wikipedia
 IN,Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat,1,1,15,0,google-news
+IN,Mandaadi,1,1,15,14300,wikipedia
 IN,Fairfax Financial Buying Majority Stake in India’s IDBI Bank,1,1,16,0,google-news
+IN,पावन पंचम,1,1,16,0,x-trends
+IN,Pradhama Drishtiya Kuttakkar,1,1,16,14200,wikipedia
 IN,"Indian shares end lower as higher oil prices, foreign outflows dent appetite",1,1,17,0,google-news
-IN,Oil Market Tightens as Tanker Attacks and Inventory Draws Mount,1,1,18,0,google-news
+IN,Oil Market Tightens as Tanker Attacks and Inventory Draws Mount,1,1,17,0,google-news
+IN,दुर्गा भाभी,1,1,17,0,x-trends
+IN,Especial:Cerca,1,1,17,13600,wikipedia
+IN,"Stocks To Watch For October 15: Reliance Industries, IDBI Bank, CSB Bank, Tata Tech and more",1,1,18,0,google-news
+IN,Dog sex,1,1,18,13600,wikipedia
 IN,Apple unveils HomeView smart display in renewed home push,1,1,19,0,google-news
+IN,"Apple Expands Smart Home Push With New Smart Lock, Thermostat And Video Doorbells",1,1,19,0,google-news
+IN,Speciális:Keresés,1,1,19,13400,wikipedia
 IN,"CERT-In flags critical Google Chrome vulnerabilities; Google releases security update, users urged to...",1,1,20,0,google-news
+IN,Donnarumma,1,1,20,0,x-trends
+IN,Match cut,1,1,20,13200,wikipedia
+IN,Nelson,1,1,21,0,x-trends
+IN,Danish Taimoor,1,1,21,12700,wikipedia
+IN,XXX (Kendrick Lamar song),1,1,22,12500,wikipedia
+IN,महिषासुरमर्दिनी स्तोत्रम्,1,1,23,12400,wikipedia
+IN,Sex,1,1,24,11300,wikipedia
+IN,கந்த சஷ்டி கவசம்,1,1,25,11300,wikipedia
+IN,USTAAD ELVISH HYPING BB20,1,1,30,0,x-trends
+IT,#RomaRealMadrid,1,3,1,0,x-trends
+IT,#taleequaleshow,1,3,2,0,x-trends
+IT,Champions,1,3,3,0,x-trends
+IT,#chilhavisto,1,3,4,0,x-trends
+IT,Chivu,1,3,5,0,x-trends
+IT,#14ottobre,1,3,6,0,x-trends
+IT,Mourinho,1,3,7,0,x-trends
+IT,#InterBrugge,1,3,8,0,x-trends
+IT,Starlink,1,3,9,0,x-trends
+IT,Tresoldi,1,3,10,0,x-trends
+IT,Gasperini,1,3,11,0,x-trends
+IT,Hermoso,1,3,12,0,x-trends
+IT,Martinez,1,3,12,0,x-trends
+IT,Molina,1,3,13,0,x-trends
+IT,Inzaghi,1,3,14,0,x-trends
+IT,Endrick,1,3,15,0,x-trends
+IT,Politano,1,3,16,0,x-trends
+IT,Pellegrini,1,3,17,0,x-trends
+IT,Dybala,1,3,18,0,x-trends
+IT,Starshield,1,3,19,0,x-trends
+IT,Musk,1,3,20,0,x-trends
+IT,Colombo,1,3,21,0,x-trends
+IT,Pepo,1,3,21,0,x-trends
+IT,Akanji,1,3,23,0,x-trends
+IT,Somewhere Over the Rainbow,1,3,25,0,x-trends
+IT,Provedel,1,3,26,0,x-trends
+IT,Allegri,1,3,27,0,x-trends
+IT,Gino Paoli,1,2,26,0,x-trends
+IT,Lautaro,1,2,28,0,x-trends
+IT,Dimarco,1,2,29,0,x-trends
 IT,"Meloni attacca Trump, 'rischiosa l'intesa sul gasolio russo'",1,1,1,0,google-news
 IT,inter miami - new york city,1,1,1,1000,google-trends
+IT,inter miami vs new york city,1,1,1,500,google-trends
+IT,Pagina principale,1,1,1,145100,wikipedia
 IT,"Nuovo Codice della strada, ecco come cambiano le sanzioni: multe più alte per le condotte pericolose",1,1,2,0,google-news
 IT,crema idratante viso,1,1,2,500,google-trends
+IT,Nicolò Tresoldi,1,1,2,120900,wikipedia
 IT,"Meloni sfida i deputati di Vannacci: ""Dimettetevi o è trasformismo""",1,1,3,0,google-news
 IT,sarmiento - river plate,1,1,3,100,google-trends
+IT,RJ Mitte,1,1,3,108900,wikipedia
 IT,"Il fratello del Papa, Louis Prevost: «L'annuncio uno choc, anch'io ho un cancro. Ma mi ha detto di non essere in pericolo di vita»",1,1,4,0,google-news
 IT,credito,1,1,4,200,google-trends
+IT,Emanuele Tresoldi,1,1,4,37400,wikipedia
 IT,"Zelensky, 'in corso attacco russo, Mosca sfrutta nostri problemi con Starlink'",1,1,5,0,google-news
 IT,norimberga,1,1,5,100,google-trends
+IT,Speciale:Ricerca,1,1,5,27200,wikipedia
 IT,"Ex Ilva, nuovo decreto: impianti in riscaldo e 100 ettari da reindustrializzare",1,1,6,0,google-news
 IT,leonardo,1,1,6,200,google-trends
+IT,Silvia Salis,1,1,6,19500,wikipedia
 IT,Arrestato un 19enne nel Pavese: aveva armi da fuoco e simboli nazisti,1,1,7,0,google-news
 IT,dua lipa,1,1,7,200,google-trends
 IT,"Meloni attacca M5S: ""Con queste regole Conte non andava a Chigi""",1,1,8,0,google-news
 IT,elezione,1,1,8,500,google-trends
+IT,Giorgio Bracardi,1,1,8,17300,wikipedia
 IT,"Picchiato dal branco a Napoli, nel gruppo anche i figli di due poliziotti",1,1,9,0,google-news
 IT,celta vigo,1,1,9,100,google-trends
+IT,Club Brugge Koninklijke Voetbalvereniging,1,1,9,13300,wikipedia
 IT,"Minacce social a Laura Castelletti, la sindaca denuncia: ""Non voglio abituarmi all'odio""",1,1,10,0,google-news
 IT,mercato san severino,1,1,10,500,google-trends
+IT,Righeira,1,1,10,12300,wikipedia
 IT,"Guerra Iran Usa, Trump: ""Forse sono andato troppo oltre con Teheran, mi dispiace""",1,1,11,0,google-news
+IT,Leonardo Maria Del Vecchio,1,1,11,11400,wikipedia
 IT,"Ucraina, Zelensky a Londra e poi dai 27, l'Ue teme il voltafaccia di Trump",1,1,12,0,google-news
+IT,Carlo Acutis,1,1,12,10900,wikipedia
 IT,"Usa: ""Distrutta un'imbarcazione legata all'Iran nel golfo dell'Oman""",1,1,13,0,google-news
+IT,Tutto l’amore che resta,1,1,13,10600,wikipedia
 IT,"Albania, assalto a ministeri e Parlamento a Tirana: studenti in piazza contro il premier Rama. Due giorni di roghi e violenze",1,1,14,0,google-news
+IT,Fausto Brizzi,1,1,14,10200,wikipedia
 IT,Listini europei misti. In ribasso Piazza Affari appesantita da banche e auto,1,1,15,0,google-news
+IT,L'estranea (film 2026),1,1,15,10000,wikipedia
 IT,Lo spettro del 6%. Il tasso dei Treasury che può disintegrare il midterm di Trump,1,1,16,0,google-news
+IT,Gollini,1,1,16,0,x-trends
+IT,Breaking Bad,1,1,16,9800,wikipedia
 IT,"Ftse Mib +0,12%: perché le banche frenano Milano e lo spread risale",1,1,17,0,google-news
+IT,Leonardo Del Vecchio,1,1,17,9700,wikipedia
 IT,"Centro Studi Confindustria: stima Pil 2026 alzata a +1%, il 2027 resta a +0,6%",1,1,18,0,google-news
+IT,The Manchurian Candidate (film 2004),1,1,18,9400,wikipedia
 IT,"Apple lancia HomeView, ma in Europa arrivano solo HomePod Mini 2 e Apple TV",1,1,19,0,google-news
+IT,Vendetta (film 2022),1,1,19,8800,wikipedia
 IT,Ecco la nuova Apple TV 4K: arrivano Siri AI (ma non nell'UE) e chip A19,1,1,20,0,google-news
+IT,I casi di Teresa Battaglia,1,1,20,8500,wikipedia
+IT,Viking Fotballklubb,1,1,21,8400,wikipedia
+IT,Mancini,1,1,22,0,x-trends
+IT,Papa Leone XIV,1,1,22,7900,wikipedia
+IT,Sabah Futbol Klubu,1,1,23,7200,wikipedia
+IT,Episodi di Nord Sud Ovest Est - La leggendaria storia degli 883,1,1,24,7100,wikipedia
+IT,Carrie (miniserie televisiva),1,1,25,7000,wikipedia
+IT,Kone,1,1,30,0,x-trends
+JP,きのこの日,1,3,3,0,x-trends
+JP,エキスパンション・パス,1,3,6,0,x-trends
+JP,織田くん,1,3,9,0,x-trends
+JP,遊佐浩二,1,3,11,0,x-trends
+JP,追加ストーリー,1,3,12,0,x-trends
+JP,#あさイチ,1,2,1,0,x-trends
+JP,結成3周年,1,2,7,0,x-trends
+JP,サンパラ,1,2,10,0,x-trends
+JP,織田翔希,1,2,11,0,x-trends
+JP,キオクシア,1,2,13,0,x-trends
+JP,エドマン,1,2,14,0,x-trends
+JP,ファミマの無限クリーム,1,2,15,0,x-trends
+JP,初公開映像,1,2,16,0,x-trends
+JP,世界手洗いの日,1,2,17,0,x-trends
+JP,武部新氏,1,2,19,0,x-trends
+JP,キノコの日,1,2,20,0,x-trends
+JP,AI開発者,1,2,23,0,x-trends
+JP,異例の進路,1,2,24,0,x-trends
+JP,メジャー挑戦,1,2,26,0,x-trends
+JP,ドラフト1位確実,1,2,28,0,x-trends
 JP,新たな農相に武部新・元農林水産副大臣を起用の方針…当選６回で武部勤・元幹事長の長男,1,1,1,0,google-news
 JP,とわの森三愛高校,1,1,1,500,google-trends
+JP,リオネル・メッシ,1,1,1,1000,google-trends
+JP,#ハッピーセットにUSJ,1,1,1,0,x-trends
+JP,メインページ,1,1,1,470400,wikipedia
 JP,ウクライナ側“スターリンクの利用一部制限 迎撃など支障”,1,1,2,0,google-news
 JP,遊佐浩二 結婚,1,1,2,200,google-trends
+JP,#Number_i_3rdAnniv,1,1,2,0,x-trends
+JP,#もーにー,1,1,2,0,x-trends
+JP,青年誌の作品,1,1,2,0,x-trends
+JP,大宮エリー,1,1,2,332100,wikipedia
 JP,新たな台風が発生する予想 しばらく西進し強い勢力に 13年ぶりの台風30号か,1,1,3,0,google-news
 JP,須藤晃,1,1,3,1000,google-trends
+JP,#びっくりドンキーのおいもに沼ろう,1,1,3,0,x-trends
+JP,四コマ漫画,1,1,3,0,x-trends
+JP,簗和生,1,1,3,97900,wikipedia
 JP,＜主張＞道新記者拘束 ロシアは直ちに解放せよ 社説,1,1,4,0,google-news
 JP,万紫千紅 エキスパンションパス,1,1,4,200,google-trends
+JP,#Number_iLYs,1,1,4,0,x-trends
+JP,IDOM,1,1,4,0,x-trends
+JP,歴史漫画の終盤,1,1,4,0,x-trends
+JP,新垣結衣,1,1,4,72400,wikipedia
 JP,【解説】 トランプ氏が主張するロシアとウクライナの「エネルギー停戦」、ロシアはなぜ沈黙したままなのか,1,1,5,0,google-news
 JP,ウィル・スミス,1,1,5,500,google-trends
+JP,#ノンストップ,1,1,5,0,x-trends
+JP,任命責任,1,1,5,0,x-trends
+JP,#STARスター,1,1,5,0,x-trends
+JP,特別:検索,1,1,5,65200,wikipedia
 JP,【速報】ホルムズ海峡で機雷接触の貨物船沈没と報道,1,1,6,0,google-news
 JP,青森国スポ 陸上,1,1,6,200,google-trends
+JP,朝鮮学校,1,1,6,0,x-trends
+JP,現代の会社組織,1,1,6,0,x-trends
+JP,救命病棟24時,1,1,6,56600,wikipedia
 JP,関東～九州は秋晴れ 北海道や東北は所々で雷雨 暴風に警戒 今日15日(木)の天気(気象予報士 日直主任),1,1,7,0,google-news
 JP,シーテック 2026,1,1,7,1000,google-trends
+JP,サイゼリヤ,1,1,7,0,x-trends
+JP,月の出費,1,1,7,0,x-trends
+JP,岩田絵里奈,1,1,7,53800,wikipedia
 JP,都合よく女を出す〉と波紋、高市首相「化粧して、朝食の支度と片付け」男性総理より時間を使う発言（週刊女性PRIME,1,1,8,0,google-news
 JP,攻撃,1,1,8,200,google-trends
+JP,#寝たよアピール,1,1,8,0,x-trends
+JP,議員辞職,1,1,8,0,x-trends
+JP,#ちょうどいいラジオ,1,1,8,0,x-trends
+JP,パソコン遠隔操作事件,1,1,8,48500,wikipedia
 JP,余熱館ささおか大浴場からレジオネラ菌検出、当面全館営業休止 基準値の100倍 福井県あわら市,1,1,9,0,google-news
 JP,武部新,1,1,9,50000,google-trends
+JP,#目黒蓮,1,1,9,0,x-trends
+JP,作品の最終巻,1,1,9,0,x-trends
+JP,石見舞菜香,1,1,9,42500,wikipedia
 JP,国内初の「ロボット遠隔手術」、弘前大での手術を「３０ｋｍ離れた」経験豊富な医師がサポート,1,1,10,0,google-news
 JP,ファミリーヒストリー,1,1,10,500,google-trends
+JP,ハードSF漫画,1,1,10,0,x-trends
+JP,わたなべまさこ,1,1,10,41000,wikipedia
 JP,トランプ氏「カネと大言壮語」は効果薄、共和党敗北なら「妨害工作」の可能性も…新たな火種は「強圧的態度で退職者続出」の財務長官か（デイリー新潮）,1,1,11,0,google-news
+JP,歴史通り,1,1,11,0,x-trends
+JP,堂上隼人,1,1,11,40300,wikipedia
 JP,フーシ激しくサウジ攻撃、石油施設で火災・住宅地に迎撃ミサイル残骸落下…「今後数日攻撃を続ける」,1,1,12,0,google-news
+JP,遊佐さん,1,1,12,0,x-trends
+JP,#ohayomorning,1,1,12,0,x-trends
+JP,星野源,1,1,12,35900,wikipedia
 JP,ウクライナ軍の「ヴィヴァルディ作戦」、大型ドローンで地上無人車両を敵陣投下、ロシアのエリート無人機部隊も撤退(1/6),1,1,13,0,google-news
+JP,スポ根漫画の顧問の先生,1,1,13,0,x-trends
+JP,比嘉愛未,1,1,13,35700,wikipedia
 JP,ローマ教皇の手術成功 肺腺がん確認,1,1,14,0,google-news
+JP,葛葉のZIP,1,1,14,0,x-trends
+JP,今森茉耶,1,1,14,34400,wikipedia
 JP,日経平均株価、一時２５００円超下落…米市場の流れ受けＡＩや半導体関連銘柄の売り先行,1,1,15,0,google-news
+JP,SF漫画のロボットもの,1,1,15,0,x-trends
+JP,鈴村健一,1,1,15,32200,wikipedia
 JP,国内WebサイトへのAIエージェント攻撃を観測 「8時間弱」続いた攻撃の推移を公開 国内セキュリティベンダー,1,1,16,0,google-news
-JP,サイゼリヤ 原材料高騰などで10月29日から平均6％値上げ,1,1,17,0,google-news
+JP,サイゼリヤ 原材料高騰などで10月29日から平均6％値上げ,1,1,16,0,google-news
+JP,エリンギ,1,1,16,0,x-trends
+JP,宇野千代,1,1,16,30200,wikipedia
+JP,作者さんの体調,1,1,17,0,x-trends
+JP,笠松将,1,1,17,30000,wikipedia
 JP,米コアウィーブ社債急落、テック株売りに拍車 ナスダック一時2%安,1,1,18,0,google-news
+JP,１５日の株式相場見通し＝大幅続落か、ＣＰＩ上振れで米早期利上げ観測が再燃,1,1,18,0,google-news
+JP,#お弁当記録,1,1,18,0,x-trends
+JP,VIVANT,1,1,18,27700,wikipedia
 JP,ソニー、32bit floatや内部録音対応のワイヤレスマイク「ECM-W5」。WF-1000XM6でバイノーラル録音,1,1,19,0,google-news
+JP,一気買い,1,1,19,0,x-trends
+JP,シャンプーハット (お笑いコンビ),1,1,19,26400,wikipedia
 JP,これは安い！ ASUSのノートPC「Vivobook 15」が6万円台で買える プライム感謝祭先行セールにて,1,1,20,0,google-news
+JP,休載明けの一話,1,1,20,0,x-trends
+JP,インテンション (企業),1,1,20,25300,wikipedia
+JP,もくようび,1,1,21,0,x-trends
+JP,NPB経由,1,1,21,0,x-trends
+JP,青田典子,1,1,21,23900,wikipedia
+JP,ジャミラ,1,1,22,0,x-trends
+JP,紙の単行本,1,1,22,0,x-trends
+JP,石橋静河,1,1,22,21800,wikipedia
+JP,きのこ料理,1,1,23,0,x-trends
+JP,岡崎紗絵,1,1,23,21500,wikipedia
+JP,リュディガー,1,1,24,0,x-trends
+JP,英利アルフィヤ,1,1,24,21000,wikipedia
+JP,パンガシウス,1,1,25,0,x-trends
+JP,簗氏の後任,1,1,25,0,x-trends
+JP,ザシザマ,1,1,25,0,x-trends
+JP,救命病棟24時の登場人物,1,1,25,16800,wikipedia
+JP,初球ホームラン,1,1,26,0,x-trends
+JP,和ちゃん,1,1,29,0,x-trends
+JP,助け合いの日,1,1,30,0,x-trends
+KE,roma,1,3,8,200,google-trends x-trends
+KE,#TheTrumpetIsSounding,1,2,1,0,x-trends
+KE,churoteachers training college,1,2,2,0,x-trends
+KE,EPRA,1,2,3,0,x-trends
+KE,Real Madrid,1,2,4,0,x-trends
+KE,kiambu scorecard,1,2,5,0,x-trends
+KE,#kiambuthemodelcounty,1,2,6,0,x-trends
+KE,#fakelawyerexposed,1,2,7,0,x-trends
+KE,#mwongozompyaparty,1,2,8,0,x-trends
+KE,#rejeshafunds,1,2,9,0,x-trends
+KE,wamatangi the performer,1,2,10,0,x-trends
+KE,creatives support programme,1,2,11,0,x-trends
+KE,Kenyans,1,2,13,0,x-trends
+KE,macharia njeru,1,2,14,0,x-trends
+KE,mashujaa thematic week,1,2,15,0,x-trends
+KE,Semenyo,1,2,16,0,x-trends
+KE,Rwanda,1,2,17,0,x-trends
+KE,advocate amukhumba matanga,1,2,18,0,x-trends
+KE,Enzo,1,2,19,0,x-trends
+KE,Slight,1,2,20,0,x-trends
+KE,global oil crisis,1,2,21,0,x-trends
+KE,Apology,1,2,22,0,x-trends
+KE,Donnarumma,1,2,23,0,x-trends
+KE,LASK,1,2,24,0,x-trends
+KE,Bouaddi,1,2,25,0,x-trends
+KE,komboa kenya,1,2,26,0,x-trends
+KE,Rob Finnerty,1,2,27,0,x-trends
+KE,Nairobi,1,2,28,0,x-trends
+KE,ksh 2.3,1,2,29,0,x-trends
+KE,Licha,1,2,30,0,x-trends
 KE,Preparations in top gear at Migwena ahead of Raila’s anniversary,1,1,1,0,google-news
+KE,How Odinga empire changed after Raila,1,1,1,0,google-news
 KE,inter miami vs new york city,1,1,1,1000,google-trends
+KE,RJ Mitte,1,1,1,2100,wikipedia
 KE,"Pope's family 'going through a lot' as brother also undergoes cancer treatment, wife says",1,1,2,0,google-news
+KE,Mama Ida leads candle-lighting ceremony for Raila in Bondo,1,1,2,0,google-news
 KE,real betis vs fc porto standings,1,1,2,500,google-trends
+KE,man city fixtures,1,1,2,100,google-trends
 KE,"Motorists, households face fresh fuel price hikes",1,1,3,0,google-news
-KE,man city fixtures,1,1,3,100,google-trends
+KE,kylian mbappé,1,1,3,100,google-trends
 KE,Kenya’s Health Ministry confirms second Ebola case,1,1,4,0,google-news
-KE,kylian mbappé,1,1,4,100,google-trends
+KE,flashscore,1,1,4,500,google-trends
 KE,Egypt’s successful health model offers lessons for other African countries,1,1,5,0,google-news
 KE,dortmund,1,1,5,500,google-trends
 KE,Intersputnik brings young experts from 10 member countries to IAC 2026,1,1,6,0,google-news
@@ -554,12 +1658,13 @@ KE,stuttgart fc,1,1,6,100,google-trends
 KE,Why Kenya’s housing sector does not depend on the Housing Levy,1,1,7,0,google-news
 KE,betis,1,1,7,100,google-trends
 KE,Kindiki intensifies tour of Mt Kenya as battle for region's votes gathers pace,1,1,8,0,google-news
-KE,roma,1,1,8,200,google-trends
 KE,Blow to Waititu as High Court upholds 12-year sentence in Sh588m graft case,1,1,9,0,google-news
 KE,real madrid vs roma,1,1,9,500,google-trends
 KE,ODM's broad-based gamble under scrutiny a year after Raila's demise,1,1,10,0,google-news
+KE,"Police arrest five suspects, recover dozens of phones in Nairobi, Thika",1,1,10,0,google-news
 KE,maghnes akliouche,1,1,10,200,google-trends
 KE,New UN Assessment Shows $15 Return for Every $1 Invested in Climate and Air Pollution Action,1,1,11,0,google-news
+KE,UNEP Report Finds Economic and Health Benefits from Joint Climate and Clean Air Action,1,1,11,0,google-news
 KE,RFAs: Atlas – France to Southeast Asia Postdoctoral Mobility Fellowship - fundsforNGOs,1,1,12,0,google-news
 KE,Is poverty out of sight and out of the budget?,1,1,13,0,google-news
 KE,US lawmaker targets Africa’s 5th-largest gold producer with proposed minerals-for-technology deal,1,1,14,0,google-news
@@ -569,55 +1674,130 @@ KE,Ministers eyeing up plans to force workers to save more for retirement - how 
 KE,Liberia offers 29 offshore blocks in 2026 oil and gas licensing round,1,1,18,0,google-news
 KE,"Cyber Awareness Month 2026: Use multi-factor authentication to secure online accounts, says CERT-In",1,1,19,0,google-news
 KE,Elon Musk says he's had AI 'psychosis' half a dozen times in the last year,1,1,20,0,google-news
+KE,Apple will charge for more Siri AI access,1,1,20,0,google-news
+KR,#HYPERDRIVE,1,2,1,0,x-trends
+KR,바로 투표,1,2,2,0,x-trends
+KR,예수료 3천원,1,2,2,0,x-trends
+KR,사이드카,1,2,4,0,x-trends
+KR,스포티파이,1,2,5,0,x-trends
+KR,TOP10 임영웅,1,2,6,0,x-trends
+KR,예매환경,1,2,7,0,x-trends
+KR,#PLAVE,1,2,8,0,x-trends
+KR,예매수수료,1,2,9,0,x-trends
+KR,TOP10 투표,1,2,10,0,x-trends
+KR,롬앤 10주년,1,2,10,0,x-trends
+KR,#마비노기_트친소,1,2,11,0,x-trends
+KR,오하욘사,1,2,12,0,x-trends
+KR,영양군민체육대회,1,2,14,0,x-trends
+KR,하이닉스,1,2,15,0,x-trends
+KR,무사만루,1,2,16,0,x-trends
+KR,음중 역조공,1,2,17,0,x-trends
+KR,축하 무대,1,2,18,0,x-trends
+KR,진뷔국밥,1,2,19,0,x-trends
+KR,#아로새겨_시작될_에반의_날,1,2,21,0,x-trends
+KR,워닝워닝,1,2,22,0,x-trends
+KR,#ENHYPEN,1,2,23,0,x-trends
+KR,서버관리,1,2,24,0,x-trends
+KR,북미투어,1,2,25,0,x-trends
+KR,음중 띠부씰,1,2,26,0,x-trends
+KR,비서실장,1,2,27,0,x-trends
 KR,"성기홍 ""임광현 '보은인사' 근거 없어‥김지용 결격 사유 안 보여""",1,1,1,0,google-news
+KR,추미애 “소방이 재정 빨대” 발언에···소방관들 “명예 훼손” 사과 촉구,1,1,1,0,google-news
 KR,구름,1,1,1,200,google-trends
+KR,블랙록,1,1,1,100,google-trends
+KR,위키백과:대문,1,1,1,20500,wikipedia
 KR,추미애 “소방이 골치 아픈 재정 빨대” 발언에···소방관들 “사과해라” 촉구,1,1,2,0,google-news
 KR,국정감사,1,1,2,100,google-trends
+KR,경기도교육청,1,1,2,100,google-trends
+KR,문화방송,1,1,2,15800,wikipedia
 KR,"성기홍 “김지용 청문회, 흠결 지적하기 힘들 정도로 잘 설명됐다”",1,1,3,0,google-news
 KR,다저스,1,1,3,200,google-trends
+KR,두쫀김장선물,1,1,3,0,x-trends
+KR,한국방송공사,1,1,3,12600,wikipedia
 KR,다시 불붙은 與 신천지 의혹…실제 경선개입 여부 규명이 핵심,1,1,4,0,google-news
+KR,"주한美사령관, 전작권 전환 관련 “계획 변경돼 새 기준 생겨”",1,1,4,0,google-news
 KR,보증금,1,1,4,2000,google-trends
+KR,특수:검색,1,1,4,10400,wikipedia
 KR,주한미군사령관 “전작권 전환…새로운 기준 부합 군사역량 갖춰야”,1,1,5,0,google-news
 KR,순항 미사일,1,1,5,1000,google-trends
+KR,한국교육방송공사,1,1,5,5000,wikipedia
 KR,"인천 난동범, 이달초 ‘흉기 소지’ 입건… 경찰 ‘위험성 평가’도 안해",1,1,6,0,google-news
+KR,주호영 “국방·외교부 세종 이전은 국가 안위 흔드는 자해적 결정” [이런뉴스],1,1,6,0,google-news
 KR,카드뉴스,1,1,6,1000,google-trends
+KR,List of S&P 500 companies,1,1,6,4300,wikipedia
 KR,[천지일보 여론조사] 이재명 대통령 지지율 37.4%… 부정 평가 60.3%,1,1,7,0,google-news
+KR,"가슴 찌른 칼, 주머니 ‘담뱃갑’이 막았다…‘인천 칼부림’ 피해자 사연",1,1,7,0,google-news
 KR,어디가,1,1,7,1000,google-trends
+KR,RJ Mitte,1,1,7,4000,wikipedia
 KR,"장모 살해·아내 납치 20대 남성, 내주 신상공개 경찰 심의",1,1,8,0,google-news
+KR,"'송파 장모 살해' 유족 울음바다…""고인 딸도 결혼생활 중 상습 폭행당해""",1,1,8,0,google-news
 KR,kospi,1,1,8,200,google-trends
+KR,김지원 (배우),1,1,8,2900,wikipedia
 KR,강선우 “김병기에 원하는 면접 질문 카톡 말고 텔레로 보내라”,1,1,9,0,google-news
+KR,"’1억 원 공천 헌금’ 강선우, 1심 징역 2년 6개월…법정구속",1,1,9,0,google-news
 KR,토스증권,1,1,9,1000,google-trends
+KR,바다 (가수),1,1,9,2600,wikipedia
 KR,"“어그로 끌려다, 잘 팔리니 노선변경” 힙합 계정이 극우 확성기로",1,1,10,0,google-news
 KR,독도,1,1,10,200,google-trends
+KR,제척,1,1,10,2300,wikipedia
 KR,"월스트리트저널 ""호르무즈서 피격된 UAE 화물선 2척 침몰""",1,1,11,0,google-news
+KR,호르무즈서 피격된 UAE 화물선 2척 침몰,1,1,11,0,google-news
+KR,추미애,1,1,11,2100,wikipedia
 KR,"이란, 원유 길목 이어 데이터 길목 노린다… 걸프 해저케이블·데이터센터 타격 위협 - 조선비즈",1,1,12,0,google-news
+KR,닥터X: 하얀 마피아의 시대,1,1,12,1900,wikipedia
 KR,"축구선수협, 사우디 아시안컵 개최 우려…""안전 최우선""",1,1,13,0,google-news
+KR,"후티 ""사우디 아람코·공항에 미사일·드론 공격‥며칠간 계속""",1,1,13,0,google-news
+KR,DN오토모티브,1,1,13,1700,wikipedia
 KR,젤렌스키 “트럼프 다른 편 선택 고통스럽다…배신감 느껴”,1,1,14,0,google-news
+KR,미스 월드 코리아,1,1,14,1700,wikipedia
 KR,알래스카 LNG 전문가 “10년전 사업비 59조원 때도 손 떼...이제 100조 넘을 듯”,1,1,15,0,google-news
+KR,"[속보] 코스피 5% 넘게 급락하며 5,600선까지 밀려‥코스피·코스닥 동반 '사이드카' 발동",1,1,15,0,google-news
+KR,박진영 (1994년),1,1,15,1600,wikipedia
 KR,"美 물가 충격, 기술주 흔들…나스닥 1.88%↓[뉴욕마감] - 머니투데이",1,1,16,0,google-news
+KR,"“한국이 500억 달러 낸다”…트럼프, 알래스카 가스관 투자 또 ‘못박기’",1,1,16,0,google-news
+KR,임은정 (법조인),1,1,16,1500,wikipedia
 KR,"""빚내서 SK하닉 샀는데""…두 달 만에 '600억' 결국 멘붕",1,1,17,0,google-news
+KR,TOP10 방탄소년단,1,1,17,0,x-trends
+KR,지셀르 리본느,1,1,17,1400,wikipedia
 KR,[사설] 집값 못 잡고 세입자 고통 더 키운 ’10·15 대책' 1년,1,1,18,0,google-news
+KR,100일의 거짓말,1,1,18,1300,wikipedia
 KR,화성 탐사 로버 ‘퍼서비어런스’ 지구 밖 최장 주행,1,1,19,0,google-news
+KR,RJ 마이트,1,1,19,1300,wikipedia
 KR,GTA 6 차기작?…록스타게임즈가 밝힌 변화,1,1,20,0,google-news
+KR,띠부씰 교환,1,1,20,0,x-trends
+KR,김용지,1,1,20,1300,wikipedia
+KR,인스타그램,1,1,21,1200,wikipedia
+KR,추가투표권,1,1,22,0,x-trends
+KR,정동영,1,1,22,1200,wikipedia
+KR,남지현 (배우),1,1,23,1200,wikipedia
+KR,정인이 사건,1,1,24,1200,wikipedia
+KR,예수료 3000원,1,1,28,0,x-trends
+KR,배우 이규한,1,1,28,0,x-trends
+KR,꼬들 1748,1,1,29,0,x-trends
+KR,두더지잡기,1,1,30,0,x-trends
 LK,"Pope Leo slept well after cancer surgery, but recovery could take ‘longer than expected’",1,1,1,0,google-news
+LK,"U.S. warnings sow confusion, alarm in Ukraine over intelligence, Starlink access",1,1,1,0,google-news
 LK,jailer 2,1,1,1,100,google-trends
 LK,"Ukraine's Starlink restrictions raise suspicions of Musk, Trump retaliation",1,1,2,0,google-news
+LK,"Ilhan Omar’s phone seized and relatives subpoenaed in criminal inquiry, source says",1,1,2,0,google-news
 LK,inter miami vs new york city,1,1,2,500,google-trends
 LK,Election Updates: Trump Heads to Montana After Rally in Arizona; Talarico Keeps His Edge in Tightening Texas Senate Race,1,1,3,0,google-news
+LK,"Election Dispatches: Talarico Remains Ahead in Texas Senate Race, Polls Show, but His Lead Has Narrowed",1,1,3,0,google-news
 LK,ucl,1,1,3,100,google-trends
-LK,"Ilhan Omar’s phone seized and relatives subpoenaed in criminal inquiry, source says",1,1,4,0,google-news
+LK,"Katie Zacharia May Have Committed A ‘Crime’ By Claiming She’s A Lawyer, Complaint Suggests",1,1,4,0,google-news
 LK,real madrid,1,1,4,500,google-trends
-LK,"Katie Zacharia May Have Committed A ‘Crime’ By Claiming She’s A Lawyer, Complaint Suggests",1,1,5,0,google-news
 LK,apple homeview,1,1,5,100,google-trends
 LK,GOP gets another Supreme Court win in TV political ad fight,1,1,6,0,google-news
+LK,Supreme Court sides with Republicans in dispute over cost of campaign ads,1,1,6,0,google-news
 LK,love of your life,1,1,6,100,google-trends
 LK,Sexual assault reported at frat house near University of Chicago,1,1,7,0,google-news
 LK,roma vs real madrid,1,1,7,2000,google-trends
 LK,"ICE officer appeared to intentionally hit a man with a vehicle in Houston, Texas prosecutor says",1,1,8,0,google-news
+LK,Capitol agenda: Some Republicans write off the House - Live Updates,1,1,8,0,google-news
 LK,man city vs psg,1,1,8,1000,google-trends
-LK,Capitol agenda: Some Republicans write off the House - Live Updates,1,1,9,0,google-news
+LK,Roller coaster rider’s death puts spotlight on the safety of ever more thrilling rides,1,1,9,0,google-news
 LK,tilak varma,1,1,9,200,google-trends
-LK,Roller coaster rider’s death puts spotlight on the safety of ever more thrilling rides,1,1,10,0,google-news
+LK,Trump says Taiwan will buy Alaska LNG. The project is still in flux.,1,1,10,0,google-news
 LK,nitish kumar reddy,1,1,10,500,google-trends
 LK,Iranian attacks sink two ships in Strait of Hormuz,1,1,11,0,google-news
 LK,World’s oldest shipwreck discovered off coast of Turkey,1,1,12,0,google-news
@@ -629,203 +1809,558 @@ LK,"'Yikes': CoreWeave stock tanks on bond yield woes, CEO blames market acting 
 LK,OpenAI employee accused of bugging office booked one-way ticket to Saudi Arabia,1,1,18,0,google-news
 LK,"Apple HomeView Has These 15 Apps, Some CarPlay Apps and Widgets Also Supported",1,1,19,0,google-news
 LK,Epic says its new vibe-coded Epic Games Launcher is faster than Steam,1,1,20,0,google-news
+MX,#AntorchaGobiernaBien,1,3,1,0,x-trends
+MX,#LaGranjaAsamblea,1,3,2,0,x-trends
+MX,Ocoyucan,1,3,3,0,x-trends
+MX,Madrid,1,3,4,0,x-trends
+MX,Snell,1,3,5,0,x-trends
+MX,Tecomatlán,1,3,5,0,x-trends
+MX,#masadaltamimi,1,3,6,0,x-trends
+MX,Roma,1,3,7,0,x-trends
+MX,Endrick,1,3,9,0,x-trends
+MX,Roberto Velasco,1,3,10,0,x-trends
+MX,Periférico Norte,1,3,12,0,x-trends
+MX,Vini,1,3,12,0,x-trends
+MX,Ley de Ingresos 2027,1,3,13,0,x-trends
+MX,Ovidio Guzmán,1,3,13,0,x-trends
+MX,Espi,1,3,14,0,x-trends
+MX,Segundo Informe de Gobierno,1,3,15,0,x-trends
+MX,Clara Brugada,1,3,17,0,x-trends
+MX,Naim Darrechi,1,3,18,0,x-trends
+MX,Raúl Jiménez,1,3,21,0,x-trends
+MX,Stolas,1,3,22,0,x-trends
+MX,Mourinho,1,3,23,0,x-trends
+MX,Champions,1,3,25,0,x-trends
+MX,Mbappe,1,3,26,0,x-trends
+MX,Parque Naucalli,1,3,28,0,x-trends
+MX,#ConvoyEnChilango,1,2,11,0,x-trends
+MX,#아로새겨_시작될_에반의_날,1,2,13,0,x-trends
+MX,Barranca Honda,1,2,22,0,x-trends
+MX,Jefa de Gobierno,1,2,26,0,x-trends
+MX,Valverde,1,2,28,0,x-trends
 MX,Consulta sobre aumento salarial del IMSS: Trabajadores denuncian que boletas no tienen folio,1,1,1,0,google-news
 MX,san diego fc - dynamo,1,1,1,200,google-trends
+MX,abner uribe,1,1,1,200,google-trends
+MX,Amazon,1,1,1,0,x-trends
+MX,RJ Mitte,1,1,1,40800,wikipedia
 MX,'Simon' se fortalece y vuelve a categoría 2 en el Pacífico mexicano; el huracán provocará oleaje elevado,1,1,2,0,google-news
 MX,la galaxy - timbers,1,1,2,500,google-trends
+MX,mayoría simple,1,1,2,200,google-trends
+MX,Congreso,1,1,2,0,x-trends
+MX,Especial:Buscar,1,1,2,15100,wikipedia
 MX,Diputados aprueban en lo general reforma al ISR para recuperar recaudación,1,1,3,0,google-news
+MX,"Los médicos del Papa informan que camina y se recupera ""según lo previsto"" tras su cirugía por un cáncer de pulmón",1,1,3,0,google-news
 MX,wall street,1,1,3,200,google-trends
+MX,#PorLaMedalla,1,1,3,0,x-trends
+MX,Speciel:Søgning,1,1,3,10800,wikipedia
 MX,Sheinbaum pide a CNDH investigar tortura policial contra jóvenes durante protesta en Jalisco,1,1,4,0,google-news
 MX,lmp,1,1,4,200,google-trends
-MX,"Los médicos del Papa informan que camina y se recupera ""según lo previsto"" tras su cirugía por un cáncer de pulmón",1,1,5,0,google-news
+MX,Will Smith,1,1,4,0,x-trends
 MX,mackenzie davis,1,1,5,200,google-trends
+MX,Descubrimiento de América,1,1,5,9300,wikipedia
 MX,Trabajadores del IMSS-Bienestar protestan en Insurgentes Sur; exigen pago de prestaciones atrasadas,1,1,6,0,google-news
 MX,lafc - austin fc,1,1,6,1000,google-trends
+MX,Especial:Cerca,1,1,6,8000,wikipedia
 MX,Sheinbaum firma decreto que obliga a plataformas digitales a retirar contenido que promueva la violencia,1,1,7,0,google-news
 MX,efraín juárez,1,1,7,200,google-trends
+MX,Speciális:Keresés,1,1,7,7800,wikipedia
 MX,"Brugada anuncia rencarpetado de 450 km, construcción de plantel de la UNAM y creación del Banco CDMX",1,1,8,0,google-news
+MX,"Brugada anuncia construcción de plantel de la UNAM, el primera en 50 años",1,1,8,0,google-news
 MX,dc united,1,1,8,100,google-trends
+MX,La Bonita,1,1,8,0,x-trends
+MX,Día de la Raza,1,1,8,6700,wikipedia
 MX,López Obrador y Ken Salazar: dos versiones del secuestro del Mayo,1,1,9,0,google-news
+MX,Rachel deja ocho muertos en Ensenada; continúan búsqueda de dos desaparecidos,1,1,9,0,google-news
 MX,real salt lake - sj earthquakes,1,1,9,500,google-trends
+MX,#Dodgers,1,1,9,0,x-trends
+MX,Cristóbal Colón,1,1,9,6500,wikipedia
 MX,SG anuncia que grupo de expertos realizará análisis del registro nacional de desaparecidos,1,1,10,0,google-news
 MX,colorado - minnesota,1,1,10,200,google-trends
+MX,Istimewa:Pencarian,1,1,10,5600,wikipedia
 MX,Miles marchan Colombia en primera protesta contra gobierno,1,1,11,0,google-news
+MX,विशेष:खोज,1,1,11,5500,wikipedia
 MX,"El enfado de Ucrania con Starlink, la compañía de Elon Musk, por las restricciones a la velocidad de internet que afectan a su ejército en el campo de batalla",1,1,12,0,google-news
-MX,EE. UU. está enviando a cientos de soldados a América Latina,1,1,13,0,google-news
+MX,EE. UU. está enviando a cientos de soldados a América Latina,1,1,12,0,google-news
+MX,Posebno:Traži,1,1,12,5200,wikipedia
+MX,خاص:بحث,1,1,13,5100,wikipedia
 MX,"Colombia inaugura embajada en Jerusalén en un ""paso decisivo"" de relación con Israel",1,1,14,0,google-news
+MX,Zelensky acusó a Putin de atacar infraestructura energética y despreciar a Estados Unidos como “nunca antes”,1,1,14,0,google-news
+MX,특수:검색,1,1,14,4200,wikipedia
 MX,Separación total de Citi y Banamex se dará a inicios de 2027,1,1,15,0,google-news
+MX,Spesial:Søk,1,1,15,4100,wikipedia
 MX,"‘Uy, qué mello’: Reporte de inflación en EU le mete ‘sustazo’ al peso: ¿En cuánto cierra HOY?",1,1,16,0,google-news
+MX,Hailee Steinfeld,1,1,16,4000,wikipedia
 MX,EE.UU.: inflación vuelve a subir en septiembre a semanas de legislativas,1,1,17,0,google-news
+MX,ChatGPT,1,1,17,4000,wikipedia
 MX,Tira la toalla AT&T en México,1,1,18,0,google-news
+MX,Özel:Ara,1,1,18,4000,wikipedia
 MX,Cyberleek publica su última filtración de GTA 6 y cancela el lanzamiento de la Build Jugable tras el fracaso de su campaña de crypto,1,1,19,0,google-news
+MX,Špeciálne:Hľadanie,1,1,19,4000,wikipedia
 MX,La RTX 5090 comienza a desaparecer de las tiendas tras reportes de su discontinuación – Micro Center y B&H lo confirman,1,1,20,0,google-news
+MX,Baphomet,1,1,20,3900,wikipedia
+MX,Wiki:Sykje,1,1,21,3900,wikipedia
+MX,Event:Latinoamérica en Wikidata 2026,1,1,22,3800,wikipedia
+MX,Lizzie Borden,1,1,23,3700,wikipedia
+MX,Pablo Lemus Navarro,1,1,24,3500,wikipedia
+MX,Evento:Mes de América Latina 2026,1,1,25,3300,wikipedia
+MX,Rappi,1,1,26,0,x-trends
+MX,Porto,1,1,30,0,x-trends
+MY,azerbaijan,1,3,5,200,google-trends x-trends
+MY,#2026MAMAVOTE,1,2,1,0,x-trends
+MY,#MoonshadowSeriesFinalEP,1,2,2,0,x-trends
+MY,LOVE TO THE MOON AND KEY,1,2,3,0,x-trends
+MY,#OverflowingLoveForEVAN,1,2,4,0,x-trends
+MY,#아로새겨_시작될_에반의_날,1,2,5,0,x-trends
+MY,#ENHYPEN,1,2,6,0,x-trends
+MY,HBD FAYE PERAYA,1,2,7,0,x-trends
+MY,I VOTE,1,2,8,0,x-trends
+MY,Somewhere Over the Rainbow,1,2,9,0,x-trends
+MY,Donnarumma,1,2,9,0,x-trends
+MY,Roma,1,2,10,0,x-trends
+MY,KHOM KHLANG EP6,1,2,11,0,x-trends
+MY,PERTH UNLEASH THE ROCK,1,2,12,0,x-trends
+MY,SMILEY BESIDE CHARLOTTE14,1,2,13,0,x-trends
+MY,Barcola,1,2,14,0,x-trends
+MY,LASK,1,2,15,0,x-trends
+MY,Wirtz,1,2,16,0,x-trends
+MY,BPP HAPPY FAM FANSIGN,1,2,17,0,x-trends
+MY,Martinez,1,2,18,0,x-trends
+MY,Rashford,1,2,19,0,x-trends
+MY,ELLEJAY SMOOTH LANDING,1,2,21,0,x-trends
+MY,Licha,1,2,22,0,x-trends
+MY,Real Madrid,1,2,23,0,x-trends
+MY,INEOS,1,2,25,0,x-trends
+MY,Chan,1,2,26,0,x-trends
+MY,LOVE ON HIRE BLESSING DAY,1,2,27,0,x-trends
+MY,Avinash,1,2,28,0,x-trends
+MY,Karishma,1,2,29,0,x-trends
 MY,[UPDATED] BYD driver to face three charges over death of 5-year-old girl,1,1,1,0,google-news
 MY,retirement age,1,1,1,100,google-trends
+MY,RJ Mitte,1,1,1,8700,wikipedia
 MY,"[LIVE] 2027 Budget: Household support, economic growth and reforms in focus",1,1,2,0,google-news
 MY,dodgers vs brewers,1,1,2,100,google-trends
+MY,Khadam,1,1,2,3300,wikipedia
 MY,"‘We want to breathe fresh air’: Indonesians on fire-ravaged island sue Prabowo, officials over haze",1,1,3,0,google-news
+MY,Teen suspect brought to court to face murder charge over Yong Peng student's death,1,1,3,0,google-news
 MY,street fighter movie,1,1,3,100,google-trends
+MY,璀璨之城,1,1,3,3200,wikipedia
 MY,"Teen tortured for 2 days before body dumped by roadside, say cops",1,1,4,0,google-news
 MY,radio online,1,1,4,500,google-trends
+MY,Kudrat 1968: High Council,1,1,4,2900,wikipedia
 MY,RM2.3bil 1MDB case: Najib to file fresh bid for stay of sentence at appellate court,1,1,5,0,google-news
-MY,azerbaijan,1,1,5,200,google-trends
+MY,Najib pending homecoming cut short; court rejects bid to stay 1MDB prison sentence,1,1,5,0,google-news
+MY,inter miami,1,1,5,500,google-trends
+MY,Dai Fuad,1,1,5,2200,wikipedia
 MY,"Economy minister: Anti-rent-seeking law pushed to 2027, 'Ali Baba' not yet a crime",1,1,6,0,google-news
+MY,Federal agency chairman set to face corruption charge over Penang land sale,1,1,6,0,google-news
 MY,appeal,1,1,6,500,google-trends
+MY,Bella Astillah,1,1,6,2100,wikipedia
 MY,"Emulate Singapore’s model to protect local workers, says Wee",1,1,7,0,google-news
 MY,strait of hormuz,1,1,7,100,google-trends
+MY,Andai Masih Ada Maaf,1,1,7,2100,wikipedia
 MY,"MACC summons Nazir Hussin, wife and aide in RM10mil investment probe",1,1,8,0,google-news
 MY,inter miami vs new york city,1,1,8,5000,google-trends
 MY,Fadhlina raises school closure API threshold to 200,1,1,9,0,google-news
 MY,jailer 2,1,1,9,1000,google-trends
+MY,兰香如故,1,1,9,2000,wikipedia
 MY,"Anwar takes 'taxi ride' down memory lane, recalls debt of gratitude to drivers in darkest days",1,1,10,0,google-news
 MY,erling haaland,1,1,10,100,google-trends
+MY,Laman Utama,1,1,10,1900,wikipedia
 MY,"Two Singapore-registered vessels hit in Strait of Hormuz, one sinks",1,1,11,0,google-news
+MY,Speciel:Søgning,1,1,11,1800,wikipedia
 MY,"Saudi Arabia says 12 killed, 300 wounded in Houthi attack on Riyadh airport",1,1,12,0,google-news
+MY,Seoul launches WYD 2027 app for international pilgrims,1,1,12,0,google-news
+MY,Syed Saddiq Syed Abdul Rahman,1,1,12,1700,wikipedia
 MY,Shape of Pope Leo's papacy more uncertain after cancer diagnosis,1,1,13,0,google-news
+MY,Syed Saddiq,1,1,13,1500,wikipedia
 MY,"Slain model Abby Choi called ‘birthing machine’ by ex-father-in-law, court hears as her partner takes the stand",1,1,14,0,google-news
+MY,XXX: Return of Xander Cage,1,1,14,1500,wikipedia
 MY,"EcoSys, Gamuda, Epicon, AWC, JAG, Genting, Infomina, Bus Cap, IHH Healthcare",1,1,15,0,google-news
+MY,Ranea Ezreen,1,1,15,1400,wikipedia
 MY,"Bursa Stays In The Green At Midday, Eco-Shop Surges 195%",1,1,16,0,google-news
+MY,Sumpahan Mencintai,1,1,16,1300,wikipedia
 MY,Renewable energy stocks lead declines after grid access charge hike,1,1,17,0,google-news
-MY,"Fuel prices Oct 15-21: RON97, unsubsidised RON95 down 5sen, diesel down 10sen",1,1,18,0,google-news
+MY,"Fuel prices Oct 15-21: RON97, unsubsidised RON95 down 5sen, diesel down 10sen",1,1,17,0,google-news
+MY,Menantu Tanpa Reda,1,1,17,1300,wikipedia
+MY,Especial:Cerca,1,1,18,1300,wikipedia
 MY,See More of The Legend of Zelda: Ocarina of Time Remake in Overview Trailer,1,1,19,0,google-news
+MY,U Mobile ULTRA Home 5G Pro brings next-gen gaming into your home,1,1,19,0,google-news
+MY,Speciális:Keresés,1,1,19,1200,wikipedia
 MY,Sim racer Dhanesh gears up for Tokyo world finals,1,1,20,0,google-news
+MY,PUINOONBINT DESTINY MOMENT,1,1,23,0,x-trends
+MY,Choice Male,1,1,30,0,x-trends
+NG,ferran torres,1,3,2,100,google-trends x-trends
+NG,endrick,1,3,2,5000,google-trends x-trends
+NG,Real Madrid,1,2,1,0,x-trends
+NG,Mourinho,1,2,2,0,x-trends
+NG,Dortmund,1,2,4,0,x-trends
+NG,Vini,1,2,5,0,x-trends
+NG,Semenyo,1,2,6,0,x-trends
+NG,Enzo,1,2,7,0,x-trends
+NG,#MCIPSG,1,2,8,0,x-trends
+NG,Donnarumma,1,2,9,0,x-trends
+NG,Valverde,1,2,10,0,x-trends
+NG,Bouaddi,1,2,11,0,x-trends
+NG,Man City,1,2,13,0,x-trends
+NG,Tchouameni,1,2,14,0,x-trends
+NG,Anderson,1,2,14,0,x-trends
+NG,Arizona,1,2,16,0,x-trends
+NG,Cherki,1,2,18,0,x-trends
+NG,#ROMRMA,1,2,19,0,x-trends
+NG,Mbappe,1,2,20,0,x-trends
+NG,Toluwanisings,1,2,21,0,x-trends
+NG,Aston Villa,1,2,22,0,x-trends
+NG,Diomande,1,2,22,0,x-trends
+NG,Luis Enrique,1,2,24,0,x-trends
+NG,Etihad,1,2,24,0,x-trends
+NG,Nicolas Jackson,1,2,26,0,x-trends
+NG,Remontada,1,2,26,0,x-trends
+NG,Haaland,1,2,28,0,x-trends
 NG,"2027: Akpabio, Bamidele back Wike’s Rainbow Coalition, other opposition in APC campaign council",1,1,1,0,google-news
+NG,"2027: APC Leaders, Others Rally Supporters As Tinubu Inaugurates Campaign Council",1,1,1,0,google-news
 NG,mls,1,1,1,500,google-trends
+NG,inter miami vs new york city,1,1,1,10000,google-trends
+NG,RJ Mitte,1,1,1,1800,wikipedia
 NG,"Pope Out Of Bed, Progress ‘Normal’ After Lung Cancer Operation",1,1,2,0,google-news
-NG,inter miami vs new york city,1,1,2,10000,google-trends
+NG,Đặc biệt:Tìm kiếm,1,1,2,1400,wikipedia
 NG,Nigeria 2027 Election Watch: INEC Explains The Exclusions And Sets A Deadline,1,1,3,0,google-news
-NG,ferran torres,1,1,3,100,google-trends
+NG,"INEC explains exclusion of Pantami, Adebutu from 2027 governorship candidates’ list",1,1,3,0,google-news
+NG,real betis vs fc porto standings,1,1,3,1000,google-trends
 NG,"Ghana, FBI, NCA cyber fraud raid: Suspected scammers for Nigeria, Ghana chop arrest for joint operation across West Africa",1,1,4,0,google-news
-NG,real betis vs fc porto standings,1,1,4,5000,google-trends
+NG,psg vs barcelona,1,1,4,100,google-trends
 NG,UN Secretary General Guterres Presents $14bn Budget To Ibrahim-Led Committee,1,1,5,0,google-news
-NG,psg vs barcelona,1,1,5,100,google-trends
+NG,samu aghehowa,1,1,5,200,google-trends
 NG,"MSF Treats 283,777 Children For Malnutrition In Northern Nigeria",1,1,6,0,google-news
-NG,samu aghehowa,1,1,6,200,google-trends
+NG,bodø/glimt vs borussia dortmund standings,1,1,6,500,google-trends
 NG,"Nigeria-led ​‌‍‍‍‍⁠⁠‍​‍‍​‌⁠​​‌​G-24 demands IMF reforms, debt relief, $300bn annual climate funding",1,1,7,0,google-news
-NG,bodø/glimt vs borussia dortmund standings,1,1,7,500,google-trends
+NG,yan diomandé,1,1,7,100,google-trends
 NG,'We're solidly behind him' -- Akpabio says nobody can penetrate n'assembly to destabilise Tinubu,1,1,8,0,google-news
-NG,yan diomandé,1,1,8,100,google-trends
-NG,"NEMA tasks officials on compassion, accountability serving disaster victims",1,1,9,0,google-news
-NG,vinícius júnior,1,1,9,200,google-trends
+NG,"NEMA tasks officials on compassion, accountability serving disaster victims",1,1,8,0,google-news
+NG,vinícius júnior,1,1,8,200,google-trends
+NG,champions league table 2026,1,1,9,100,google-trends
 NG,Transcorp Group Advocates Investment in Girls’ Rights,1,1,10,0,google-news
-NG,champions league table 2026,1,1,10,100,google-trends
 NG,RFAs: Atlas – France to Southeast Asia Postdoctoral Mobility Fellowship - fundsforNGOs,1,1,11,0,google-news
 NG,Nigeria elected to UN human rights council,1,1,12,0,google-news
+NG,Guler,1,1,12,0,x-trends
+NG,Arda Guler,1,1,12,0,x-trends
 NG,IsDB and IFAD Scale Up Partnership to Mobilize US750 Million for Food Systems and Rural Transformation,1,1,13,0,google-news
 NG,US Army Releases Names of 2 Soldiers With Top Performance Awards for 2026,1,1,14,0,google-news
 NG,"Electricity: DisCos Metered 141,746 Customers In August – NERC",1,1,15,0,google-news
 NG,More Critical Than Ever: Strengthening Growth and Resilience through the Multilateral Development Banks,1,1,16,0,google-news
+NG,Ndiaye,1,1,16,0,x-trends
 NG,"Ethiopia approves Dangote IPO, locks out retail investors",1,1,17,0,google-news
 NG,AFC appoints Cardoso as board chairman,1,1,18,0,google-news
 NG,"OPPO A7 Pro launches in Nigeria with 8,000mAh battery",1,1,19,0,google-news
 NG,Windows 11 Security Updates End Nov. 10: Microsoft Warns Users to Upgrade,1,1,20,0,google-news
+NG,LASK,1,1,28,0,x-trends
+NG,Dumfries,1,1,29,0,x-trends
+NG,Khusanov,1,1,30,0,x-trends
+NL,#feycom,1,2,1,0,x-trends
+NL,Starlink,1,2,2,0,x-trends
+NL,Halsema,1,2,3,0,x-trends
+NL,Feyenoord,1,2,4,0,x-trends
+NL,#rblpsv,1,2,5,0,x-trends
+NL,#MCIPSG,1,2,6,0,x-trends
+NL,#2026MAMAVOTE,1,2,7,0,x-trends
+NL,Hadj Moussa,1,2,8,0,x-trends
+NL,Musk,1,2,9,0,x-trends
+NL,Starshield,1,2,9,0,x-trends
+NL,Albert Heijn,1,2,11,0,x-trends
+NL,#vunzigewoensdag,1,2,12,0,x-trends
+NL,Mourinho,1,2,13,0,x-trends
+NL,Champions League,1,2,13,0,x-trends
+NL,Roma,1,2,14,0,x-trends
+NL,songfestival,1,2,15,0,x-trends
+NL,bambix,1,2,16,0,x-trends
+NL,dekker,1,2,17,0,x-trends
+NL,Starters,1,2,19,0,x-trends
+NL,Schuiling,1,2,20,0,x-trends
+NL,Syrië,1,2,21,0,x-trends
+NL,Amsterdam,1,2,22,0,x-trends
+NL,Sullivan,1,2,23,0,x-trends
+NL,Zechiël,1,2,24,0,x-trends
+NL,brinta,1,2,25,0,x-trends
+NL,goedemorgen,1,2,26,0,x-trends
+NL,Boekholt,1,2,27,0,x-trends
+NL,Bazooka,1,2,28,0,x-trends
+NL,Diarra,1,2,29,0,x-trends
 NL,Op de Zwarte Zee opent zich een nieuw oorlogsfront: situatie escaleert volgens Brussel,1,1,1,0,google-news
 NL,112 lansingerland,1,1,1,100,google-trends
+NL,albert heijn lege schappen,1,1,1,1000,google-trends
+NL,Hoofdpagina,1,1,1,50600,wikipedia
 NL,"ME ingezet na onrust in Amsterdam-Noord, vuurwerk naar hulpverleners gegooid",1,1,2,0,google-news
 NL,inter miami,1,1,2,100,google-trends
+NL,RJ Mitte,1,1,2,22600,wikipedia
 NL,Twee schepen gezonken in Straat van Hormuz in de afgelopen 24 uur,1,1,3,0,google-news
 NL,bet365 bonus code,1,1,3,500,google-trends
 NL,Wanhopige dieseldeal met Poetin laat Trumps ware aard zien,1,1,4,0,google-news
 NL,bet365 online,1,1,4,100,google-trends
+NL,Speciaal:Zoeken,1,1,4,14700,wikipedia
 NL,Drillrap-conflict Nijmegen: doodgeschoten Jahfairel (18) slachtoffer,1,1,5,0,google-news
 NL,brandstichting,1,1,5,100,google-trends
+NL,Заглавная страница,1,1,5,10000,wikipedia
 NL,Fans oneens met fokverbod voor Dolfinarium: 'We slaan door',1,1,6,0,google-news
 NL,365 bet,1,1,6,200,google-trends
+NL,Margaret Versteden-van Duijn,1,1,6,10000,wikipedia
 NL,"Regenboogvlaggen met mast en al uit de grond getrokken: ‘Diep kwetsend, ongekend laf en simpelweg crimineel’",1,1,7,0,google-news
 NL,112 meldingen rotterdam,1,1,7,100,google-trends
+NL,TNT Sports (United Kingdom),1,1,7,8100,wikipedia
 NL,Oud-burgemeester Koen Schuiling opnieuw veroordeeld voor masturberen achter het stuur,1,1,8,0,google-news
 NL,clarence seedorf,1,1,8,100,google-trends
+NL,"Митт, Ар Джей",1,1,8,6100,wikipedia
 NL,"Man met snijwond gevonden op straat, politie zoekt verdachte in huis",1,1,9,0,google-news
 NL,verkeersongeval,1,1,9,100,google-trends
+NL,Julia Wouters,1,1,9,5500,wikipedia
 NL,Schepen op IJssel mogen opnieuw maar in één richting varen wegens waterstand,1,1,10,0,google-news
 NL,istanbul,1,1,10,100,google-trends
+NL,Spécial:Recherche,1,1,10,5200,wikipedia
 NL,Amerikaanse staten klagen OpenAI aan vanwege zelfbeschadiging bij kinderen,1,1,11,0,google-news
+NL,Katie Zacharia,1,1,11,4200,wikipedia
 NL,Grote zoekactie in Duitse stad Essen nadat gevangene ontsnapt bij doktersafspraak,1,1,12,0,google-news
+NL,Lenie 't Hart,1,1,12,4000,wikipedia
 NL,Debuut van nieuwe woordvoerder Witte Huis draait uit op debacle: noemt haar man ‘mijn president’,1,1,13,0,google-news
+NL,Ontvoering van Toos van der Valk,1,1,13,3400,wikipedia
 NL,Prins Albert deelt steunbetuiging aan paus na longoperatie,1,1,14,0,google-news
+NL,Christa Pike,1,1,14,3300,wikipedia
 NL,"Bij de bushalte in Monnickendam is het informatiebord een baken van valse hoop: ‘Taxi nodig, iemand?’",1,1,15,0,google-news
+NL,RB Leipzig,1,1,15,3200,wikipedia
 NL,Koopzegels Albert Heijn foetsie? ’Ik was te lui om ze in te wisselen’,1,1,16,0,google-news
+NL,Kimberly Guilfoyle,1,1,16,3100,wikipedia
 NL,Bij het bijna failliete Zeehondencentrum stromen na noodkreet de donaties binnen,1,1,17,0,google-news
+NL,Mike Derlagen,1,1,17,3000,wikipedia
 NL,"Gasprijs stijgt naar recordhoogte, zenuwen beginnen op te spelen bij handelaren",1,1,18,0,google-news
+NL,Georgia O'Keeffe,1,1,18,2700,wikipedia
 NL,Fairphone geeft Fairbuds 2 acht uur accuduur voor 119 euro,1,1,19,0,google-news
+NL,Wiktionary:Main Page,1,1,19,2700,wikipedia
 NL,HomeView-tablet van Apple komt voorlopig niet naar EU,1,1,20,0,google-news
+NL,Scheepslift van Strépy-Thieu,1,1,20,2600,wikipedia
+NL,Jamie Miller,1,1,21,2600,wikipedia
+NL,Lisette Wellens,1,1,22,2500,wikipedia
+NL,Maarten Vandevoordt,1,1,23,2500,wikipedia
+NL,.xxx,1,1,24,2300,wikipedia
+NL,Rwanda,1,1,25,2300,wikipedia
+NL,Vini,1,1,30,0,x-trends
+NL,Real Madrid,1,1,30,0,x-trends
+NZ,Brian Tamaki,1,2,1,0,x-trends
+NZ,Ryan Bridge,1,2,2,0,x-trends
+NZ,Piers,1,2,3,0,x-trends
+NZ,Metallica,1,2,4,0,x-trends
+NZ,Harry Tam,1,2,5,0,x-trends
+NZ,Starship,1,2,6,0,x-trends
+NZ,#2026MAMAVOTE,1,2,7,0,x-trends
+NZ,Gangs,1,2,7,0,x-trends
+NZ,Starshield,1,2,8,0,x-trends
+NZ,Starlink,1,2,10,0,x-trends
+NZ,Wong,1,2,11,0,x-trends
+NZ,#leadersdebate,1,2,12,0,x-trends
+NZ,Charlie,1,2,13,0,x-trends
+NZ,Luxon,1,2,14,0,x-trends
+NZ,TVNZ,1,2,15,0,x-trends
+NZ,Omar,1,2,16,0,x-trends
+NZ,Martinez,1,2,17,0,x-trends
+NZ,Herald,1,2,18,0,x-trends
+NZ,Tova,1,2,19,0,x-trends
+NZ,Musk,1,2,20,0,x-trends
+NZ,Queenstown,1,2,21,0,x-trends
+NZ,Barack Obama,1,2,22,0,x-trends
+NZ,Ukraine,1,2,23,0,x-trends
+NZ,Shane Gillis,1,2,24,0,x-trends
+NZ,Greens and TPM,1,2,25,0,x-trends
+NZ,Judith Collins,1,2,26,0,x-trends
+NZ,Winston,1,2,27,0,x-trends
+NZ,California,1,2,28,0,x-trends
+NZ,Narnia,1,2,29,0,x-trends
 NZ,"Election 2026 live: 'We want to win an election' - Willie Jackson criticises TPM, Green MPs meeting Mongrel Mob",1,1,1,0,google-news
 NZ,rory mcilroy,1,1,1,100,google-trends
+NZ,lionel messi,1,1,1,200,google-trends
+NZ,RJ Mitte,1,1,1,11900,wikipedia
 NZ,New details revealed from horror triple shooting as cop rewarded for bravery,1,1,2,0,google-news
+NZ,"Zacharia's debut shows the pitfalls, possibilities of White House press sec role",1,1,2,0,google-news
 NZ,awakino gorge,1,1,2,2000,google-trends
+NZ,Qiulae Wong,1,1,2,9600,wikipedia
 NZ,Greens pledge to cancel National’s $2.4b public service cuts,1,1,3,0,google-news
+NZ,‘Braydon deserved better’: Man’s death sparks City Mission resignation,1,1,3,0,google-news
 NZ,dodgers vs brewers,1,1,3,200,google-trends
-NZ,"Zacharia's debut shows the pitfalls, possibilities of White House press sec role",1,1,4,0,google-news
+NZ,Opinion polling for the 2026 New Zealand general election,1,1,3,4100,wikipedia
+NZ,Bravery award for cop who entered home of family shooting after distressed girl opened door,1,1,4,0,google-news
 NZ,inter miami vs new york city,1,1,4,200,google-trends
-NZ,‘Braydon deserved better’: Man’s death sparks City Mission resignation,1,1,5,0,google-news
+NZ,Winston Peters,1,1,4,3400,wikipedia
+NZ,Election 2026 live updates: Greens open to funding Mongrel Mob to address drug addiction if elected,1,1,5,0,google-news
 NZ,eben etzebeth,1,1,5,100,google-trends
-NZ,Election 2026 live updates: Greens open to funding Mongrel Mob to address drug addiction if elected,1,1,6,0,google-news
+NZ,Chlöe Swarbrick,1,1,5,3400,wikipedia
+NZ,All Blacks forced into changes for Bledisloe Cup finale against Australia,1,1,6,0,google-news
 NZ,international student,1,1,6,1000,google-trends
+NZ,Katie Zacharia,1,1,6,2100,wikipedia
 NZ,"Case of woman stuck in Cook Islands may be hot to handle, immigration lawyer says",1,1,7,0,google-news
 NZ,sally rooney,1,1,7,500,google-trends
+NZ,Opportunity Party (New Zealand),1,1,7,2000,wikipedia
 NZ,Wellington train passed red light before hitting concrete block – TAIC,1,1,8,0,google-news
 NZ,champions league standings,1,1,8,100,google-trends
+NZ,Selma Blair,1,1,8,1600,wikipedia
 NZ,Flooding swamps North Island highway as heavy rain lashes NZ,1,1,9,0,google-news
 NZ,fuel50,1,1,9,100,google-trends
+NZ,man city vs psg standings,1,1,9,2000,google-trends
+NZ,East of Eden (2026 miniseries),1,1,9,1300,wikipedia
 NZ,How super El Nino will impact NZ this Pacific cyclone season,1,1,10,0,google-news
 NZ,fraud,1,1,10,500,google-trends
+NZ,Tova O'Brien,1,1,10,1300,wikipedia
 NZ,Prosecution says Russell Brand a 'sexual predator' as rape trial begins,1,1,11,0,google-news
+NZ,"Russell Brand a 'ruthless, calculated sexual predator', London court hears",1,1,11,0,google-news
 NZ,'Distressed' family of UK man killed by tiger urge end to online posts,1,1,12,0,google-news
+NZ,Family of UK man killed by tiger call for end to 'offensive' online posts,1,1,12,0,google-news
 NZ,Pope Leo diagnosed with lung cancer,1,1,13,0,google-news
+NZ,"Pope Leo doesn’t smoke, but has lung cancer. It’s more common than you think",1,1,13,0,google-news
 NZ,What happens to your pet when you die?,1,1,14,0,google-news
 NZ,Lodestone clears $75m IPO threshold for first major NZX listing in five years,1,1,15,0,google-news
 NZ,‘A different world’: leading economist picks 4% house-price growth in the years ahead,1,1,16,0,google-news
 NZ,"Middle income, uni degree no protection from financial struggles - researchers",1,1,17,0,google-news
-NZ,Costco: Details of proposed Christchurch store revealed,1,1,18,0,google-news
+NZ,Costco: Details of proposed Christchurch store revealed,1,1,17,0,google-news
 NZ,"Poorest could face highest power bill shock in overhaul, Consumer NZ warns",1,1,19,0,google-news
 NZ,Every new car you can still buy with a manual transmision in New Zealand,1,1,20,0,google-news
+NZ,Helen,1,1,22,0,x-trends
+NZ,Helen Clark,1,1,30,0,x-trends
+PH,dodgers,1,4,9,200,google-trends x-trends
+PH,#2026MAMAVOTE,1,3,1,0,x-trends
+PH,#ENHYPEN,1,3,2,0,x-trends
+PH,#SEVENTEEN,1,3,3,0,x-trends
+PH,BINI GLOBAL IMPACT AWARD,1,3,4,0,x-trends
+PH,#MoonshadowSeriesFinalEP,1,3,5,0,x-trends
+PH,#HALLOWEENTIPS,1,3,6,0,x-trends
+PH,PEEMAK ANG UNANG ARAW,1,3,7,0,x-trends
+PH,LOVE TO THE MOON AND KEY,1,3,8,0,x-trends
+PH,I VOTE,1,3,9,0,x-trends
+PH,HBD FAYE PERAYA,1,3,10,0,x-trends
+PH,ELLEJAY SMOOTH LANDING,1,3,11,0,x-trends
+PH,SB19 HAS GLOBAL IMPACT,1,3,11,0,x-trends
+PH,Machong Chismisan,1,3,12,0,x-trends
+PH,LOVE ON HIRE BLESSING DAY,1,3,12,0,x-trends
+PH,Sir Ogie,1,3,13,0,x-trends
+PH,Josh,1,3,15,0,x-trends
+PH,Kris,1,3,16,0,x-trends
+PH,dayone dod group concept one,1,3,17,0,x-trends
+PH,ROAD TO 500K,1,3,19,0,x-trends
+PH,I LOVE YOU YENCE,1,3,20,0,x-trends
+PH,Fan's Choice Male,1,3,22,0,x-trends
+PH,Daesang,1,3,23,0,x-trends
+PH,Oktubre 15,1,3,24,0,x-trends
+PH,Cecilia,1,3,24,0,x-trends
+PH,Laban,1,3,26,0,x-trends
+PH,DELIVERY BOI FULL TRAILER,1,3,27,0,x-trends
+PH,FIRSTONE 2ND SINGLE MV,1,3,28,0,x-trends
+PH,d5 dayone dod release,1,3,30,0,x-trends
+PH,Mnet,1,2,29,0,x-trends
 PH,VP Sara told: Stop playing victim,1,1,1,0,google-news
 PH,mls,1,1,1,100,google-trends
+PH,RJ Mitte,1,1,1,14700,wikipedia
 PH,Trump says he wants to see Pope ‘get well’,1,1,2,0,google-news
 PH,kristaps porziņģis,1,1,2,100,google-trends
+PH,Commons:Wiki Loves Monuments 2026 in the Philippines,1,1,2,3300,wikipedia
 PH,JV Ejercito flags ‘major changes’ in House-approved 2027 budget bill,1,1,3,0,google-news
 PH,lionel messi,1,1,3,200,google-trends
+PH,Speciel:Søgning,1,1,3,3000,wikipedia
 PH,SC clarifies 20% senior citizens’ discount,1,1,4,0,google-news
+PH,CHED sets record straight on P941.87 M scholarship audit findings,1,1,4,0,google-news
 PH,jalen duren,1,1,4,100,google-trends
-PH,CHED sets record straight on P941.87 M scholarship audit findings,1,1,5,0,google-news
+PH,Beeg,1,1,4,2800,wikipedia
+PH,SC: Senior citizen discounts cannot be stacked on promo rates,1,1,5,0,google-news
 PH,spurs vs suns,1,1,5,100,google-trends
+PH,Forgotten Island,1,1,5,2600,wikipedia
 PH,DSWD to distribute water filtration kits ahead of El Niño,1,1,6,0,google-news
+PH,COA flags travels of Sandiganbayan officials with insufficient documents,1,1,6,0,google-news
 PH,celtics vs hornets,1,1,6,100,google-trends
+PH,Especial:Cerca,1,1,6,2100,wikipedia
 PH,DOST eyes commercialization of ready-to-eat meal packs,1,1,7,0,google-news
+PH,"DSWD to roll out filtration kits, assures public treated water is ‘safe’",1,1,7,0,google-news
 PH,christian anderson jr.,1,1,7,100,google-trends
+PH,Speciális:Keresés,1,1,7,2100,wikipedia
 PH,18.2K families in San Carlos City benefit from BBM rice subsidy,1,1,8,0,google-news
 PH,davion mitchell,1,1,8,200,google-trends
+PH,Carrie (miniseries),1,1,8,1800,wikipedia
 PH,How much will Cebu workers earn on November 1 and 2? Here’s the pay rule,1,1,9,0,google-news
 PH,nick richards,1,1,9,200,google-trends
+PH,Google Drive,1,1,9,1600,wikipedia
 PH,Inclusive BARMM government eyed amid coalition of 46 parliament members,1,1,10,0,google-news
 PH,shohei ohtani,1,1,10,200,google-trends
+PH,Istimewa:Pencarian,1,1,10,1600,wikipedia
 PH,Pilgrims caught up in Houthi strikes on Saudi Arabia,1,1,11,0,google-news
+PH,विशेष:खोज,1,1,11,1500,wikipedia
 PH,Trump visiting Manila for ASEAN Summit in November,1,1,12,0,google-news
+PH,Especial:Mudanças recentes,1,1,12,1400,wikipedia
 PH,Church renews commitment to families at conclusion of 'Amoris laetitia' meeting,1,1,13,0,google-news
+PH,خاص:بحث,1,1,13,1400,wikipedia
 PH,Japanese municipalities with over 5 pct foreigners up 2.5-fold,1,1,14,0,google-news
+PH,Speciale:Ricerca,1,1,14,1400,wikipedia
 PH,"Severe El Niño episode seen to worsen inflation, growth",1,1,15,0,google-news
+PH,Posebno:Traži,1,1,15,1400,wikipedia
 PH,Study: AI boom gives PH chance to catch up in chip race,1,1,16,0,google-news
+PH,Narnia: The Magician's Nephew,1,1,16,1300,wikipedia
 PH,Napocor seeks extra P10.82B for missionary electrification,1,1,17,0,google-news
+PH,Doctor X: Mafia in White,1,1,17,1300,wikipedia
 PH,Meralco raises October power rates by P0.3191/kWh,1,1,18,0,google-news
+PH,특수:검색,1,1,18,1300,wikipedia
 PH,"Get up to ₱92,000 worth of freebies and exclusive deals with The Loop’s iPhone 18 offers",1,1,19,0,google-news
+PH,Apple's Smart Home System Drops Cupertino Ingenuity in Your Living Room,1,1,19,0,google-news
+PH,Đặc biệt:Tìm kiếm,1,1,19,1200,wikipedia
 PH,"PLDT, mWell expand digital health reach",1,1,20,0,google-news
+PH,Spesial:Søk,1,1,21,1100,wikipedia
+PH,Daniel and Luis Moncada,1,1,22,1100,wikipedia
+PH,Özel:Ara,1,1,23,1100,wikipedia
+PH,Špeciálne:Hľadanie,1,1,24,1100,wikipedia
+PH,Huwebes,1,1,27,0,x-trends
+PK,#آئین_شکن_راج_نہیں_چلے_گا,1,3,1,0,x-trends
+PK,#خوارج_کے_غلام_پکڑو,1,3,2,0,x-trends
+PK,#سپہ_سالار_باکمال,1,3,3,0,x-trends
+PK,#سہولت_کاروں_کو_ختم_کرو,1,3,4,0,x-trends
+PK,Shai,1,3,6,0,x-trends
+PK,ali sheikhani,1,3,7,0,x-trends
+PK,200 USDT,1,3,8,0,x-trends
+PK,Binance Earn,1,3,9,0,x-trends
+PK,Pakistan and Russia,1,3,10,0,x-trends
+PK,Roma,1,3,10,0,x-trends
+PK,Wuhan,1,3,11,0,x-trends
+PK,Mourinho,1,3,13,0,x-trends
+PK,sipah salar asim munir,1,3,14,0,x-trends
+PK,Mirelo SFX 2.0,1,3,15,0,x-trends
+PK,Friends-inspired,1,3,16,0,x-trends
+PK,Espi,1,3,17,0,x-trends
+PK,William Chapman,1,3,18,0,x-trends
+PK,rescue 1122,1,3,19,0,x-trends
+PK,Endrick,1,3,20,0,x-trends
+PK,CCNU,1,3,21,0,x-trends
+PK,Sibling,1,3,22,0,x-trends
+PK,real-time apr,1,3,23,0,x-trends
+PK,Georgia,1,3,24,0,x-trends
+PK,Goliath,1,3,25,0,x-trends
+PK,Vladimir Kolokoltsev,1,3,26,0,x-trends
+PK,$giri,1,3,27,0,x-trends
+PK,#مفکراسلام_مفتی_محمود,1,2,5,0,x-trends
+PK,Simple Earn,1,2,22,0,x-trends
+PK,Gemini 4 Argon,1,2,26,0,x-trends
+PK,Sukkur Barrage,1,2,28,0,x-trends
 PK,Govt revises prices of petroleum products for Thursday,1,1,1,0,google-news
 PK,weather,1,1,1,100000,google-trends
 PK,"PTI Chairman Gohar moves PHC against emergency, governor's rule in KP",1,1,2,0,google-news
+PK,"Achakzai sees governor's rule next being imposed in Sindh, over water and mines",1,1,2,0,google-news
 PK,weather update,1,1,2,100,google-trends
+PK,#سپہ_سالار_نشان_جرات,1,1,2,0,x-trends
 PK,CNBC Daily Open: A Singapore ship goes down as Hormuz risks rise,1,1,3,0,google-news
+PK,Sindh Food Minister acts against officials over wheat scams,1,1,3,0,google-news
 PK,aston villa vs fenerbahçe standings,1,1,3,500,google-trends
 PK,Saudi-led coalition intercepts Houthi missile launched towards Riyadh,1,1,4,0,google-news
+PK,Sindh CS orders completion of Sehwan development projects by Jan 10,1,1,4,0,google-news
 PK,weather forecast,1,1,4,200,google-trends
 PK,Haiti sanctions renewed: Starving the gangs of bullets,1,1,5,0,google-news
 PK,weather today,1,1,5,5000,google-trends
 PK,Yemen’s Houthis are bringing their war to Saudi Arabia – and reframing the narrative of being an Iranian proxy,1,1,6,0,google-news
 PK,mls,1,1,6,500,google-trends
 PK,"Russia, Pakistan seek closer security ties, agree to finalise extradition treaty and fight cybercrime",1,1,7,0,google-news
+PK,Saudi Ambassador Rajeh Al-Baqami presents credentials to Pakistan’s president,1,1,7,0,google-news
 PK,inter miami vs new york city,1,1,7,2000,google-trends
 PK,"Omani FM meets PM Shehbaz, commends Pakistan's 'sustained diplomatic efforts' for regional peace",1,1,8,0,google-news
+PK,"Pakistan, Oman exchange six agreements, MoUs",1,1,8,0,google-news
 PK,turkish airlines,1,1,8,100,google-trends
 PK,‘PTI has links with TTP’: Federal govt defends imposition of governor’s rule,1,1,9,0,google-news
+PK,Russia sees potential for expanding economic cooperation with Pakistan,1,1,9,0,google-news
 PK,gta6 pc,1,1,9,2000,google-trends
 PK,Turkiye inks pact to enhance anti-terror cooperation,1,1,10,0,google-news
 PK,nita ambani,1,1,10,200,google-trends
@@ -833,62 +2368,156 @@ PK,"Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Ara
 PK,India’s Narendra Modi faces ‘bitter pill’ as Cockroach protests mount,1,1,12,0,google-news
 PK,Security Council LIVE: Libya in the spotlight amid ‘encouraging progress’,1,1,13,0,google-news
 PK,World’s oldest shipwreck found off coast of Turkey,1,1,14,0,google-news
+PK,MBS Faces Houthi Menace in One of Saudi Prince’s Biggest Crises,1,1,14,0,google-news
 PK,AI’s Rampant Power Demand Is Delivering Another Water Shock,1,1,15,0,google-news
+PK,AI's Water Strain Includes Surging Demand From Electricity Use,1,1,15,0,google-news
 PK,"Nervous selling drags index below 165,000",1,1,16,0,google-news
 PK,"Oil prices gain on attacks in Saudi Arabia, Iran's new tactics to target tankers",1,1,17,0,google-news
 PK,"India May Need Rate Hikes, Tax Cuts to Buoy Rupee, Analysts Say",1,1,18,0,google-news
+PK,Precious Metals Sink As U.S. CPI Numbers Give Dollar A Lift,1,1,18,0,google-news
 PK,It is less than 30 days until Grand Theft Auto 6 orders can be preloaded (TTWO:NASDAQ),1,1,19,0,google-news
+PK,"Grand Theft Auto 6 could release on PC sooner than you think – as soon as next spring, in fact",1,1,19,0,google-news
 PK,Apple announces HomeView with a 7-inch touchscreen and Siri with Apple Intelligence - GSMArena.com news,1,1,20,0,google-news
+PK,Real Madrid,1,1,27,0,x-trends
+PK,Vini,1,1,29,0,x-trends
+PK,shamim sheikhani foundation,1,1,30,0,x-trends
+PL,Berek,1,2,1,0,x-trends
+PL,Berka,1,2,2,0,x-trends
+PL,Trybunału Konstytucyjnego,1,2,3,0,x-trends
+PL,Konstytucji,1,2,4,0,x-trends
+PL,Komisja Wenecka,1,2,5,0,x-trends
+PL,Sejm,1,2,6,0,x-trends
+PL,WOBEC,1,2,7,0,x-trends
+PL,#topmodel,1,2,8,0,x-trends
+PL,Gosek,1,2,9,0,x-trends
+PL,Piotrowicz,1,2,10,0,x-trends
+PL,Święczkowskiego,1,2,11,0,x-trends
+PL,Moonshot V2 Launchpad,1,2,11,0,x-trends
+PL,Borowski,1,2,12,0,x-trends
+PL,New Listing Around the Corner,1,2,12,0,x-trends
+PL,Starlink,1,2,13,0,x-trends
+PL,Romy,1,2,14,0,x-trends
+PL,Listing ID,1,2,14,0,x-trends
+PL,dnia edukacji narodowej,1,2,15,0,x-trends
+PL,ZOMO,1,2,17,0,x-trends
+PL,Bąkiewicz,1,2,20,0,x-trends
+PL,#ROMRMA,1,2,21,0,x-trends
+PL,Ślubowanie,1,2,22,0,x-trends
+PL,Czarzasty,1,2,24,0,x-trends
+PL,$Hotbot,1,2,24,0,x-trends
+PL,$TORCH,1,2,25,0,x-trends
+PL,$Priors,1,2,26,0,x-trends
+PL,Godzilla,1,2,28,0,x-trends
+PL,Starshield,1,2,29,0,x-trends
+PL,Pawłowicz,1,2,30,0,x-trends
 PL,Karol Nawrocki zareagował na ślubowanie Macieja Berka. 'Nie jest sędzią Trybunału Konstytucyjnego',1,1,1,0,google-news
 PL,mls,1,1,1,100,google-trends
+PL,RJ Mitte,1,1,1,31600,wikipedia
 PL,USA ograniczyły bojowego Starlinka w Ukrainie? Jest zwrot w sprawie,1,1,2,0,google-news
 PL,inter miami – new york city,1,1,2,500,google-trends
+PL,Jan Borysewicz,1,1,2,24700,wikipedia
 PL,Planowany zamach na premiera. Decyzja sądu ws. 66-latka,1,1,3,0,google-news
 PL,temperatura,1,1,3,2000,google-trends
+PL,Michał Kołodziejczak,1,1,3,18600,wikipedia
 PL,40 do 60. Tak prof. Antoni Dudek ocenia szanse Tuska na utrzymanie władzy. „Ryzykowna strategia”,1,1,4,0,google-news
 PL,erling haaland,1,1,4,200,google-trends
+PL,Specjalna:Szukaj,1,1,4,15600,wikipedia
 PL,Leon XIV usłyszał o chorobie brata przed operacją. Rodzina modli się za obu,1,1,5,0,google-news
 PL,partia republikańska,1,1,5,200,google-trends
 PL,"Taki może być finał afery z księdzem z Grojca. ""O tym proboszcz nie pomyślał""",1,1,6,0,google-news
 PL,real madryt rozgrywki,1,1,6,100,google-trends
+PL,Lady Pank,1,1,6,12600,wikipedia
 PL,"Jest śledztwo, teraz wizyta CBA. Na tej umowie PZPN mógł stracić miliony",1,1,7,0,google-news
 PL,rankingi bodø/glimt – borussia dortmund,1,1,7,1000,google-trends
+PL,Łukasz Gibała,1,1,7,11300,wikipedia
 PL,"Co w ""krwawy piątek"" działo się we włocławskich szkołach? Policja ujawnia tylko część informacji",1,1,8,0,google-news
 PL,ferran torres,1,1,8,100,google-trends
+PL,Krzysztof Rutkowski (ur. 1960),1,1,8,11200,wikipedia
 PL,Rada Fiskalna punktuje rząd ws. długu. Ostrzega przed klifem fiskalnym,1,1,9,0,google-news
 PL,ucl,1,1,9,200,google-trends
+PL,Janusz Panasewicz,1,1,9,8800,wikipedia
 PL,"Te słowa Nawrockiego miały zaskoczyć PiS. ""Liczymy, że to się nie wydarzy""",1,1,10,0,google-news
 PL,flashscore,1,1,10,1000,google-trends
+PL,Olga Tokarczuk,1,1,10,7400,wikipedia
 PL,Huti versus Królestwo Arabii Saudyjskiej. Eskalacja walk,1,1,11,0,google-news
+PL,Kuba Wojewódzki,1,1,11,7000,wikipedia
 PL,"Nowa arena wojny, Niemcy ostrzegają. Kolejne kraje odczuwają skutki ataków",1,1,12,0,google-news
+PL,Europejska Komisja na rzecz Demokracji przez Prawo,1,1,12,6100,wikipedia
 PL,Marine Le Pen: nie możemy już udzielać pomocy Ukrainie,1,1,13,0,google-news
+PL,Andrzej Mogielnicki,1,1,13,6000,wikipedia
 PL,Donald Trump planuje wielkie wydobycie na Grenlandii. Kluczowy cytat zaskakuje,1,1,14,0,google-news
+PL,Alejandro Davidovich Fokina,1,1,14,4500,wikipedia
 PL,Już jutro benzyna mocno potanieje. Co z dieslem? Mamy nowe ceny paliw,1,1,15,0,google-news
+PL,Заглавная страница,1,1,15,4200,wikipedia
 PL,Ceny znów szybują jesienią. Czy program CPN zatrzyma wzrost inflacji?,1,1,16,0,google-news
+PL,Wojciech Cejrowski,1,1,16,4100,wikipedia
 PL,Inflacja w USA. Czarno na białym. Trump ma problem przed wyborami,1,1,17,0,google-news
+PL,Barbara Mróz-Gorgoń,1,1,17,3500,wikipedia
 PL,"Nadzieja dla rynku ropy i kierowców. MAE podaje pozytywne dane, ale też ostrzega",1,1,18,0,google-news
+PL,Tomasz Kot (aktor),1,1,18,3300,wikipedia
 PL,"Połączyła ich Krynica-Zdrój, a dzieli ich 50 lat. Tak wyglądała Patrycja Tuchlińska, gdy poznała milionera Józefa Wojciechowskiego",1,1,19,0,google-news
+PL,13 października,1,1,19,3100,wikipedia
 PL,"Apple prezentuje nowe Apple TV 4K – potężniejsze, ale droższe",1,1,20,0,google-news
+PL,Leon XIV,1,1,20,3100,wikipedia
+PL,Zmarli w październiku 2026,1,1,21,2800,wikipedia
+PL,Polska,1,1,22,2800,wikipedia
+PL,Dzień Edukacji Narodowej,1,1,23,2700,wikipedia
+PL,"Митт, Ар Джей",1,1,24,2700,wikipedia
+PL,Mózgowe porażenie dziecięce,1,1,25,2600,wikipedia
+RU,Starlink,1,3,1,0,x-trends
+RU,#PortfolioDay,1,3,2,0,x-trends
+RU,#2026MAMAVOTE,1,3,3,0,x-trends
+RU,Africa,1,3,4,0,x-trends
+RU,Киеву,1,3,5,0,x-trends
+RU,#тренды,1,3,6,0,x-trends
+RU,West,1,3,7,0,x-trends
+RU,китае,1,3,8,0,x-trends
+RU,#지민날_1013_못참지,1,3,9,0,x-trends
+RU,Яндекс,1,3,10,0,x-trends
+RU,#디스이즈_지민데이,1,3,11,0,x-trends
+RU,I VOTE,1,3,12,0,x-trends
+RU,Kris,1,3,13,0,x-trends
+RU,Зеленский,1,3,14,0,x-trends
+RU,польши,1,3,15,0,x-trends
+RU,Moscow,1,3,16,0,x-trends
+RU,Скоро,1,3,17,0,x-trends
+RU,Трампа,1,3,18,0,x-trends
+RU,VibeShorts,1,3,19,0,x-trends
+RU,Смотря,1,3,20,0,x-trends
+RU,забавно,1,3,21,0,x-trends
+RU,видимо,1,3,22,0,x-trends
+RU,Проблема,1,3,23,0,x-trends
+RU,дима,1,3,24,0,x-trends
+RU,USSR,1,3,25,0,x-trends
+RU,Пусть,1,3,26,0,x-trends
+RU,Ирана,1,3,27,0,x-trends
+RU,Украине,1,3,28,0,x-trends
+RU,European,1,3,29,0,x-trends
+RU,легко,1,3,30,0,x-trends
 RU,Два судна затонули в Ормузском проливе менее чем за сутки,1,1,1,0,google-news
 RU,погода бийск,1,1,1,1000,google-trends
 RU,Песков высказался против использования Starlink в военных целях,1,1,2,0,google-news
+RU,Главные заявления Путина на совещании по вопросам кибербезопасности,1,1,2,0,google-news
 RU,вашингтон монреаль,1,1,2,500,google-trends
 RU,Готовая еда в России стала меньше на 10%,1,1,3,0,google-news
+RU,Зеленский подтвердил сложности в работе Starlink на Украине: США отключили систему,1,1,3,0,google-news
 RU,гисметео новосибирск,1,1,3,100,google-trends
+RU,монреаль – атланта юнайтед,1,1,3,200,google-trends
 RU,Зеленский заговорил о разрыве отношений с США,1,1,4,0,google-news
-RU,монреаль – атланта юнайтед,1,1,4,100,google-trends
+RU,mls,1,1,4,200,google-trends
 RU,Глава ФБР прилетел в Россию,1,1,5,0,google-news
-RU,mls,1,1,5,200,google-trends
+RU,девочка,1,1,5,100,google-trends
 RU,В российской экономике ищут низшую точку роста,1,1,6,0,google-news
-RU,девочка,1,1,6,100,google-trends
+RU,президент,1,1,6,500,google-trends
 RU,Путин заявил о выходе на новый уровень киберугроз в отношении экономики РФ,1,1,7,0,google-news
-RU,президент,1,1,7,5000,google-trends
-RU,Поездку Зеленского в Лондон объяснили обидой на Трампа,1,1,8,0,google-news
-RU,нефтяной танкер,1,1,8,10000,google-trends
+RU,Поездку Зеленского в Лондон объяснили обидой на Трампа,1,1,7,0,google-news
+RU,нефтяной танкер,1,1,7,10000,google-trends
+RU,Аналитики ЦБ ухудшили свои прогнозы по ключевой ставке,1,1,8,0,google-news
+RU,dtf,1,1,8,100,google-trends
 RU,Лавров анонсировал важную встречу Путина на саммите АТЭС,1,1,9,0,google-news
-RU,dtf,1,1,9,100,google-trends
+RU,республика саха (якутия),1,1,9,200,google-trends
 RU,«Трамп взбешен»: в Белом доме идут баталии о запрете передачи разведданных Киеву,1,1,10,0,google-news
-RU,республика саха (якутия),1,1,10,200,google-trends
+RU,интер майами – нью-йорк сити,1,1,10,2000,google-trends
 RU,Книги автора бестселлера «Нормальные люди» Салли Руни перестали продавать в Великобритании,1,1,11,0,google-news
 RU,«Родился в Омске»: обвиняемый в подрыве «Северных потоков» сделал неожиданное заявление,1,1,12,0,google-news
 RU,Тунберг приехала в Париж: Объединим усилия — экология и социальная справедливость!,1,1,13,0,google-news
@@ -899,12 +2528,46 @@ RU,Свыше 70% российского авторынка заняли чет�
 RU,Пластик уходит в прошлое: как россияне будут платить через несколько лет,1,1,18,0,google-news
 RU,"Apple представила Home Collection — устройства умного дома, созданные с LG и Schneider",1,1,19,0,google-news
 RU,СМИ: Grand Theft Auto VI очень быстро потеряет статус эксклюзива консолей и выйдет на ПК — уже в начале 2027 года,1,1,20,0,google-news
+SA,#نعم_سعوديون,1,3,1,0,x-trends
+SA,#٢٠٣٠_بلا_نقاب15,1,3,3,0,x-trends
+SA,#رحله_المليون84,1,3,4,0,x-trends
+SA,#اذا_غضبوا_غضبنا,1,3,5,0,x-trends
+SA,جبل هان,1,3,6,0,x-trends
+SA,مدريد,1,3,7,0,x-trends
+SA,صوت سعيد,1,3,8,0,x-trends
+SA,باريس,1,3,9,0,x-trends
+SA,السيتي,1,3,10,0,x-trends
+SA,مورينهو,1,3,11,0,x-trends
+SA,الريال,1,3,12,0,x-trends
+SA,انريكي,1,3,13,0,x-trends
+SA,توريس,1,3,14,0,x-trends
+SA,سيد العذاري,1,3,15,0,x-trends
+SA,فالفيردي,1,3,16,0,x-trends
+SA,صيام الخميس,1,3,17,0,x-trends
+SA,بيريز,1,3,18,0,x-trends
+SA,سيلفا,1,3,20,0,x-trends
+SA,كورتوا,1,3,21,0,x-trends
+SA,اندرسون,1,3,21,0,x-trends
+SA,عبدالصمد بادي,1,3,22,0,x-trends
+SA,تركي الدوسري,1,3,24,0,x-trends
+SA,ابو سلطان,1,3,25,0,x-trends
+SA,الفهد,1,3,26,0,x-trends
+SA,#عشاق_الشاي_او_القهوه,1,2,2,0,x-trends
+SA,علي الغامدي,1,2,19,0,x-trends
+SA,مانشستر سيتي,1,2,27,0,x-trends
+SA,غوارديولا,1,2,28,0,x-trends
+SA,ليس كلمات,1,2,29,0,x-trends
 SA,عام / الدفاع المدني: سقوط شظايا نتيجة اعتراض صاروخ باليستي في مدينة الرياض نتج عنه إصابة مقيم من جنسية عربية وأضرار مادية محدودة في منزل سكني ومركبة,1,1,1,0,google-news
 SA,ليونيل ميسي,1,1,1,500,google-trends
+SA,خالد الفيصل,1,1,1,0,x-trends
+SA,للكويت,1,1,1,0,x-trends
 SA,تصعيد جديد في هرمز.. غرق سفينة سنغافورية وإصابة أخرى بمقذوفات مجهولة,1,1,2,0,google-news
 SA,mls,1,1,2,500,google-trends
+SA,#شارك_مع_اندومي,1,1,2,0,x-trends
+SA,ايطاليا,1,1,2,0,x-trends
 SA,الدفاع المدني يُصدر تنبيهاً بإنذار أحمر لأمطار غزيرة على 4 مناطق,1,1,3,0,google-news
 SA,কাতার,1,1,3,100,google-trends
+SA,علي العهد,1,1,3,0,x-trends
 SA,مباشر: الحوثيون يعلنون استهداف مطار الرياض مجددا بصاروخ بالستي,1,1,4,0,google-news
 SA,إنتر ميامي ضد نيويورك سيتي,1,1,4,2000,google-trends
 SA,مجلس الوزراء: مليشيا الحوثي الإرهابية ستواجه عواقب جرائمها واعتداءاتها الآثمة,1,1,5,0,google-news
@@ -914,6 +2577,7 @@ SA,real betis vs fc porto standings,1,1,6,200,google-trends
 SA,تنفيذ حُكم القتل تعزيرًا بجانيين في منطقة مكة المكرمة,1,1,7,0,google-news
 SA,openai saudi employee,1,1,7,200,google-trends
 SA,تغيرات ملكية المستثمرين الأجانب بالسوق السعودي يوم الإثنين 12 أكتوبر.. ارتفاع الملكية في 67 شركة وانخفاضها في 108 شركات,1,1,8,0,google-news
+SA,"""فجر اليمن"".. معركة استعادة الدولة ومواجهة المشروع الإيراني",1,1,8,0,google-news
 SA,أحلام,1,1,8,1000,google-trends
 SA,ولي العهد السعودي يؤكد حرص المملكة على تعزيز التعاون الأمني مع العراق,1,1,9,0,google-news
 SA,aston villa vs fenerbahçe standings,1,1,9,500,google-trends
@@ -927,108 +2591,292 @@ SA,التضخم في الولايات المتحدة يتجاوز التوقعا
 SA,تاسي يتراجع 0.7% عند 10284 نقطة.. كأدنى إغلاق منذ 43 شهراً,1,1,16,0,google-news
 SA,"عاجل: تراجع عنيف بسعر الذهب لهذه الأسباب - هل يكسر مستوى 4,000$ اليوم؟",1,1,17,0,google-news
 SA,توقعات أوبار كابيتال لأرباح الشركات للربع الثالث 2026,1,1,18,0,google-news
+SA,اردا,1,1,18,0,x-trends
 SA,Apple تكشف Apple TV 4K الجديد وHomePod mini 2 بدعم Siri AI,1,1,19,0,google-news
 SA,"العرض الرسمي لأسلوب اللعب في Warhammer 40,000: Dark Heresy | تغطية IGN Fan Fest 2026",1,1,20,0,google-news
+SA,العمل الصادق,1,1,28,0,x-trends
+SA,إنتر,1,1,30,0,x-trends
+SE,roma,1,3,6,200,google-trends x-trends
+SE,Starlink,1,2,1,0,x-trends
+SE,Starshield,1,2,2,0,x-trends
+SE,Bodström,1,2,3,0,x-trends
+SE,Greta,1,2,4,0,x-trends
+SE,Mourinho,1,2,5,0,x-trends
+SE,LASK,1,2,7,0,x-trends
+SE,Champions League,1,2,8,0,x-trends
+SE,Real Madrid,1,2,8,0,x-trends
+SE,Maud Olofsson,1,2,9,0,x-trends
+SE,Frimpong,1,2,10,0,x-trends
+SE,#2026MAMAVOTE,1,2,11,0,x-trends
+SE,Metallica,1,2,12,0,x-trends
+SE,Enzo,1,2,13,0,x-trends
+SE,member invite,1,2,14,0,x-trends
+SE,Endrick,1,2,15,0,x-trends
+SE,Espi,1,2,16,0,x-trends
+SE,American Express,1,2,17,0,x-trends
+SE,Ulla Andersson,1,2,19,0,x-trends
+SE,Nordstream,1,2,20,0,x-trends
+SE,Novus,1,2,21,0,x-trends
+SE,Tony,1,2,22,0,x-trends
+SE,Peking,1,2,23,0,x-trends
+SE,Musk,1,2,24,0,x-trends
+SE,leksand,1,2,25,0,x-trends
+SE,kronofogden,1,2,26,0,x-trends
+SE,Maresca,1,2,27,0,x-trends
+SE,Licha,1,2,28,0,x-trends
+SE,Amex,1,2,29,0,x-trends
 SE,DN Direkt – Grönland slår tillbaka mot Trump: ”Väldigt långt ifrån”,1,1,1,0,google-news
+SE,Förblindade av röda linjer,1,1,1,0,google-news
 SE,bet 365,1,1,1,100,google-trends
+SE,RJ Mitte,1,1,1,19600,wikipedia
 SE,Nya angrepp mot Saudiarabiens huvudstad,1,1,2,0,google-news
 SE,poängställning i man city mot psg,1,1,2,5000,google-trends
+SE,bet365,1,1,2,200,google-trends
+SE,Staffan Hildebrand,1,1,2,12900,wikipedia
 SE,Brittiska pengar till Tjernobyl,1,1,3,0,google-news
 SE,poängställning i aston villa mot fenerbahçe,1,1,3,500,google-trends
-SE,Förblindade av röda linjer,1,1,4,0,google-news
 SE,poängställning i as roma mot real madrid,1,1,4,2000,google-trends
+SE,R.J. Mitte,1,1,4,6400,wikipedia
 SE,"Två fartyg har sjunkit nära Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel",1,1,5,0,google-news
 SE,real betis,1,1,5,100,google-trends
+SE,Jonas Wahlström,1,1,5,6200,wikipedia
 SE,Nya hyror hos privata värdar: ”Gränsen nådd”,1,1,6,0,google-news
-SE,roma,1,1,6,200,google-trends
+SE,Pierre Lindstedt,1,1,6,3600,wikipedia
 SE,Ny polisinsats på Sigtunaskolan,1,1,7,0,google-news
 SE,inkomst,1,1,7,500,google-trends
+SE,Заглавная страница,1,1,7,3300,wikipedia
 SE,Talmannen till TV4: Alis ledighetsansökan inte godkänd – Valet 2026 – senaste nytt om politiken i Dalarna,1,1,8,0,google-news
 SE,svante linusson,1,1,8,100,google-trends
+SE,Katie Zacharia,1,1,8,3200,wikipedia
 SE,Trafikverket om bärgningen på Strömsundsbron: Största risken att bron kan lyfta,1,1,9,0,google-news
 SE,ambulans,1,1,9,500,google-trends
+SE,cl,1,1,9,200,google-trends
+SE,Christa Pike,1,1,9,2900,wikipedia
 SE,SD: Ställer oss inte bakom stopplag,1,1,10,0,google-news
 SE,bodö glimt,1,1,10,500,google-trends
+SE,Atilla Yoldas,1,1,10,2600,wikipedia
 SE,Kan regeringen stoppa en dubblerad svensk EU-avgift?,1,1,11,0,google-news
+SE,Marcus Samuelsson,1,1,11,2400,wikipedia
 SE,Zelenskyj känner sig förrådd av Trump,1,1,12,0,google-news
+SE,Daniel and Luis Moncada,1,1,12,1900,wikipedia
 SE,Skakig debut för Trumps nya talesperson – ”måste bli bättre fort”,1,1,13,0,google-news
+SE,Felicia Schröder,1,1,13,1900,wikipedia
 SE,600 000 strömlösa efter ryska attacker,1,1,14,0,google-news
+SE,Luis Moncada,1,1,14,1800,wikipedia
 SE,"Oregelbunden avslutning på Stockholmsbörsen, SEB föll på högre kapitalkrav (Finwire News)",1,1,15,0,google-news
-SE,Inflation och AI-aktier sänkte Wall Street,1,1,16,0,google-news
+SE,Inflation och AI-aktier sänkte Wall Street,1,1,15,0,google-news
+SE,Kimberly Guilfoyle,1,1,15,1700,wikipedia
+SE,"Митт, Ар Джей",1,1,16,1700,wikipedia
 SE,Jobbslakt hos Netflix – 1 000 tjänster bort efter svag tillväxt,1,1,17,0,google-news
+SE,Lizzie Borden,1,1,17,1600,wikipedia
 SE,USA-bankerna: Färre affärer men ekonomin står pall,1,1,18,0,google-news
+SE,Cecilia von der Esch,1,1,18,1600,wikipedia
 SE,Jag har sett Apples HomeView i verkligheten – den ser ut som en korsning mellan Apple Watch och klassiska iMac G4,1,1,19,0,google-news
+SE,Ada Lovelace,1,1,19,1600,wikipedia
 SE,Mats låg nedsövd i 42 dygn: ”Ett mirakel”,1,1,20,0,google-news
+SE,Selma Blair,1,1,20,1600,wikipedia
+SE,Carl-Gustaf Lindstedt,1,1,21,1600,wikipedia
+SE,Baggböleri,1,1,22,1400,wikipedia
+SE,Gurra Krantz (seglare),1,1,23,1400,wikipedia
+SE,Amanda Ilestedt,1,1,24,1400,wikipedia
+SE,Vini,1,1,28,0,x-trends
+SE,Pentagon,1,1,30,0,x-trends
 SG,Singapore haze: PM2.5 readings elevated in all regions; air quality remains very unhealthy in west,1,1,1,0,google-news
+SG,Singapore haze as it happened: PM2.5 hits highest level since 2015 as authorities step up measures,1,1,1,0,google-news
 SG,court,1,1,1,500,google-trends
+SG,#2026MAMAVOTE,1,1,1,0,x-trends
+SG,RJ Mitte,1,1,1,11100,wikipedia
 SG,"Indonesia’s forest fires will be extinguished within a month, Environment Minister says",1,1,2,0,google-news
 SG,dodgers vs brewers,1,1,2,200,google-trends
+SG,#MoonshadowSeriesFinalEP,1,1,2,0,x-trends
+SG,黄奇帆,1,1,2,8500,wikipedia
 SG,Pope Leo back on his feet after shock cancer diagnosis,1,1,3,0,google-news
+SG,Two Singapore-registered vessels struck in Strait of Hormuz; one sinks,1,1,3,0,google-news
 SG,kospi,1,1,3,500,google-trends
+SG,LOVE TO THE MOON AND KEY,1,1,3,0,x-trends
+SG,Spécial:Recherche,1,1,3,4300,wikipedia
 SG,CNA Explains: What happens when the government disagrees with the courts?,1,1,4,0,google-news
+SG,Shape of Pope Leo’s papacy more uncertain after cancer diagnosis,1,1,4,0,google-news
 SG,dell,1,1,4,200,google-trends
-SG,Two Singapore-registered vessels struck in Strait of Hormuz; one sinks,1,1,5,0,google-news
+SG,#제임스의_빛이_차오르길,1,1,4,0,x-trends
+SG,Patikos:Suk,1,1,4,2800,wikipedia
+SG,"Martínez exposes Man United's harsh reality: Blame lies with top brass, not Carrick",1,1,5,0,google-news
 SG,james bond,1,1,5,100,google-trends
-SG,"Martínez exposes Man United's harsh reality: Blame lies with top brass, not Carrick",1,1,6,0,google-news
+SG,"1,000 Horseshoes",1,1,5,0,x-trends
+SG,Eileen Gu,1,1,5,2600,wikipedia
+SG,National Youth Council mistakenly leaks personal data of 600 SG Youth Forum participants,1,1,6,0,google-news
 SG,jailer 2 review,1,1,6,500,google-trends
-SG,National Youth Council mistakenly leaks personal data of 600 SG Youth Forum participants,1,1,7,0,google-news
+SG,Knight NFT,1,1,6,0,x-trends
+SG,Speciale:Ricerca,1,1,6,1800,wikipedia
+SG,"Extremist influences becoming more diverse, anyone can be susceptible: PM Wong",1,1,7,0,google-news
 SG,betis vs porto,1,1,7,100,google-trends
-SG,"Extremist influences becoming more diverse, anyone can be susceptible: PM Wong",1,1,8,0,google-news
+SG,#NOURTheSeriesFinalEP,1,1,7,0,x-trends
+SG,.xyz,1,1,7,1600,wikipedia
+SG,"Former Sumo Salad employee cleared of cheating, work injury fraud allegations",1,1,8,0,google-news
 SG,weather,1,1,8,5000,google-trends
-SG,"Former Sumo Salad employee cleared of cheating, work injury fraud allegations",1,1,9,0,google-news
+SG,Somewhere Over the Rainbow,1,1,8,0,x-trends
+SG,Katie Zacharia,1,1,8,1500,wikipedia
+SG,"S’pore launches new healthcare security group to help identify threats, boost preparedness",1,1,9,0,google-news
 SG,天气,1,1,9,1000,google-trends
-SG,"S’pore launches new healthcare security group to help identify threats, boost preparedness",1,1,10,0,google-news
+SG,Pump,1,1,9,0,x-trends
+SG,특수:검색,1,1,9,1500,wikipedia
+SG,Business as usual for most patients as public healthcare clusters recover from 9-hour disruption,1,1,10,0,google-news
 SG,weather today,1,1,10,100,google-trends
+SG,#Happy21andOnlyJAMES,1,1,10,0,x-trends
+SG,Hock Tan,1,1,10,1400,wikipedia
 SG,"Emulate Singapore’s model to protect local workers, says Wee",1,1,11,0,google-news
+SG,HBD FAYE PERAYA,1,1,11,0,x-trends
+SG,Max Verstappen,1,1,11,1300,wikipedia
 SG,Regional haze: Malaysia’s school closures leave parents frazzled as exams draw near,1,1,12,0,google-news
+SG,Done in 10,1,1,12,0,x-trends
+SG,Lewis Hamilton,1,1,12,1300,wikipedia
 SG,Chinese Carrier Strike Group Drills in the Philippine Sea,1,1,13,0,google-news
+SG,Gemini 4 Argon,1,1,13,0,x-trends
+SG,خاص:بحث,1,1,13,1200,wikipedia
 SG,Singaporeans advised to postpone umrah pilgrimage to Saudi Arabia amid security concerns: MUIS,1,1,14,0,google-news
+SG,PERTH UNLEASH THE ROCK,1,1,14,0,x-trends
 SG,"Singapore asks major tech firms for full transparency, quicker information-sharing amid AI risks: Shanmugam",1,1,15,0,google-news
+SG,FIRSTONE 2ND SINGLE MV,1,1,15,0,x-trends
 SG,Vietnam says trade talks with US nearly completed; US officials more cautious,1,1,16,0,google-news
-SG,Oil Rises as Middle East Attacks Increase Uncertainty Over Flows,1,1,17,0,google-news
+SG,Oil Rises as Middle East Attacks Increase Uncertainty Over Flows,1,1,16,0,google-news
+SG,Manchester United,1,1,16,0,x-trends
+SG,Singapore launches new toolkit to help firms test AI agents for safety and reliability,1,1,17,0,google-news
+SG,I VOTE,1,1,17,0,x-trends
 SG,MAS keeps Singdollar appreciation rate unchanged but warns of elevated inflation,1,1,18,0,google-news
+SG,Singapore’s MAS stands pat as easing AI momentum tames inflation,1,1,18,0,google-news
+SG,Issuing RGB,1,1,18,0,x-trends
 SG,SKKU Research Team Boosts Hydrogen Cell Efficiency and Durability via Innovative Interface Nanocoating,1,1,19,0,google-news
+SG,"LG Electronics, Apple Develop Seven AI Home Devices",1,1,19,0,google-news
+SG,WTS LFB,1,1,19,0,x-trends
 SG,LG Electronics emerges as Apple's home AI ally,1,1,20,0,google-news
+SG,uPoW,1,1,20,0,x-trends
+SG,Floor Standing,1,1,21,0,x-trends
+SG,Jake,1,1,22,0,x-trends
+SG,Martinez,1,1,23,0,x-trends
+SG,$NET,1,1,24,0,x-trends
+SG,Zone A1,1,1,25,0,x-trends
+SG,Real Madrid,1,1,26,0,x-trends
+SG,Bitcoin,1,1,27,0,x-trends
+SG,US CPI,1,1,28,0,x-trends
+SG,Xiamen,1,1,29,0,x-trends
+SG,Runes and Inscriptions,1,1,30,0,x-trends
+TH,#ChestersxTeeteePor,1,2,1,0,x-trends
+TH,#8per7ByFirstOne,1,2,2,0,x-trends
+TH,#อร่อยซู้ดเกินคาด,1,2,3,0,x-trends
+TH,#2026MAMAVOTE,1,2,3,0,x-trends
+TH,#BUS_CHESTVOICE_MV,1,2,5,0,x-trends
+TH,LOVE TO THE MOON AND KEY,1,2,6,0,x-trends
+TH,PUINOONBINT DESTINY MOMENT,1,2,7,0,x-trends
+TH,Somewhere Over the Rainbow,1,2,8,0,x-trends
+TH,SMILEY BESIDE CHARLOTTE15,1,2,9,0,x-trends
+TH,ENGFA ENDLESS CHARM15,1,2,10,0,x-trends
+TH,LOVE ON HIRE BLESSING DAY,1,2,11,0,x-trends
+TH,HBD FAYE PERAYA,1,2,12,0,x-trends
+TH,KHOM KHLANG EP6,1,2,13,0,x-trends
+TH,PERTH UNLEASH THE ROCK,1,2,14,0,x-trends
+TH,ELLEJAY SMOOTH LANDING,1,2,15,0,x-trends
+TH,DT Motorsport,1,2,16,0,x-trends
+TH,BPP HAPPY FAM FANSIGN,1,2,17,0,x-trends
+TH,DITTO READY FOR TAKE OFF Q17,1,2,18,0,x-trends
+TH,BENEATH THE LIES EP3,1,2,19,0,x-trends
+TH,I VOTE,1,2,20,0,x-trends
+TH,Vote Now,1,2,21,0,x-trends
+TH,Official MV,1,2,22,0,x-trends
+TH,Choice Male Award,1,2,23,0,x-trends
+TH,MILKLOVE HEARTBEAT DATE,1,2,24,0,x-trends
+TH,Swag,1,2,25,0,x-trends
+TH,Let Your Love Shine,1,2,26,0,x-trends
+TH,Fan's Choice Male,1,2,27,0,x-trends
+TH,Make a Wish,1,2,28,0,x-trends
 TH,นายกฯ เปิดทำเนียบ รับผู้ร่วมประชุม IMF – World Bank 2026 ชู soft power ไทย,1,1,1,0,google-news
 TH,mlb,1,1,1,100,google-trends
+TH,vietjet,1,1,1,100,google-trends
 TH,พยากรณ์อากาศประจำวันที่ 15 ตุลาคม 2569 กรุงเทพและปริมณฑล มีฝนฟ้าคะนอง ร้อยละ 60 ของพื้นที่,1,1,2,0,google-news
+TH,"สภาพอากาศวันนี้ ""เหนือ-กลาง-ตะวันออก-ใต้"" มีฝน 40-60% ตกหนักบางแห่ง",1,1,2,0,google-news
 TH,เช็คสถานะเงินเยียวยาน้ําท่วม 2569,1,1,2,500,google-trends
+TH,แอร์เอเชีย,1,1,2,100,google-trends
 TH,ผวา ‘ตัดตอน’ คดีทุจริตสอบท้องถิ่น สังคมหวัง ‘ป.ป.ช.’ สาวถึง ‘ตัวใหญ่’,1,1,3,0,google-news
 TH,ฟลูมิเนนเซ่ พบ พัลไมรัส,1,1,3,200,google-trends
 TH,เปิดคำแถลง สตง. - คำชี้แจงจากไทยพีบีเอส ปมจ้างผลิต-ค่ารถ-ค่าตอบแทน,1,1,4,0,google-news
 TH,inter miami vs new york city,1,1,4,200,google-trends
 TH,“เชาว์” ซัด “ทักษิณ” ไม่สำนึกยังคิดล้างผิด เตือนกรรมการฯ นิรโทษขัดกฎหมายเสี่ยงคุก,1,1,5,0,google-news
+TH,อดีตผู้พิพากษาฟันธง! คำขอนิรโทษกรรมของทักษิณไม่อยู่ในขอบเขตได้รับสิทธิ!,1,1,5,0,google-news
 TH,ไฮไลท์ฟุตบอล,1,1,5,200,google-trends
 TH,สปส. กางไทม์ไลน์หลังเลือกตั้งบอร์ดประกันสังคม 2569 รับรองผล พ.ย. นี้,1,1,6,0,google-news
 TH,นักแสดง,1,1,6,200,google-trends
 TH,เปิดที่มาฉายา “ลูกเทพ” เจเศรษฐ์เตรียมรับศึกซักฟอก ลั่นไม่ยึดติดตำแหน่ง,1,1,7,0,google-news
+TH,นายกฯ กำชับ ครม. เตรียมพร้อมอภิปรายไม่ไว้วางใจ วางกรอบ 27-30 ต.ค. นี้,1,1,7,0,google-news
 TH,ป้าเจนแฟนลุงขิง,1,1,7,500,google-trends
 TH,มท.3 “เจเศรษฐ์” ยืนยันน้ำประปา กปน. ปลอดภัย มีกระบวนการผลิตตามมาตรฐาน WHO,1,1,8,0,google-news
+TH,ดัน ‘แบงค็อกบลูพรินต์’ ปลุกทั่วโลกสู้ภัยดิจิทัล เอกนิติชงเวทีIMF,1,1,8,0,google-news
 TH,ธนบัตร,1,1,8,200,google-trends
 TH,"คพ.เก็บตัวอย่างน้ำ 4 จุด เร่งหาสาเหตุ ""ปลาตาย"" ปราจีนบุรี",1,1,9,0,google-news
+TH,“เชตวัน” สำรวจพื้นที่ปากคลองรังสิต เผยฟองขาวลอยผิวน้ำเกิดจากการสูบน้ำเสียท่วมขังมารวมจุดเดียว,1,1,9,0,google-news
 TH,droiddeck,1,1,9,200,google-trends
 TH,BAMน้อมรำลึก “วันนวมินทรมหาราช” 13 ตุลาคม 2569,1,1,10,0,google-news
 TH,casio thailand,1,1,10,200,google-trends
 TH,อิหร่านกดดันเส้นทางขนส่งพลังงานอีกรอบ จมเรือสินค้า 2 ลำใกล้ช่องแคบฮอร์มุซ,1,1,11,0,google-news
+TH,เรือสินค้าสิงคโปร์ถูกโจมตีจมช่องแคบฮอร์มุซ ลูกเรือ 21 คนรอดปลอดภัย,1,1,11,0,google-news
 TH,"กลุ่มฮูตีโจมตีพื้นที่สนง.ใหญ่ ""ซาอุดี อารัมโค"" ไฟไหม้เล็กน้อย-กรุงริยาดเสียงระเบิดสนั่น",1,1,12,0,google-news
+TH,PHUWIN MAMI IN HOKKAIDO,1,1,12,0,x-trends
 TH,ฝุ่น PM2.5 สิงคโปร์พุ่งสูงสุดรอบ 11 ปี หน้ากาก N95-เครื่องฟอกอากาศขาดตลาด,1,1,13,0,google-news
 TH,เล่นบทเจ้าน้ำตา!เซเลนสกีเจ็บปวด'ทรัมป์'หันไปเข้าข้างรัสเซีย หลังถูกผู้นำUSไล่ส่งให้ออกจากตำแหน่ง,1,1,14,0,google-news
 TH,Daily Recap Gold Futures 15-10-2569,1,1,15,0,google-news
+TH,"ราคาทองวันนี้พฤหัสบดีที่ 15 ตุลาคม 2569 เปิดตลาดลดลงบริเวณ 65,750",1,1,15,0,google-news
 TH,คลื่น AI กับเกราะป้องกันเศรษฐกิจไทย | ข่าวหุ้นธุรกิจ,1,1,16,0,google-news
 TH,ภาวะตลาดน้ำมัน น้ำมัน WTI ปิดบวก 95 เซนต์ หลังฮูตีถล่ม Saudi Aramco-อิหร่านอัปเกรดโจมตีเรือสินค้า,1,1,17,0,google-news
+TH,CPI สหรัฐ เขย่าตลาดคืนนี้ ลุ้นเงินเฟ้อชี้ชะตาดอกเบี้ย Fed ด่านถัดไป,1,1,17,0,google-news
 TH,"ราคาทองคำร่วงลงต่ำกว่า 4,100 ดอลลาร์สหรัฐฯ เนื่องจากภาวะเงินเฟ้อในสหรัฐฯ: คุณควรถือครองหรือขายดี?",1,1,18,0,google-news
+TH,น้ำมันโลกพุ่งขึ้นต่อเนื่อง หลังฮูตี โจมตี สำนักงาน ซาอุดี อารัมโก,1,1,18,0,google-news
 TH,Apple เปิดตัว Apple TV 4K รุ่น 4 อัปเกรดชิป A19 สั่งงานด้วย Siri AI,1,1,19,0,google-news
 TH,การอัปเกรดจาก Galaxy A57 เป็น S26 FE: ผู้ใช้จะได้รับการอัปเกรดอะไรบ้างเมื่อเพิ่มงบประมาณ?,1,1,20,0,google-news
+TH,เผยผลทดสอบ iPhone Duo ชิป A20 Pro ประสิทธิภาพใกล้เคียง iPhone 18 Pro,1,1,20,0,google-news
+TH,IAME,1,1,20,0,x-trends
+TH,Gulf Morning,1,1,29,0,x-trends
+TH,Morning PATRICK,1,1,30,0,x-trends
+TR,İsmail,1,3,1,0,x-trends
+TR,#AVLvFB,1,3,2,0,x-trends
+TR,Fenerbahçe,1,3,3,0,x-trends
+TR,#yağmur,1,3,4,0,x-trends
+TR,İstanbul,1,3,6,0,x-trends
+TR,#FaturaFonzedeyeKesilemez,1,3,6,0,x-trends
+TR,Greenwood,1,3,8,0,x-trends
+TR,Kante,1,3,8,0,x-trends
+TR,Arda Güler,1,3,10,0,x-trends
+TR,Alanya,1,3,11,0,x-trends
+TR,#sağanak,1,3,12,0,x-trends
+TR,Semedo,1,3,13,0,x-trends
+TR,Demet Özdemir,1,3,13,0,x-trends
+TR,Vedat,1,3,14,0,x-trends
+TR,Oğuz,1,3,15,0,x-trends
+TR,Murat Boz,1,3,17,0,x-trends
+TR,Tarihin,1,3,18,0,x-trends
+TR,İrfan,1,3,19,0,x-trends
+TR,Asensio,1,3,19,0,x-trends
+TR,Lukaku,1,3,21,0,x-trends
+TR,Guendouzi,1,3,22,0,x-trends
+TR,Roma,1,3,23,0,x-trends
+TR,Şampiyonlar,1,3,24,0,x-trends
+TR,Bartuğ,1,3,24,0,x-trends
+TR,Liverpool,1,3,27,0,x-trends
+TR,Aston,1,2,5,0,x-trends
+TR,Eriksen,1,2,26,0,x-trends
+TR,#afet,1,2,28,0,x-trends
+TR,Rezil,1,2,29,0,x-trends
 TR,"İstanbul'da sağanak yağış: Sel, su baskınları ve yoğun trafik",1,1,1,0,google-news
 TR,trabzon hava durumu,1,1,1,100,google-trends
+TR,Ekrem,1,1,1,0,x-trends
 TR,İstanbul'da dört üniversite eğitime ara verdi,1,1,2,0,google-news
 TR,mersin hava durumu,1,1,2,1000,google-trends
+TR,Takım,1,1,2,0,x-trends
 TR,"Prof. Dr. Mikdat Kadıoğlu uyardı, İstanbul'da yarın yaşanabilecek tehlikelere dikkat çekti",1,1,3,0,google-news
 TR,kırıkkale hava durumu,1,1,3,100,google-trends
 TR,"Kayyum kızdı, kayyum atandı",1,1,4,0,google-news
 TR,şanlıurfa hava durumu,1,1,4,1000,google-trends
+TR,inter miami,1,1,4,500,google-trends
 TR,"İletişim Başkanı Duran’dan, Cumhurbaşkanlığı Yüksek İstişare Kurulu Toplantısı‘na ilişkin açıklama",1,1,5,0,google-news
 TR,abd enflasyonu,1,1,5,5000,google-trends
+TR,urfa hava durumu,1,1,5,1000,google-trends
 TR,Silivri'de 98'inci duruşma! Ekrem İmamoğlu sanık kürsüsünde,1,1,6,0,google-news
 TR,prime video,1,1,6,100,google-trends
 TR,Tasfiye edilecek yatırım fonlarına ilişkin kanun teklifi komisyonda,1,1,7,0,google-news
@@ -1042,90 +2890,268 @@ TR,inter miami - new york city,1,1,10,2000,google-trends
 TR,İddia: Yunanistan İsrail'den balistik füze almayı hedefliyor,1,1,11,0,google-news
 TR,Fransa’daki öğrenci eylemlerinde 160 binden fazla kişi sokağa indi: ‘Sarı Yelekliler’ de destek verecek,1,1,12,0,google-news
 TR,Husilerin Suudi Arabistan'a saldırıları: Trump'tan Türkiye sorusuna çarpıcı yanıt,1,1,13,0,google-news
+TR,Petrol kuyusu kontrolden çıktı: Metrelerce yükseğe fışkıran petrol durdurulamıyor,1,1,13,0,google-news
 TR,Husilerin hedefindeydi! Suudi Arabistan'ın başkenti Riyad'da patlama sesleri,1,1,14,0,google-news
 TR,ABD enflasyonu sonrası Citi de Fed tahminini değiştirdi,1,1,15,0,google-news
 TR,ABD'de Eylül enflasyonu 5 ayın zirvesinde,1,1,16,0,google-news
 TR,Bank of America'dan altın tahmini: Ons fiyatı yılın son çeyreğinde 4.000 dolarda dengelenebilir,1,1,17,0,google-news
 TR,Eti Maden’de duyurdu: Bor'da rekor kırıldı,1,1,18,0,google-news
 TR,Telefon bataryalarında yarış kızışıyor! Honor 12.070 mAh’lik modelini doğruladı - TREND,1,1,19,0,google-news
+TR,"BMW 7 Serisi, M760 versiyonuyla V8 motora geri döndü!",1,1,19,0,google-news
 TR,"Google, Gemini 4 Argon'u kullanıma sundu: Rakiplerinden daha ucuz",1,1,20,0,google-news
+TR,Abraham,1,1,21,0,x-trends
+TR,Dere,1,1,28,0,x-trends
+TR,#SevdanBirAteş,1,1,29,0,x-trends
+TR,Tammy Abraham,1,1,30,0,x-trends
 TW,台股早盤狂逾1400點！台積電開低70元、聯發科離5字頭越來越遠5檔個股重摔跌停「AI伺服器大廠」破千張急逃,1,1,1,0,google-news
 TW,梅西,1,1,1,500,google-trends
+TW,snell,1,1,1,100,google-trends
+TW,兰香如故,1,1,1,19300,wikipedia
 TW,賈永婕公開全身「不純樸」行頭清單 Dior手錶背後藏30年洋蔥 | 蔣季容 | 新聞,1,1,2,0,google-news
 TW,日月光,1,1,2,200,google-trends
+TW,沈伯洋,1,1,2,17600,wikipedia
 TW,SpaceX突限制星鏈！烏軍無人機慘遭斷網 多項任務失敗,1,1,3,0,google-news
+TW,蔣萬安遭打臉？交通部搬出松機2040規劃：首都商務機場早定調| 政治,1,1,3,0,google-news
 TW,元大,1,1,3,100,google-trends
+TW,尊界V800,1,1,3,16300,wikipedia
 TW,沈伯洋士林夜市爆場！深夜10點「靜音掃街」畫面曝　全場安靜擊掌網讚爆,1,1,4,0,google-news
 TW,台幣匯率,1,1,4,200,google-trends
-TW,蔣萬安遭打臉？交通部搬出松機2040規劃：首都商務機場早定調| 政治,1,1,5,0,google-news
+TW,A2O LITE (女子組合),1,1,4,14900,wikipedia
+TW,尾隨狠殺25歲甜美女！割喉惡男曾當「7年救護員」　前東家說話了,1,1,5,0,google-news
 TW,股市大盤,1,1,5,200,google-trends
+TW,今國光,1,1,5,100,google-trends
+TW,A2O娱乐,1,1,5,8400,wikipedia
 TW,伊朗嗆等不及擊沉美艦！沙國阿美大樓也遇襲起火,1,1,6,0,google-news
-TW,今國光,1,1,6,100,google-trends
+TW,準薔琵「上看強颱」下周大轉彎　最新路徑曝越來越近台灣,1,1,6,0,google-news
+TW,徐蔚民,1,1,6,7400,wikipedia
 TW,經部：中油每年採購600萬噸阿拉斯加天然氣估最高投資44億美元| 產經,1,1,7,0,google-news
+TW,沈伯洋家為何要賺紅錢？陳揮文揭貓膩：你被「養套殺」,1,1,7,0,google-news
 TW,台塑,1,1,7,500,google-trends
+TW,00935,1,1,7,200,google-trends
+TW,BIGBANG,1,1,7,6700,wikipedia
 TW,什麼叫洋流？ 陳文茜引用他的話 網友稱奇：罵人不帶髒字,1,1,8,0,google-news
-TW,00935,1,1,8,200,google-trends
+TW,認沈伯洋破圈了！邱毅批趙少康劍指藍營大咖 加碼爆料沈父不只擁豪宅：快去查 | 李瑋萱 | 新聞,1,1,8,0,google-news
+TW,戀愛充電中,1,1,8,6600,wikipedia
 TW,中共宣布制裁沈伯洋父親公司！國台辦：禁止與中企進行交易,1,1,9,0,google-news
+TW,川普宣布台灣買阿拉斯加天然氣！20年承購上看2.5兆台幣,1,1,9,0,google-news
 TW,0050,1,1,9,5000,google-trends
+TW,新垣結衣,1,1,9,6300,wikipedia
 TW,國民黨選情告急？鄭麗文、翁曉玲出招了　他笑「就等你們」：蔣萬安穩了,1,1,10,0,google-news
+TW,士林夜市小朋友「現場邀玩戰鬥陀螺」！沈伯洋秒答應　結束提醒4字暖爆,1,1,10,0,google-news
 TW,00406a,1,1,10,2000,google-trends
+TW,2330 股價,1,1,10,500,google-trends
+TW,RJ·米特,1,1,10,6300,wikipedia
 TW,承認斬首行動做過頭 川普稱答應「不再除掉伊朗領導人」,1,1,11,0,google-news
+TW,Doctor X：白色黑手黨時代,1,1,11,5900,wikipedia
 TW,「遼寧號」南下演訓航跡全曝光 日本防衛省公布航艦編隊動向,1,1,12,0,google-news
+TW,蔣萬安,1,1,12,5300,wikipedia
 TW,用它裝食物危險了？研究：微塑膠直攻肝臟「恐釀脂肪肝」,1,1,13,0,google-news
+TW,玉簟秋,1,1,13,5000,wikipedia
 TW,社群貼文遭指「褻瀆先知」 伊朗女學生被判死刑,1,1,14,0,google-news
+TW,百日謊言,1,1,14,4900,wikipedia
 TW,台積電獲利再飆高！外媒估第3季狂賺逾7400億 有望連6季創新高,1,1,15,0,google-news
+TW,A2O MAY,1,1,15,4700,wikipedia
 TW,〈美股盤後〉美CPI升溫、AI融資疑慮夾擊 費半重摔超4% 台積電ADR跌逾3%,1,1,16,0,google-news
+TW,羅智先,1,1,16,4400,wikipedia
 TW,富崴求去盼調解3／郭台強無奈認栽 直言風電產業需要國家資源,1,1,17,0,google-news
+TW,无可替代 (中国电视剧),1,1,17,4300,wikipedia
 TW,台股震盪滿手AI慘被套？杜金龍分享「10%防禦密碼」：抱緊這檔金融股絕對不賣,1,1,18,0,google-news
+TW,快訊／亞股慘崩！韓股暴跌逾5%觸發熔斷 日經狂瀉2400點,1,1,18,0,google-news
+TW,金智媛,1,1,18,3900,wikipedia
 TW,果然不意外！微軟封殺了 Windows 11 點一下跳過登入帳號的超簡單方法,1,1,19,0,google-news
+TW,金英光,1,1,19,3800,wikipedia
 TW,三鍵記錄寶寶餵奶與睡眠 原價 US $0.99《Baby Journal》限時免費,1,1,20,0,google-news
+TW,薛楷莉,1,1,20,3700,wikipedia
+TW,太陽 (歌手),1,1,21,3700,wikipedia
+TW,譚松韻,1,1,22,3500,wikipedia
+TW,刘学义,1,1,23,3400,wikipedia
+TW,吳沛憶,1,1,24,3400,wikipedia
+TW,A2O LITE,1,1,25,3300,wikipedia
+US,#AEWDynamite,1,10,1,0,x-trends
+US,#Survivor51,1,10,2,0,x-trends
+US,Snell,1,10,3,0,x-trends
+US,#RHOSLC,1,10,4,0,x-trends
+US,Jackson Chourio,1,10,5,0,x-trends
+US,Gasser,1,10,5,0,x-trends
+US,Joe Davis,1,10,6,0,x-trends
+US,Adam Copeland,1,10,7,0,x-trends
+US,Kilby,1,9,8,0,x-trends
+US,Meredith,1,9,13,0,x-trends
+US,Edman,1,8,10,0,x-trends
+US,Starshield,1,8,11,0,x-trends
+US,Brian Cage,1,8,12,0,x-trends
+US,Christian Cage,1,8,14,0,x-trends
+US,Myron Reed,1,8,17,0,x-trends
+US,Bobby Diesel,1,8,19,0,x-trends
+US,Giannis,1,7,9,0,x-trends
+US,Dodger Stadium,1,7,18,0,x-trends
+US,Josh Alexander,1,6,15,0,x-trends
+US,Kennesaw State,1,6,17,0,x-trends
+US,Starlink,1,6,18,0,x-trends
+US,Mister Miracle,1,6,19,0,x-trends
+US,Bronwyn,1,6,21,0,x-trends
+US,Uribe,1,5,3,0,x-trends
+US,#SistasOnBET,1,5,11,0,x-trends
+US,dl hall,1,4,7,1000,google-trends x-trends
+US,Will Smith,1,4,7,0,x-trends
+US,Pat Murphy,1,4,11,0,x-trends
+US,Josh Hutcherson,1,4,20,0,x-trends
+US,Jalen Duren,1,4,20,0,x-trends
+US,Clockwork Carnage,1,4,24,0,x-trends
+US,Mitchell Robinson,1,4,24,0,x-trends
+US,jake bauers,1,3,1,2000,google-trends x-trends
+US,Musk,1,3,1,0,x-trends
+US,Roma,1,3,2,0,x-trends
+US,Vini,1,3,3,0,x-trends
+US,#AbbottElementary,1,3,9,0,x-trends
+US,#Jailer2,1,3,10,0,x-trends
+US,Muncy,1,3,18,0,x-trends
+US,garrett mitchell,1,2,1,2000,google-trends x-trends
+US,Dave Roberts,1,2,1,0,x-trends
+US,#ITFDB,1,2,2,0,x-trends
+US,#Brewers,1,2,3,0,x-trends
+US,Mbappe,1,2,5,0,x-trends
+US,Valverde,1,2,6,0,x-trends
+US,Diddy,1,2,6,0,x-trends
+US,Raman,1,2,8,0,x-trends
+US,$CRWV,1,2,9,0,x-trends
+US,Kevin Long,1,2,23,0,x-trends
 US,"Pope Leo slept well after cancer surgery, but recovery could take ‘longer than expected’",1,1,1,0,google-news
-US,jake bauers,1,1,1,2000,google-trends
+US,"Ilhan Omar’s phone seized and relatives subpoenaed in criminal inquiry, source says",1,1,1,0,google-news
+US,Medicare,1,1,1,0,x-trends
+US,Paul George,1,1,1,0,x-trends
+US,#ShootingStar,1,1,1,0,x-trends
+US,Kyle Tucker,1,1,1,0,x-trends
+US,Charlie,1,1,1,0,x-trends
+US,RJ Mitte,1,1,1,967200,wikipedia
 US,"Ukraine's Starlink restrictions raise suspicions of Musk, Trump retaliation",1,1,2,0,google-news
 US,dodgers vs milwaukee brewers match player stats,1,1,2,500,google-trends
+US,have the brewers won a world series,1,1,2,500,google-trends
+US,Phil,1,1,2,0,x-trends
+US,Vote YES,1,1,2,0,x-trends
+US,Egor,1,1,2,0,x-trends
+US,Rojas,1,1,2,0,x-trends
+US,Katie Zacharia,1,1,2,451700,wikipedia
 US,Election Updates: Trump Heads to Montana After Rally in Arizona; Talarico Keeps His Edge in Tightening Texas Senate Race,1,1,3,0,google-news
+US,"Election Dispatches: Talarico Remains Ahead in Texas Senate Race, Polls Show, but His Lead Has Narrowed",1,1,3,0,google-news
 US,chicago pd,1,1,3,500,google-trends
-US,"Ilhan Omar’s phone seized and relatives subpoenaed in criminal inquiry, source says",1,1,4,0,google-news
+US,morocco,1,1,3,200,google-trends
+US,$RKLB,1,1,3,0,x-trends
+US,Madrid,1,1,3,0,x-trends
+US,St. John,1,1,3,0,x-trends
+US,Selma Blair,1,1,3,318600,wikipedia
+US,"Katie Zacharia May Have Committed A ‘Crime’ By Claiming She’s A Lawyer, Complaint Suggests",1,1,4,0,google-news
 US,megan fox,1,1,4,10000,google-trends
-US,"Katie Zacharia May Have Committed A ‘Crime’ By Claiming She’s A Lawyer, Complaint Suggests",1,1,5,0,google-news
+US,Zelensky,1,1,4,0,x-trends
+US,Shohei,1,1,4,0,x-trends
+US,Nets,1,1,4,0,x-trends
+US,Kimberly Guilfoyle,1,1,4,264600,wikipedia
 US,a24,1,1,5,2000,google-trends
+US,#sjubb,1,1,5,0,x-trends
+US,Real Madrid,1,1,5,0,x-trends
+US,Hailee Steinfeld,1,1,5,162700,wikipedia
 US,GOP gets another Supreme Court win in TV political ad fight,1,1,6,0,google-news
 US,a24 films,1,1,6,1000,google-trends
+US,Arizona,1,1,6,0,x-trends
+US,メインページ,1,1,6,132200,wikipedia
 US,Sexual assault reported at frat house near University of Chicago,1,1,7,0,google-news
-US,dl hall,1,1,7,1000,google-trends
+US,Blitz,1,1,7,0,x-trends
+US,Dudus,1,1,7,0,x-trends
+US,Mourinho,1,1,7,0,x-trends
+US,Harrison Mevis,1,1,7,117900,wikipedia
 US,"ICE officer appeared to intentionally hit a man with a vehicle in Houston, Texas prosecutor says",1,1,8,0,google-news
 US,street fighter 2026,1,1,8,500,google-trends
+US,Endrick,1,1,8,0,x-trends
+US,Josh Allen,1,1,8,107900,wikipedia
 US,Capitol agenda: Some Republicans write off the House - Live Updates,1,1,9,0,google-news
 US,the paladin marvel,1,1,9,2000,google-trends
+US,Kash,1,1,9,0,x-trends
+US,Speciale:Ricerca,1,1,9,91200,wikipedia
 US,Roller coaster rider’s death puts spotlight on the safety of ever more thrilling rides,1,1,10,0,google-news
 US,abner uribe,1,1,10,5000,google-trends
+US,Sydney Sweeney,1,1,10,0,x-trends
+US,Nidal Hasan,1,1,10,78800,wikipedia
 US,Iranian attacks sink two ships in Strait of Hormuz,1,1,11,0,google-news
+US,Ilhan Omar,1,1,11,74300,wikipedia
 US,World’s oldest shipwreck discovered off coast of Turkey,1,1,12,0,google-news
+US,Carrie (miniseries),1,1,12,74100,wikipedia
 US,"Burnham treads carefully in Zelensky visit, balancing Trump and Ukraine",1,1,13,0,google-news
+US,#ChicagoFire,1,1,13,0,x-trends
+US,Shane Gillis,1,1,13,73400,wikipedia
 US,"Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit",1,1,14,0,google-news
+US,특수:검색,1,1,14,70700,wikipedia
 US,Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries,1,1,15,0,google-news
+US,Daniel and Luis Moncada,1,1,15,70000,wikipedia
 US,Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter,1,1,16,0,google-news
+US,Matthew Stafford,1,1,16,69500,wikipedia
 US,"'Yikes': CoreWeave stock tanks on bond yield woes, CEO blames market acting 'irrationally'",1,1,17,0,google-news
 US,OpenAI employee accused of bugging office booked one-way ticket to Saudi Arabia,1,1,18,0,google-news
+US,#NLCS,1,1,18,0,x-trends
+US,Deaths in 2026,1,1,18,66500,wikipedia
 US,"Apple HomeView Has These 15 Apps, Some CarPlay Apps and Widgets Also Supported",1,1,19,0,google-news
 US,Epic says its new vibe-coded Epic Games Launcher is faster than Steam,1,1,20,0,google-news
+US,Wikidata:Main Page,1,1,20,62300,wikipedia
+US,MediaWiki,1,1,21,59500,wikipedia
+US,Caleb Martin,1,1,22,0,x-trends
+US,Spécial:Recherche,1,1,22,59200,wikipedia
+US,Beauty Revealed,1,1,23,58100,wikipedia
+US,BACK TO BACK,1,1,24,0,x-trends
+US,Unparliamentary language,1,1,24,58000,wikipedia
+US,Wikipedia,1,1,25,57600,wikipedia
+US,Wardlow,1,1,26,0,x-trends
+US,Aikman,1,1,27,0,x-trends
+US,Joey Ortiz,1,1,28,0,x-trends
+US,Ohtani,1,1,28,0,x-trends
+US,Fredericksburg,1,1,29,0,x-trends
+US,Mackenzie Davis,1,1,30,0,x-trends
+VN,#InfluenceFamilyProof,1,3,1,0,x-trends
+VN,Thứ 5,1,3,2,0,x-trends
+VN,Chào,1,3,3,0,x-trends
+VN,#2026MAMAVOTE,1,3,3,0,x-trends
+VN,#제임스의_빛이_차오르길,1,3,5,0,x-trends
+VN,#MoonshadowSeriesFinalEP,1,3,6,0,x-trends
+VN,Thứ Năm,1,3,7,0,x-trends
+VN,#Happy21andOnlyJAMES,1,3,7,0,x-trends
+VN,Ngày,1,3,8,0,x-trends
+VN,LOVE TO THE MOON AND KEY,1,3,8,0,x-trends
+VN,all rounder birthday,1,3,9,0,x-trends
+VN,LAST BUNKER,1,3,12,0,x-trends
+VN,JAMASTERPIECE,1,3,13,0,x-trends
+VN,Chúc,1,3,14,0,x-trends
+VN,PUINOONBINT DESTINY MOMENT,1,3,15,0,x-trends
+VN,Ultra Rare,1,3,16,0,x-trends
+VN,HBD FAYE PERAYA,1,3,17,0,x-trends
+VN,Trader Score,1,3,19,0,x-trends
+VN,I VOTE,1,3,19,0,x-trends
+VN,Challenger,1,3,20,0,x-trends
+VN,Thứ 4,1,3,22,0,x-trends
+VN,Umbra V2,1,3,23,0,x-trends
+VN,Sương,1,3,25,0,x-trends
+VN,ELLEJAY SMOOTH LANDING,1,3,26,0,x-trends
+VN,lena central dolce italia,1,3,27,0,x-trends
+VN,Ditto,1,3,29,0,x-trends
+VN,Bình,1,2,18,0,x-trends
+VN,Nắng,1,2,23,0,x-trends
+VN,Fan's Choice Male,1,2,28,0,x-trends
 VN,"Chỉ đề xuất sửa đổi, bổ sung Điều lệ Đảng đối với vấn đề thật sự cần thiết",1,1,1,0,google-news
 VN,tin tức,1,1,1,500,google-trends
 VN,Thời tiết hôm nay 15-10: Mưa giảm nhưng chiều tối nhiều nơi vẫn mưa dông,1,1,2,0,google-news
 VN,chicago fire đấu với philadelphia,1,1,2,200,google-trends
 VN,Trường công 'mắc kẹt' vì bị cấm thu tiền dạy môn tăng cường,1,1,3,0,google-news
+VN,Tỷ phú Elon Musk lên tiếng sau nghi vấn hạn chế kết nối Starlink ở Ukraine,1,1,3,0,google-news
 VN,germán berterame,1,1,3,100,google-trends
 VN,Tổng thống Zelensky: Ukraine đang mất đi một đối tác mạnh,1,1,4,0,google-news
+VN,Vụ tài xế gây tai nạn khiến nữ sinh 14 tuổi ở Vĩnh Long tử vong: Dự kiến tuyên án 8h sáng nay,1,1,4,0,google-news
 VN,tuoi tre,1,1,4,200,google-trends
 VN,Tuyên Quang tiễn đưa 93 hài cốt liệt sĩ về Nghĩa trang Vị Xuyên,1,1,5,0,google-news
 VN,nashville đấu với sporting kc,1,1,5,500,google-trends
 VN,Khắc phục những bất cập tại trường nội trú 123 tỷ đồng ở Thanh Hóa,1,1,6,0,google-news
+VN,Tin quốc tế sáng 15.10: Nhiều diễn biến mới về Nga - Ukraine và Trung Đông,1,1,6,0,google-news
 VN,giá xăng hôm nay,1,1,6,500,google-trends
 VN,Hoàn tất an táng 731 hài cốt liệt sĩ ở công viên Lê Thị Riêng,1,1,7,0,google-news
 VN,15 tháng 10,1,1,7,200,google-trends
-VN,Vụ tài xế gây tai nạn khiến nữ sinh 14 tuổi ở Vĩnh Long tử vong: Dự kiến tuyên án 8h sáng nay,1,1,8,0,google-news
+VN,"12 cây hoa sữa nở rộ quanh chung cư ở Hà Nội, người dân dùng vòi cao áp phun rụng",1,1,8,0,google-news
 VN,lễ cưới,1,1,8,200,google-trends
-VN,"12 cây hoa sữa nở rộ quanh chung cư ở Hà Nội, người dân dùng vòi cao áp phun rụng",1,1,9,0,google-news
 VN,houthi,1,1,9,200,google-trends
 VN,Giang hồ mạng Ngọc 'Ramboo' bị bắt,1,1,10,0,google-news
 VN,hổ,1,1,10,200,google-trends
@@ -1135,28 +3161,78 @@ VN,Nga 'căng mình' ứng phó hơn 900 UAV của Ukraine,1,1,13,0,google-news
 VN,Australia điều tra vụ camera nghi quay lén phòng tắm nữ trên tàu hải quân,1,1,14,0,google-news
 VN,"Giá vàng giảm sâu, chênh lệch trong nước và thế giới lên hơn 14 triệu đồng",1,1,15,0,google-news
 VN,Lấy đâu gần 3 triệu tỷ đồng phát triển hạ tầng giao thông?,1,1,16,0,google-news
+VN,Quantum Echo,1,1,16,0,x-trends
 VN,Thủ đoạn trốn thuế thông qua chi trả cổ tức 655 tỷ đồng của Shark Bình,1,1,17,0,google-news
 VN,Dự báo giá xăng giảm trong kỳ điều hành giá chiều nay,1,1,18,0,google-news
 VN,"Á hậu Việt Nam để mặt mộc đóng phim đầu tay, được khen gương mặt điện ảnh",1,1,19,0,google-news
+VN,"Á hậu Hồng Đăng lên tiếng vụ bị Quỳnh Anh nói xấu trong nhóm chat, tiết lộ sự thật đau lòng phía sau",1,1,19,0,google-news
 VN,Cường Đôla đi ăn cùng Subeo và bạn gái,1,1,20,0,google-news
+VN,Quip Points,1,1,21,0,x-trends
+VN,zScreen,1,1,23,0,x-trends
+VN,Bánh,1,1,26,0,x-trends
+VN,Gemini 4 Argon,1,1,30,0,x-trends
+VN,hash-based,1,1,30,0,x-trends
+ZA,Rwanda,1,3,1,0,x-trends
+ZA,Semenyo,1,3,2,0,x-trends
+ZA,#CarlingKnockoutCup,1,3,3,0,x-trends
+ZA,#1MillionThankYous,1,3,4,0,x-trends
+ZA,Enzo,1,3,5,0,x-trends
+ZA,Donnarumma,1,3,5,0,x-trends
+ZA,Roma,1,3,6,0,x-trends
+ZA,#Tropika,1,3,6,0,x-trends
+ZA,Bouaddi,1,3,7,0,x-trends
+ZA,Boxer,1,3,7,0,x-trends
+ZA,#Sibiya,1,3,9,0,x-trends
+ZA,#MCIPSG,1,3,11,0,x-trends
+ZA,Real Madrid,1,3,12,0,x-trends
+ZA,Kaizer Chiefs,1,3,14,0,x-trends
+ZA,champion coach,1,3,14,0,x-trends
+ZA,Gayton,1,3,16,0,x-trends
+ZA,Ndiaye,1,3,17,0,x-trends
+ZA,LASK,1,3,18,0,x-trends
+ZA,Maresca,1,3,20,0,x-trends
+ZA,Nunes,1,3,21,0,x-trends
+ZA,Da Cruz,1,3,22,0,x-trends
+ZA,Vini,1,3,23,0,x-trends
+ZA,AVBOB Member Rewards,1,3,24,0,x-trends
+ZA,Grade 1,1,3,25,0,x-trends
+ZA,Zoleka,1,3,26,0,x-trends
+ZA,Khusanov,1,3,27,0,x-trends
+ZA,Mourinho,1,3,28,0,x-trends
+ZA,snapdragon 8,1,3,29,0,x-trends
+ZA,Milford,1,3,30,0,x-trends
+ZA,Anderson,1,2,13,0,x-trends
 ZA,AKA and Tibz murder trial continues after witness testimony,1,1,1,0,google-news
 ZA,hollywoodbet,1,1,1,1000,google-trends
+ZA,inter miami vs new york city fc standings,1,1,1,500,google-trends
+ZA,RJ Mitte,1,1,1,10800,wikipedia
 ZA,"Thursday’s weather: Thundershowers in most parts, heatwave in Eastern Cape, KZN",1,1,2,0,google-news
 ZA,chicago vs philadelphia,1,1,2,2000,google-trends
+ZA,Đặc biệt:Tìm kiếm,1,1,2,2600,wikipedia
 ZA,‘Irresponsible and arrogant’: Malatji criticises Mantashe after Cosatu walkout,1,1,3,0,google-news
 ZA,inter miami vs new york city,1,1,3,5000,google-trends
+ZA,mls,1,1,3,500,google-trends
+ZA,Especial:Mudanças recentes,1,1,3,1900,wikipedia
 ZA,Academics back Umalusi’s call to scrap matric ‘league table’,1,1,4,0,google-news
 ZA,james bond,1,1,4,200,google-trends
+ZA,Speciel:Søgning,1,1,4,1800,wikipedia
 ZA,Madlanga Commission to question socialite Serge Cabonge over police links claims,1,1,5,0,google-news
+ZA,R50 billion tax surprise for South Africa,1,1,5,0,google-news
 ZA,iec,1,1,5,1000,google-trends
+ZA,Speciale:Ricerca,1,1,5,1500,wikipedia
 ZA,DA turns up heat on Tshwane coalition with protest over R777m water tanker bill,1,1,6,0,google-news
 ZA,real betis vs fc porto standings,1,1,6,2000,google-trends
+ZA,Katie Zacharia,1,1,6,1300,wikipedia
 ZA,Shoprite warns of a 15-year low for South Africa,1,1,7,0,google-news
+ZA,State claims Sibiya's lawyers interfered with witnesses,1,1,7,0,google-news
 ZA,europa league,1,1,7,100,google-trends
+ZA,Speciális:Keresés,1,1,7,1300,wikipedia
 ZA,MPs demand clarity on who will pay more under Eskom tariff changes,1,1,8,0,google-news
 ZA,bodø/glimt vs borussia dortmund standings,1,1,8,500,google-trends
+ZA,Especial:Cerca,1,1,8,1300,wikipedia
 ZA,What the Constitutional Court judgment on asylum actually said,1,1,9,0,google-news
 ZA,psg vs barcelona,1,1,9,100,google-trends
+ZA,Selma Blair,1,1,9,1200,wikipedia
 ZA,'Whining baby' Donald Trump gets viral AI treatment after Navi Pillay tantrum,1,1,10,0,google-news
 ZA,aston villa vs fenerbahçe standings,1,1,10,2000,google-trends
 ZA,Matabeleland farmers urged to prioritise traditional grains,1,1,11,0,google-news
@@ -1164,8 +3240,9 @@ ZA,Malawi motorists sleep at petrol stations as fuel shortages return,1,1,12,0,g
 ZA,"Fear of a war between Ethiopia and Eritrea, 28 years after their last, has been ignited as armies from both sides get uncomfortably close to each other",1,1,13,0,google-news
 ZA,R8.9 billion to repair 50-year-old railway line in South Africa,1,1,14,0,google-news
 ZA,Retirement shock for South Africans,1,1,15,0,google-news
-ZA,R50 billion tax surprise for South Africa,1,1,16,0,google-news
 ZA,South African rand slides as US inflation print boosts Fed tightening bets,1,1,17,0,google-news
 ZA,Apple unveils HomeView as AI fuels new challenge to Amazon and Google,1,1,18,0,google-news
+ZA,SA factories crushed as Trump tariffs redirect Chinese goods,1,1,18,0,google-news
 ZA,Running on empty? Five simple ways to fight year-end fatigue,1,1,19,0,google-news
+ZA,Man City,1,1,19,0,x-trends
 ZA,Good news for people who pay their DStv bills on time,1,1,20,0,google-news
