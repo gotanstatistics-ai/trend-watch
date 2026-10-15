@@ -7,6 +7,7 @@ is written loosely and the `doctor` command tells you if it stops matching."""
 from __future__ import annotations
 
 import html
+import os
 import re
 
 from ..model import Entry, to_int
@@ -19,12 +20,31 @@ COUNT = re.compile(r"<span[^>]*class=\"[^\"]*tweet-count[^\"]*\"[^>]*>(.*?)</spa
 TAG = re.compile(r"<[^>]+>")
 
 
-def parse_page(text, country, city, today, fetched_at, limit=30):
+CARD_LOOSE = re.compile(r"<ol[^>]*>(.*?)</ol>", re.S)
+DEBUG_DIR = None     # set by fetch(): where to save a page that could not be parsed
+
+
+def first_list(text):
     cards = CARD.findall(text)
-    if not cards:
+    if cards:
+        return cards[0]
+    # layout changed: take the first <ol> that holds links with a hashtag or a trend-looking path
+    for ol in CARD_LOOSE.findall(text):
+        if ol.count("<li") >= 5 and LINK.search(ol):
+            return ol
+    return None
+
+
+def parse_page(text, country, city, today, fetched_at, limit=30):
+    card = first_list(text)
+    if card is None:
+        if DEBUG_DIR:
+            os.makedirs(DEBUG_DIR, exist_ok=True)
+            with open(os.path.join(DEBUG_DIR, f"trends24-{country}-{city or 'country'}.html"), "w", encoding="utf-8") as f:
+                f.write(text[:200000])
         raise ValueError("no trend list found on page (layout changed?)")
     out = []
-    for rank, li in enumerate(ITEM.findall(cards[0]), 1):
+    for rank, li in enumerate(ITEM.findall(card), 1):
         m = LINK.search(li)
         if not m:
             continue
@@ -44,7 +64,10 @@ def parse_page(text, country, city, today, fetched_at, limit=30):
 
 
 def fetch(http, config, today, fetched_at, log):
+    global DEBUG_DIR
+    DEBUG_DIR = config.get("_debug_dir")
     out = []
+    saved = 0
     for c in config["countries"]:
         slug = c.get("x")
         if not slug:
@@ -57,4 +80,7 @@ def fetch(http, config, today, fetched_at, log):
                 log(f"  x-trends {c['code']} {city or 'country'}: {len(rows)}")
             except Exception as e:
                 log(f"  x-trends {c['code']} {city or 'country'}: FAILED {e}")
+                saved += 1
+                if saved >= 2 and DEBUG_DIR:
+                    DEBUG_DIR = None      # two saved pages are enough to fix the parser
     return out

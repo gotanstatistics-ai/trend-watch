@@ -35,6 +35,7 @@ def load_config(path, countries=None):
 
 def cmd_fetch(args, log):
     cfg = load_config(args.config, args.countries)
+    cfg["_debug_dir"] = os.path.join(args.data, "debug")
     today = args.today or dt.date.today().isoformat()
     fetched_at = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
     http = Http(cache_dir=args.cache, log=log)

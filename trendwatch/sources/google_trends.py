@@ -82,8 +82,11 @@ def cities_for(http, topic, country, resolution="CITY", log=print):
     request = dict(widget["request"])
     request["resolution"] = resolution
     url = GEO.format(req=quote(json.dumps(request, separators=(",", ":"))), token=widget["token"])
-    return parse_geo(http.get(url, accept="application/json",
-                              headers={"Referer": "https://trends.google.com/trends/explore"}))
+    text = http.get(url, accept="application/json", headers={"Referer": "https://trends.google.com/trends/explore"})
+    rows = parse_geo(text)
+    if not rows:
+        log(f"  google-cities: empty answer for '{topic}': {text[:200]!r}")
+    return rows
 
 
 def fetch_cities(http, entries, country, today, fetched_at, log, top=5, pause=3.0):

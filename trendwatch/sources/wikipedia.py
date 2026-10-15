@@ -7,6 +7,7 @@ from __future__ import annotations
 
 import datetime as dt
 import re
+import time
 
 from ..model import Entry, to_int
 
@@ -53,14 +54,37 @@ def parse_edition(data, lang, day, fetched_at, limit=25):
     return out
 
 
+UA = {"User-Agent": "trend-watch/1.0 (https://github.com/gotanstatistics-ai/trend-watch)"}
+PAUSE = 0.6     # Wikimedia asks for a gentle rate
+
+
+def _get(http, url):
+    time.sleep(PAUSE)
+    return http.get_json(url, strip_prefix=None, headers=UA)
+
+
+def latest_day(http, today, log):
+    """Wikimedia publishes a day late, sometimes two. Find the newest day that exists."""
+    for back in (1, 2, 3):
+        day = dt.date.fromisoformat(today) - dt.timedelta(days=back)
+        try:
+            _get(http, TOP_EDITION.format(lang="en", **_ymd(day)))
+            return day
+        except Exception as e:
+            log(f"  wikipedia: {day} not available yet ({str(e)[:40]})")
+    return None
+
+
 def fetch(http, config, today, fetched_at, log):
-    day = dt.date.fromisoformat(today) - dt.timedelta(days=1)
+    day = latest_day(http, today, log)
+    if day is None:
+        raise RuntimeError("no Wikipedia day available in the last 3 days")
     ds = day.isoformat()
     out = []
     for c in config["countries"]:
         cc = c["code"]
         try:
-            data = http.get_json(TOP_COUNTRY.format(cc=cc, **_ymd(day)), strip_prefix=None)
+            data = _get(http, TOP_COUNTRY.format(cc=cc, **_ymd(day)))
             rows = parse_country(data, cc, ds, fetched_at)
             out.extend(rows)
             log(f"  wikipedia {cc}: {len(rows)} pages")
@@ -68,7 +92,7 @@ def fetch(http, config, today, fetched_at, log):
             log(f"  wikipedia {cc}: FAILED {e}")
     for lang in config.get("wikipedia_editions", []):
         try:
-            data = http.get_json(TOP_EDITION.format(lang=lang, **_ymd(day)), strip_prefix=None)
+            data = _get(http, TOP_EDITION.format(lang=lang, **_ymd(day)))
             rows = parse_edition(data, lang, ds, fetched_at)
             out.extend(rows)
             log(f"  wikipedia-{lang}: {len(rows)} pages")

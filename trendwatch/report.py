@@ -5,12 +5,27 @@ import csv
 import datetime as dt
 import math
 import os
+import re
 from collections import Counter, defaultdict
 
 from . import WINDOW_DAYS
 from .model import key
 
-TOPIC_COLUMNS = ["rank", "topic", "score", "days", "countries", "cities", "sources", "first_seen", "last_seen",
+MATCH = re.compile(r"\b(vs\.?|v|versus|contra|standings|live stream|lineup|line-up|score|fixtures?|highlights?)\b|"
+                   r" - | – |\bweather( today| update)?\b", re.I)
+
+
+def kind_of(topic):
+    """'match' for sports fixtures and scores, 'news' for weather and the like, else 'topic'."""
+    t = topic.lower()
+    if re.search(r"\bweather\b", t):
+        return "news"
+    if MATCH.search(t):
+        return "match"
+    return "topic"
+
+
+TOPIC_COLUMNS = ["rank", "topic", "kind", "score", "days", "countries", "cities", "sources", "first_seen", "last_seen",
                  "peak_traffic", "country_list", "city_list", "source_list", "headline", "url"]
 
 # Headlines from Google News are full sentences; they rarely match other sources and would
@@ -50,7 +65,7 @@ def rank_topics(entries, today):
         names = Counter(e.topic for e in es)
         display = max(names, key=lambda t: (not t.startswith("#"), names[t], t == t.title(), len(t)))
         head = headlines.get(k)
-        rows.append({"topic": display, "score": round(score, 1), "days": len(days), "countries": len(countries),
+        rows.append({"topic": display, "kind": kind_of(display), "score": round(score, 1), "days": len(days), "countries": len(countries),
                      "cities": len(cities), "sources": len(sources), "first_seen": days[0], "last_seen": days[-1],
                      "peak_traffic": peak, "country_list": " ".join(countries), "city_list": ", ".join(cities[:12]),
                      "source_list": " ".join(sources), "headline": (head.note + ": " + head.topic) if head else best.note,
@@ -113,11 +128,14 @@ def write_report(data_dir, today, log=print, top=50):
              f"## Top {top} topics", "",
              "| # | Topic | Score | Days | Countries | Sources | Cities | Peak | Headline |",
              "|--:|---|--:|--:|---|---|---|--:|---|"]
-    for r in topics[:top]:
+    for r in [t for t in topics if t["kind"] == "topic"][:top]:
         head = (r["headline"] or "").replace("|", "/")[:90]
         lines.append(f"| {r['rank']} | {r['topic'].replace('|', '/')} | {r['score']} | {r['days']} | "
                      f"{r['country_list'][:40]} | {r['source_list']} | {r['city_list'][:50]} | "
                      f"{r['peak_traffic']:,} | {head} |")
+    lines += ["", "## Sports matches and passing news (not documentary subjects)", ""]
+    passing = [r for r in topics if r["kind"] != "topic"][:25]
+    lines += [", ".join(r["topic"] for r in passing) or "none"]
     lines += ["", "## Lasting topics (seen on 3 or more days)", ""]
     lasting = [r for r in topics if r["days"] >= 3][:30]
     lines += [f"- **{r['topic']}** ({r['days']} days, {r['country_list'] or 'worldwide'})" for r in lasting] or ["- none yet"]

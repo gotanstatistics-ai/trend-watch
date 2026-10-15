@@ -1,55 +1,546 @@
 {
-  "_about": [
-    "Countries and cities trend-watch looks at. Edit freely.",
-    "code: ISO country code used by Google Trends, Google News and Wikipedia.",
-    "news: language and edition for Google News (hl, ceid).",
-    "x: the country page name on trends24.in (X / Twitter trends).",
-    "cities: city page names on trends24.in for city-wise X trends.",
-    "deep: true means Google Trends is also asked which cities search for each top topic (slow, so only a few countries)."
-  ],
-  "countries": [
-    {"code": "IN", "name": "India", "news": ["en-IN", "IN:en"], "x": "india", "deep": true,
-     "cities": ["bangalore", "mumbai", "delhi", "chennai", "hyderabad", "kolkata", "pune", "ahmedabad", "jaipur", "lucknow", "surat", "kanpur", "nagpur", "patna", "indore", "thane", "bhopal", "ranchi", "rajkot", "chandigarh"]},
-    {"code": "US", "name": "United States", "news": ["en-US", "US:en"], "x": "united-states", "deep": true,
-     "cities": ["new-york", "los-angeles", "chicago", "houston", "san-francisco", "seattle", "miami", "boston", "atlanta", "dallas"]},
-    {"code": "GB", "name": "United Kingdom", "news": ["en-GB", "GB:en"], "x": "united-kingdom", "deep": true,
-     "cities": ["london", "manchester", "birmingham", "glasgow", "leeds"]},
-    {"code": "CA", "name": "Canada", "news": ["en-CA", "CA:en"], "x": "canada", "cities": ["toronto", "vancouver", "montreal"]},
-    {"code": "AU", "name": "Australia", "news": ["en-AU", "AU:en"], "x": "australia", "cities": ["sydney", "melbourne", "brisbane", "perth"]},
-    {"code": "NZ", "name": "New Zealand", "news": ["en-NZ", "NZ:en"], "x": "new-zealand", "cities": ["auckland"]},
-    {"code": "IE", "name": "Ireland", "news": ["en-IE", "IE:en"], "x": "ireland", "cities": ["dublin"]},
-    {"code": "SG", "name": "Singapore", "news": ["en-SG", "SG:en"], "x": "singapore", "cities": []},
-    {"code": "MY", "name": "Malaysia", "news": ["en-MY", "MY:en"], "x": "malaysia", "cities": ["kuala-lumpur"]},
-    {"code": "PH", "name": "Philippines", "news": ["en-PH", "PH:en"], "x": "philippines", "cities": ["manila", "quezon-city"]},
-    {"code": "PK", "name": "Pakistan", "news": ["en-PK", "PK:en"], "x": "pakistan", "cities": ["karachi", "lahore", "islamabad"]},
-    {"code": "BD", "name": "Bangladesh", "news": ["en-BD", "BD:en"], "x": "bangladesh", "cities": ["dhaka"]},
-    {"code": "LK", "name": "Sri Lanka", "news": ["en-LK", "LK:en"], "x": "sri-lanka", "cities": []},
-    {"code": "AE", "name": "United Arab Emirates", "news": ["en-AE", "AE:en"], "x": "united-arab-emirates", "cities": ["dubai", "abu-dhabi"]},
-    {"code": "SA", "name": "Saudi Arabia", "news": ["ar", "SA:ar"], "x": "saudi-arabia", "cities": ["riyadh", "jeddah"]},
-    {"code": "EG", "name": "Egypt", "news": ["ar", "EG:ar"], "x": "egypt", "cities": ["cairo"]},
-    {"code": "ZA", "name": "South Africa", "news": ["en-ZA", "ZA:en"], "x": "south-africa", "cities": ["johannesburg", "cape-town"]},
-    {"code": "NG", "name": "Nigeria", "news": ["en-NG", "NG:en"], "x": "nigeria", "cities": ["lagos", "abuja"]},
-    {"code": "KE", "name": "Kenya", "news": ["en-KE", "KE:en"], "x": "kenya", "cities": ["nairobi"]},
-    {"code": "DE", "name": "Germany", "news": ["de", "DE:de"], "x": "germany", "cities": ["berlin", "munich", "hamburg"]},
-    {"code": "FR", "name": "France", "news": ["fr", "FR:fr"], "x": "france", "cities": ["paris", "marseille", "lyon"]},
-    {"code": "IT", "name": "Italy", "news": ["it", "IT:it"], "x": "italy", "cities": ["rome", "milan"]},
-    {"code": "ES", "name": "Spain", "news": ["es", "ES:es"], "x": "spain", "cities": ["madrid", "barcelona"]},
-    {"code": "NL", "name": "Netherlands", "news": ["nl", "NL:nl"], "x": "netherlands", "cities": ["amsterdam"]},
-    {"code": "SE", "name": "Sweden", "news": ["sv", "SE:sv"], "x": "sweden", "cities": ["stockholm"]},
-    {"code": "PL", "name": "Poland", "news": ["pl", "PL:pl"], "x": "poland", "cities": ["warsaw"]},
-    {"code": "TR", "name": "Turkey", "news": ["tr", "TR:tr"], "x": "turkey", "cities": ["istanbul", "ankara"]},
-    {"code": "RU", "name": "Russia", "news": ["ru", "RU:ru"], "x": "russia", "cities": ["moscow", "saint-petersburg"]},
-    {"code": "JP", "name": "Japan", "news": ["ja", "JP:ja"], "x": "japan", "cities": ["tokyo", "osaka"]},
-    {"code": "KR", "name": "South Korea", "news": ["ko", "KR:ko"], "x": "korea", "cities": ["seoul"]},
-    {"code": "TW", "name": "Taiwan", "news": ["zh-TW", "TW:zh-Hant"], "x": "taiwan", "cities": ["taipei"]},
-    {"code": "ID", "name": "Indonesia", "news": ["id", "ID:id"], "x": "indonesia", "cities": ["jakarta", "surabaya", "bandung"]},
-    {"code": "TH", "name": "Thailand", "news": ["th", "TH:th"], "x": "thailand", "cities": ["bangkok"]},
-    {"code": "VN", "name": "Vietnam", "news": ["vi", "VN:vi"], "x": "vietnam", "cities": ["hanoi", "ho-chi-minh-city"]},
-    {"code": "BR", "name": "Brazil", "news": ["pt-BR", "BR:pt-419"], "x": "brazil", "cities": ["sao-paulo", "rio-de-janeiro"]},
-    {"code": "MX", "name": "Mexico", "news": ["es-419", "MX:es-419"], "x": "mexico", "cities": ["mexico-city", "guadalajara"]},
-    {"code": "AR", "name": "Argentina", "news": ["es-419", "AR:es-419"], "x": "argentina", "cities": ["buenos-aires"]},
-    {"code": "CO", "name": "Colombia", "news": ["es-419", "CO:es-419"], "x": "colombia", "cities": ["bogota"]},
-    {"code": "CL", "name": "Chile", "news": ["es-419", "CL:es-419"], "x": "chile", "cities": ["santiago"]}
-  ],
-  "wikipedia_editions": ["en", "hi", "kn", "ta", "te", "ml", "mr", "bn", "de", "fr", "es", "ja", "ru", "pt", "ar", "id"]
+ "_about": [
+  "Countries and cities trend-watch looks at. Edit freely.",
+  "code: ISO country code used by Google Trends, Google News and Wikipedia.",
+  "news: language and edition for Google News (hl, ceid).",
+  "x: the country page name on trends24.in (X / Twitter trends).",
+  "cities: city page names on trends24.in for city-wise X trends.",
+  "deep: true means Google Trends is also asked which cities search for each top topic (slow, so only a few countries)."
+ ],
+ "countries": [
+  {
+   "code": "IN",
+   "name": "India",
+   "news": [
+    "en-IN",
+    "IN:en"
+   ],
+   "x": "india",
+   "deep": true,
+   "cities": [
+    "bangalore",
+    "mumbai",
+    "delhi",
+    "chennai",
+    "hyderabad",
+    "kolkata",
+    "pune",
+    "ahmedabad",
+    "jaipur",
+    "lucknow",
+    "surat",
+    "kanpur",
+    "nagpur",
+    "patna",
+    "indore",
+    "thane",
+    "bhopal",
+    "ranchi",
+    "rajkot"
+   ]
+  },
+  {
+   "code": "US",
+   "name": "United States",
+   "news": [
+    "en-US",
+    "US:en"
+   ],
+   "x": "united-states",
+   "deep": true,
+   "cities": [
+    "new-york",
+    "los-angeles",
+    "chicago",
+    "houston",
+    "san-francisco",
+    "seattle",
+    "miami",
+    "boston",
+    "atlanta"
+   ]
+  },
+  {
+   "code": "GB",
+   "name": "United Kingdom",
+   "news": [
+    "en-GB",
+    "GB:en"
+   ],
+   "x": "united-kingdom",
+   "deep": true,
+   "cities": [
+    "london",
+    "manchester",
+    "birmingham",
+    "glasgow",
+    "leeds"
+   ]
+  },
+  {
+   "code": "CA",
+   "name": "Canada",
+   "news": [
+    "en-CA",
+    "CA:en"
+   ],
+   "x": "canada",
+   "cities": [
+    "toronto",
+    "vancouver",
+    "montreal"
+   ]
+  },
+  {
+   "code": "AU",
+   "name": "Australia",
+   "news": [
+    "en-AU",
+    "AU:en"
+   ],
+   "x": "australia",
+   "cities": [
+    "sydney",
+    "melbourne",
+    "brisbane",
+    "perth"
+   ]
+  },
+  {
+   "code": "NZ",
+   "name": "New Zealand",
+   "news": [
+    "en-NZ",
+    "NZ:en"
+   ],
+   "x": "new-zealand",
+   "cities": [
+    "auckland"
+   ]
+  },
+  {
+   "code": "IE",
+   "name": "Ireland",
+   "news": [
+    "en-IE",
+    "IE:en"
+   ],
+   "x": "ireland",
+   "cities": [
+    "dublin"
+   ]
+  },
+  {
+   "code": "SG",
+   "name": "Singapore",
+   "news": [
+    "en-SG",
+    "SG:en"
+   ],
+   "x": "singapore",
+   "cities": []
+  },
+  {
+   "code": "MY",
+   "name": "Malaysia",
+   "news": [
+    "en-MY",
+    "MY:en"
+   ],
+   "x": "malaysia",
+   "cities": [
+    "kuala-lumpur"
+   ]
+  },
+  {
+   "code": "PH",
+   "name": "Philippines",
+   "news": [
+    "en-PH",
+    "PH:en"
+   ],
+   "x": "philippines",
+   "cities": [
+    "manila",
+    "quezon-city"
+   ]
+  },
+  {
+   "code": "PK",
+   "name": "Pakistan",
+   "news": [
+    "en-PK",
+    "PK:en"
+   ],
+   "x": "pakistan",
+   "cities": [
+    "karachi",
+    "lahore"
+   ]
+  },
+  {
+   "code": "BD",
+   "name": "Bangladesh",
+   "news": [
+    "en-BD",
+    "BD:en"
+   ],
+   "cities": [
+    "dhaka"
+   ]
+  },
+  {
+   "code": "LK",
+   "name": "Sri Lanka",
+   "news": [
+    "en-LK",
+    "LK:en"
+   ],
+   "cities": []
+  },
+  {
+   "code": "AE",
+   "name": "United Arab Emirates",
+   "news": [
+    "en-AE",
+    "AE:en"
+   ],
+   "x": "united-arab-emirates",
+   "cities": [
+    "dubai",
+    "abu-dhabi"
+   ]
+  },
+  {
+   "code": "SA",
+   "name": "Saudi Arabia",
+   "news": [
+    "ar",
+    "SA:ar"
+   ],
+   "x": "saudi-arabia",
+   "cities": [
+    "riyadh",
+    "jeddah"
+   ]
+  },
+  {
+   "code": "EG",
+   "name": "Egypt",
+   "news": [
+    "ar",
+    "EG:ar"
+   ],
+   "x": "egypt",
+   "cities": [
+    "cairo"
+   ]
+  },
+  {
+   "code": "ZA",
+   "name": "South Africa",
+   "news": [
+    "en-ZA",
+    "ZA:en"
+   ],
+   "x": "south-africa",
+   "cities": [
+    "johannesburg",
+    "cape-town"
+   ]
+  },
+  {
+   "code": "NG",
+   "name": "Nigeria",
+   "news": [
+    "en-NG",
+    "NG:en"
+   ],
+   "x": "nigeria",
+   "cities": [
+    "lagos"
+   ]
+  },
+  {
+   "code": "KE",
+   "name": "Kenya",
+   "news": [
+    "en-KE",
+    "KE:en"
+   ],
+   "x": "kenya",
+   "cities": [
+    "nairobi"
+   ]
+  },
+  {
+   "code": "DE",
+   "name": "Germany",
+   "news": [
+    "de",
+    "DE:de"
+   ],
+   "x": "germany",
+   "cities": [
+    "berlin",
+    "munich",
+    "hamburg"
+   ]
+  },
+  {
+   "code": "FR",
+   "name": "France",
+   "news": [
+    "fr",
+    "FR:fr"
+   ],
+   "x": "france",
+   "cities": [
+    "paris",
+    "marseille",
+    "lyon"
+   ]
+  },
+  {
+   "code": "IT",
+   "name": "Italy",
+   "news": [
+    "it",
+    "IT:it"
+   ],
+   "x": "italy",
+   "cities": [
+    "rome",
+    "milan"
+   ]
+  },
+  {
+   "code": "ES",
+   "name": "Spain",
+   "news": [
+    "es",
+    "ES:es"
+   ],
+   "x": "spain",
+   "cities": [
+    "madrid",
+    "barcelona"
+   ]
+  },
+  {
+   "code": "NL",
+   "name": "Netherlands",
+   "news": [
+    "nl",
+    "NL:nl"
+   ],
+   "x": "netherlands",
+   "cities": [
+    "amsterdam"
+   ]
+  },
+  {
+   "code": "SE",
+   "name": "Sweden",
+   "news": [
+    "sv",
+    "SE:sv"
+   ],
+   "x": "sweden",
+   "cities": [
+    "stockholm"
+   ]
+  },
+  {
+   "code": "PL",
+   "name": "Poland",
+   "news": [
+    "pl",
+    "PL:pl"
+   ],
+   "x": "poland",
+   "cities": [
+    "warsaw"
+   ]
+  },
+  {
+   "code": "TR",
+   "name": "Turkey",
+   "news": [
+    "tr",
+    "TR:tr"
+   ],
+   "x": "turkey",
+   "cities": [
+    "istanbul",
+    "ankara"
+   ]
+  },
+  {
+   "code": "RU",
+   "name": "Russia",
+   "news": [
+    "ru",
+    "RU:ru"
+   ],
+   "x": "russia",
+   "cities": [
+    "moscow",
+    "saint-petersburg"
+   ]
+  },
+  {
+   "code": "JP",
+   "name": "Japan",
+   "news": [
+    "ja",
+    "JP:ja"
+   ],
+   "x": "japan",
+   "cities": [
+    "tokyo",
+    "osaka"
+   ]
+  },
+  {
+   "code": "KR",
+   "name": "South Korea",
+   "news": [
+    "ko",
+    "KR:ko"
+   ],
+   "x": "korea",
+   "cities": [
+    "seoul"
+   ]
+  },
+  {
+   "code": "TW",
+   "name": "Taiwan",
+   "news": [
+    "zh-TW",
+    "TW:zh-Hant"
+   ],
+   "cities": []
+  },
+  {
+   "code": "ID",
+   "name": "Indonesia",
+   "news": [
+    "id",
+    "ID:id"
+   ],
+   "x": "indonesia",
+   "cities": [
+    "jakarta",
+    "surabaya",
+    "bandung"
+   ]
+  },
+  {
+   "code": "TH",
+   "name": "Thailand",
+   "news": [
+    "th",
+    "TH:th"
+   ],
+   "x": "thailand",
+   "cities": [
+    "bangkok"
+   ]
+  },
+  {
+   "code": "VN",
+   "name": "Vietnam",
+   "news": [
+    "vi",
+    "VN:vi"
+   ],
+   "x": "vietnam",
+   "cities": [
+    "hanoi",
+    "ho-chi-minh-city"
+   ]
+  },
+  {
+   "code": "BR",
+   "name": "Brazil",
+   "news": [
+    "pt-BR",
+    "BR:pt-419"
+   ],
+   "x": "brazil",
+   "cities": [
+    "sao-paulo",
+    "rio-de-janeiro"
+   ]
+  },
+  {
+   "code": "MX",
+   "name": "Mexico",
+   "news": [
+    "es-419",
+    "MX:es-419"
+   ],
+   "x": "mexico",
+   "cities": [
+    "mexico-city",
+    "guadalajara"
+   ]
+  },
+  {
+   "code": "AR",
+   "name": "Argentina",
+   "news": [
+    "es-419",
+    "AR:es-419"
+   ],
+   "x": "argentina",
+   "cities": [
+    "buenos-aires"
+   ]
+  },
+  {
+   "code": "CO",
+   "name": "Colombia",
+   "news": [
+    "es-419",
+    "CO:es-419"
+   ],
+   "x": "colombia",
+   "cities": [
+    "bogota"
+   ]
+  },
+  {
+   "code": "CL",
+   "name": "Chile",
+   "news": [
+    "es-419",
+    "CL:es-419"
+   ],
+   "x": "chile",
+   "cities": [
+    "santiago"
+   ]
+  }
+ ],
+ "wikipedia_editions": [
+  "en",
+  "hi",
+  "kn",
+  "ta",
+  "te",
+  "ml",
+  "mr",
+  "bn",
+  "de",
+  "fr",
+  "es",
+  "ja",
+  "ru",
+  "pt",
+  "ar",
+  "id"
+ ]
 }
