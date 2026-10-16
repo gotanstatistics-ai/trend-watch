@@ -1,0 +1,39 @@
+{
+ "_about": "Brand settings for the Instagram posters. Colours are hex. Edit freely; make_poster.py reads this.",
+ "name": "Wonders Of the Universe",
+ "handle": "@gopiwonders7",
+ "youtube": "youtube.com/@GopiWonders7",
+ "cta": "Full documentaries on YouTube",
+ "colors": {
+  "bg_top": "#0A1030",
+  "bg_bottom": "#1E0F4A",
+  "glow": "#6D3BFF",
+  "glow2": "#2B6BFF",
+  "headline": "#FFFFFF",
+  "body": "#DCE6FF",
+  "accent": "#8FB8FF",
+  "muted": "#8E95B8",
+  "badge_bg": "#5B2EE0",
+  "badge_text": "#FFFFFF",
+  "line": "#3A3F6E"
+ },
+ "lanes": {
+  "space": "SPACE",
+  "science": "SCIENCE",
+  "nature": "NATURE",
+  "markets": "MARKETS",
+  "medical": "HEALTH",
+  "tech": "TECH",
+  "history": "HISTORY"
+ },
+ "hashtags": {
+  "common": ["#science", "#documentary", "#wondersoftheuniverse", "#didyouknow", "#explained"],
+  "space": ["#space", "#nasa", "#isro", "#astronomy", "#universe"],
+  "science": ["#sciencenews", "#discovery", "#research", "#physics"],
+  "nature": ["#nature", "#earth", "#climate", "#weather", "#earthquake"],
+  "markets": ["#stockmarket", "#sensex", "#economy", "#finance", "#business"],
+  "medical": ["#health", "#medicine", "#healthnews", "#wellness"],
+  "tech": ["#technology", "#tech", "#innovation", "#ai", "#future"],
+  "history": ["#history", "#archaeology", "#ancient", "#heritage"]
+ }
+}

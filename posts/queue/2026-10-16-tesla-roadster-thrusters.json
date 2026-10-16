@@ -1,0 +1,14 @@
+{
+ "date": "2026-10-16",
+ "lane": "tech",
+ "slug": "tesla-roadster-thrusters",
+ "source": "Electrek",
+ "url": "https://electrek.co/2026/10/15/an-updated-technical-look-at-teslas-kick-flipping-0-60-in-1s-next-gen-roadster/",
+ "headline": "Tesla's new Roadster jumped, flipped and drove upside down. Here is how it actually does it",
+ "facts": [
+  "Tanks of compressed air feed cold-gas thrusters: four at the rear give about 80 kN of push, with more on the sides and underneath for jumps.",
+  "Fans and skirts suck the car onto the road, the trick that let it drive up a wall and along the ceiling of a loop.",
+  "Claimed 0 to 60 mph in 0.81 seconds and a top speed above 230 mph, but only on the one-seat Rocket trim, which is not road legal.",
+  "Open questions: how long the air lasts, the safety of the gas plumes, and whether a human can take that acceleration."
+ ]
+}

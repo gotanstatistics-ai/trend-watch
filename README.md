@@ -121,3 +121,17 @@ Claude session and ask it to fix that one file.
 - Never add a source that costs money without asking once and explaining the advantage.
 - Keep the 15-day window; this is for picking topics, not for history.
 - Keep `data/` files in the same columns; the Google Sheet depends on them.
+
+## Instagram posters (`posts/`)
+
+`posts/make_poster.py` turns a small JSON file (headline, 3-4 facts, source, lane) into a branded feed poster
+(1080x1350), a story poster (1080x1920) and a caption with hashtags. Brand colours, handle and hashtags are
+in `posts/brand.json`; fonts (Poppins, open licence) and the logo ship in `posts/fonts` and `posts/brand`.
+
+```
+python posts/make_poster.py --date 2026-10-16        # renders every posts/queue/2026-10-16-*.json
+```
+
+Post files live in `posts/queue/<date>-<slug>.json`; output lands in `posts/out/<date>/`. The stories are
+picked from `data/lane-topics.csv` and `data/lane-news.csv`; the facts are written from the source article
+and the source is named on the poster and in the caption. Needs `pip install pillow`.
