@@ -18,6 +18,9 @@
  th{color:var(--mute);font-weight:600;cursor:pointer;white-space:nowrap;position:sticky;top:0;background:var(--card)} th.on{color:var(--acc)}
  tr.pick td{background:#eef4ff} tr:hover td{background:#f8fafc;cursor:pointer} .n{text-align:right;white-space:nowrap}
  .tag{display:inline-block;font-size:11px;padding:1px 6px;border-radius:10px;background:#eef;color:#335} .tag.match{background:#fee;color:#833} .tag.news{background:#efe;color:#363}
+ .lane{display:inline-block;font-size:11px;padding:1px 7px;border-radius:10px;color:#fff;background:#6b7280;white-space:nowrap}
+ .lane.space{background:#4f46e5}.lane.science{background:#0891b2}.lane.nature{background:#16a34a}.lane.markets{background:#d97706}.lane.medical{background:#dc2626}.lane.tech{background:#2563eb}.lane.history{background:#92400e}
+ .mine{border:2px solid #4f46e5}
  .wrap{max-height:520px;overflow:auto} .small{color:var(--mute);font-size:12px} a{color:var(--acc)}
  button{font-size:13px;padding:6px 10px;border:1px solid var(--line);background:#fff;border-radius:6px;cursor:pointer}
 </style></head><body>
@@ -28,6 +31,7 @@
  <div class="f">Days<select id="days"><option value="1">last 1 day</option><option value="3">last 3 days</option><option value="7">last 7 days</option><option value="15" selected>last 15 days</option></select></div>
  <div class="f">Country<select id="country"><option value="">all</option></select></div>
  <div class="f">City<select id="city"><option value="">all</option></select></div>
+ <div class="f">Lane<select id="lane"><option value="">all topics</option><option value="any">any lane (your subjects)</option></select></div>
  <div class="f">Kind<select id="kind"><option value="topic" selected>real topics</option><option value="">everything</option><option value="match">sports matches</option><option value="news">passing news</option></select></div>
  <div class="f">Min countries<select id="minc"><option>1</option><option>2</option><option>3</option><option>5</option><option>10</option></select></div>
  <div class="f">Search<input id="q" placeholder="topic contains..."></div>
@@ -40,6 +44,11 @@
 </div>
 
 <div class="tiles" id="tiles"></div>
+
+<div class="grid">
+ <div class="card mine"><h3 id="hLT">Your lane: trending topics worth a post</h3><div class="wrap"><table id="tLT"></table></div></div>
+ <div class="card mine"><h3 id="hLN">Your lane: fresh headlines from NASA, ISRO, science and market feeds (last 3 days)</h3><div class="wrap"><table id="tLN"></table></div></div>
+</div>
 
 <div class="grid" id="platforms">
  <div class="card"><h3 id="hG">Google: searched today</h3><div class="wrap"><table id="tG"></table></div></div>
@@ -55,7 +64,7 @@
 </div>
 
 <div class="card"><h3 id="hTable">Topics</h3><div class="wrap"><table id="tTopics"></table></div>
- <p class="small">Click a column to sort, click a row to see its day-by-day line. Score = countries x 3 + sources x 4 + days x 2 + rank bonus + size. Days = on how many of the chosen days it trended. GitHub fetches every 6 hours; the sheet refreshes hourly.</p></div>
+ <p class="small">Click a column to sort, click a row to see its day-by-day line. Score = countries x 3 + sources x 4 + days x 2 + rank bonus + size. Lane = the subject group (space, science, nature, markets, medical, tech, history); the words that define each lane are in lanes.json in the repo. Days = on how many of the chosen days it trended. GitHub fetches every 6 hours; the sheet refreshes hourly.</p></div>
 
 <script>
 let D = null, sel = null, sortKey = "score", sortDir = -1, charts = {};
@@ -71,7 +80,7 @@ function state() {
   const picked = [...document.querySelectorAll("#platforms input:checked")].map(i => i.value);
   const srcs = picked.flatMap(p => p === "youtube" ? ["youtube", "youtube-suggest"] : [p]);
   const show = p => !picked.length || picked.includes(p);
-  return {days: +$("days").value, country: $("country").value, city: $("city").value, kind: $("kind").value,
+  return {days: +$("days").value, country: $("country").value, city: $("city").value, kind: $("kind").value, lane: $("lane").value,
           minc: +$("minc").value, q: $("q").value.toLowerCase(), srcs, show};
 }
 
@@ -88,6 +97,7 @@ function topicsNow() {
     const w = inWin[t.topic];
     if (!w) return false;
     if (s.kind && t.kind !== s.kind) return false;
+    if (s.lane === "any" ? !t.lane : (s.lane && t.lane !== s.lane)) return false;
     if (+t.countries < s.minc) return false;
     if (s.q && !String(t.topic).toLowerCase().includes(s.q)) return false;
     if (s.country && !String(t.country_list).split(" ").includes(s.country)) return false;
@@ -130,6 +140,23 @@ function render() {
   const sk = Object.keys(sc);
   chart("cSrc", {type: "doughnut", data: {labels: sk, datasets: [{data: sk.map(x => sc[x]), backgroundColor: COLORS}]}, options: {plugins: {legend: {position: "right"}}}});
 
+  // your lane: topics and headlines, following the country and lane pickers
+  const laneOk = l => !s.lane || s.lane === "any" || l === s.lane;
+  const cPick = s.country || "";
+  const lt = (D.laneTopics || []).filter(t => laneOk(t.lane) && t.kind === "topic" &&
+    (!cPick || String(t.country_list).split(" ").includes(cPick)));
+  $("hLT").textContent = "Your lane: trending topics worth a post" + (cPick ? " in " + name(cPick) : ", worldwide") + " (" + lt.length + ")";
+  $("tLT").innerHTML = lt.length ? "<tr><th>Lane</th><th>Topic</th><th class=n>Rank</th><th class=n>Days</th><th class=n>Countries</th><th>Headline</th></tr>" +
+    lt.slice(0, 40).map(t => `<tr onclick="selTopic(this.dataset.t)" data-t="${attr(t.topic)}"><td><span class="lane ${t.lane}">${t.lane}</span></td><td>${txt(t.topic)}</td><td class=n>${t.rank}</td><td class=n>${t.days}</td><td class=n>${t.countries}</td><td>${t.url ? `<a href="${attr(t.url)}" target="_blank" rel="noopener">${txt(t.headline || "link")}</a>` : txt(t.headline || "")}</td></tr>`).join("")
+    : "<p class='small'>nothing in your lanes is trending here right now; see the headlines on the right</p>";
+  const ln = (D.laneNews || []).filter(n => laneOk(n.lane) && (!cPick || !n.country || n.country === cPick));
+  const order = D.lanes || [];
+  ln.sort((a, b) => (order.indexOf(a.lane) - order.indexOf(b.lane)) || String(b.date).localeCompare(String(a.date)) || (a.rank - b.rank));
+  $("hLN").textContent = "Your lane: fresh headlines from NASA, ISRO, science and market feeds (last 3 days, " + ln.length + ")";
+  $("tLN").innerHTML = ln.length ? "<tr><th>Lane</th><th>Headline</th><th>Publisher</th><th>Date</th></tr>" +
+    ln.slice(0, 120).map(n => `<tr><td><span class="lane ${n.lane}">${n.lane}</span></td><td>${n.url ? `<a href="${attr(n.url)}" target="_blank" rel="noopener">${txt(n.topic)}</a>` : txt(n.topic)}</td><td>${txt(n.publisher)}</td><td class=n>${txt(String(n.date).slice(0, 10))}</td></tr>`).join("")
+    : "<p class='small'>no headlines yet: the feeds fill after the next GitHub run</p>";
+
   // platform columns from the latest fetch
   const cc = s.country || D.home;
   const latest = D.latest || [];
@@ -154,13 +181,14 @@ function render() {
   $("tPlace").innerHTML = "<tr><th>Topic</th><th class=n>Days</th><th class=n>Seen</th><th class=n>Best rank</th><th>Sources</th></tr>" +
     place.slice(0, 40).map(r => `<tr onclick="selTopic(this.dataset.t)" data-t="${attr(r.topic)}"><td>${txt(r.topic)}</td><td class=n>${r.days}</td><td class=n>${r.seen}</td><td class=n>${r.best_rank}</td><td>${txt(r.sources)}</td></tr>`).join("");
 
-  const cols = [["topic","Topic"],["kind","Kind"],["score","Score","n"],["wdays","Days","n"],["countries","Countries","n"],["cities","Cities","n"],["sources","Sources","n"],["wpeak","Peak","n"],["country_list","Countries where it trended"],["headline","Headline"]];
+  const cols = [["topic","Topic"],["lane","Lane"],["kind","Kind"],["score","Score","n"],["wdays","Days","n"],["countries","Countries","n"],["cities","Cities","n"],["sources","Sources","n"],["wpeak","Peak","n"],["country_list","Countries where it trended"],["headline","Headline"]];
   const placeName = s.country ? "trending in " + [name(s.country), s.city].filter(Boolean).join(", ") : "worldwide";
   $("hTable").textContent = `Topics ${placeName}, last ${s.days} days (${rows.length})`;
   $("tTopics").innerHTML = "<tr>" + cols.map(c => `<th class="${c[2]||""} ${sortKey===c[0]?"on":""}" onclick="sortBy('${c[0]}')">${c[1]}${sortKey===c[0]?(sortDir<0?" ▼":" ▲"):""}</th>`).join("") + "</tr>" +
     rows.slice(0, 300).map(r => `<tr class="${r.topic===pick?"pick":""}" onclick="selTopic(this.dataset.t)" data-t="${attr(r.topic)}">` + cols.map(c => {
       let v = r[c[0]];
       if (c[0] === "kind") v = `<span class="tag ${v}">${v}</span>`;
+      else if (c[0] === "lane") v = v ? `<span class="lane ${v}">${v}</span>` : "";
       else if (c[0] === "headline") v = r.url ? `<a href="${attr(r.url)}" target="_blank" rel="noopener">${txt(v || "link")}</a>` : txt(v || "");
       else if (c[0] === "wpeak") v = Number(v).toLocaleString();
       else if (c[0] === "country_list") v = txt(String(v).split(" ").filter(Boolean).map(name).join(", "));
@@ -171,7 +199,7 @@ function render() {
 function txt(s) { return String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;"); }
 function attr(s) { return txt(s).replace(/"/g, "&quot;"); }
 function selTopic(t) { sel = t; render(); }
-function sortBy(k) { if (sortKey === k) sortDir = -sortDir; else { sortKey = k; sortDir = ["topic","kind","country_list","headline"].includes(k) ? 1 : -1; } render(); }
+function sortBy(k) { if (sortKey === k) sortDir = -sortDir; else { sortKey = k; sortDir = ["topic","lane","kind","country_list","headline"].includes(k) ? 1 : -1; } render(); }
 
 function fillCities() {
   const c = $("country").value;
@@ -189,9 +217,10 @@ google.script.run.withFailureHandler(err => {
   const countries = [...new Set(D.byCountry.map(r => r.country))].filter(Boolean).sort();
   $("country").innerHTML = "<option value=''>all countries</option>" + countries.map(x => `<option value="${x}">${name(x)}</option>`).join("");
   fillCities();
+  $("lane").innerHTML += (D.lanes || []).map(l => `<option value="${l}">${l}</option>`).join("");
   document.querySelectorAll("#platforms input").forEach(i => i.addEventListener("change", render));
-  for (const id of ["days","country","city","kind","minc","q"]) $(id).addEventListener(id==="q"?"input":"change", () => { if (id==="country") fillCities(); render(); });
-  $("reset").onclick = () => { $("days").value = "15"; $("country").value = ""; fillCities(); $("city").value = ""; $("kind").value = "topic"; $("minc").value = "1"; $("q").value = ""; document.querySelectorAll("#platforms input").forEach(i => i.checked = false); sel = null; render(); };
+  for (const id of ["days","country","city","kind","lane","minc","q"]) $(id).addEventListener(id==="q"?"input":"change", () => { if (id==="country") fillCities(); render(); });
+  $("reset").onclick = () => { $("days").value = "15"; $("country").value = ""; fillCities(); $("city").value = ""; $("kind").value = "topic"; $("lane").value = ""; $("minc").value = "1"; $("q").value = ""; document.querySelectorAll("#platforms input").forEach(i => i.checked = false); sel = null; render(); };
   render();
 }).getData();
 </script></body></html>

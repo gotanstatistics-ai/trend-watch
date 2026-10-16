@@ -9,7 +9,9 @@ the next documentary topic.
 | What | Where |
 |---|---|
 | The readable report, top 50 topics of the last 15 days | `data/REPORT.md` (GitHub shows it as a page) |
-| Ranked topics as a table | `data/topics-15d.csv` |
+| Ranked topics as a table (with a `lane` column) | `data/topics-15d.csv` |
+| **Trending topics in your lanes only** (science, space, nature, markets, medical, tech, history) | `data/lane-topics.csv` |
+| **Fresh headlines in your lanes** from NASA, ISRO, science and market feeds, last 3 days | `data/lane-news.csv` |
 | Top topics for each country | `data/by-country.csv` |
 | Top topics for each city | `data/by-city.csv` |
 | Everything from the latest run | `data/latest.csv`, `data/latest.json` |
@@ -19,6 +21,19 @@ the next documentary topic.
 Score in the report = countries x 3 + sources x 4 + days x 2 + rank bonus + size. A topic with many days and
 many countries is something people keep looking for, which is what a documentary needs. One day, one
 country is passing news.
+
+## Lanes: the subjects worth posting about
+
+Most of what trends is cricket, films and politics. A *lane* is a subject group worth a post or a video:
+`space`, `science`, `nature` (earthquakes, cyclones, floods...), `markets`, `medical`, `tech`, `history`.
+Every topic in every CSV carries a `lane` column (empty when it is none of these), and two files hold only
+lane material: `lane-topics.csv` (what is trending in a lane) and `lane-news.csv` (fresh headlines from the
+feeds below plus any Google News top story that fits a lane).
+
+The word lists live in **`lanes.json`**: `lanes` (words per lane, `*` at the end means starts-with),
+`block` (games and films that share a word, never a lane), `skip` (war, crime, politics and sport words
+that veto a headline), `skip_ignores` (lanes specific enough to win anyway), and `feeds`. Edit it on GitHub;
+the next run picks it up.
 
 ## Sources
 
@@ -31,6 +46,7 @@ country is passing news.
 | Google News | top headlines (context, not scored) | country | nothing |
 | YouTube search suggestions | what people type into YouTube's search box (completions of a to z, "how to", "what is"...) | country | nothing |
 | YouTube most popular | top 25 videos | country | free API key in a secret |
+| Lane feeds (`lanes.json`) | NASA, ESA, Space.com, Phys.org, ScienceDaily, Nature, USGS earthquakes, WHO, and Google News Science / Technology / Business / Health for India and the US, plus ISRO, India-disaster and archaeology searches | worldwide or country | nothing |
 
 Countries, cities and languages are in `countries.json`. Edit it to add or remove any.
 
@@ -71,10 +87,11 @@ For a proper dashboard, India first, with a country picker and a city picker:
    HTML) and paste `sheet/Index.html` into it. Save.
 3. Pick the function `setup` at the top and press Run. Approve the permissions once. This fills the tabs,
    builds the **Dashboard** tab and sets an hourly refresh.
-4. The Dashboard tab shows: worldwide top 25, India top 25, every Indian city, and on the right two
-   pickers (cell F3 country, cell F4 city) whose lists update as you choose.
+4. The Dashboard tab shows: your lanes first (trending topics worth a post, then fresh headlines), then
+   worldwide top 25, India top 25, every Indian city, and on the right three pickers (cell F3 country,
+   cell F4 city, cell F5 lane) whose lists update as you choose.
 5. Optional phone page: Deploy, New deployment, Web app, execute as you, access only you. Open the URL.
-   It has the same pickers and a search box.
+   It has the same pickers, a lane picker and a search box; the two "Your lane" panels sit at the top.
 
 A menu "Trend watch" appears in the sheet with "Refresh now" and "Rebuild dashboard".
 
@@ -84,6 +101,7 @@ A menu "Trend watch" appears in the sheet with "Refresh now" and "Rebuild dashbo
 python -m trendwatch fetch                      # all sources, all countries
 python -m trendwatch fetch --countries IN,US    # a few countries
 python -m trendwatch fetch --only google-trends,x-trends
+python -m trendwatch fetch --only lane-news            # just the science/space/market feeds
 python -m trendwatch report                     # rebuild the report from the saved days
 python -m trendwatch topics --top 25            # print the ranked topics
 python -m trendwatch doctor                     # one quick call per source: what works today

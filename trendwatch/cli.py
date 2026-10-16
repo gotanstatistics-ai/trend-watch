@@ -15,12 +15,13 @@ import time
 
 from . import WINDOW_DAYS, __version__
 from .http import Http
-from .sources import google_trends, wikipedia, x_trends, google_news, youtube, youtube_suggest
+from .sources import google_trends, wikipedia, x_trends, google_news, youtube, youtube_suggest, lane_feeds
 from .store import save_fetch
 from .report import write_report
 
 SOURCES = {"google-trends": google_trends, "wikipedia": wikipedia, "x-trends": x_trends,
-           "google-news": google_news, "youtube": youtube, "youtube-suggest": youtube_suggest}
+           "google-news": google_news, "youtube": youtube, "youtube-suggest": youtube_suggest,
+           "lane-news": lane_feeds}
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 

@@ -10,6 +10,7 @@ from collections import Counter, defaultdict
 
 from . import WINDOW_DAYS
 from .model import key
+from .lane import lane_of, LANES
 
 MATCH = re.compile(r"\b(vs\.?|v|versus|contra|standings|live stream|lineup|line-up|score|fixtures?|highlights?)\b|"
                    r" - | – |\bweather( today| update)?\b", re.I)
@@ -26,7 +27,7 @@ def kind_of(topic):
 
 
 TOPIC_COLUMNS = ["rank", "topic", "kind", "score", "days", "countries", "cities", "sources", "first_seen", "last_seen",
-                 "peak_traffic", "country_list", "city_list", "source_list", "headline", "url"]
+                 "peak_traffic", "country_list", "city_list", "source_list", "headline", "url", "lane"]
 
 # Headlines from Google News are full sentences; they rarely match other sources and would
 # flood the topic list, so they are kept as context (the 'headline' column) but not scored.
@@ -65,10 +66,12 @@ def rank_topics(entries, today):
         names = Counter(e.topic for e in es)
         display = max(names, key=lambda t: (not t.startswith("#"), names[t], t == t.title(), len(t)))
         head = headlines.get(k)
-        rows.append({"topic": display, "kind": kind_of(display), "score": round(score, 1), "days": len(days), "countries": len(countries),
+        headline = (head.note + ": " + head.topic) if head else best.note
+        rows.append({"topic": display, "kind": kind_of(display), "lane": lane_of(display, headline),
+                     "score": round(score, 1), "days": len(days), "countries": len(countries),
                      "cities": len(cities), "sources": len(sources), "first_seen": days[0], "last_seen": days[-1],
                      "peak_traffic": peak, "country_list": " ".join(countries), "city_list": ", ".join(cities),
-                     "source_list": " ".join(sources), "headline": (head.note + ": " + head.topic) if head else best.note,
+                     "source_list": " ".join(sources), "headline": headline,
                      "url": best.url or (head.url if head else "")})
     rows.sort(key=lambda r: (-r["score"], -r["peak_traffic"]))
     for i, r in enumerate(rows, 1):
@@ -90,7 +93,7 @@ def by_place(entries, field):
     agg = {}
     for e in entries:
         place = getattr(e, field)
-        if not place:
+        if not place or e.source == "lane-news":
             continue
         k = (place, key(e.topic))
         a = agg.setdefault(k, {"place": place, "country": e.country, "topic": e.topic, "seen": 0, "best_rank": 999,
@@ -104,7 +107,7 @@ def by_place(entries, field):
     for a in agg.values():
         rows.append({field: a["place"], "country": a["country"], "topic": a["topic"], "days": len(a["days"]),
                      "seen": a["seen"], "best_rank": a["best_rank"], "peak_traffic": a["peak_traffic"],
-                     "sources": " ".join(sorted(a["sources"]))})
+                     "sources": " ".join(sorted(a["sources"])), "lane": lane_of(a["topic"])})
     rows.sort(key=lambda r: (r[field], -r["days"], -r["seen"], r["best_rank"]))
     return rows
 
@@ -137,15 +140,51 @@ def daily_rows(entries, topics, limit=500):
     return rows
 
 
+LANE_NEWS_COLUMNS = ["date", "lane", "topic", "publisher", "country", "rank", "url", "source"]
+
+
+def lane_news(entries, today, days=3, limit=400):
+    """Fresh headlines in a lane: the lane feeds (tagged by feed) plus Google News top stories that
+    classify into a lane. Last `days` days, one row per story, newest and highest-ranked first."""
+    keep_from = (dt.date.fromisoformat(today) - dt.timedelta(days=days - 1)).isoformat()
+    seen, rows = set(), []
+    # newest day first; within a day the lane feeds (tagged by feed, clean) before general news (classified)
+    for e in sorted(entries, key=lambda e: (e.date, e.source == "lane-news", -e.rank), reverse=True):
+        if e.date < keep_from:
+            continue
+        if e.source == "lane-news":
+            lane, _, publisher = e.note.partition("|")
+        elif e.source == "google-news":
+            # general headlines are only classified in English (the skip list is English)
+            if sum(c.isascii() for c in e.topic) < 0.9 * len(e.topic):
+                continue
+            lane, publisher = lane_of(e.topic), e.note
+        else:
+            continue
+        if not lane:
+            continue
+        k = key(e.topic)[:60]
+        if not k or k in seen:
+            continue
+        seen.add(k)
+        rows.append({"date": e.date, "lane": lane, "topic": e.topic, "publisher": publisher, "country": e.country,
+                     "rank": e.rank, "url": e.url, "source": e.source})
+    return rows[:limit]
+
+
 def write_report(data_dir, today, log=print, top=50):
     from .store import load_window
     entries = load_window(data_dir, today)
     topics = rank_topics(entries, today)
     _write(os.path.join(data_dir, "topics-15d.csv"), TOPIC_COLUMNS, topics)
     _write(os.path.join(data_dir, "topics-daily.csv"), DAILY_COLUMNS, daily_rows(entries, topics))
-    cols = ["country", "topic", "days", "seen", "best_rank", "peak_traffic", "sources"]
+    cols = ["country", "topic", "days", "seen", "best_rank", "peak_traffic", "sources", "lane"]
     _write(os.path.join(data_dir, "by-country.csv"), cols, by_place(entries, "country"))
     _write(os.path.join(data_dir, "by-city.csv"), ["city"] + cols, by_place(entries, "city"))
+    lane_topics = [t for t in topics if t["lane"]]
+    _write(os.path.join(data_dir, "lane-topics.csv"), TOPIC_COLUMNS, lane_topics)
+    news = lane_news(entries, today)
+    _write(os.path.join(data_dir, "lane-news.csv"), LANE_NEWS_COLUMNS, news)
     days = sorted({e.date for e in entries})
     lines = [f"# What the world searched for: last {WINDOW_DAYS} days", "",
              f"Updated {dt.datetime.now(dt.timezone.utc).strftime('%Y-%m-%d %H:%M')} UTC. "
@@ -162,7 +201,19 @@ def write_report(data_dir, today, log=print, top=50):
         lines.append(f"| {r['rank']} | {r['topic'].replace('|', '/')} | {r['score']} | {r['days']} | "
                      f"{r['country_list'][:40]} | {r['source_list']} | {r['city_list'][:50]} | "
                      f"{r['peak_traffic']:,} | {head} |")
+    lines += ["", "## In your lane: trending topics worth a post (science, space, nature, markets, medical, tech, history)", ""]
+    for lane in LANES:
+        picks = [r for r in lane_topics if r["lane"] == lane and r["kind"] == "topic"][:8]
+        if picks:
+            lines.append(f"- **{lane}**: " + "; ".join(f"{r['topic']} (#{r['rank']}, {r['days']}d, {r['countries']} countries)" for r in picks))
+    if not lane_topics:
+        lines.append("- nothing in a lane is trending right now")
+    lines += ["", "## In your lane: fresh headlines from the science, space and market feeds (last 3 days)", ""]
     today_s = days[-1] if days else ""
+    for lane in LANES:
+        picks = [n for n in news if n["lane"] == lane][:6]
+        if picks:
+            lines.append(f"- **{lane}**: " + "; ".join(f"[{n['topic'][:70].replace('|', '/')}]({n['url']})" if n["url"] else n["topic"][:70] for n in picks))
     quick = [r for r in topics if r["kind"] == "topic" and r["last_seen"] == today_s and r["sources"] >= 2
              and "youtube" in r["source_list"]][:10]
     lines += ["", "## Quick explainer picks (5-minute videos): trending today in several sources, including YouTube", ""]
