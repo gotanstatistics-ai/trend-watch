@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-10-16T04:34Z",
+  "fetched_at": "2026-10-16T11:27Z",
   "sources": {
     "google-trends": {
       "ok": true,
-      "rows": 494,
-      "seconds": 90
+      "rows": 439,
+      "seconds": 84
     },
     "wikipedia": {
       "ok": true,
-      "rows": 783,
+      "rows": 858,
       "seconds": 39
     },
     "x-trends": {
       "ok": true,
       "rows": 3750,
-      "seconds": 15
+      "seconds": 16
     },
     "google-news": {
       "ok": true,
       "rows": 780,
-      "seconds": 4
+      "seconds": 10
     },
     "youtube": {
       "ok": true,
@@ -28,8 +28,8 @@
     },
     "youtube-suggest": {
       "ok": true,
-      "rows": 6113,
-      "seconds": 166
+      "rows": 5980,
+      "seconds": 149
     }
   }
 }
