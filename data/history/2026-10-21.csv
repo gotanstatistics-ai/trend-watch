@@ -5030,6 +5030,30 @@ date,fetched_at,source,country,region,city,rank,topic,traffic,period,url,note
 2026-10-21,2026-10-22T04:50Z,wikipedia,DE,,,23,Заглавная страница,11300,day,https://ru.wikipedia.org/wiki/Заглавная_страница,ru.wikipedia
 2026-10-21,2026-10-22T04:50Z,wikipedia,DE,,,24,21. Oktober,11300,day,https://de.wikipedia.org/wiki/21._Oktober,de.wikipedia
 2026-10-21,2026-10-22T04:50Z,wikipedia,DE,,,25,Emma (Zeitschrift),11000,day,https://de.wikipedia.org/wiki/Emma_(Zeitschrift),de.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,1,Cookie (informatique),35800,day,https://fr.wikipedia.org/wiki/Cookie_(informatique),fr.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,2,Yan Diomande,14200,day,https://es.wikipedia.org/wiki/Yan_Diomande,es.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,3,Susanna Griso,12700,day,https://es.wikipedia.org/wiki/Susanna_Griso,es.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,4,Sergio Rico,12500,day,https://es.wikipedia.org/wiki/Sergio_Rico,es.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,5,Aday Mara,9200,day,https://es.wikipedia.org/wiki/Aday_Mara,es.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,6,Javier Milei,9100,day,https://es.wikipedia.org/wiki/Javier_Milei,es.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,7,La bola negra (película),8700,day,https://es.wikipedia.org/wiki/La_bola_negra_(película),es.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,8,ChatGPT,7800,day,https://en.wikipedia.org/wiki/ChatGPT,en.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,9,Paloma Chamorro,7400,day,https://es.wikipedia.org/wiki/Paloma_Chamorro,es.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,10,Aitana Sánchez-Gijón,7200,day,https://es.wikipedia.org/wiki/Aitana_Sánchez-Gijón,es.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,11,Nico Paz,7100,day,https://es.wikipedia.org/wiki/Nico_Paz,es.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,12,RasenBallsport Leipzig,6700,day,https://es.wikipedia.org/wiki/RasenBallsport_Leipzig,es.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,14,Rafael Rodríguez Rapún,6200,day,https://es.wikipedia.org/wiki/Rafael_Rodríguez_Rapún,es.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,15,Martín Demichelis,6200,day,https://es.wikipedia.org/wiki/Martín_Demichelis,es.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,16,Portada,6100,day,https://ca.wikipedia.org/wiki/Portada,ca.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,17,Santiago Abascal,6100,day,https://es.wikipedia.org/wiki/Santiago_Abascal,es.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,18,Óscar Puente,6100,day,https://es.wikipedia.org/wiki/Óscar_Puente,es.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,19,Federico García Lorca,6000,day,https://es.wikipedia.org/wiki/Federico_García_Lorca,es.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,20,Maxi Iglesias,5900,day,https://es.wikipedia.org/wiki/Maxi_Iglesias,es.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,21,Guitarricadelafuente,5900,day,https://es.wikipedia.org/wiki/Guitarricadelafuente,es.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,22,Jesús Huerta de Soto,5900,day,https://es.wikipedia.org/wiki/Jesús_Huerta_de_Soto,es.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,23,Frente Amplio (España),5600,day,https://es.wikipedia.org/wiki/Frente_Amplio_(España),es.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,24,Parauta,4700,day,https://es.wikipedia.org/wiki/Parauta,es.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,ES,,,25,YouTube,4700,day,https://es.wikipedia.org/wiki/YouTube,es.wikipedia
 2026-10-21,2026-10-22T04:50Z,wikipedia,FR,,,1,Cookie (informatique),36400,day,https://fr.wikipedia.org/wiki/Cookie_(informatique),fr.wikipedia
 2026-10-21,2026-10-22T04:50Z,wikipedia,FR,,,2,Françoise Gatel,33000,day,https://fr.wikipedia.org/wiki/Françoise_Gatel,fr.wikipedia
 2026-10-21,2026-10-22T04:50Z,wikipedia,FR,,,3,David Lisnard,31700,day,https://fr.wikipedia.org/wiki/David_Lisnard,fr.wikipedia
@@ -5366,6 +5390,17 @@ date,fetched_at,source,country,region,city,rank,topic,traffic,period,url,note
 2026-10-21,2026-10-22T04:50Z,wikipedia,SG,,,7,Helen Haines,1500,day,https://en.wikipedia.org/wiki/Helen_Haines,en.wikipedia
 2026-10-21,2026-10-22T04:50Z,wikipedia,SG,,,8,Street Fighter (2026 film),1400,day,https://en.wikipedia.org/wiki/Street_Fighter_(2026_film),en.wikipedia
 2026-10-21,2026-10-22T04:50Z,wikipedia,SG,,,9,Como 1907,1200,day,https://en.wikipedia.org/wiki/Como_1907,en.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,TH,,,1,หน้าหลัก,10700,day,https://th.wikipedia.org/wiki/หน้าหลัก,th.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,TH,,,2,องค์การกระจายเสียงและแพร่ภาพสาธารณะแห่งประเทศไทย,8800,day,https://th.wikipedia.org/wiki/องค์การกระจายเสียงและแพร่ภาพสาธารณะแห่งประเทศไทย,th.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,TH,,,3,หี,2500,day,https://th.wikipedia.org/wiki/หี,th.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,TH,,,4,สมเด็จพระศรีนครินทราบรมราชชนนี,2300,day,https://th.wikipedia.org/wiki/สมเด็จพระศรีนครินทราบรมราชชนนี,th.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,TH,,,5,ไตรภพ ลิมปพัทธ์,2100,day,https://th.wikipedia.org/wiki/ไตรภพ_ลิมปพัทธ์,th.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,TH,,,6,อสมท,1800,day,https://th.wikipedia.org/wiki/อสมท,th.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,TH,,,7,สุชาดา ซาง แทนทรัพย์,1700,day,https://th.wikipedia.org/wiki/สุชาดา_ซาง_แทนทรัพย์,th.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,TH,,,8,ศิริโชค โสภา,1600,day,https://th.wikipedia.org/wiki/ศิริโชค_โสภา,th.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,TH,,,9,Como 1907,1400,day,https://en.wikipedia.org/wiki/Como_1907,en.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,TH,,,10,พงศ์ทิวัตถ์ ตั้งวันเจริญ,1300,day,https://th.wikipedia.org/wiki/พงศ์ทิวัตถ์_ตั้งวันเจริญ,th.wikipedia
+2026-10-21,2026-10-22T17:12Z,wikipedia,TH,,,11,ศุภชัย ใจสมุทร,1200,day,https://th.wikipedia.org/wiki/ศุภชัย_ใจสมุทร,th.wikipedia
 2026-10-21,2026-10-22T04:50Z,wikipedia,TW,,,1,嫁金钗,37500,day,https://zh.wikipedia.org/wiki/嫁金钗,zh.wikipedia
 2026-10-21,2026-10-22T04:50Z,wikipedia,TW,,,2,A2O LITE,19000,day,https://zh.wikipedia.org/wiki/A2O_LITE,zh.wikipedia
 2026-10-21,2026-10-22T04:50Z,wikipedia,TW,,,3,沈伯洋,15200,day,https://zh.wikipedia.org/wiki/沈伯洋,zh.wikipedia
