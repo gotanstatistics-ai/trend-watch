@@ -4346,6 +4346,13 @@ date,fetched_at,source,country,region,city,rank,topic,traffic,period,url,note
 2026-10-30,2026-10-31T05:45Z,wikipedia,CL,,,6,Salvador Schwartzmann,1800,day,https://es.wikipedia.org/wiki/Salvador_Schwartzmann,es.wikipedia
 2026-10-30,2026-10-31T05:45Z,wikipedia,CL,,,7,Rogelio Funes Mori,1800,day,https://es.wikipedia.org/wiki/Rogelio_Funes_Mori,es.wikipedia
 2026-10-30,2026-10-31T05:45Z,wikipedia,CL,,,8,Copa Mundial y Festival de Fútbol Sub-15 de 2026,1400,day,https://es.wikipedia.org/wiki/Copa_Mundial_y_Festival_de_Fútbol_Sub-15_de_2026,es.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia,CO,,,1,Patrick Stewart,9900,day,https://es.wikipedia.org/wiki/Patrick_Stewart,es.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia,CO,,,2,WhatsApp,4400,day,https://es.wikipedia.org/wiki/WhatsApp,es.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia,CO,,,3,ChatGPT,3300,day,https://en.wikipedia.org/wiki/ChatGPT,en.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia,CO,,,4,Ian McKellen,2200,day,https://es.wikipedia.org/wiki/Ian_McKellen,es.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia,CO,,,5,Demencia con cuerpos de Lewy,1900,day,https://es.wikipedia.org/wiki/Demencia_con_cuerpos_de_Lewy,es.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia,CO,,,6,Kbeto Zuleta,1900,day,https://es.wikipedia.org/wiki/Kbeto_Zuleta,es.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia,CO,,,8,Halloween,1400,day,https://es.wikipedia.org/wiki/Halloween,es.wikipedia
 2026-10-30,2026-10-31T05:45Z,wikipedia,DE,,,1,Patrick Stewart,194400,day,https://de.wikipedia.org/wiki/Patrick_Stewart,de.wikipedia
 2026-10-30,2026-10-31T05:45Z,wikipedia,DE,,,2,The Rocky Horror Picture Show,48800,day,https://de.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show,de.wikipedia
 2026-10-30,2026-10-31T05:45Z,wikipedia,DE,,,3,Elke Sommer,48500,day,https://de.wikipedia.org/wiki/Elke_Sommer,de.wikipedia
@@ -4564,6 +4571,7 @@ date,fetched_at,source,country,region,city,rank,topic,traffic,period,url,note
 2026-10-30,2026-10-31T05:45Z,wikipedia,JP,,,23,VIVANT,15100,day,https://ja.wikipedia.org/wiki/VIVANT,ja.wikipedia
 2026-10-30,2026-10-31T05:45Z,wikipedia,JP,,,24,村田善則,14800,day,https://ja.wikipedia.org/wiki/村田善則,ja.wikipedia
 2026-10-30,2026-10-31T05:45Z,wikipedia,JP,,,25,ブラッサム,14600,day,https://ja.wikipedia.org/wiki/ブラッサム,ja.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia,KE,,,1,Patrick Stewart,1800,day,https://en.wikipedia.org/wiki/Patrick_Stewart,en.wikipedia
 2026-10-30,2026-10-31T05:45Z,wikipedia,KR,,,1,최불암,17300,day,https://ko.wikipedia.org/wiki/최불암,ko.wikipedia
 2026-10-30,2026-10-31T05:45Z,wikipedia,KR,,,2,문화방송,11300,day,https://ko.wikipedia.org/wiki/문화방송,ko.wikipedia
 2026-10-30,2026-10-31T05:45Z,wikipedia,KR,,,3,김민자,9700,day,https://ko.wikipedia.org/wiki/김민자,ko.wikipedia
@@ -5098,6 +5106,31 @@ date,fetched_at,source,country,region,city,rank,topic,traffic,period,url,note
 2026-10-30,2026-10-31T05:45Z,wikipedia-ml,,,,23,പി. സീതി ഹാജി,73,day,https://ml.wikipedia.org/wiki/പി._സീതി_ഹാജി,ml.wikipedia
 2026-10-30,2026-10-31T05:45Z,wikipedia-ml,,,,24,വി.പി. സജീന്ദ്രൻ,71,day,https://ml.wikipedia.org/wiki/വി.പി._സജീന്ദ്രൻ,ml.wikipedia
 2026-10-30,2026-10-31T05:45Z,wikipedia-ml,,,,25,വല്ലഭായി പട്ടേൽ,70,day,https://ml.wikipedia.org/wiki/വല്ലഭായി_പട്ടേൽ,ml.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,1,तुकडोजी महाराज,1207,day,https://mr.wikipedia.org/wiki/तुकडोजी_महाराज,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,2,वल्लभभाई पटेल,457,day,https://mr.wikipedia.org/wiki/वल्लभभाई_पटेल,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,3,मुखपृष्ठ,453,day,https://mr.wikipedia.org/wiki/मुखपृष्ठ,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,4,पदवीधर मतदारसंघ,360,day,https://mr.wikipedia.org/wiki/पदवीधर_मतदारसंघ,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,5,मटका,332,day,https://mr.wikipedia.org/wiki/मटका,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,6,योहान पूनावाला,299,day,https://mr.wikipedia.org/wiki/योहान_पूनावाला,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,7,नवग्रह स्तोत्र,293,day,https://mr.wikipedia.org/wiki/नवग्रह_स्तोत्र,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,8,दत्तात्रेय रामचंद्र बेंद्रे,256,day,https://mr.wikipedia.org/wiki/दत्तात्रेय_रामचंद्र_बेंद्रे,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,9,मराठी भाषा,243,day,https://mr.wikipedia.org/wiki/मराठी_भाषा,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,10,विठाबाई नारायणगावकर,241,day,https://mr.wikipedia.org/wiki/विठाबाई_नारायणगावकर,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,11,बाबासाहेब आंबेडकर,231,day,https://mr.wikipedia.org/wiki/बाबासाहेब_आंबेडकर,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,12,बापू वाटेगावकर,226,day,https://mr.wikipedia.org/wiki/बापू_वाटेगावकर,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,13,छत्रपती शिवाजी महाराज,218,day,https://mr.wikipedia.org/wiki/छत्रपती_शिवाजी_महाराज,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,14,भारताचे राष्ट्रपती,198,day,https://mr.wikipedia.org/wiki/भारताचे_राष्ट्रपती,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,15,द्रौपदी मुर्मू,190,day,https://mr.wikipedia.org/wiki/द्रौपदी_मुर्मू,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,16,होमी भाभा,185,day,https://mr.wikipedia.org/wiki/होमी_भाभा,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,17,महाराष्ट्र विधान परिषद,180,day,https://mr.wikipedia.org/wiki/महाराष्ट्र_विधान_परिषद,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,18,इंदिरा गांधी,173,day,https://mr.wikipedia.org/wiki/इंदिरा_गांधी,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,19,भारताचे संविधान,169,day,https://mr.wikipedia.org/wiki/भारताचे_संविधान,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,20,दिवाळी,148,day,https://mr.wikipedia.org/wiki/दिवाळी,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,21,महात्मा फुले,120,day,https://mr.wikipedia.org/wiki/महात्मा_फुले,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,22,जया किशोरी,119,day,https://mr.wikipedia.org/wiki/जया_किशोरी,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,23,कृष्णाईच्या लेकी,116,day,https://mr.wikipedia.org/wiki/कृष्णाईच्या_लेकी,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,24,अनंत अंबाणी,116,day,https://mr.wikipedia.org/wiki/अनंत_अंबाणी,mr.wikipedia
+2026-10-30,2026-10-31T21:37Z,wikipedia-mr,,,,25,महाराष्ट्र,116,day,https://mr.wikipedia.org/wiki/महाराष्ट्र,mr.wikipedia
 2026-10-30,2026-10-31T05:45Z,wikipedia-pt,,,,1,Patrick Stewart,23555,day,https://pt.wikipedia.org/wiki/Patrick_Stewart,pt.wikipedia
 2026-10-30,2026-10-31T05:45Z,wikipedia-pt,,,,2,Eleições nos Estados Unidos em 2026,17781,day,https://pt.wikipedia.org/wiki/Eleições_nos_Estados_Unidos_em_2026,pt.wikipedia
 2026-10-30,2026-10-31T05:45Z,wikipedia-pt,,,,3,Rafael Fonteles,16690,day,https://pt.wikipedia.org/wiki/Rafael_Fonteles,pt.wikipedia
