@@ -4370,6 +4370,31 @@ date,fetched_at,source,country,region,city,rank,topic,traffic,period,url,note
 2026-11-03,2026-11-04T06:26Z,wikipedia,ES,,,23,Vito Quiles,4700,day,https://es.wikipedia.org/wiki/Vito_Quiles,es.wikipedia
 2026-11-03,2026-11-04T06:26Z,wikipedia,ES,,,24,Futbol Club Andorra,4700,day,https://es.wikipedia.org/wiki/Futbol_Club_Andorra,es.wikipedia
 2026-11-03,2026-11-04T06:26Z,wikipedia,ES,,,25,Santiago Abascal,4600,day,https://es.wikipedia.org/wiki/Santiago_Abascal,es.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,1,Jesús de Miguel Alameda,47800,day,https://fr.wikipedia.org/wiki/Jesús_de_Miguel_Alameda,fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,2,Roy Cohn,43800,day,https://fr.wikipedia.org/wiki/Roy_Cohn,fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,3,Philippe Jaenada,35300,day,https://fr.wikipedia.org/wiki/Philippe_Jaenada,fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,4,Donald Trump,34600,day,https://fr.wikipedia.org/wiki/Donald_Trump,fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,5,Liste de sondages sur l'élection présidentielle française de 2027,33700,day,https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'élection_présidentielle_française_de_2027,fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,6,Jesús Owono,28300,day,https://fr.wikipedia.org/wiki/Jesús_Owono,fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,7,Villarreal Club de Fútbol,27700,day,https://fr.wikipedia.org/wiki/Villarreal_Club_de_Fútbol,fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,8,Meurtre d'Inass Touloub,23100,day,https://fr.wikipedia.org/wiki/Meurtre_d'Inass_Touloub,fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,9,David Lisnard,23000,day,https://fr.wikipedia.org/wiki/David_Lisnard,fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,10,Ivana Trump,22700,day,https://fr.wikipedia.org/wiki/Ivana_Trump,fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,11,David Boly,22000,day,https://fr.wikipedia.org/wiki/David_Boly,fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,12,Jesús de Miguel,18300,day,https://en.wikipedia.org/wiki/Jesús_de_Miguel,en.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,13,Florence Arthaud,18100,day,https://fr.wikipedia.org/wiki/Florence_Arthaud,fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,14,Élections de mi-mandat aux États-Unis,17300,day,https://fr.wikipedia.org/wiki/Élections_de_mi-mandat_aux_États-Unis,fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,15,The Apprentice (film),16800,day,https://fr.wikipedia.org/wiki/The_Apprentice_(film),fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,16,Fred Trump Jr.,16500,day,https://fr.wikipedia.org/wiki/Fred_Trump_Jr.,fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,17,Lionel Messi,13000,day,https://fr.wikipedia.org/wiki/Lionel_Messi,fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,18,Affaire des disparus de Mourmelon,12700,day,https://fr.wikipedia.org/wiki/Affaire_des_disparus_de_Mourmelon,fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,19,Lorie Pester,12200,day,https://fr.wikipedia.org/wiki/Lorie_Pester,fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,20,Cadavres exquis,11700,day,https://fr.wikipedia.org/wiki/Cadavres_exquis,fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,21,Vila-real,11600,day,https://fr.wikipedia.org/wiki/Vila-real,fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,22,Élections de 2026 aux États-Unis,11400,day,https://fr.wikipedia.org/wiki/Élections_de_2026_aux_États-Unis,fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,23,Les Disparus des Argonnes,10800,day,https://fr.wikipedia.org/wiki/Les_Disparus_des_Argonnes,fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,24,Sonia Mabrouk,9900,day,https://fr.wikipedia.org/wiki/Sonia_Mabrouk,fr.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,FR,,,25,Karl Bushby,9400,day,https://fr.wikipedia.org/wiki/Karl_Bushby,fr.wikipedia
 2026-11-03,2026-11-04T06:26Z,wikipedia,GB,,,1,Jesús de Miguel,99300,day,https://en.wikipedia.org/wiki/Jesús_de_Miguel,en.wikipedia
 2026-11-03,2026-11-04T06:26Z,wikipedia,GB,,,2,David Walliams,73700,day,https://en.wikipedia.org/wiki/David_Walliams,en.wikipedia
 2026-11-03,2026-11-04T06:26Z,wikipedia,GB,,,3,Jesús Owono,67100,day,https://en.wikipedia.org/wiki/Jesús_Owono,en.wikipedia
@@ -4419,6 +4444,21 @@ date,fetched_at,source,country,region,city,rank,topic,traffic,period,url,note
 2026-11-03,2026-11-04T06:26Z,wikipedia,ID,,,23,ChatGPT,3500,day,https://en.wikipedia.org/wiki/ChatGPT,en.wikipedia
 2026-11-03,2026-11-04T06:26Z,wikipedia,ID,,,24,Andrea Bocelli,3400,day,https://id.wikipedia.org/wiki/Andrea_Bocelli,id.wikipedia
 2026-11-03,2026-11-04T06:26Z,wikipedia,ID,,,25,DuckDuckGo,3300,day,https://en.wikipedia.org/wiki/DuckDuckGo,en.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,IE,,,1,Jesús de Miguel,8100,day,https://en.wikipedia.org/wiki/Jesús_de_Miguel,en.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,IE,,,2,Jesús Owono,5100,day,https://en.wikipedia.org/wiki/Jesús_Owono,en.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,IE,,,3,Ciara Mageean,4200,day,https://en.wikipedia.org/wiki/Ciara_Mageean,en.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,IE,,,4,2026 United States elections,3300,day,https://en.wikipedia.org/wiki/2026_United_States_elections,en.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,IE,,,5,David Walliams,3100,day,https://en.wikipedia.org/wiki/David_Walliams,en.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,IE,,,6,メインページ,3000,day,https://ja.wikipedia.org/wiki/メインページ,ja.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,IE,,,7,United States midterm election,2400,day,https://en.wikipedia.org/wiki/United_States_midterm_election,en.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,IE,,,8,Abdul El-Sayed,2100,day,https://en.wikipedia.org/wiki/Abdul_El-Sayed,en.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,IE,,,9,Ciaron Maher,2100,day,https://en.wikipedia.org/wiki/Ciaron_Maher,en.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,IE,,,10,Scott Parker,2000,day,https://en.wikipedia.org/wiki/Scott_Parker,en.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,IE,,,11,Karl Bushby,1900,day,https://en.wikipedia.org/wiki/Karl_Bushby,en.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,IE,,,12,Shea Lacey,1600,day,https://en.wikipedia.org/wiki/Shea_Lacey,en.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,IE,,,13,Haley Stevens,1600,day,https://en.wikipedia.org/wiki/Haley_Stevens,en.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,IE,,,14,Callum Turner,1600,day,https://en.wikipedia.org/wiki/Callum_Turner,en.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,IE,,,15,Primetime (film),1300,day,https://en.wikipedia.org/wiki/Primetime_(film),en.wikipedia
 2026-11-03,2026-11-04T06:26Z,wikipedia,IN,,,1,.xxx,170700,day,https://en.wikipedia.org/wiki/.xxx,en.wikipedia
 2026-11-03,2026-11-04T06:26Z,wikipedia,IN,,,2,Jailer 2,70600,day,https://en.wikipedia.org/wiki/Jailer_2,en.wikipedia
 2026-11-03,2026-11-04T06:26Z,wikipedia,IN,,,3,Jesús de Miguel,32700,day,https://en.wikipedia.org/wiki/Jesús_de_Miguel,en.wikipedia
@@ -4702,6 +4742,31 @@ date,fetched_at,source,country,region,city,rank,topic,traffic,period,url,note
 2026-11-03,2026-11-04T06:26Z,wikipedia,TH,,,9,Jesús Owono,2100,day,https://en.wikipedia.org/wiki/Jesús_Owono,en.wikipedia
 2026-11-03,2026-11-04T06:26Z,wikipedia,TH,,,10,แรงเงา,1700,day,https://th.wikipedia.org/wiki/แรงเงา,th.wikipedia
 2026-11-03,2026-11-04T06:26Z,wikipedia,TH,,,11,United States midterm election,1200,day,https://en.wikipedia.org/wiki/United_States_midterm_election,en.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,1,嫁金钗,29200,day,https://zh.wikipedia.org/wiki/嫁金钗,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,2,BESTie,18700,day,https://zh.wikipedia.org/wiki/BESTie,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,3,顧安生,15300,day,https://zh.wikipedia.org/wiki/顧安生,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,4,沈伯洋,13400,day,https://zh.wikipedia.org/wiki/沈伯洋,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,5,Toyz,12200,day,https://zh.wikipedia.org/wiki/Toyz,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,6,胡錦,10100,day,https://zh.wikipedia.org/wiki/胡錦,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,7,林煒,8800,day,https://zh.wikipedia.org/wiki/林煒,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,8,末路兼職,8700,day,https://zh.wikipedia.org/wiki/末路兼職,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,9,寶林茶室中毒案,7400,day,https://zh.wikipedia.org/wiki/寶林茶室中毒案,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,10,美國中期選舉,6500,day,https://zh.wikipedia.org/wiki/美國中期選舉,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,11,篠崎泫,6400,day,https://zh.wikipedia.org/wiki/篠崎泫,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,12,兰香如故,6400,day,https://zh.wikipedia.org/wiki/兰香如故,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,13,蔣萬安,6400,day,https://zh.wikipedia.org/wiki/蔣萬安,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,14,尚公主,5700,day,https://zh.wikipedia.org/wiki/尚公主,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,15,2026年美國選舉,5300,day,https://zh.wikipedia.org/wiki/2026年美國選舉,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,16,席曼寧,5300,day,https://zh.wikipedia.org/wiki/席曼寧,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,17,EXID,5100,day,https://zh.wikipedia.org/wiki/EXID,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,18,沈春華,5100,day,https://zh.wikipedia.org/wiki/沈春華,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,19,謝震武,5100,day,https://zh.wikipedia.org/wiki/謝震武,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,20,A2O LITE,5000,day,https://zh.wikipedia.org/wiki/A2O_LITE,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,21,逐玉,5000,day,https://zh.wikipedia.org/wiki/逐玉,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,22,蕙妍,4800,day,https://zh.wikipedia.org/wiki/蕙妍,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,23,再婚皇后 (電視劇),4700,day,https://zh.wikipedia.org/wiki/再婚皇后_(電視劇),zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,24,閆桉,4700,day,https://zh.wikipedia.org/wiki/閆桉,zh.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia,TW,,,25,Doctor X：白色黑手黨時代,4700,day,https://zh.wikipedia.org/wiki/Doctor_X：白色黑手黨時代,zh.wikipedia
 2026-11-03,2026-11-04T06:26Z,wikipedia,US,,,1,Abdul El-Sayed,168900,day,https://en.wikipedia.org/wiki/Abdul_El-Sayed,en.wikipedia
 2026-11-03,2026-11-04T06:26Z,wikipedia,US,,,2,2026 United States elections,150100,day,https://en.wikipedia.org/wiki/2026_United_States_elections,en.wikipedia
 2026-11-03,2026-11-04T06:26Z,wikipedia,US,,,3,Haley Stevens,149300,day,https://en.wikipedia.org/wiki/Haley_Stevens,en.wikipedia
@@ -4959,6 +5024,31 @@ date,fetched_at,source,country,region,city,rank,topic,traffic,period,url,note
 2026-11-03,2026-11-04T06:26Z,wikipedia-ja,,,,23,超特急 (音楽グループ),19207,day,https://ja.wikipedia.org/wiki/超特急_(音楽グループ),ja.wikipedia
 2026-11-03,2026-11-04T06:26Z,wikipedia-ja,,,,24,工藤公康,19115,day,https://ja.wikipedia.org/wiki/工藤公康,ja.wikipedia
 2026-11-03,2026-11-04T06:26Z,wikipedia-ja,,,,25,泉ピン子,18853,day,https://ja.wikipedia.org/wiki/泉ピン子,ja.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,1,ಕುವೆಂಪು,1057,day,https://kn.wikipedia.org/wiki/ಕುವೆಂಪು,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,2,ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪುರಸ್ಕೃತ ಕನ್ನಡಿಗರು,882,day,https://kn.wikipedia.org/wiki/ಜ್ಞಾನಪೀಠ_ಪ್ರಶಸ್ತಿ_ಪುರಸ್ಕೃತ_ಕನ್ನಡಿಗರು,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,3,ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ,704,day,https://kn.wikipedia.org/wiki/ಕನ್ನಡ_ರಾಜ್ಯೋತ್ಸವ,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,4,ಎ.ಪಿ.ಜೆ.ಅಬ್ದುಲ್ ಕಲಾಂ,582,day,https://kn.wikipedia.org/wiki/ಎ.ಪಿ.ಜೆ.ಅಬ್ದುಲ್_ಕಲಾಂ,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,5,ಮುಖ್ಯ ಪುಟ,463,day,https://kn.wikipedia.org/wiki/ಮುಖ್ಯ_ಪುಟ,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,6,ದ.ರಾ.ಬೇಂದ್ರೆ,424,day,https://kn.wikipedia.org/wiki/ದ.ರಾ.ಬೇಂದ್ರೆ,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,7,ಗೌತಮ ಬುದ್ಧ,385,day,https://kn.wikipedia.org/wiki/ಗೌತಮ_ಬುದ್ಧ,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,8,ಬಸವೇಶ್ವರ,357,day,https://kn.wikipedia.org/wiki/ಬಸವೇಶ್ವರ,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,9,ಕನ್ನಡ,337,day,https://kn.wikipedia.org/wiki/ಕನ್ನಡ,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,10,ಚಂದ್ರಶೇಖರ ಕಂಬಾರ,283,day,https://kn.wikipedia.org/wiki/ಚಂದ್ರಶೇಖರ_ಕಂಬಾರ,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,11,ಅಕ್ಕಮಹಾದೇವಿ,234,day,https://kn.wikipedia.org/wiki/ಅಕ್ಕಮಹಾದೇವಿ,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,12,ಕನಕದಾಸರು,228,day,https://kn.wikipedia.org/wiki/ಕನಕದಾಸರು,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,13,ಶಿವರಾಮ ಕಾರಂತ,222,day,https://kn.wikipedia.org/wiki/ಶಿವರಾಮ_ಕಾರಂತ,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,14,ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್,214,day,https://kn.wikipedia.org/wiki/ಮಾಸ್ತಿ_ವೆಂಕಟೇಶ_ಅಯ್ಯಂಗಾರ್,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,15,ಕರ್ನಾಟಕದ ಏಕೀಕರಣ,198,day,https://kn.wikipedia.org/wiki/ಕರ್ನಾಟಕದ_ಏಕೀಕರಣ,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,16,ಭಾರತದ ಸಂವಿಧಾನ,194,day,https://kn.wikipedia.org/wiki/ಭಾರತದ_ಸಂವಿಧಾನ,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,17,ಕರ್ನಾಟಕ,185,day,https://kn.wikipedia.org/wiki/ಕರ್ನಾಟಕ,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,18,ಕೆ. ಪಿ. ಪೂರ್ಣಚಂದ್ರ ತೇಜಸ್ವಿ,184,day,https://kn.wikipedia.org/wiki/ಕೆ._ಪಿ._ಪೂರ್ಣಚಂದ್ರ_ತೇಜಸ್ವಿ,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,19,ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ,180,day,https://kn.wikipedia.org/wiki/ಜ್ಞಾನಪೀಠ_ಪ್ರಶಸ್ತಿ,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,20,ಪಂಪ,179,day,https://kn.wikipedia.org/wiki/ಪಂಪ,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,21,ಭಾರತೀಯ ರಿಸರ್ವ್ ಬ್ಯಾಂಕ್,175,day,https://kn.wikipedia.org/wiki/ಭಾರತೀಯ_ರಿಸರ್ವ್_ಬ್ಯಾಂಕ್,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,22,ಗಿರೀಶ್ ಕಾರ್ನಾಡ್,175,day,https://kn.wikipedia.org/wiki/ಗಿರೀಶ್_ಕಾರ್ನಾಡ್,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,23,ಕುಮಾರವ್ಯಾಸ,174,day,https://kn.wikipedia.org/wiki/ಕುಮಾರವ್ಯಾಸ,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,24,ಹಾಸನಾಂಬೆ ದೇವಾಲಯ,168,day,https://kn.wikipedia.org/wiki/ಹಾಸನಾಂಬೆ_ದೇವಾಲಯ,kn.wikipedia
+2026-11-03,2026-11-04T19:47Z,wikipedia-kn,,,,25,ಪ್ರಜ್ಞಾಶೂನ್ಯತೆ,166,day,https://kn.wikipedia.org/wiki/ಪ್ರಜ್ಞಾಶೂನ್ಯತೆ,kn.wikipedia
 2026-11-03,2026-11-04T06:26Z,wikipedia-ml,,,,1,പ്രധാന താൾ,1311,day,https://ml.wikipedia.org/wiki/പ്രധാന_താൾ,ml.wikipedia
 2026-11-03,2026-11-04T06:26Z,wikipedia-ml,,,,2,മേതിൽ രാധാകൃഷ്ണൻ,423,day,https://ml.wikipedia.org/wiki/മേതിൽ_രാധാകൃഷ്ണൻ,ml.wikipedia
 2026-11-03,2026-11-04T06:26Z,wikipedia-ml,,,,3,കേരളപ്പിറവി,270,day,https://ml.wikipedia.org/wiki/കേരളപ്പിറവി,ml.wikipedia
