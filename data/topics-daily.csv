@@ -263,7 +263,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-02,what is it,5,1,0,2,0
 2026-11-02,wow forever,4,2,0,4,200
 2026-11-02,Elizabeth Holmes,4,2,0,7,127361
-2026-11-02,Ansel Adams,4,1,0,8,84438
 2026-11-02,you can see everything,4,2,0,3,99891
 2026-11-02,Christmas,4,2,8,6,0
 2026-11-02,jailer 2 song,4,1,0,1,0
@@ -306,8 +305,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-02,zumba,4,1,0,4,0
 2026-11-02,sonic,4,1,0,4,0
 2026-11-02,omz,4,1,0,4,0
-2026-11-02,itsfunneh,4,1,0,8,0
-2026-11-02,ind vs nz,4,1,0,4,0
 2026-11-02,new song 2026,4,1,0,3,0
 2026-11-02,enhypen,4,1,0,2,0
 2026-11-02,Donald Trump,3,2,0,3,8080
@@ -330,7 +327,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-02,drawing,3,1,0,3,0
 2026-11-02,cnn,3,1,0,5,0
 2026-11-02,karan aujla,3,1,0,5,0
-2026-11-02,karaoke songs,3,1,0,1,0
 2026-11-02,how to basic,3,1,0,4,0
 2026-11-02,love,3,1,0,2,0
 2026-11-02,why not,3,1,0,6,0
@@ -381,7 +377,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-02,jimmy kimmel,1,1,0,3,0
 2026-11-02,Cristiano Ronaldo,1,1,0,4,0
 2026-11-02,Ronaldo,1,1,0,5,0
-2026-11-02,Rockstar,1,1,0,8,0
 2026-11-02,psg,1,1,0,2,0
 2026-11-02,zelda ocarina of time remake,1,1,0,5,0
 2026-11-02,top 10 movies 2026,1,1,0,5,0
@@ -419,7 +414,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-03,wwe,20,1,0,1,0
 2026-11-03,zombie,20,1,0,2,0
 2026-11-03,eminem,20,1,0,1,0
-2026-11-03,novak djokovic,18,2,34,1,2000
 2026-11-03,Lacey,18,1,56,2,0
 2026-11-03,how to draw,18,1,0,1,0
 2026-11-03,quiz,18,1,0,1,0
@@ -704,7 +698,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-03,ariana grande,5,1,0,7,0
 2026-11-03,new song 2026,5,1,0,3,0
 2026-11-03,lamine yamal,4,2,0,2,500
-2026-11-03,Ansel Adams,4,1,0,8,87663
 2026-11-03,Elizabeth Holmes,4,2,0,8,87659
 2026-11-03,google,4,3,1,9,3890
 2026-11-03,you can see everything,4,2,0,3,41000
@@ -746,7 +739,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-03,hurmat,4,1,0,2,0
 2026-11-03,what is love haddaway,4,1,0,6,0
 2026-11-03,omz,4,1,0,5,0
-2026-11-03,itsfunneh,4,1,0,7,0
 2026-11-03,songs with lyrics,4,1,0,1,0
 2026-11-03,best song ever,4,1,0,6,0
 2026-11-03,enhypen,4,1,0,2,0
@@ -784,6 +776,7 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-03,weather,2,1,0,7,500
 2026-11-03,$NVDA,2,1,0,5,200
 2026-11-03,Diwali,2,2,19,1,200
+2026-11-03,Bond,2,2,2,3,100
 2026-11-03,James Talarico,2,1,0,9,105766
 2026-11-03,Michigan,2,1,7,14,0
 2026-11-03,Bernal,2,1,15,27,0
@@ -808,6 +801,7 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-03,Archive of Our Own,1,1,0,7,85012
 2026-11-03,the remarried empress,1,1,0,10,2500
 2026-11-03,Paraguay,1,1,1,1,0
+2026-11-03,GTA VI,1,1,1,8,0
 2026-11-03,Fermin,1,1,19,15,0
 2026-11-03,Gordon,1,1,1,29,0
 2026-11-03,Israel,1,1,2,12,0
@@ -816,7 +810,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-03,live,1,1,0,9,0
 2026-11-03,Cristiano Ronaldo,1,1,0,4,0
 2026-11-03,Ronaldo,1,1,0,4,0
-2026-11-03,Rockstar,1,1,0,8,0
 2026-11-03,shakira,1,1,0,6,0
 2026-11-03,top 10 movies 2026,1,1,0,4,0
 2026-11-03,gta 6 gameplay,1,1,0,7,0
@@ -825,7 +818,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-03,zhong,1,1,0,5,0
 2026-11-03,Vini,1,1,0,3,0
 2026-11-03,verity song,1,1,0,3,0
-2026-11-03,karaoke songs,1,1,0,2,0
 2026-11-03,Usman,1,1,0,8,0
 2026-11-03,oliver tree,1,1,0,6,0
 2026-11-04,Abdul El-Sayed,32,4,10,1,1413749
@@ -1230,28 +1222,25 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-04,dash,3,1,0,6,0
 2026-11-04,best controller settings for fortnite,3,1,0,4,0
 2026-11-04,pinky up,3,1,0,7,0
-2026-11-04,ind vs nz,3,1,0,3,0
 2026-11-04,ai movies,3,1,0,1,0
 2026-11-04,best movies 2026,3,1,0,4,0
 2026-11-04,zhong,3,1,0,5,0
 2026-11-04,cortis,3,1,0,3,0
 2026-11-04,what is love dance,3,1,0,4,0
 2026-11-04,king von,3,1,0,4,0
+2026-11-04,Daniel Craig,2,1,0,5,200
 2026-11-04,weather tomorrow,2,1,0,8,100000
 2026-11-04,David Walliams,2,3,6,3,47800
-2026-11-04,Ansel Adams,2,1,0,10,3100
 2026-11-04,#MUFC,2,1,3,13,0
 2026-11-04,Ocarina of Time,2,2,1,10,0
 2026-11-04,fifa,2,1,0,6,0
 2026-11-04,christmas music,2,1,0,2,0
 2026-11-04,how to fish,2,1,0,2,0
-2026-11-04,Rockstar,2,1,0,3,0
 2026-11-04,billie jean,2,1,0,8,0
 2026-11-04,shakira,2,1,0,6,0
 2026-11-04,how to save a life,2,1,0,1,0
 2026-11-04,erling haaland,2,1,0,6,0
 2026-11-04,Gane,2,1,0,2,0
-2026-11-04,itsfunneh,2,1,0,7,0
 2026-11-04,what is love remix,2,1,0,9,0
 2026-11-04,lil baby,2,1,0,5,0
 2026-11-04,Microsoft,1,1,0,10,100
@@ -1264,7 +1253,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-04,gta 6 gameplay,1,1,0,8,0
 2026-11-04,Halloween,1,1,0,8,0
 2026-11-04,verity song,1,1,0,3,0
-2026-11-04,karaoke songs,1,1,0,2,0
 2026-11-04,Usman,1,1,0,8,0
 2026-11-04,zelda ocarina of time,1,1,0,9,0
 2026-11-04,England,1,1,0,7,0
@@ -1563,7 +1551,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-05,how to delete instagram account,5,1,0,1,0
 2026-11-05,new punjabi song 2026,5,1,0,1,0
 2026-11-05,top 10 movies 2026,5,1,0,4,0
-2026-11-05,ind vs nz,5,1,0,3,0
 2026-11-05,jesus de miguel,5,1,0,3,0
 2026-11-05,masha and the bear,5,1,0,6,0
 2026-11-05,zumba,5,1,0,3,0
@@ -1601,7 +1588,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-05,songs with lyrics,5,1,0,1,0
 2026-11-05,enhypen,5,1,0,2,0
 2026-11-05,ramayana movie,4,2,19,4,200
-2026-11-05,Ansel Adams,4,1,0,5,3600
 2026-11-05,.xxx,4,1,0,1,159311
 2026-11-05,#ADIPEC,4,1,5,2,0
 2026-11-05,Cunha,4,1,5,13,0
@@ -1675,7 +1661,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-05,google,2,1,0,7,0
 2026-11-05,uzak sehir,2,1,0,2,0
 2026-11-05,Barcelona,2,1,0,3,0
-2026-11-05,Rockstar,2,1,0,2,0
 2026-11-05,apt,2,1,0,4,0
 2026-11-05,your idol,2,1,0,9,0
 2026-11-05,film,2,1,0,6,0
@@ -1685,8 +1670,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-05,last christmas,2,1,0,8,0
 2026-11-05,Gane,2,1,0,2,0
 2026-11-05,drawing,2,1,0,5,0
-2026-11-05,itsfunneh,2,1,0,8,0
-2026-11-05,karaoke songs,2,1,0,2,0
 2026-11-05,lil baby,2,1,0,2,0
 2026-11-05,Microsoft,1,1,0,2,100
 2026-11-05,weather,1,1,0,4,10000
@@ -1919,7 +1902,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-06,techy,7,1,0,3,0
 2026-11-06,blackpink,7,1,0,6,0
 2026-11-06,Stephen Miller,6,3,2,2,220230
-2026-11-06,Ansel Adams,6,1,0,5,95161
 2026-11-06,jailer 2,6,2,0,2,51100
 2026-11-06,lil baby,6,2,6,1,0
 2026-11-06,yaseen surah,6,1,0,1,0
@@ -2066,7 +2048,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-06,why did i get married,4,1,0,5,0
 2026-11-06,cortis,4,1,0,3,0
 2026-11-06,what is love dance,4,1,0,3,0
-2026-11-06,itsfunneh,4,1,0,9,0
 2026-11-06,rihanna,4,1,0,5,0
 2026-11-06,weather tomorrow,3,1,0,4,50000
 2026-11-06,erling haaland,3,2,0,4,200
@@ -2102,7 +2083,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-06,google,2,1,0,7,0
 2026-11-06,christmas music,2,1,0,1,0
 2026-11-06,nfl,2,1,0,4,0
-2026-11-06,Rockstar,2,1,0,2,0
 2026-11-06,how to fish,2,1,0,2,0
 2026-11-06,new jeans,2,1,0,3,0
 2026-11-06,apt,2,1,0,4,0
@@ -2115,11 +2095,11 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-06,Gane,2,1,0,2,0
 2026-11-06,what is sounds like,2,1,0,8,0
 2026-11-06,how to basic,2,1,0,8,0
-2026-11-06,karaoke songs,2,1,0,2,0
 2026-11-06,formula 1,2,1,0,6,0
 2026-11-06,Microsoft,1,1,0,7,100
 2026-11-06,ramayana movie,1,1,0,8,100
 2026-11-06,Jesús Owono,1,1,0,15,8823
+2026-11-06,Daniel Craig,1,1,0,22,2400
 2026-11-06,Jesús de Miguel,1,1,2,21,0
 2026-11-06,Charles,1,1,3,20,0
 2026-11-06,Christmas,1,1,5,20,0
@@ -2232,6 +2212,7 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-07,real madrid,11,2,0,1,10000
 2026-11-07,godzilla minus zero,11,3,2,1,500
 2026-11-07,world cup,11,2,2,1,0
+2026-11-07,Bond,11,1,30,3,0
 2026-11-07,zara larsson,11,2,3,2,0
 2026-11-07,Cristiano Ronaldo,11,2,0,2,0
 2026-11-07,dar e nijaat,11,1,0,1,0
@@ -2365,6 +2346,7 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-07,tiktok,7,1,0,1,0
 2026-11-07,anime,7,1,0,2,0
 2026-11-07,love story,7,1,0,5,0
+2026-11-07,Robert Pattinson,6,2,8,7,500
 2026-11-07,psg,6,2,0,3,2000
 2026-11-07,ramayana,6,2,2,2,0
 2026-11-07,Portugal,6,2,9,1,0
@@ -2400,7 +2382,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-07,king von,6,1,0,4,0
 2026-11-07,how to beat,6,1,0,5,0
 2026-11-07,pinky up,6,1,0,4,0
-2026-11-07,itsfunneh,6,1,0,7,0
 2026-11-07,asmongold,6,1,0,4,0
 2026-11-07,xxv,6,1,0,3,0
 2026-11-07,top 10 sad song,6,1,0,3,0
@@ -2421,7 +2402,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-07,best of luck nikki,5,1,0,2,0
 2026-11-07,karan aujla,5,1,0,3,0
 2026-11-07,live,5,1,0,2,0
-2026-11-07,karaoke songs,5,1,0,2,0
 2026-11-07,yeralti,5,1,0,1,0
 2026-11-07,vijay songs,5,1,0,3,0
 2026-11-07,how to delete instagram account,5,1,0,1,0
@@ -2469,6 +2449,7 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-07,weather,4,1,0,3,100000
 2026-11-07,Happy Diwali,4,2,24,1,0
 2026-11-07,Ronaldo,4,2,3,5,0
+2026-11-07,James Bond,4,1,7,2,0
 2026-11-07,harry potter,4,2,2,7,0
 2026-11-07,old songs,4,1,0,1,0
 2026-11-07,indian songs,4,1,0,2,0
@@ -2510,6 +2491,7 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-07,Republicans,3,1,9,8,0
 2026-11-07,Texas,3,1,14,5,0
 2026-11-07,Diwali,3,1,3,10,0
+2026-11-07,Batman,3,1,3,18,0
 2026-11-07,iran news,3,1,0,2,0
 2026-11-07,pbb,3,1,0,1,0
 2026-11-07,ramayana movie,3,1,0,3,0
@@ -2539,14 +2521,13 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-07,india's got latent,2,1,0,4,0
 2026-11-07,google,2,1,0,7,0
 2026-11-07,yoga bikini,2,1,0,6,0
-2026-11-07,Rockstar,2,1,0,3,0
 2026-11-07,your idol,2,1,0,9,0
 2026-11-07,top 10 christmas songs,2,1,0,1,0
 2026-11-07,united stand,2,1,0,3,0
 2026-11-07,liverpool,2,1,0,2,0
 2026-11-07,Gane,2,1,0,2,0
-2026-11-07,ind vs nz,2,1,0,5,0
 2026-11-07,soda pop,2,1,0,8,0
+2026-11-07,GTA VI,1,1,0,1,100
 2026-11-07,Microsoft,1,1,0,5,1000
 2026-11-07,#ADIPEC,1,1,1,5,0
 2026-11-07,Wanda,1,1,1,1,0
@@ -2723,7 +2704,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-08,bts,9,1,0,1,0
 2026-11-08,zelda ocarina of time,8,2,0,1,500
 2026-11-08,Abdul El-Sayed,8,2,0,1,215617
-2026-11-08,Ansel Adams,8,1,0,5,109894
 2026-11-08,what is this,8,1,0,2,0
 2026-11-08,fifa world cup,8,1,0,2,0
 2026-11-08,new punjabi song,8,1,0,1,0
@@ -2793,6 +2773,7 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-08,jailer 2,6,2,0,2,81184
 2026-11-08,the remarried empress,6,2,0,1,3000
 2026-11-08,Poland,6,2,3,5,0
+2026-11-08,Bond,6,1,15,7,0
 2026-11-08,Jensen,6,1,14,4,0
 2026-11-08,#MUFC,6,1,26,4,0
 2026-11-08,liverpool,6,2,1,1,0
@@ -2803,7 +2784,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-08,taarak mehta ka ooltah chashmah,6,1,0,1,0
 2026-11-08,ramayana,6,1,0,2,0
 2026-11-08,how to make a squishy,6,1,0,3,0
-2026-11-08,karaoke songs,6,1,0,2,0
 2026-11-08,new hindi movie,6,1,0,5,0
 2026-11-08,vlog,6,1,0,1,0
 2026-11-08,top 10 movies 2026,6,1,0,3,0
@@ -2878,7 +2858,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-08,joe rogan,5,1,0,5,0
 2026-11-08,sml,5,1,0,1,0
 2026-11-08,united stand,5,1,0,1,0
-2026-11-08,itsfunneh,5,1,0,7,0
 2026-11-08,joe bartolozzi,5,1,0,4,0
 2026-11-08,linkin park,5,1,0,6,0
 2026-11-08,songs with lyrics,5,1,0,1,0
@@ -2971,14 +2950,12 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-08,new nepali movie,2,1,0,1,0
 2026-11-08,Tucker Carlson,2,1,0,5,0
 2026-11-08,uzak sehir,2,1,0,5,0
-2026-11-08,Rockstar,2,1,0,2,0
 2026-11-08,fifa,2,1,0,4,0
 2026-11-08,top 10 movies 2025,2,1,0,7,0
 2026-11-08,your idol,2,1,0,10,0
 2026-11-08,rihanna,2,1,0,7,0
 2026-11-08,top 10 christmas songs,2,1,0,1,0
 2026-11-08,Gane,2,1,0,2,0
-2026-11-08,ind vs nz,2,1,0,4,0
 2026-11-08,drawing,2,1,0,6,0
 2026-11-08,pinky up,2,1,0,6,0
 2026-11-08,weather,1,1,0,9,100000
@@ -2991,6 +2968,7 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-08,Democrats,1,1,4,17,0
 2026-11-08,Lacey,1,1,1,5,0
 2026-11-08,Charles,1,1,1,24,0
+2026-11-08,Robert Pattinson,1,1,2,29,0
 2026-11-08,Michigan,1,1,9,3,0
 2026-11-08,xauusd live,1,1,0,4,0
 2026-11-08,king,1,1,0,10,0
@@ -3151,6 +3129,7 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-09,new song 2026,9,1,0,1,0
 2026-11-09,one piece,9,1,0,4,0
 2026-11-09,video,8,2,0,1,500
+2026-11-09,Batman,8,1,26,4,0
 2026-11-09,Iran,8,2,2,3,0
 2026-11-09,pakistani drama,8,1,0,1,0
 2026-11-09,movie,8,1,0,2,0
@@ -3319,7 +3298,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-09,free fire,5,1,0,3,0
 2026-11-09,why am i baby mafia,5,1,0,1,0
 2026-11-09,why do we fall,5,1,0,6,0
-2026-11-09,itsfunneh,5,1,0,4,0
 2026-11-09,what is love remix,5,1,0,3,0
 2026-11-09,tiktok mashup 2026,5,1,0,1,0
 2026-11-09,sonic,5,1,0,5,0
@@ -3328,7 +3306,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-09,why did i get married,5,1,0,5,0
 2026-11-09,Pete Hegseth,4,3,23,3,46900
 2026-11-09,.xxx,4,1,0,1,254653
-2026-11-09,Ansel Adams,4,1,0,5,80782
 2026-11-09,Aston Villa,4,2,4,4,0
 2026-11-09,Gordon,4,1,8,12,0
 2026-11-09,english movie,4,1,0,1,0
@@ -3353,7 +3330,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-09,drawing,4,1,0,6,0
 2026-11-09,fireplace,4,1,0,5,0
 2026-11-09,sml,4,1,0,3,0
-2026-11-09,karaoke songs,4,1,0,2,0
 2026-11-09,last christmas,4,1,0,8,0
 2026-11-09,ai movies,4,1,0,1,0
 2026-11-09,lisa,4,1,0,3,0
@@ -3409,13 +3385,13 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-09,gta 6 gameplay,2,1,0,8,0
 2026-11-09,harry potter,2,1,0,6,0
 2026-11-09,funny,2,1,0,6,0
-2026-11-09,Rockstar,2,1,0,2,0
 2026-11-09,apt,2,1,0,4,0
 2026-11-09,top 10 christmas songs,2,1,0,1,0
 2026-11-09,England,2,1,0,8,0
 2026-11-09,erling haaland,2,1,0,7,0
 2026-11-09,Gane,2,1,0,3,0
 2026-11-09,weather tomorrow,1,1,0,6,20000
+2026-11-09,James Bond,1,1,0,8,200
 2026-11-09,David Walliams,1,1,0,12,20800
 2026-11-09,Mauricio Pochettino,1,1,0,10,2000
 2026-11-09,Jon Ossoff,1,1,0,13,78590
@@ -3425,6 +3401,7 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-09,#RTXON,1,1,2,7,0
 2026-11-09,Lacey,1,1,1,9,0
 2026-11-09,Cunha,1,1,1,14,0
+2026-11-09,GTA VI,1,1,2,18,0
 2026-11-09,google,1,1,0,7,0
 2026-11-09,uzak sehir,1,1,0,3,0
 2026-11-09,zelda ocarina of time,1,1,0,4,0
@@ -3544,6 +3521,7 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-10,horror movie,10,1,0,2,0
 2026-11-10,just dance,10,1,0,1,0
 2026-11-10,how to train your dragon,10,1,0,1,0
+2026-11-10,GTA VI,9,2,14,3,200
 2026-11-10,Pete Hegseth,9,4,11,5,127687
 2026-11-10,dar e nijaat,9,1,0,1,0
 2026-11-10,pakistani drama,9,1,0,1,0
@@ -3646,7 +3624,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-10,love story,7,1,0,4,0
 2026-11-10,love,7,1,0,2,0
 2026-11-10,Diwali,6,2,16,7,1000
-2026-11-10,Ansel Adams,6,1,0,6,77911
 2026-11-10,ChatGPT,6,1,0,3,4100
 2026-11-10,hindi song,6,1,0,1,0
 2026-11-10,yaseen surah,6,1,0,1,0
@@ -3756,7 +3733,7 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-10,Elizabeth Holmes,4,2,0,10,78150
 2026-11-10,.xxx,4,1,0,1,213618
 2026-11-10,the remarried empress,4,2,0,1,1800
-2026-11-10,Rockstar,4,2,7,2,0
+2026-11-10,Batman,4,1,4,4,0
 2026-11-10,Manchester United,4,2,2,3,0
 2026-11-10,old songs,4,1,0,1,0
 2026-11-10,tamil full movie,4,1,0,1,0
@@ -3791,7 +3768,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-10,ai movies,4,1,0,1,0
 2026-11-10,best movies 2026,4,1,0,3,0
 2026-11-10,what is love dance,4,1,0,3,0
-2026-11-10,itsfunneh,4,1,0,6,0
 2026-11-10,weather tomorrow,3,1,0,1,50000
 2026-11-10,elon musk,3,2,0,7,200
 2026-11-10,you can see everything,3,2,0,2,6200
@@ -3860,7 +3836,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-10,film,1,1,0,9,0
 2026-11-10,ms rachel,1,1,0,2,0
 2026-11-10,Vini,1,1,0,2,0
-2026-11-10,karaoke songs,1,1,0,2,0
 2026-11-10,Usman,1,1,0,6,0
 2026-11-10,zelda ocarina of time,1,1,0,10,0
 2026-11-10,england vs croatia,1,1,0,9,0
@@ -4064,7 +4039,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-11,avengers doomsday,6,3,6,3,100
 2026-11-11,Pete Hegseth,6,3,1,3,54500
 2026-11-11,Jensen,6,1,10,10,0
-2026-11-11,Rockstar,6,2,21,7,0
 2026-11-11,ramayana,6,2,1,5,0
 2026-11-11,Carrick,6,1,4,11,0
 2026-11-11,quran tilawat,6,1,0,1,0
@@ -4109,7 +4083,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-11,one piece,6,1,0,5,0
 2026-11-11,Elizabeth Holmes,5,2,0,7,82266
 2026-11-11,.xxx,5,1,0,1,226847
-2026-11-11,Ansel Adams,5,1,0,5,82519
 2026-11-11,the remarried empress,5,2,0,1,2400
 2026-11-11,hindi song,5,1,0,1,0
 2026-11-11,jailer 2 song,5,1,0,1,0
@@ -4212,6 +4185,7 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-11,what is love remix,4,1,0,6,0
 2026-11-11,tiktok mashup 2026,4,1,0,1,0
 2026-11-11,uefa nations league,3,1,0,3,500
+2026-11-11,GTA VI,3,2,3,7,100
 2026-11-11,pbb,3,2,0,1,1000
 2026-11-11,google,3,3,2,1,100
 2026-11-11,you can see everything,3,2,0,2,7700
@@ -4242,7 +4216,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-11,what is love dance,3,1,0,3,0
 2026-11-11,godzilla,3,1,0,5,0
 2026-11-11,how to basic,3,1,0,6,0
-2026-11-11,itsfunneh,3,1,0,7,0
 2026-11-11,weather,2,1,0,3,20000
 2026-11-11,nations league,2,1,0,4,200
 2026-11-11,film,2,2,0,7,200
@@ -4267,7 +4240,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-11,blackpink,2,1,0,8,0
 2026-11-11,best movies 2026,2,1,0,7,0
 2026-11-11,rihanna,2,1,0,6,0
-2026-11-11,karaoke songs,2,1,0,2,0
 2026-11-11,formula 1,2,1,0,6,0
 2026-11-11,how to crochet,2,1,0,7,0
 2026-11-11,why did i get married,2,1,0,6,0
@@ -4279,6 +4251,7 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-11,Charles,1,1,2,14,0
 2026-11-11,Israel,1,1,2,9,0
 2026-11-11,#MUFC,1,1,2,10,0
+2026-11-11,Batman,1,1,0,29,0
 2026-11-11,Kansas,1,1,7,15,0
 2026-11-11,Diwali,1,1,2,26,0
 2026-11-11,ordinary,1,1,0,10,0
@@ -4526,7 +4499,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-12,top 10 sad song,6,1,0,3,0
 2026-11-12,one piece,6,1,0,5,0
 2026-11-12,David Walliams,5,3,5,1,138004
-2026-11-12,Ansel Adams,5,1,0,7,3500
 2026-11-12,ChatGPT,5,1,0,3,3800
 2026-11-12,.xxx,5,1,0,1,257723
 2026-11-12,jailer 2,5,2,0,2,107131
@@ -4581,7 +4553,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-12,doraemon,5,1,0,2,0
 2026-11-12,fireplace,5,1,0,3,0
 2026-11-12,last christmas,5,1,0,4,0
-2026-11-12,itsfunneh,5,1,0,7,0
 2026-11-12,techy,5,1,0,2,0
 2026-11-12,why do birds suddenly appear,5,1,0,4,0
 2026-11-12,fifa,4,2,0,4,100
@@ -4676,7 +4647,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-12,google,2,2,0,2,500
 2026-11-12,Archive of Our Own,2,1,0,5,2800
 2026-11-12,Friday the 13th,2,1,5,13,0
-2026-11-12,Rockstar,2,2,3,2,0
 2026-11-12,news live,2,1,0,5,0
 2026-11-12,india's got latent,2,1,0,4,0
 2026-11-12,uzak sehir,2,1,0,8,0
@@ -4695,7 +4665,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-12,godzilla,2,1,0,6,0
 2026-11-12,how to basic,2,1,0,7,0
 2026-11-12,soda pop,2,1,0,8,0
-2026-11-12,karaoke songs,2,1,0,2,0
 2026-11-12,2026 United States elections,1,1,0,24,43400
 2026-11-12,Portugal,1,1,0,18,0
 2026-11-12,Superman,1,1,0,29,0
@@ -4881,7 +4850,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-13,bts,8,1,0,1,0
 2026-11-13,how to draw anime,8,1,0,4,0
 2026-11-13,msa,8,1,0,2,0
-2026-11-13,ind vs nz,7,2,0,1,2000
 2026-11-13,Pete Hegseth,7,2,0,2,200
 2026-11-13,Iran,7,2,0,1,500
 2026-11-13,enhypen,7,2,1,1,0
@@ -4928,7 +4896,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-13,podcast,7,1,0,2,0
 2026-11-13,David Walliams,6,2,0,1,97674
 2026-11-13,Russell Brand,6,2,0,1,112783
-2026-11-13,Ansel Adams,6,1,0,6,87618
 2026-11-13,jailer 2,6,2,0,1,94514
 2026-11-13,Merab,6,1,14,13,0
 2026-11-13,hindi song,6,1,0,1,0
@@ -5063,7 +5030,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-13,sml,4,1,0,1,0
 2026-11-13,joe bartolozzi,4,1,0,4,0
 2026-11-13,zelda ocarina of time remake,4,1,0,5,0
-2026-11-13,itsfunneh,4,1,0,8,0
 2026-11-13,how to save a life,4,1,0,1,0
 2026-11-13,love,4,1,0,2,0
 2026-11-13,jennie,4,1,0,3,0
@@ -5086,7 +5052,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-13,fifa,3,1,0,4,0
 2026-11-13,chris brown,3,1,0,2,0
 2026-11-13,fox news,3,1,0,1,0
-2026-11-13,karaoke songs,3,1,0,2,0
 2026-11-13,drawing,3,1,0,5,0
 2026-11-13,how to fish,3,1,0,1,0
 2026-11-13,what is love remix,3,1,0,2,0
@@ -5128,6 +5093,7 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-13,lil baby,2,1,0,2,0
 2026-11-13,ufc 334,1,1,0,10,100
 2026-11-13,Jesús Owono,1,1,0,4,100
+2026-11-13,James Bond,1,1,0,1,500
 2026-11-13,Paraguay,1,2,0,5,200
 2026-11-13,Abdul El-Sayed,1,1,0,19,43000
 2026-11-13,Barcelona,1,1,2,27,0
@@ -5135,7 +5101,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-13,America,1,1,1,22,0
 2026-11-13,google,1,1,0,7,0
 2026-11-13,cnn,1,1,0,4,0
-2026-11-13,Rockstar,1,1,0,4,0
 2026-11-13,Ronaldo,1,1,0,8,0
 2026-11-13,psg,1,1,0,5,0
 2026-11-13,ms rachel,1,1,0,1,0
@@ -5263,7 +5228,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-14,what is love haddaway,10,1,0,2,0
 2026-11-14,why women kill,10,1,0,5,0
 2026-11-14,ariana grande,10,1,0,4,0
-2026-11-14,Ansel Adams,9,1,0,5,127659
 2026-11-14,godzilla minus zero,9,2,0,1,1800
 2026-11-14,anazala family,9,1,0,1,0
 2026-11-14,why not me,9,1,0,1,0
@@ -5342,7 +5306,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-14,how to make a squishy,7,1,0,3,0
 2026-11-14,live,7,1,0,4,0
 2026-11-14,masha and the bear,7,1,0,4,0
-2026-11-14,karaoke songs,7,1,0,2,0
 2026-11-14,waka waka,7,1,0,4,0
 2026-11-14,trailer,7,1,0,4,0
 2026-11-14,lego,7,1,0,1,0
@@ -5375,7 +5338,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-14,England,6,2,5,2,0
 2026-11-14,love songs,6,1,0,1,0
 2026-11-14,xauusd live,6,1,0,1,0
-2026-11-14,ind vs nz,6,1,0,1,0
 2026-11-14,quran tilawat,6,1,0,1,0
 2026-11-14,xiaomi 17 pro max,6,1,0,4,0
 2026-11-14,cash,6,1,0,2,0
@@ -5465,7 +5427,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-14,asmongold,5,1,0,6,0
 2026-11-14,how to crochet,5,1,0,5,0
 2026-11-14,new rockstars,5,1,0,3,0
-2026-11-14,itsfunneh,5,1,0,8,0
 2026-11-14,how to beat,5,1,0,8,0
 2026-11-14,pinky up,5,1,0,5,0
 2026-11-14,why michael jackson,5,1,0,3,0
@@ -5563,13 +5524,13 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-14,Pete Hegseth,1,1,0,10,100
 2026-11-14,Poland,1,1,0,4,200
 2026-11-14,Donald Trump,1,1,0,1,100
+2026-11-14,GTA VI,1,1,0,7,1000
 2026-11-14,Barcelona,1,1,1,1,0
 2026-11-14,Israel,1,1,2,9,0
 2026-11-14,Paraguay,1,1,0,25,0
 2026-11-14,Hokit,1,1,1,8,0
 2026-11-14,google,1,1,0,7,0
 2026-11-14,uzak sehir,1,1,0,4,0
-2026-11-14,Rockstar,1,1,0,4,0
 2026-11-14,ms rachel,1,1,0,1,0
 2026-11-14,Manchester United,1,1,0,9,0
 2026-11-14,epl highlights,1,1,0,6,0
@@ -5752,7 +5713,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-15,horror movie,8,1,0,1,0
 2026-11-15,new song 2026,8,1,0,1,0
 2026-11-15,ukraine,7,3,2,3,100
-2026-11-15,Ansel Adams,7,1,0,10,115262
 2026-11-15,uefa nations league,7,2,0,5,24500
 2026-11-15,shakira,7,2,2,1,0
 2026-11-15,what is this,7,1,0,2,0
@@ -5764,7 +5724,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-15,punjabi movies,7,1,0,1,0
 2026-11-15,how to make a squishy,7,1,0,3,0
 2026-11-15,why me,7,1,0,1,0
-2026-11-15,karaoke songs,7,1,0,2,0
 2026-11-15,abc song,7,1,0,3,0
 2026-11-15,top 10 movies 2026,7,1,0,3,0
 2026-11-15,taarak mehta ka ooltah chashmah,7,1,0,3,0
@@ -5850,7 +5809,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-15,how to basic,6,1,0,2,0
 2026-11-15,podcast,6,1,0,4,0
 2026-11-15,baby doll,6,1,0,1,0
-2026-11-15,ind vs nz,5,2,0,2,2000
 2026-11-15,Friday the 13th,5,1,7,11,0
 2026-11-15,hindi song,5,1,0,1,0
 2026-11-15,jailer 2 song,5,1,0,1,0
@@ -5919,7 +5877,6 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-15,top 10 christmas songs,4,1,0,1,0
 2026-11-15,sml,4,1,0,2,0
 2026-11-15,how to beat,4,1,0,7,0
-2026-11-15,itsfunneh,4,1,0,7,0
 2026-11-15,nastya,4,1,0,1,0
 2026-11-15,love,4,1,0,2,0
 2026-11-15,rihanna,4,1,0,5,0
@@ -5992,13 +5949,13 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-15,google,1,1,0,7,0
 2026-11-15,jimmy kimmel,1,1,0,2,0
 2026-11-15,uzak sehir,1,1,0,4,0
-2026-11-15,Rockstar,1,1,0,5,0
 2026-11-15,top 10 movies 2025,1,1,0,7,0
 2026-11-15,your idol,1,1,0,10,0
 2026-11-15,psg,1,1,0,7,0
 2026-11-15,ms rachel,1,1,0,1,0
 2026-11-15,ordinary,1,1,0,10,0
 2026-11-15,parrotx2,1,1,0,7,0
+2026-11-15,GTA VI,1,1,0,9,0
 2026-11-15,VisionQuest,1,1,0,5,0
 2026-11-15,erling haaland,1,1,0,7,0
 2026-11-15,formula 1,1,1,0,8,0
@@ -6006,412 +5963,417 @@ date,topic,countries,sources,cities,best_rank,peak_traffic
 2026-11-15,China,1,1,0,3,0
 2026-11-15,nfl,1,1,0,6,0
 2026-11-15,lamine yamal,1,1,0,10,0
+2026-11-16,Robert Pattinson,30,3,68,1,10000
 2026-11-16,cocomelon,25,1,0,1,0
 2026-11-16,youtube,25,1,0,1,0
 2026-11-16,what is love,25,1,0,1,0
-2026-11-16,mrbeast,23,1,0,1,0
+2026-11-16,mrbeast,24,1,0,1,0
+2026-11-16,zombie,23,1,0,1,0
 2026-11-16,best friend,23,1,0,1,0
 2026-11-16,ishowspeed,22,1,0,1,0
 2026-11-16,how to draw,22,1,0,1,0
 2026-11-16,quiz,22,1,0,1,0
-2026-11-16,zombie,22,1,0,1,0
+2026-11-16,baby shark,22,1,0,1,0
+2026-11-16,queen,22,1,0,3,0
+2026-11-16,James Bond,21,2,28,1,0
 2026-11-16,quran,21,1,0,1,0
 2026-11-16,katseye,21,1,0,1,0
-2026-11-16,baby shark,21,1,0,1,0
-2026-11-16,queen,21,1,0,3,0
-2026-11-16,what is your name,20,1,0,2,0
-2026-11-16,top 10 songs,20,1,0,1,0
+2026-11-16,what is your name,21,1,0,2,0
+2026-11-16,top 10 songs,21,1,0,1,0
+2026-11-16,gta 6,20,3,5,1,500
+2026-11-16,justin bieber,20,1,0,1,0
+2026-11-16,eminem,20,1,0,1,0
 2026-11-16,ufc,20,1,0,1,0
 2026-11-16,michael jackson,20,1,0,1,0
 2026-11-16,asmr,20,1,0,1,0
-2026-11-16,gta 6,19,2,0,1,500
 2026-11-16,peppa pig,19,1,0,1,0
-2026-11-16,eminem,19,1,0,1,0
 2026-11-16,wwe,19,1,0,1,0
-2026-11-16,justin bieber,19,1,0,1,0
 2026-11-16,karaoke,19,1,0,1,0
+2026-11-16,dai dai,19,1,0,2,0
+2026-11-16,roblox,19,1,0,1,0
+2026-11-16,how to train your dragon,19,1,0,1,0
 2026-11-16,how to tie a tie,18,1,0,2,0
+2026-11-16,golden,18,1,0,1,0
 2026-11-16,best day of my life,18,1,0,1,0
 2026-11-16,verity,18,1,0,1,0
-2026-11-16,roblox,18,1,0,1,0
+2026-11-16,bluey,18,1,0,1,0
 2026-11-16,xxxtentacion,17,1,0,1,0
 2026-11-16,wemmbu,17,1,0,1,0
-2026-11-16,golden,17,1,0,1,0
+2026-11-16,christmas songs,17,1,0,1,0
 2026-11-16,xrp,17,1,0,1,0
-2026-11-16,bluey,17,1,0,1,0
 2026-11-16,yoga,17,1,0,3,0
 2026-11-16,what is love twice,17,1,0,2,0
 2026-11-16,top 10 anime,17,1,0,2,0
-2026-11-16,how to train your dragon,17,1,0,1,0
+2026-11-16,England,16,2,18,1,0
+2026-11-16,Daniel Craig,16,1,58,4,0
+2026-11-16,harry potter,16,2,10,1,0
+2026-11-16,olivia rodrigo,16,2,0,1,0
 2026-11-16,foltyn,16,1,0,1,0
 2026-11-16,vlad and niki,16,1,0,1,0
-2026-11-16,christmas songs,16,1,0,1,0
+2026-11-16,gta 6 trailer,16,1,0,1,0
 2026-11-16,just dance,16,1,0,1,0
 2026-11-16,quiz game,16,1,0,1,0
 2026-11-16,why files,16,1,0,1,0
-2026-11-16,dai dai,16,1,0,3,0
+2026-11-16,gta 6 gameplay,16,1,0,2,0
 2026-11-16,jordan matter,16,1,0,2,0
-2026-11-16,illit,16,1,0,2,0
+2026-11-16,illit,16,1,0,1,0
 2026-11-16,minecraft,16,1,0,1,0
-2026-11-16,gta 6 trailer,15,1,0,1,0
+2026-11-16,spider-man,16,1,0,1,0
+2026-11-16,Batman,15,1,26,2,0
+2026-11-16,top 10 movies,15,1,0,1,0
 2026-11-16,xxl,15,1,0,1,0
-2026-11-16,gta 6 gameplay,15,1,0,2,0
+2026-11-16,tom and jerry,15,1,0,1,0
 2026-11-16,happy birthday song,15,1,0,2,0
+2026-11-16,why you so obsessed with me,15,1,0,1,0
 2026-11-16,iconic by mistake,15,1,0,2,0
-2026-11-16,music,15,1,0,2,0
 2026-11-16,paw patrol,15,1,0,1,0
-2026-11-16,spider-man,15,1,0,1,0
-2026-11-16,England,14,2,17,1,0
-2026-11-16,top 10 movies,14,1,0,1,0
-2026-11-16,tom and jerry,14,1,0,1,0
-2026-11-16,unstable smp,14,1,0,3,0
-2026-11-16,why you so obsessed with me,14,1,0,1,0
-2026-11-16,harry potter,14,1,0,1,0
-2026-11-16,oliver tree,14,1,0,1,0
+2026-11-16,music,15,1,0,2,0
+2026-11-16,oliver tree,15,1,0,1,0
+2026-11-16,why so serious,15,1,0,3,0
+2026-11-16,shorts,15,1,0,1,0
+2026-11-16,best songs,14,1,0,1,0
+2026-11-16,new song,14,1,0,1,0
+2026-11-16,royalty family,14,1,0,1,0
+2026-11-16,unstable smp,14,1,0,2,0
 2026-11-16,fortnite,14,1,0,1,0
-2026-11-16,olivia rodrigo,14,1,0,1,0
 2026-11-16,new york,14,1,0,1,0
 2026-11-16,AO3 IS BACK,13,1,28,1,0
 2026-11-16,world cup,13,2,10,1,0
-2026-11-16,best songs,13,1,0,1,0
 2026-11-16,fifa world cup 2026,13,1,0,1,0
 2026-11-16,zack d films,13,1,0,1,0
 2026-11-16,how to make slime,13,1,0,2,0
 2026-11-16,exercise,13,1,0,2,0
 2026-11-16,best ever food review show,13,1,0,1,0
-2026-11-16,why so serious,13,1,0,3,0
 2026-11-16,best part,13,1,0,1,0
-2026-11-16,gta 5,13,1,0,5,0
-2026-11-16,shorts,13,1,0,1,0
-2026-11-16,new song,12,1,0,1,0
-2026-11-16,wheels on the bus,12,1,0,3,0
-2026-11-16,royalty family,12,1,0,1,0
+2026-11-16,gta 5,13,1,0,3,0
+2026-11-16,uefa nations league,12,2,0,1,500
+2026-11-16,Bond,12,1,33,1,0
+2026-11-16,wheels on the bus,12,1,0,2,0
+2026-11-16,cartoon,12,1,0,1,0
 2026-11-16,how to make a paper airplane,12,1,0,3,0
 2026-11-16,zara larsson,12,1,0,1,0
 2026-11-16,obsession,12,1,0,1,0
+2026-11-16,nations league,11,3,10,1,1000
 2026-11-16,Ronaldinho,11,2,11,1,0
 2026-11-16,english songs,11,1,0,1,0
 2026-11-16,songs,11,1,0,1,0
-2026-11-16,diana and roma,11,1,0,2,0
 2026-11-16,news,11,1,0,1,0
-2026-11-16,cartoon,11,1,0,1,0
+2026-11-16,diana and roma,11,1,0,1,0
 2026-11-16,beta squad,11,1,0,1,0
 2026-11-16,dhar mann,11,1,0,1,0
 2026-11-16,blippi,11,1,0,2,0
+2026-11-16,waka waka,11,1,0,1,0
+2026-11-16,why are you running,11,1,0,3,0
 2026-11-16,salish matter,11,1,0,2,0
 2026-11-16,top 10 phonk songs,11,1,0,1,0
 2026-11-16,zootopia 2,11,1,0,4,0
 2026-11-16,what is love haddaway,11,1,0,2,0
+2026-11-16,mukbang,11,1,0,1,0
 2026-11-16,you,11,1,0,1,0
+2026-11-16,lego,10,2,1,1,0
+2026-11-16,taylor swift,10,2,5,3,0
+2026-11-16,Iran,10,2,2,3,0
 2026-11-16,dar e nijaat,10,1,0,1,0
 2026-11-16,why this kolaveri di,10,1,0,1,0
 2026-11-16,why not me,10,1,0,1,0
-2026-11-16,portugal vs denmark,10,1,0,1,0
 2026-11-16,vlad,10,1,0,1,0
+2026-11-16,portugal vs denmark,10,1,0,1,0
+2026-11-16,quran recitation,10,1,0,3,0
 2026-11-16,top 10 horror movies,10,1,0,1,0
-2026-11-16,waka waka,10,1,0,1,0
-2026-11-16,kissing,10,1,0,5,0
+2026-11-16,horror movie,10,1,0,1,0
+2026-11-16,kissing,10,1,0,4,0
 2026-11-16,funk,10,1,0,3,0
 2026-11-16,zoo,10,1,0,3,0
 2026-11-16,why don't we,10,1,0,1,0
-2026-11-16,xqc,10,1,0,4,0
-2026-11-16,why are you running,10,1,0,3,0
+2026-11-16,xqc,10,1,0,3,0
 2026-11-16,funny videos,10,1,0,1,0
 2026-11-16,what is this feeling wicked,10,1,0,3,0
+2026-11-16,why women kill,10,1,0,2,0
+2026-11-16,last christmas,10,1,0,1,0
+2026-11-16,best day ever,10,1,0,3,0
 2026-11-16,bts,10,1,0,1,0
 2026-11-16,fifa world cup,9,2,0,2,100
 2026-11-16,Portugal,9,2,5,3,0
+2026-11-16,bruno mars,9,2,4,7,0
+2026-11-16,ukraine,9,2,1,4,0
 2026-11-16,anazala family,9,1,0,1,0
-2026-11-16,quran recitation,9,1,0,3,0
+2026-11-16,hanuman chalisa,9,1,0,1,0
+2026-11-16,new movie,9,1,0,1,0
 2026-11-16,xmas songs,9,1,0,1,0
+2026-11-16,relaxing music,9,1,0,2,0
+2026-11-16,yoga for kids,9,1,0,1,0
 2026-11-16,white noise,9,1,0,1,0
-2026-11-16,lego,9,1,0,1,0
-2026-11-16,ukraine war,9,1,0,2,0
+2026-11-16,iran war,9,1,0,1,0
+2026-11-16,unspeakable,9,1,0,1,0
+2026-11-16,video,9,1,0,1,0
+2026-11-16,drake,9,1,0,1,0
+2026-11-16,Trump,9,1,0,1,0
+2026-11-16,nfl,9,1,0,1,0
+2026-11-16,ukraine war,9,1,0,1,0
 2026-11-16,try not to laugh,9,1,0,1,0
-2026-11-16,taylor swift,9,1,0,4,0
-2026-11-16,mukbang,9,1,0,1,0
-2026-11-16,why women kill,9,1,0,2,0
-2026-11-16,best day ever,9,1,0,3,0
+2026-11-16,doomsday trailer,9,1,0,1,0
+2026-11-16,movies,9,1,0,1,0
+2026-11-16,tiktok mashup 2026,9,1,0,1,0
+2026-11-16,new song 2026,9,1,0,1,0
 2026-11-16,one piece,9,1,0,5,0
 2026-11-16,Starship,8,2,12,7,0
 2026-11-16,Gane,8,2,16,2,0
-2026-11-16,nations league,8,2,7,1,0
+2026-11-16,avengers doomsday,8,2,19,3,0
+2026-11-16,bigg boss 20,8,1,0,1,0
 2026-11-16,like nastya,8,1,0,1,0
+2026-11-16,yeralti,8,1,0,1,0
 2026-11-16,how to make,8,1,0,3,0
 2026-11-16,jj and mikey,8,1,0,1,0
 2026-11-16,movie,8,1,0,2,0
+2026-11-16,how to make a squishy,8,1,0,3,0
 2026-11-16,funny video,8,1,0,1,0
-2026-11-16,what is ai,8,1,0,5,0
+2026-11-16,what is ai,8,1,0,4,0
 2026-11-16,why me,8,1,0,1,0
-2026-11-16,relaxing music,8,1,0,2,0
-2026-11-16,yoga for kids,8,1,0,2,0
-2026-11-16,unspeakable,8,1,0,3,0
-2026-11-16,video,8,1,0,1,0
+2026-11-16,new hindi movie,8,1,0,4,0
+2026-11-16,top 10 movies 2026,8,1,0,1,0
+2026-11-16,x cool,8,1,0,3,0
 2026-11-16,happy birthday,8,1,0,1,0
-2026-11-16,Iran,8,1,0,4,0
-2026-11-16,Trump,8,1,0,1,0
+2026-11-16,ksi,8,1,0,2,0
+2026-11-16,news today,8,1,0,2,0
 2026-11-16,what is it,8,1,0,2,0
 2026-11-16,top 10 scary videos,8,1,0,1,0
-2026-11-16,doomsday trailer,8,1,0,1,0
-2026-11-16,drake,8,1,0,1,0
-2026-11-16,top 10 songs 2026,8,1,0,4,0
+2026-11-16,ukraine war news update today,8,1,0,2,0
+2026-11-16,football highlights,8,1,0,1,0
+2026-11-16,top 10 songs 2026,8,1,0,3,0
+2026-11-16,xbox,8,1,0,4,0
 2026-11-16,ben azelart,8,1,0,3,0
 2026-11-16,his story,8,1,0,3,0
-2026-11-16,xbox,8,1,0,4,0
-2026-11-16,nick digiovanni,8,1,0,2,0
+2026-11-16,ariana grande,8,1,0,3,0
 2026-11-16,phonk,8,1,0,1,0
-2026-11-16,tiktok mashup 2026,8,1,0,1,0
-2026-11-16,horror movie,8,1,0,1,0
-2026-11-16,new song 2026,8,1,0,1,0
+2026-11-16,new movies,8,1,0,3,0
+2026-11-16,nick digiovanni,8,1,0,2,0
 2026-11-16,y que fue,8,1,0,3,0
-2026-11-16,last christmas,8,1,0,1,0
-2026-11-16,how to draw anime,8,1,0,6,0
+2026-11-16,msa,8,1,0,2,0
+2026-11-16,how to draw anime,8,1,0,5,0
+2026-11-16,numberblocks,8,1,0,4,0
 2026-11-16,how to fish,8,1,0,1,0
+2026-11-16,olivia dean,7,2,6,2,0
 2026-11-16,love songs,7,1,0,1,0
 2026-11-16,pakistani drama,7,1,0,1,0
-2026-11-16,bigg boss 20,7,1,0,2,0
+2026-11-16,xauusd live,7,1,0,1,0
 2026-11-16,hindi movie,7,1,0,1,0
 2026-11-16,india's got latent,7,1,0,2,0
 2026-11-16,punjabi song,7,1,0,1,0
 2026-11-16,what is this,7,1,0,2,0
-2026-11-16,hanuman chalisa,7,1,0,1,0
-2026-11-16,new movie,7,1,0,1,0
 2026-11-16,romantic video,7,1,0,1,0
-2026-11-16,yeralti,7,1,0,1,0
-2026-11-16,how to make a squishy,7,1,0,3,0
+2026-11-16,new punjabi song,7,1,0,1,0
+2026-11-16,hurmat,7,1,0,2,0
 2026-11-16,worship songs,7,1,0,1,0
+2026-11-16,xiaomi 17 pro max,7,1,0,5,0
 2026-11-16,punjabi movies,7,1,0,1,0
-2026-11-16,new hindi movie,7,1,0,5,0
-2026-11-16,cash,7,1,0,4,0
 2026-11-16,football,7,1,0,6,0
+2026-11-16,taarak mehta ka ooltah chashmah,7,1,0,2,0
+2026-11-16,abc song,7,1,0,3,0
+2026-11-16,cash,7,1,0,3,0
 2026-11-16,masha and the bear,7,1,0,3,0
 2026-11-16,xiaomi 18 pro max,7,1,0,2,0
-2026-11-16,top 10 movies 2026,7,1,0,1,0
-2026-11-16,taarak mehta ka ooltah chashmah,7,1,0,4,0
 2026-11-16,cat,7,1,0,5,0
-2026-11-16,x cool,7,1,0,3,0
 2026-11-16,Russell Brand,7,1,0,1,0
 2026-11-16,danny go,7,1,0,1,0
-2026-11-16,iran war,7,1,0,1,0
-2026-11-16,ksi,7,1,0,2,0
-2026-11-16,news today,7,1,0,2,0
-2026-11-16,jynxzi,7,1,0,3,0
+2026-11-16,jynxzi,7,1,0,2,0
+2026-11-16,sidemen,7,1,0,1,0
 2026-11-16,new zealand,7,1,0,1,0
 2026-11-16,top 10 respect moments in football,7,1,0,2,0
-2026-11-16,sidemen,7,1,0,1,0
-2026-11-16,caylus,7,1,0,3,0
+2026-11-16,caylus,7,1,0,2,0
+2026-11-16,kpop demon hunters,7,1,0,3,0
 2026-11-16,outdoor boys,7,1,0,1,0
 2026-11-16,best controller settings for fortnite,7,1,0,1,0
-2026-11-16,movies,7,1,0,2,0
-2026-11-16,ukraine war news update today,7,1,0,3,0
 2026-11-16,verity song,7,1,0,3,0
-2026-11-16,nfl,7,1,0,1,0
-2026-11-16,football highlights,7,1,0,1,0
+2026-11-16,glitch,7,1,0,3,0
+2026-11-16,would you rather,7,1,0,4,0
+2026-11-16,pinky up,7,1,0,5,0
 2026-11-16,zoink,7,1,0,6,0
-2026-11-16,avengers doomsday,7,1,0,4,0
-2026-11-16,pinky up,7,1,0,7,0
-2026-11-16,new movies,7,1,0,3,0
+2026-11-16,podcast,7,1,0,3,0
+2026-11-16,new rockstars,7,1,0,2,0
 2026-11-16,song,7,1,0,1,0
 2026-11-16,tiktok,7,1,0,1,0
 2026-11-16,why why,7,1,0,1,0
 2026-11-16,doraemon,7,1,0,1,0
-2026-11-16,love story,7,1,0,4,0
 2026-11-16,why not,7,1,0,5,0
-2026-11-16,msa,7,1,0,3,0
-2026-11-16,numberblocks,7,1,0,4,0
+2026-11-16,love story,7,1,0,4,0
+2026-11-16,top 10 nba,7,1,0,1,0
 2026-11-16,how to save a life,7,1,0,1,0
+2026-11-16,what is love remix,7,1,0,2,0
 2026-11-16,shakira,7,1,0,1,0
 2026-11-16,how to basic,7,1,0,2,0
 2026-11-16,techy,7,1,0,1,0
 2026-11-16,#UFC334,6,1,15,2,0
-2026-11-16,ukraine,6,2,1,4,0
+2026-11-16,Hokit,6,1,16,3,0
+2026-11-16,blackpink,6,2,1,3,0
 2026-11-16,best movies,6,1,0,1,0
-2026-11-16,new punjabi song,6,1,0,1,0
-2026-11-16,xiaomi 17 pro max,6,1,0,5,0
+2026-11-16,vishnu sahasranamam,6,1,0,2,0
 2026-11-16,new movie 2026,6,1,0,2,0
-2026-11-16,abc song,6,1,0,3,0
 2026-11-16,new nepali movie,6,1,0,1,0
+2026-11-16,funny,6,1,0,6,0
 2026-11-16,new punjabi song 2026,6,1,0,2,0
 2026-11-16,why michael jackson,6,1,0,1,0
+2026-11-16,lush life,6,1,0,1,0
 2026-11-16,eurovision asia,6,1,0,1,0
-2026-11-16,lush life,6,1,0,2,0
 2026-11-16,animal,6,1,0,2,0
 2026-11-16,christmas music,6,1,0,1,0
+2026-11-16,xrp news today,6,1,0,3,0
 2026-11-16,documentaries,6,1,0,3,0
-2026-11-16,kpop demon hunters,6,1,0,3,0
-2026-11-16,nba,6,1,0,2,0
-2026-11-16,olivia dean,6,1,0,2,0
+2026-11-16,nba,6,1,0,1,0
 2026-11-16,free movies,6,1,0,1,0
 2026-11-16,internet invitational,6,1,0,2,0
 2026-11-16,kai cenat,6,1,0,3,0
-2026-11-16,linkin park,6,1,0,6,0
-2026-11-16,yoga bikini,6,1,0,6,0
+2026-11-16,linkin park,6,1,0,5,0
+2026-11-16,yoga bikini,6,1,0,5,0
 2026-11-16,how to crochet for beginners,6,1,0,4,0
+2026-11-16,yoga with adriene,6,1,0,2,0
 2026-11-16,godzilla minus zero,6,1,0,1,0
-2026-11-16,would you rather,6,1,0,4,0
-2026-11-16,ariana grande,6,1,0,4,0
-2026-11-16,uefa nations league,6,1,0,3,0
+2026-11-16,joe rogan,6,1,0,7,0
 2026-11-16,billie jean,6,1,0,8,0
+2026-11-16,avengers doomsday trailer,6,1,0,2,0
+2026-11-16,valorant,6,1,0,2,0
 2026-11-16,why do birds suddenly appear,6,1,0,5,0
-2026-11-16,xxv,6,1,0,3,0
-2026-11-16,top 10 sad song,6,1,0,4,0
+2026-11-16,rebecca zamolo,6,1,0,2,0
+2026-11-16,xxv,6,1,0,2,0
+2026-11-16,top 10 sad song,6,1,0,3,0
 2026-11-16,why am i baby mafia,6,1,0,1,0
+2026-11-16,why do we fall,6,1,0,5,0
+2026-11-16,anime,6,1,0,3,0
 2026-11-16,fireplace,6,1,0,2,0
-2026-11-16,bruno mars,6,1,0,7,0
-2026-11-16,what is love remix,6,1,0,2,0
-2026-11-16,top 10 nba,6,1,0,1,0
-2026-11-16,Hokit,5,1,15,3,0
+2026-11-16,vlog,6,1,0,1,0
+2026-11-16,best song ever,6,1,0,3,0
+2026-11-16,MR FANBOY LAST CHAPTER,5,1,7,13,0
 2026-11-16,hindi song,5,1,0,1,0
 2026-11-16,jailer 2 song,5,1,0,1,0
 2026-11-16,kalyani song,5,1,0,1,0
 2026-11-16,tamil full movie,5,1,0,1,0
-2026-11-16,jailer 2,5,1,0,1,0
 2026-11-16,tamil songs,5,1,0,1,0
+2026-11-16,jailer 2,5,1,0,1,0
 2026-11-16,quran tilawat,5,1,0,1,0
+2026-11-16,obsession trailer,5,1,0,1,0
+2026-11-16,hurmat drama,5,1,0,1,0
 2026-11-16,dj song,5,1,0,1,0
 2026-11-16,what is trading,5,1,0,1,0
-2026-11-16,funny,5,1,0,6,0
-2026-11-16,obsession trailer,5,1,0,1,0
-2026-11-16,vijay songs,5,1,0,3,0
 2026-11-16,how to delete instagram account,5,1,0,1,0
+2026-11-16,japji sahib,5,1,0,2,0
+2026-11-16,vijay songs,5,1,0,3,0
 2026-11-16,ufc 334,5,1,0,2,0
-2026-11-16,xrp news today,5,1,0,4,0
 2026-11-16,zach bryan,5,1,0,1,0
-2026-11-16,quizzes,5,1,0,5,0
-2026-11-16,dance,5,1,0,3,0
 2026-11-16,ella langley,5,1,0,2,0
-2026-11-16,yoga with adriene,5,1,0,3,0
+2026-11-16,quizzes,5,1,0,5,0
+2026-11-16,fox news,5,1,0,1,0
+2026-11-16,sam and colby,5,1,0,6,0
+2026-11-16,dance,5,1,0,3,0
 2026-11-16,queens of the stone age,5,1,0,7,0
-2026-11-16,glitch,5,1,0,3,0
-2026-11-16,joe rogan,5,1,0,8,0
 2026-11-16,best song,5,1,0,1,0
 2026-11-16,what is the,5,1,0,2,0
 2026-11-16,free fire,5,1,0,3,0
 2026-11-16,english,5,1,0,3,0
-2026-11-16,vlog,5,1,0,1,0
-2026-11-16,avengers doomsday trailer,5,1,0,3,0
+2026-11-16,asmongold,5,1,0,3,0
 2026-11-16,zhong,5,1,0,4,0
+2026-11-16,how to crochet,5,1,0,4,0
 2026-11-16,what is sounds like,5,1,0,5,0
+2026-11-16,wow forever,5,1,0,3,0
+2026-11-16,nastya,5,1,0,1,0
+2026-11-16,love,5,1,0,2,0
 2026-11-16,new jeans,5,1,0,2,0
 2026-11-16,zumba,5,1,0,3,0
-2026-11-16,valorant,5,1,0,2,0
-2026-11-16,podcast,5,1,0,3,0
-2026-11-16,what is love dance,5,1,0,4,0
+2026-11-16,what is love dance,5,1,0,3,0
 2026-11-16,enhypen,5,1,0,2,0
-2026-11-16,rebecca zamolo,5,1,0,3,0
 2026-11-16,white screen,5,1,0,4,0
 2026-11-16,baby doll,5,1,0,1,0
-2026-11-16,new rockstars,5,1,0,2,0
+2026-11-16,songs with lyrics,5,1,0,1,0
+2026-11-16,why did i get married,5,1,0,5,0
+2026-11-16,you can see everything,4,2,0,1,500
+2026-11-16,jennie,4,2,0,3,0
 2026-11-16,ramayana movie,4,1,0,1,0
+2026-11-16,yaseen surah,4,1,0,1,0
 2026-11-16,english movie,4,1,0,1,0
 2026-11-16,old songs,4,1,0,1,0
 2026-11-16,best of luck nikki,4,1,0,3,0
+2026-11-16,iran news,4,1,0,3,0
 2026-11-16,karan aujla,4,1,0,3,0
 2026-11-16,live news,4,1,0,1,0
 2026-11-16,yeh rishta kya kehlata hai,4,1,0,2,0
-2026-11-16,sad song,4,1,0,2,0
 2026-11-16,zumba dance,4,1,0,1,0
-2026-11-16,ind vs nz,4,1,0,3,0
-2026-11-16,japji sahib,4,1,0,2,0
+2026-11-16,sad song,4,1,0,2,0
 2026-11-16,top 10 english songs,4,1,0,4,0
+2026-11-16,Cristiano Ronaldo,4,1,0,3,0
 2026-11-16,new movie trailer,4,1,0,3,0
-2026-11-16,ed sheeran,4,1,0,5,0
+2026-11-16,ed sheeran,4,1,0,4,0
 2026-11-16,kalogeras sisters,4,1,0,2,0
-2026-11-16,fox news,4,1,0,1,0
-2026-11-16,old macdonald had a farm,4,1,0,2,0
-2026-11-16,sam and colby,4,1,0,7,0
-2026-11-16,chris brown,4,1,0,3,0
+2026-11-16,veritasium,4,1,0,3,0
+2026-11-16,old macdonald had a farm,4,1,0,1,0
+2026-11-16,chris brown,4,1,0,2,0
 2026-11-16,korean drama,4,1,0,1,0
 2026-11-16,whatsapp,4,1,0,1,0
-2026-11-16,why do we fall,4,1,0,5,0
-2026-11-16,karaoke songs,4,1,0,2,0
+2026-11-16,sml,4,1,0,3,0
 2026-11-16,joe bartolozzi,4,1,0,3,0
 2026-11-16,how to beat,4,1,0,5,0
 2026-11-16,best movies 2026,4,1,0,1,0
 2026-11-16,uzak sehir,4,1,0,3,0
 2026-11-16,real madrid,4,1,0,7,0
-2026-11-16,wow forever,4,1,0,3,0
-2026-11-16,nastya,4,1,0,1,0
-2026-11-16,love,4,1,0,2,0
-2026-11-16,anime,4,1,0,3,0
-2026-11-16,jennie,4,1,0,3,0
 2026-11-16,sonic,4,1,0,5,0
 2026-11-16,the weeknd,4,1,0,2,0
-2026-11-16,omz,4,1,0,2,0
-2026-11-16,songs with lyrics,4,1,0,2,0
+2026-11-16,omz,4,1,0,1,0
 2026-11-16,vlad and chris,4,1,0,7,0
+2026-11-16,king von,4,1,0,4,0
 2026-11-16,cortis,4,1,0,2,0
-2026-11-16,best song ever,4,1,0,3,0
-2026-11-16,how to crochet,4,1,0,5,0
-2026-11-16,blackpink,4,1,0,8,0
-2026-11-16,why did i get married,4,1,0,6,0
+2026-11-16,you are my sunshine,4,1,0,3,0
+2026-11-16,ai movies,4,1,0,1,0
+2026-11-16,GTA VI,3,2,1,1,1000
 2026-11-16,lamine yamal,3,2,0,8,100
-2026-11-16,MR FANBOY LAST CHAPTER,3,1,6,14,0
+2026-11-16,Elizabeth Holmes,3,2,0,1,500
+2026-11-16,Christmas,3,2,1,8,0
 2026-11-16,Gordon,3,1,9,15,0
 2026-11-16,Ronaldo,3,2,2,8,0
-2026-11-16,yaseen surah,3,1,0,2,0
 2026-11-16,indian songs,3,1,0,2,0
-2026-11-16,vishnu sahasranamam,3,1,0,3,0
-2026-11-16,iran news,3,1,0,4,0
 2026-11-16,pbb,3,1,0,1,0
-2026-11-16,hurmat,3,1,0,4,0
 2026-11-16,live,3,1,0,5,0
 2026-11-16,ramayana trailer,3,1,0,6,0
-2026-11-16,hurmat drama,3,1,0,1,0
 2026-11-16,fifa,3,1,0,4,0
-2026-11-16,you can see everything,3,1,0,1,0
+2026-11-16,trailer,3,1,0,8,0
 2026-11-16,Jensen Huang,3,1,0,1,0
-2026-11-16,veritasium,3,1,0,3,0
-2026-11-16,the remarried empress,3,1,0,3,0
-2026-11-16,Christmas,3,1,0,8,0
-2026-11-16,sml,3,1,0,3,0
-2026-11-16,dash,3,1,0,8,0
-2026-11-16,itsfunneh,3,1,0,7,0
-2026-11-16,unstoppable,3,1,0,2,0
-2026-11-16,Cristiano Ronaldo,3,1,0,3,0
+2026-11-16,ethan klein,3,1,0,8,0
+2026-11-16,the remarried empress,3,1,0,2,0
+2026-11-16,drawing,3,1,0,5,0
+2026-11-16,dash,3,1,0,7,0
+2026-11-16,unstoppable,3,1,0,1,0
 2026-11-16,lisa,3,1,0,3,0
+2026-11-16,rihanna,3,1,0,6,0
+2026-11-16,united stand,3,1,0,3,0
 2026-11-16,arsenal,3,1,0,5,0
-2026-11-16,united stand,3,1,0,4,0
-2026-11-16,ai movies,3,1,0,1,0
 2026-11-16,weather,2,1,0,1,2000
 2026-11-16,#MrFanboyFinalEP,2,1,1,1,0
+2026-11-16,Nvidia,2,2,0,4,0
 2026-11-16,news live,2,1,0,4,0
-2026-11-16,trailer,2,1,0,9,0
-2026-11-16,Elizabeth Holmes,2,1,0,5,0
-2026-11-16,ethan klein,2,1,0,9,0
-2026-11-16,asmongold,2,1,0,9,0
 2026-11-16,zelda ocarina of time remake,2,1,0,8,0
-2026-11-16,Rockstar,2,1,0,4,0
 2026-11-16,apt,2,1,0,4,0
-2026-11-16,rihanna,2,1,0,7,0
 2026-11-16,top 10 christmas songs,2,1,0,1,0
-2026-11-16,David Walliams,2,1,0,3,0
-2026-11-16,liverpool,2,1,0,4,0
-2026-11-16,drawing,2,1,0,6,0
+2026-11-16,David Walliams,2,1,0,2,0
+2026-11-16,liverpool,2,1,0,3,0
 2026-11-16,elon musk,2,1,0,10,0
 2026-11-16,godzilla,2,1,0,6,0
-2026-11-16,you are my sunshine,2,1,0,3,0
+2026-11-16,erling haaland,2,1,0,9,0
 2026-11-16,lil baby,2,1,0,3,0
-2026-11-16,king von,2,1,0,5,0
+2026-11-16,Donald Trump,1,1,0,6,1000
 2026-11-16,Wanda,1,1,1,9,0
-2026-11-16,China,1,1,2,12,0
+2026-11-16,China,1,1,2,3,0
 2026-11-16,Poland,1,1,2,10,0
 2026-11-16,Israel,1,1,2,29,0
 2026-11-16,Jensen,1,1,0,27,0
-2026-11-16,Nvidia,1,2,0,6,0
-2026-11-16,xauusd live,1,1,0,4,0
+2026-11-16,Aston Villa,1,1,1,1,0
 2026-11-16,google,1,1,0,8,0
-2026-11-16,cnn,1,1,0,5,0
-2026-11-16,jimmy kimmel,1,1,0,9,0
+2026-11-16,cnn,1,1,0,4,0
+2026-11-16,jimmy kimmel,1,1,0,7,0
 2026-11-16,top 10 movies 2025,1,1,0,5,0
 2026-11-16,your idol,1,1,0,10,0
 2026-11-16,film,1,1,0,9,0
 2026-11-16,psg,1,1,0,9,0
-2026-11-16,ms rachel,1,1,0,3,0
+2026-11-16,ms rachel,1,1,0,2,0
 2026-11-16,parrotx2,1,1,0,7,0
 2026-11-16,epl highlights,1,1,0,6,0
 2026-11-16,Vini,1,1,0,2,0
-2026-11-16,erling haaland,1,1,0,9,0
 2026-11-16,VisionQuest,1,1,0,5,0
 2026-11-16,ramayana,1,1,0,6,0
 2026-11-16,formula 1,1,1,0,7,0
+2026-11-16,soda pop,1,1,0,10,0
