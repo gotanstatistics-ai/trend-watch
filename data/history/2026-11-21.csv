@@ -2836,6 +2836,997 @@ date,fetched_at,source,country,region,city,rank,topic,traffic,period,url,note
 2026-11-21,2026-11-21T07:12Z,lane-news,US,,,20,Celebrate the year with every Pokémon from Community Days in 2026!,0,now,https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OTnJINVg1YWhGaWVPeFNrem9sbVItblp6MkczbGVqcDlCUHBGdC14Z1NSekRIZnFEemNLblJQN3UwZTBzMmxHWUZkMXh5Rjk0eTFMWFk2VWs2a1ZGbTdYV0NsUVY?oc=5,tech|Pokémon GO
 2026-11-21,2026-11-21T19:17Z,lane-news,US,,,20,Bitcoin Falls to More Than Two-Year Low as Global Markets Sink,0,now,https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3l4RFFsS191QTB1b2VicGdIRlZESmozTURmT2NKbUFiMU5qVUZIcDdFM0ctV3p6Vmgwc2JoYi16WFh2dGxkTERLTHE5aW9jcmRHaF9uVGd4QXJFcHUyVzRndVRQTmZwcFZZbV9pWlFlNGZVNVNhWWp5MmQ3ckh0ZF8wTGRxeHZ0dUs0ZDN4SktpRVBCc1JqWEZsQVVJOXgzbFdBOUx1V011TEJGNENwbDIxNA?oc=5,markets|Bloomberg.com
 2026-11-21,2026-11-21T19:17Z,lane-news,US,,,20,Apple may be developing its own AI agent that runs your Mac,0,now,https://news.google.com/rss/articles/CBMimgFBVV95cUxOMVRpWGxyaWRqbnBxTllOMGFSNkxUTVJweUNGX1lLWVRXbFpSSnVadUJTYU13TktrRWhxYTU2ZlVyLTJ6YU1qQTVwZGRDN2l0ZEZYNkd5a0ZUcjEzZXplUFY2TkFnUHFUUFhjelFGbXhoc3hoVk42RWE5NDhtWjlNeUVhbmd0Q3hKUTFfOHY1MFhOYzFFaHI0bHd3?oc=5,tech|TechCrunch
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,1,Aníbal Gordon,42300,day,https://es.wikipedia.org/wiki/Aníbal_Gordon,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,2,Tomás Cuello,15100,day,https://es.wikipedia.org/wiki/Tomás_Cuello,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,3,Clube Atlético Mineiro,11500,day,https://es.wikipedia.org/wiki/Clube_Atlético_Mineiro,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,4,Eduardo Domínguez (entrenador),6800,day,https://es.wikipedia.org/wiki/Eduardo_Domínguez_(entrenador),es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,5,Gordon (miniserie),5900,day,https://es.wikipedia.org/wiki/Gordon_(miniserie),es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,6,Nicki Nicole,5400,day,https://es.wikipedia.org/wiki/Nicki_Nicole,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,7,Santiago Ascacíbar,5000,day,https://es.wikipedia.org/wiki/Santiago_Ascacíbar,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,8,Bernard Anício Caldeira Duarte,3800,day,https://es.wikipedia.org/wiki/Bernard_Anício_Caldeira_Duarte,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,9,Mamady Cissé,3700,day,https://en.wikipedia.org/wiki/Mamady_Cissé,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,10,Rodrigo de la Serna,3400,day,https://es.wikipedia.org/wiki/Rodrigo_de_la_Serna,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,11,Frederico Rodrigues Santos,3200,day,https://es.wikipedia.org/wiki/Frederico_Rodrigues_Santos,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,12,Facundo Herrera,3200,day,https://es.wikipedia.org/wiki/Facundo_Herrera,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,13,Automotores Orletti,3200,day,https://es.wikipedia.org/wiki/Automotores_Orletti,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,14,Renan Lodi,2700,day,https://es.wikipedia.org/wiki/Renan_Lodi,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,15,Isabel de Baviera,2500,day,https://es.wikipedia.org/wiki/Isabel_de_Baviera,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,16,José López Rega,2200,day,https://es.wikipedia.org/wiki/José_López_Rega,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,17,Miranda de la Serna,2100,day,https://es.wikipedia.org/wiki/Miranda_de_la_Serna,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,18,Fiorella Bottaioli,2000,day,https://es.wikipedia.org/wiki/Fiorella_Bottaioli,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,19,Camila Peralta,2000,day,https://es.wikipedia.org/wiki/Camila_Peralta,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,20,Estadio Metropolitano Roberto Meléndez,2000,day,https://es.wikipedia.org/wiki/Estadio_Metropolitano_Roberto_Meléndez,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,21,Triple A (Argentina),2000,day,https://es.wikipedia.org/wiki/Triple_A_(Argentina),es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,22,Tomás Marchiori,2000,day,https://es.wikipedia.org/wiki/Tomás_Marchiori,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,23,Kevin Vallejos,1900,day,https://es.wikipedia.org/wiki/Kevin_Vallejos,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,24,Éverson Felipe Marques Pires,1900,day,https://es.wikipedia.org/wiki/Éverson_Felipe_Marques_Pires,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AR,,,25,José Ignacio Rucci,1900,day,https://es.wikipedia.org/wiki/José_Ignacio_Rucci,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,1,Nikhil Chaudhary (cricketer),22600,day,https://en.wikipedia.org/wiki/Nikhil_Chaudhary_(cricketer),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,2,Grand Theft Auto VI,14600,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,3,Riemann hypothesis,8900,day,https://en.wikipedia.org/wiki/Riemann_hypothesis,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,4,Joseph Zada,7000,day,https://en.wikipedia.org/wiki/Joseph_Zada,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,5,Elizabeth Holmes,6700,day,https://en.wikipedia.org/wiki/Elizabeth_Holmes,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,6,Ansel Adams,5500,day,https://en.wikipedia.org/wiki/Ansel_Adams,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,7,Judy Garland,5300,day,https://en.wikipedia.org/wiki/Judy_Garland,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,8,Deaths in 2026,5300,day,https://en.wikipedia.org/wiki/Deaths_in_2026,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,9,You Can See Everything,5000,day,https://en.wikipedia.org/wiki/You_Can_See_Everything,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,10,The Body (TV series),5000,day,https://en.wikipedia.org/wiki/The_Body_(TV_series),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,11,Robert Pattinson,4900,day,https://en.wikipedia.org/wiki/Robert_Pattinson,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,12,Jess Wilson,4300,day,https://en.wikipedia.org/wiki/Jess_Wilson,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,13,Opinion polling for the 2026 Victorian state election,3900,day,https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Victorian_state_election,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,14,Lachlan Shaw (cricketer),3900,day,https://en.wikipedia.org/wiki/Lachlan_Shaw_(cricketer),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,15,The Wizard of Oz,3800,day,https://en.wikipedia.org/wiki/The_Wizard_of_Oz,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,16,2026 Victorian state election,3700,day,https://en.wikipedia.org/wiki/2026_Victorian_state_election,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,17,The Odyssey (2026 film),3500,day,https://en.wikipedia.org/wiki/The_Odyssey_(2026_film),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,18,Sunrise on the Reaping,3300,day,https://en.wikipedia.org/wiki/Sunrise_on_the_Reaping,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,19,MobLand,3200,day,https://en.wikipedia.org/wiki/MobLand,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,20,Daddio (film),3200,day,https://en.wikipedia.org/wiki/Daddio_(film),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,21,Guarding Stars,3000,day,https://en.wikipedia.org/wiki/Guarding_Stars,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,22,Grand Theft Auto,3000,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,23,Steps (film),3000,day,https://en.wikipedia.org/wiki/Steps_(film),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,24,Leighton Meester,3000,day,https://en.wikipedia.org/wiki/Leighton_Meester,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,AU,,,25,Dynatrace,2900,day,https://en.wikipedia.org/wiki/Dynatrace,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,1,Tupanciretã,12900,day,https://pt.wikipedia.org/wiki/Tupanciretã,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,2,Lista de campeões do Campeonato Brasileiro de Futebol,12000,day,https://pt.wikipedia.org/wiki/Lista_de_campeões_do_Campeonato_Brasileiro_de_Futebol,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,3,Clube de Regatas do Flamengo,8000,day,https://pt.wikipedia.org/wiki/Clube_de_Regatas_do_Flamengo,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,4,"Isabel da Baviera, Imperatriz da Áustria",8000,day,"https://pt.wikipedia.org/wiki/Isabel_da_Baviera,_Imperatriz_da_Áustria",pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,5,Zumbi dos Palmares,7800,day,https://pt.wikipedia.org/wiki/Zumbi_dos_Palmares,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,6,Campeonato Brasileiro de Futebol,7400,day,https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,7,Samuel Lino,5700,day,https://pt.wikipedia.org/wiki/Samuel_Lino,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,8,Maximiliano do México,4600,day,https://pt.wikipedia.org/wiki/Maximiliano_do_México,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,9,Caso Richthofen,4300,day,https://pt.wikipedia.org/wiki/Caso_Richthofen,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,10,Francisco José I da Áustria,4100,day,https://pt.wikipedia.org/wiki/Francisco_José_I_da_Áustria,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,11,Grand Theft Auto VI,4000,day,https://pt.wikipedia.org/wiki/Grand_Theft_Auto_VI,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,12,Hipótese de Riemann,3800,day,https://pt.wikipedia.org/wiki/Hipótese_de_Riemann,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,13,Zoofilia,3300,day,https://pt.wikipedia.org/wiki/Zoofilia,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,14,Riemann hypothesis,3200,day,https://en.wikipedia.org/wiki/Riemann_hypothesis,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,15,Giorgian de Arrascaeta,3200,day,https://pt.wikipedia.org/wiki/Giorgian_de_Arrascaeta,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,16,Sylvester Stallone,3000,day,https://pt.wikipedia.org/wiki/Sylvester_Stallone,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,17,Jair Bolsonaro,3000,day,https://pt.wikipedia.org/wiki/Jair_Bolsonaro,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,18,Leonardo Jardim,3000,day,https://pt.wikipedia.org/wiki/Leonardo_Jardim,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,19,Títulos do Clube de Regatas do Flamengo no futebol,2900,day,https://pt.wikipedia.org/wiki/Títulos_do_Clube_de_Regatas_do_Flamengo_no_futebol,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,20,Josep Guardiola,2900,day,https://pt.wikipedia.org/wiki/Josep_Guardiola,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,21,Joseph Wallach,2800,day,https://pt.wikipedia.org/wiki/Joseph_Wallach,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,22,Campeonato Brasileiro de Futebol de 2026 - Série A,2800,day,https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_Série_A,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,24,Brasil,2700,day,https://pt.wikipedia.org/wiki/Brasil,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,BR,,,25,Carlos Miguel,2700,day,https://pt.wikipedia.org/wiki/Carlos_Miguel,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,1,Grand Theft Auto VI,23900,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,2,Riemann hypothesis,17000,day,https://en.wikipedia.org/wiki/Riemann_hypothesis,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,3,Navdeep Bains,8800,day,https://en.wikipedia.org/wiki/Navdeep_Bains,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,4,Deaths in 2026,8500,day,https://en.wikipedia.org/wiki/Deaths_in_2026,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,5,The Body (TV series),7300,day,https://en.wikipedia.org/wiki/The_Body_(TV_series),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,6,Robert Pattinson,6400,day,https://en.wikipedia.org/wiki/Robert_Pattinson,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,7,Grand Theft Auto,6000,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,8,Ansel Adams,5900,day,https://en.wikipedia.org/wiki/Ansel_Adams,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,9,Sam Bankman-Fried,4800,day,https://en.wikipedia.org/wiki/Sam_Bankman-Fried,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,10,Levent Alpöge,4700,day,https://en.wikipedia.org/wiki/Levent_Alpöge,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,11,Steps (film),4700,day,https://en.wikipedia.org/wiki/Steps_(film),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,12,Sunrise on the Reaping,4600,day,https://en.wikipedia.org/wiki/Sunrise_on_the_Reaping,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,13,Claire Rattée,4600,day,https://en.wikipedia.org/wiki/Claire_Rattée,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,14,Joseph Zada,4500,day,https://en.wikipedia.org/wiki/Joseph_Zada,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,15,Navajo Stirling,4300,day,https://en.wikipedia.org/wiki/Navajo_Stirling,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,16,The Odyssey (2026 film),4300,day,https://en.wikipedia.org/wiki/The_Odyssey_(2026_film),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,17,John Madden,4300,day,https://en.wikipedia.org/wiki/John_Madden,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,18,Leighton Meester,4300,day,https://en.wikipedia.org/wiki/Leighton_Meester,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,19,Guarding Stars,4200,day,https://en.wikipedia.org/wiki/Guarding_Stars,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,20,Fiona (hippopotamus),4200,day,https://en.wikipedia.org/wiki/Fiona_(hippopotamus),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,21,List of best-selling video games,4100,day,https://en.wikipedia.org/wiki/List_of_best-selling_video_games,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,22,Rockstar Games,4100,day,https://en.wikipedia.org/wiki/Rockstar_Games,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,23,Grand Theft Auto V,4100,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto_V,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,24,Mckenna Grace,4100,day,https://en.wikipedia.org/wiki/Mckenna_Grace,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CA,,,25,Sylvester Stallone,3800,day,https://en.wikipedia.org/wiki/Sylvester_Stallone,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CL,,,1,Ryann Torrero,3000,day,https://es.wikipedia.org/wiki/Ryann_Torrero,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CL,,,2,Leonardo Farkas,2000,day,https://es.wikipedia.org/wiki/Leonardo_Farkas,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CL,,,3,Nicolás Peranic,1400,day,https://es.wikipedia.org/wiki/Nicolás_Peranic,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CL,,,4,Liga Femenina de Chile,1400,day,https://es.wikipedia.org/wiki/Liga_Femenina_de_Chile,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CL,,,5,Isabel de Baviera,1300,day,https://es.wikipedia.org/wiki/Isabel_de_Baviera,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CL,,,6,Club de Deportes Cobreloa,1200,day,https://es.wikipedia.org/wiki/Club_de_Deportes_Cobreloa,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CL,,,7,Mario Salas,1200,day,https://es.wikipedia.org/wiki/Mario_Salas,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CO,,,1,Clube Atlético Mineiro,4100,day,https://es.wikipedia.org/wiki/Clube_Atlético_Mineiro,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CO,,,2,Sebastián Villa,3200,day,https://es.wikipedia.org/wiki/Sebastián_Villa,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CO,,,3,Toma del Palacio de Justicia,2200,day,https://es.wikipedia.org/wiki/Toma_del_Palacio_de_Justicia,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CO,,,4,Eduardo Umaña Mendoza,1800,day,https://es.wikipedia.org/wiki/Eduardo_Umaña_Mendoza,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CO,,,5,Club Atlético Boca Juniors,1700,day,https://es.wikipedia.org/wiki/Club_Atlético_Boca_Juniors,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CO,,,6,Alfonso Reyes Echandía,1700,day,https://es.wikipedia.org/wiki/Alfonso_Reyes_Echandía,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CO,,,7,Santiago Ascacíbar,1700,day,https://es.wikipedia.org/wiki/Santiago_Ascacíbar,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CO,,,8,Copa Mundial de Fútbol Sub-17 de 2026,1600,day,https://es.wikipedia.org/wiki/Copa_Mundial_de_Fútbol_Sub-17_de_2026,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CO,,,9,Estadio Metropolitano Roberto Meléndez,1600,day,https://es.wikipedia.org/wiki/Estadio_Metropolitano_Roberto_Meléndez,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CO,,,10,Álvaro Montero,1600,day,https://es.wikipedia.org/wiki/Álvaro_Montero,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CO,,,11,Copa Sudamericana,1500,day,https://es.wikipedia.org/wiki/Copa_Sudamericana,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CO,,,12,Eduardo Domínguez (entrenador),1500,day,https://es.wikipedia.org/wiki/Eduardo_Domínguez_(entrenador),es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CO,,,13,ChatGPT,1400,day,https://en.wikipedia.org/wiki/ChatGPT,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CO,,,14,Luis Alfonso Plazas Vega,1400,day,https://es.wikipedia.org/wiki/Luis_Alfonso_Plazas_Vega,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CO,,,15,Verónica Orozco,1400,day,https://es.wikipedia.org/wiki/Verónica_Orozco,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CO,,,16,Jesús de Miguel Alameda,1400,day,https://es.wikipedia.org/wiki/Jesús_de_Miguel_Alameda,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CO,,,17,Kevin Castaño,1300,day,https://es.wikipedia.org/wiki/Kevin_Castaño,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CO,,,18,Grand Theft Auto VI,1200,day,https://es.wikipedia.org/wiki/Grand_Theft_Auto_VI,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CO,,,19,Leandro Paredes,1200,day,https://es.wikipedia.org/wiki/Leandro_Paredes,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,CO,,,20,Terremoto de Colombia de 2026,1200,day,https://es.wikipedia.org/wiki/Terremoto_de_Colombia_de_2026,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,1,Riemannsche Vermutung,71600,day,https://de.wikipedia.org/wiki/Riemannsche_Vermutung,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,2,Mordach – Tod in den Bergen,45500,day,https://de.wikipedia.org/wiki/Mordach_–_Tod_in_den_Bergen,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,3,Ronan Keating,41000,day,https://de.wikipedia.org/wiki/Ronan_Keating,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,4,Liste der größten Auslegerbrücken,31900,day,https://de.wikipedia.org/wiki/Liste_der_größten_Auslegerbrücken,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,5,Friedrich Christian Flick,27400,day,https://de.wikipedia.org/wiki/Friedrich_Christian_Flick,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,6,Sarah Bauerett,26500,day,https://de.wikipedia.org/wiki/Sarah_Bauerett,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,7,Katharina Thalbach,23600,day,https://de.wikipedia.org/wiki/Katharina_Thalbach,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,8,Grand Theft Auto VI,20800,day,https://de.wikipedia.org/wiki/Grand_Theft_Auto_VI,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,9,Riemann hypothesis,19200,day,https://en.wikipedia.org/wiki/Riemann_hypothesis,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,10,Heinz Rudolf Kunze,17300,day,https://de.wikipedia.org/wiki/Heinz_Rudolf_Kunze,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,11,Pearl Harbor (Film),16000,day,https://de.wikipedia.org/wiki/Pearl_Harbor_(Film),de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,12,Die Tribute von Panem – Sunrise on the Reaping,15500,day,https://de.wikipedia.org/wiki/Die_Tribute_von_Panem_–_Sunrise_on_the_Reaping,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,13,Giovanni Zarrella,15500,day,https://de.wikipedia.org/wiki/Giovanni_Zarrella,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,14,Robert Pattinson,15300,day,https://de.wikipedia.org/wiki/Robert_Pattinson,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,15,Leonard Cohen,14000,day,https://de.wikipedia.org/wiki/Leonard_Cohen,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,16,Olli Dittrich,13400,day,https://de.wikipedia.org/wiki/Olli_Dittrich,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,17,The Batman (Film),12800,day,https://de.wikipedia.org/wiki/The_Batman_(Film),de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,18,Maya Felicitas Gräfin von Schönburg-Glauchau,12400,day,https://de.wikipedia.org/wiki/Maya_Felicitas_Gräfin_von_Schönburg-Glauchau,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,19,Juliette Schoppmann,12000,day,https://de.wikipedia.org/wiki/Juliette_Schoppmann,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,20,Grand Theft Auto,11800,day,https://de.wikipedia.org/wiki/Grand_Theft_Auto,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,21,Angriff auf Pearl Harbor,11700,day,https://de.wikipedia.org/wiki/Angriff_auf_Pearl_Harbor,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,22,Tim Bendzko,11400,day,https://de.wikipedia.org/wiki/Tim_Bendzko,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,23,Howard Carpendale,11200,day,https://de.wikipedia.org/wiki/Howard_Carpendale,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,24,Matthias Reim,10600,day,https://de.wikipedia.org/wiki/Matthias_Reim,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,DE,,,25,Levent Alpöge,10300,day,https://de.wikipedia.org/wiki/Levent_Alpöge,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,1,Hipótesis de Riemann,13700,day,https://es.wikipedia.org/wiki/Hipótesis_de_Riemann,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,2,Jesús de Miguel Alameda,11900,day,https://es.wikipedia.org/wiki/Jesús_de_Miguel_Alameda,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,3,Alberto Núñez Feijóo,11100,day,https://es.wikipedia.org/wiki/Alberto_Núñez_Feijóo,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,4,Carlos Espí,9900,day,https://es.wikipedia.org/wiki/Carlos_Espí,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,5,Ferran Adrià,9700,day,https://es.wikipedia.org/wiki/Ferran_Adrià,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,6,Ben Shelton,8800,day,https://es.wikipedia.org/wiki/Ben_Shelton,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,7,Victoria Eugenia de Battenberg,8800,day,https://es.wikipedia.org/wiki/Victoria_Eugenia_de_Battenberg,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,8,Frente Amplio (España),8000,day,https://es.wikipedia.org/wiki/Frente_Amplio_(España),es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,9,José Bono,6700,day,https://es.wikipedia.org/wiki/José_Bono,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,10,Carlos Alcaraz,6500,day,https://es.wikipedia.org/wiki/Carlos_Alcaraz,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,11,Santiago Abascal,6100,day,https://es.wikipedia.org/wiki/Santiago_Abascal,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,12,Elecciones generales de España de 2026,6000,day,https://es.wikipedia.org/wiki/Elecciones_generales_de_España_de_2026,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,13,Pedro Sánchez,5500,day,https://es.wikipedia.org/wiki/Pedro_Sánchez,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,14,Guitarricadelafuente,5400,day,https://es.wikipedia.org/wiki/Guitarricadelafuente,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,15,Riemann hypothesis,5200,day,https://en.wikipedia.org/wiki/Riemann_hypothesis,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,16,Isabel Medina Peralta,5200,day,https://es.wikipedia.org/wiki/Isabel_Medina_Peralta,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,17,Portada,5200,day,https://ca.wikipedia.org/wiki/Portada,ca.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,18,María Casado Paredes,5100,day,https://es.wikipedia.org/wiki/María_Casado_Paredes,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,19,Ada Colau,4800,day,https://es.wikipedia.org/wiki/Ada_Colau,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,20,Robert Pattinson,4600,day,https://es.wikipedia.org/wiki/Robert_Pattinson,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,21,Eva Cárdenas,4400,day,https://es.wikipedia.org/wiki/Eva_Cárdenas,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,22,Alfonso XIII de España,4400,day,https://es.wikipedia.org/wiki/Alfonso_XIII_de_España,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,23,José Antonio Primo de Rivera,4400,day,https://es.wikipedia.org/wiki/José_Antonio_Primo_de_Rivera,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,24,El Bulli,4200,day,https://es.wikipedia.org/wiki/El_Bulli,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ES,,,25,Isabel de Baviera,4200,day,https://es.wikipedia.org/wiki/Isabel_de_Baviera,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,1,Hypothèse de Riemann,44400,day,https://fr.wikipedia.org/wiki/Hypothèse_de_Riemann,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,2,Liste de sondages sur l'élection présidentielle française de 2027,36500,day,https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'élection_présidentielle_française_de_2027,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,3,Hollie Davidson,34900,day,https://fr.wikipedia.org/wiki/Hollie_Davidson,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,4,Dominique de Villepin,30300,day,https://fr.wikipedia.org/wiki/Dominique_de_Villepin,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,5,Championnat des nations 2026,30300,day,https://fr.wikipedia.org/wiki/Championnat_des_nations_2026,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,6,Tyler Duguid,27300,day,https://fr.wikipedia.org/wiki/Tyler_Duguid,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,7,Affaire Michel Zecler,26400,day,https://fr.wikipedia.org/wiki/Affaire_Michel_Zecler,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,8,Kalvin Gourgues,26200,day,https://fr.wikipedia.org/wiki/Kalvin_Gourgues,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,9,Federico Martín Aramburú,25000,day,https://fr.wikipedia.org/wiki/Federico_Martín_Aramburú,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,10,Hunger Games (série de films),17900,day,https://fr.wikipedia.org/wiki/Hunger_Games_(série_de_films),fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,11,Michael Jackson,17800,day,https://fr.wikipedia.org/wiki/Michael_Jackson,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,12,Hugues Moutouh,16600,day,https://fr.wikipedia.org/wiki/Hugues_Moutouh,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,13,Championnat des nations,16000,day,https://fr.wikipedia.org/wiki/Championnat_des_nations,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,14,Grand Theft Auto VI,13600,day,https://fr.wikipedia.org/wiki/Grand_Theft_Auto_VI,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,15,Natasha St-Pier,13500,day,https://fr.wikipedia.org/wiki/Natasha_St-Pier,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,16,Facundo Isa,12900,day,https://fr.wikipedia.org/wiki/Facundo_Isa,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,17,David Lisnard,12800,day,https://fr.wikipedia.org/wiki/David_Lisnard,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,18,Sarah Knafo,11800,day,https://fr.wikipedia.org/wiki/Sarah_Knafo,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,19,Jaafar Jackson,10700,day,https://fr.wikipedia.org/wiki/Jaafar_Jackson,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,20,Iris Mittenaere,10400,day,https://fr.wikipedia.org/wiki/Iris_Mittenaere,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,21,Mateo Carreras,10400,day,https://fr.wikipedia.org/wiki/Mateo_Carreras,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,22,Élisabeth de Wittelsbach,9700,day,https://fr.wikipedia.org/wiki/Élisabeth_de_Wittelsbach,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,23,Amanda Lear,9500,day,https://fr.wikipedia.org/wiki/Amanda_Lear,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,24,Grand Theft Auto,9500,day,https://fr.wikipedia.org/wiki/Grand_Theft_Auto,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,FR,,,25,Ali Baddou,9300,day,https://fr.wikipedia.org/wiki/Ali_Baddou,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,1,Mariella Frostrup,57000,day,https://en.wikipedia.org/wiki/Mariella_Frostrup,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,2,Lewis Moody,53100,day,https://en.wikipedia.org/wiki/Lewis_Moody,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,3,Grand Theft Auto VI,42100,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,4,Riemann hypothesis,37100,day,https://en.wikipedia.org/wiki/Riemann_hypothesis,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,5,Robert Pattinson,35700,day,https://en.wikipedia.org/wiki/Robert_Pattinson,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,6,Greg Wise,33000,day,https://en.wikipedia.org/wiki/Greg_Wise,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,7,Dani Dyer,29800,day,https://en.wikipedia.org/wiki/Dani_Dyer,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,8,You Can See Everything,26600,day,https://en.wikipedia.org/wiki/You_Can_See_Everything,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,9,Danny Dyer,26400,day,https://en.wikipedia.org/wiki/Danny_Dyer,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,10,Elizabeth Holmes,26200,day,https://en.wikipedia.org/wiki/Elizabeth_Holmes,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,11,Leigh Francis,23300,day,https://en.wikipedia.org/wiki/Leigh_Francis,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,12,Luca Williams-Barnett,22000,day,https://en.wikipedia.org/wiki/Luca_Williams-Barnett,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,13,The Eagle Has Landed (film),22000,day,https://en.wikipedia.org/wiki/The_Eagle_Has_Landed_(film),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,14,Johnny Flynn,20800,day,https://en.wikipedia.org/wiki/Johnny_Flynn,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,15,Helen Fraser (actress),20100,day,https://en.wikipedia.org/wiki/Helen_Fraser_(actress),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,16,Jaime Winstone,20100,day,https://en.wikipedia.org/wiki/Jaime_Winstone,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,17,Deaths in 2026,20000,day,https://en.wikipedia.org/wiki/Deaths_in_2026,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,18,Strictly Come Dancing series 24,18800,day,https://en.wikipedia.org/wiki/Strictly_Come_Dancing_series_24,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,19,Suki Waterhouse,18400,day,https://en.wikipedia.org/wiki/Suki_Waterhouse,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,20,Jack Skipper,16700,day,https://en.wikipedia.org/wiki/Jack_Skipper,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,21,MobLand,15600,day,https://en.wikipedia.org/wiki/MobLand,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,22,2026 Nations Championship,14800,day,https://en.wikipedia.org/wiki/2026_Nations_Championship,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,23,Grand Theft Auto,14400,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,24,Nations Championship,14200,day,https://en.wikipedia.org/wiki/Nations_Championship,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,GB,,,25,Rockstar Games,13700,day,https://en.wikipedia.org/wiki/Rockstar_Games,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ID,,,1,Halaman Utama,13500,day,https://id.wikipedia.org/wiki/Halaman_Utama,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ID,,,2,Sufmi Dasco Ahmad,7000,day,https://id.wikipedia.org/wiki/Sufmi_Dasco_Ahmad,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ID,,,3,XNXX,6200,day,https://en.wikipedia.org/wiki/XNXX,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ID,,,5,Grand Theft Auto VI,4400,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ID,,,6,Suyudi Ario Seto,3300,day,https://id.wikipedia.org/wiki/Suyudi_Ario_Seto,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ID,,,8,Xnxx.com,3000,day,https://de.wikipedia.org/wiki/Xnxx.com,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ID,,,9,2026 MAMA Awards,3000,day,https://en.wikipedia.org/wiki/2026_MAMA_Awards,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ID,,,10,DuckDuckGo,2900,day,https://en.wikipedia.org/wiki/DuckDuckGo,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ID,,,11,Hana Malasan,2800,day,https://id.wikipedia.org/wiki/Hana_Malasan,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ID,,,12,Hamka,2800,day,https://id.wikipedia.org/wiki/Hamka,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ID,,,13,Listyo Sigit Prabowo,2400,day,https://id.wikipedia.org/wiki/Listyo_Sigit_Prabowo,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ID,,,14,Hong Kong,2300,day,https://id.wikipedia.org/wiki/Hong_Kong,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ID,,,15,Festival Film Indonesia 2026,2000,day,https://id.wikipedia.org/wiki/Festival_Film_Indonesia_2026,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ID,,,16,2027 AFC U-17 Asian Cup qualification,1900,day,https://en.wikipedia.org/wiki/2027_AFC_U-17_Asian_Cup_qualification,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ID,,,18,Hashim Djojohadikusumo,1700,day,https://id.wikipedia.org/wiki/Hashim_Djojohadikusumo,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ID,,,19,Prabowo Subianto,1700,day,https://id.wikipedia.org/wiki/Prabowo_Subianto,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ID,,,20,The Remarried Empress (seri televisi),1600,day,https://id.wikipedia.org/wiki/The_Remarried_Empress_(seri_televisi),id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ID,,,21,Serangan Balik (film),1500,day,https://id.wikipedia.org/wiki/Serangan_Balik_(film),id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ID,,,22,ChatGPT,1500,day,https://en.wikipedia.org/wiki/ChatGPT,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ID,,,23,The Hunger Games (franchise),1400,day,https://en.wikipedia.org/wiki/The_Hunger_Games_(franchise),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ID,,,24,Yandex,1400,day,https://en.wikipedia.org/wiki/Yandex,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ID,,,25,The Blue Road (TV series),1400,day,https://en.wikipedia.org/wiki/The_Blue_Road_(TV_series),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IE,,,1,Robert Baloucoune,19600,day,https://en.wikipedia.org/wiki/Robert_Baloucoune,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IE,,,2,Lewis Moody,6200,day,https://en.wikipedia.org/wiki/Lewis_Moody,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IE,,,3,Mariella Frostrup,4900,day,https://en.wikipedia.org/wiki/Mariella_Frostrup,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IE,,,4,Nations Championship,3600,day,https://en.wikipedia.org/wiki/Nations_Championship,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IE,,,5,Grand Theft Auto VI,3500,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IE,,,6,2026 Nations Championship,3200,day,https://en.wikipedia.org/wiki/2026_Nations_Championship,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IE,,,7,Riemann hypothesis,3000,day,https://en.wikipedia.org/wiki/Riemann_hypothesis,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IE,,,8,メインページ,3000,day,https://ja.wikipedia.org/wiki/メインページ,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IE,,,9,Elizabeth Holmes,2300,day,https://en.wikipedia.org/wiki/Elizabeth_Holmes,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IE,,,10,You Can See Everything,2300,day,https://en.wikipedia.org/wiki/You_Can_See_Everything,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IE,,,11,Dan Sheehan (rugby union),2100,day,https://en.wikipedia.org/wiki/Dan_Sheehan_(rugby_union),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IE,,,12,Henry Winkler,1900,day,https://en.wikipedia.org/wiki/Henry_Winkler,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IE,,,13,Chay Bowes,1900,day,https://en.wikipedia.org/wiki/Chay_Bowes,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IE,,,14,Eben Etzebeth,1800,day,https://en.wikipedia.org/wiki/Eben_Etzebeth,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IE,,,15,Rassie Erasmus,1800,day,https://en.wikipedia.org/wiki/Rassie_Erasmus,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IE,,,16,Leigh Francis,1800,day,https://en.wikipedia.org/wiki/Leigh_Francis,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IE,,,17,Robert Pattinson,1700,day,https://en.wikipedia.org/wiki/Robert_Pattinson,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IE,,,18,Lee Reeves (boxer),1600,day,https://en.wikipedia.org/wiki/Lee_Reeves_(boxer),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IE,,,19,Hollie Davidson,1400,day,https://en.wikipedia.org/wiki/Hollie_Davidson,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IE,,,20,Allen Leech,1400,day,https://en.wikipedia.org/wiki/Allen_Leech,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IE,,,21,Holly Cairns,1300,day,https://en.wikipedia.org/wiki/Holly_Cairns,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IE,,,22,Sam Prendergast,1300,day,https://en.wikipedia.org/wiki/Sam_Prendergast,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,1,.xxx,123000,day,https://en.wikipedia.org/wiki/.xxx,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,2,List of highest-grossing Indian films,101000,day,https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,3,XXX (2002 film),59200,day,https://en.wikipedia.org/wiki/XXX_(2002_film),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,4,Nikhil Chaudhary (cricketer),52800,day,https://en.wikipedia.org/wiki/Nikhil_Chaudhary_(cricketer),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,5,XXX (Kendrick Lamar song),50800,day,https://en.wikipedia.org/wiki/XXX_(Kendrick_Lamar_song),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,6,Grand Theft Auto VI,40400,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,7,XXX (film series),38800,day,https://en.wikipedia.org/wiki/XXX_(film_series),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,8,Bigg Boss (Tamil TV series) season 10,33100,day,https://en.wikipedia.org/wiki/Bigg_Boss_(Tamil_TV_series)_season_10,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,9,Aakasamlo Oka Tara,32700,day,https://en.wikipedia.org/wiki/Aakasamlo_Oka_Tara,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,10,Scene (2026 film),28700,day,https://en.wikipedia.org/wiki/Scene_(2026_film),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,11,Jailer 2,25200,day,https://en.wikipedia.org/wiki/Jailer_2,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,12,XXXX (beer),23700,day,https://en.wikipedia.org/wiki/XXXX_(beer),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,13,Bigg Boss (Hindi TV series) season 20,21200,day,https://en.wikipedia.org/wiki/Bigg_Boss_(Hindi_TV_series)_season_20,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,14,Sharad Kapoor,20800,day,https://en.wikipedia.org/wiki/Sharad_Kapoor,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,15,KL Rahul,20300,day,https://en.wikipedia.org/wiki/KL_Rahul,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,16,XXX,20100,day,https://en.wikipedia.org/wiki/XXX,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,17,Chitrangada Singh,19700,day,https://en.wikipedia.org/wiki/Chitrangada_Singh,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,18,List of Hindi films of 2026,19500,day,https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2026,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,19,Sex,18900,day,https://en.wikipedia.org/wiki/Sex,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,20,XXX (soundtrack),18300,day,https://en.wikipedia.org/wiki/XXX_(soundtrack),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,21,Anant Kumar Singh,15900,day,https://en.wikipedia.org/wiki/Anant_Kumar_Singh,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,22,418 (film),15600,day,https://en.wikipedia.org/wiki/418_(film),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,23,Godzilla Minus Zero,15200,day,https://en.wikipedia.org/wiki/Godzilla_Minus_Zero,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,24,Ananya Birla,14900,day,https://en.wikipedia.org/wiki/Ananya_Birla,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IN,,,25,Kaviya Maran,14700,day,https://en.wikipedia.org/wiki/Kaviya_Maran,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,1,Gianni De Gennaro,230800,day,https://it.wikipedia.org/wiki/Gianni_De_Gennaro,it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,2,Pagina principale,119500,day,https://it.wikipedia.org/wiki/Pagina_principale,it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,3,Corrado Augias,40700,day,https://it.wikipedia.org/wiki/Corrado_Augias,it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,4,Strage di via D'Amelio,35700,day,https://it.wikipedia.org/wiki/Strage_di_via_D'Amelio,it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,5,Andrea De Gennaro,30700,day,https://it.wikipedia.org/wiki/Andrea_De_Gennaro,it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,6,Clemente Russo,21600,day,https://it.wikipedia.org/wiki/Clemente_Russo,it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,7,Mauro Repetto,19500,day,https://it.wikipedia.org/wiki/Mauro_Repetto,it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,8,Hunger Games - L'alba sulla mietitura,18300,day,https://it.wikipedia.org/wiki/Hunger_Games_-_L'alba_sulla_mietitura,it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,9,Donyell Malen,18200,day,https://it.wikipedia.org/wiki/Donyell_Malen,it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,10,Ipotesi di Riemann,16300,day,https://it.wikipedia.org/wiki/Ipotesi_di_Riemann,it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,11,Grand Theft Auto VI,15900,day,https://it.wikipedia.org/wiki/Grand_Theft_Auto_VI,it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,12,883 (gruppo musicale),14500,day,https://it.wikipedia.org/wiki/883_(gruppo_musicale),it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,13,Monica Guerritore,12700,day,https://it.wikipedia.org/wiki/Monica_Guerritore,it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,14,Max Pezzali,12000,day,https://it.wikipedia.org/wiki/Max_Pezzali,it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,15,Dario Amodei,11900,day,https://it.wikipedia.org/wiki/Dario_Amodei,it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,16,Episodi de La leggendaria storia degli 883 (seconda stagione),10500,day,https://it.wikipedia.org/wiki/Episodi_de_La_leggendaria_storia_degli_883_(seconda_stagione),it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,17,La donna il sogno & il grande incubo,10400,day,https://it.wikipedia.org/wiki/La_donna_il_sogno_&_il_grande_incubo,it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,18,Andy Díaz,10300,day,https://it.wikipedia.org/wiki/Andy_Díaz,it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,19,Chiaroscuro (serie televisiva),10100,day,https://it.wikipedia.org/wiki/Chiaroscuro_(serie_televisiva),it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,20,Animali fantastici - I segreti di Silente,9900,day,https://it.wikipedia.org/wiki/Animali_fantastici_-_I_segreti_di_Silente,it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,21,Anna Safroncik,9600,day,https://it.wikipedia.org/wiki/Anna_Safroncik,it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,22,Manuela Moreno,9200,day,https://it.wikipedia.org/wiki/Manuela_Moreno,it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,23,Arnaldo La Barbera,9100,day,https://it.wikipedia.org/wiki/Arnaldo_La_Barbera,it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,24,Fjord (film),9000,day,https://it.wikipedia.org/wiki/Fjord_(film),it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,IT,,,25,Mădălina Diana Ghenea,9000,day,https://it.wikipedia.org/wiki/Mădălina_Diana_Ghenea,it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,1,メインページ,562100,day,https://ja.wikipedia.org/wiki/メインページ,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,2,合格電報,158100,day,https://ja.wikipedia.org/wiki/合格電報,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,3,真宝郡,59400,day,https://ja.wikipedia.org/wiki/真宝郡,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,4,宮下今日子,52000,day,https://ja.wikipedia.org/wiki/宮下今日子,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,5,藤井風,51700,day,https://ja.wikipedia.org/wiki/藤井風,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,6,宗佑磨,49100,day,https://ja.wikipedia.org/wiki/宗佑磨,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,7,リーマン予想,39700,day,https://ja.wikipedia.org/wiki/リーマン予想,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,8,珍しい死の一覧,35200,day,https://ja.wikipedia.org/wiki/珍しい死の一覧,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,9,長澤まさみ,26500,day,https://ja.wikipedia.org/wiki/長澤まさみ,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,10,しじみ (女優),25100,day,https://ja.wikipedia.org/wiki/しじみ_(女優),ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,11,東出昌大,24400,day,https://ja.wikipedia.org/wiki/東出昌大,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,12,モナキ,22200,day,https://ja.wikipedia.org/wiki/モナキ,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,13,太田裕美,21000,day,https://ja.wikipedia.org/wiki/太田裕美,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,14,安斉星来,21000,day,https://ja.wikipedia.org/wiki/安斉星来,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,15,魔法使いの夜,20000,day,https://ja.wikipedia.org/wiki/魔法使いの夜,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,16,宇野千代,19500,day,https://ja.wikipedia.org/wiki/宇野千代,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,17,八嶋智人,19300,day,https://ja.wikipedia.org/wiki/八嶋智人,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,18,石橋貴俊,18500,day,https://ja.wikipedia.org/wiki/石橋貴俊,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,19,関芳弘,18200,day,https://ja.wikipedia.org/wiki/関芳弘,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,20,鈴木愛理 (歌手),18000,day,https://ja.wikipedia.org/wiki/鈴木愛理_(歌手),ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,21,岩田絵里奈,17400,day,https://ja.wikipedia.org/wiki/岩田絵里奈,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,22,豊臣秀次,17100,day,https://ja.wikipedia.org/wiki/豊臣秀次,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,23,ピル治験女性バラバラ殺人事件,16600,day,https://ja.wikipedia.org/wiki/ピル治験女性バラバラ殺人事件,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,24,観月あこ,16100,day,https://ja.wikipedia.org/wiki/観月あこ,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,JP,,,25,山田涼介,15300,day,https://ja.wikipedia.org/wiki/山田涼介,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,1,장미화 (가수),13300,day,https://ko.wikipedia.org/wiki/장미화_(가수),ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,2,문화방송,12900,day,https://ko.wikipedia.org/wiki/문화방송,ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,3,한국방송공사,9100,day,https://ko.wikipedia.org/wiki/한국방송공사,ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,4,윤항기,9100,day,https://ko.wikipedia.org/wiki/윤항기,ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,5,태종무열왕,6900,day,https://ko.wikipedia.org/wiki/태종무열왕,ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,6,문무왕,5600,day,https://ko.wikipedia.org/wiki/문무왕,ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,7,한국교육방송공사,5300,day,https://ko.wikipedia.org/wiki/한국교육방송공사,ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,8,Ansel Adams,4900,day,https://en.wikipedia.org/wiki/Ansel_Adams,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,9,임종환,4000,day,https://ko.wikipedia.org/wiki/임종환,ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,10,나잠 수,4000,day,https://ko.wikipedia.org/wiki/나잠_수,ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,11,연개소문,3900,day,https://ko.wikipedia.org/wiki/연개소문,ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,12,문무,3700,day,https://ko.wikipedia.org/wiki/문무,ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,13,장계현,2700,day,https://ko.wikipedia.org/wiki/장계현,ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,14,오경미,2400,day,https://ko.wikipedia.org/wiki/오경미,ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,15,조항조,2300,day,https://ko.wikipedia.org/wiki/조항조,ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,16,갤럭시코퍼레이션,2100,day,https://ko.wikipedia.org/wiki/갤럭시코퍼레이션,ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,17,최백호,1900,day,https://ko.wikipedia.org/wiki/최백호,ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,18,박진영 (1994년),1800,day,https://ko.wikipedia.org/wiki/박진영_(1994년),ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,19,리만 가설,1700,day,https://ko.wikipedia.org/wiki/리만_가설,ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,20,남윤호,1700,day,https://ko.wikipedia.org/wiki/남윤호,ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,21,최성수 (가수),1700,day,https://ko.wikipedia.org/wiki/최성수_(가수),ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,22,김유신,1700,day,https://ko.wikipedia.org/wiki/김유신,ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,23,김품석,1600,day,https://ko.wikipedia.org/wiki/김품석,ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,24,장나라,1600,day,https://ko.wikipedia.org/wiki/장나라,ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,KR,,,25,연합뉴스,1600,day,https://ko.wikipedia.org/wiki/연합뉴스,ko.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,1,El Chapo Isidro,50100,day,https://es.wikipedia.org/wiki/El_Chapo_Isidro,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,2,Cártel de Guasave,4200,day,https://es.wikipedia.org/wiki/Cártel_de_Guasave,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,3,Isabel de Baviera,4100,day,https://es.wikipedia.org/wiki/Isabel_de_Baviera,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,4,Luis R. Conriquez,3600,day,https://es.wikipedia.org/wiki/Luis_R._Conriquez,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,5,Maximiliano de México,3300,day,https://es.wikipedia.org/wiki/Maximiliano_de_México,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,6,Gorillaz,3200,day,https://es.wikipedia.org/wiki/Gorillaz,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,7,Grand Theft Auto VI,3000,day,https://es.wikipedia.org/wiki/Grand_Theft_Auto_VI,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,8,Alessandra Rojo de la Vega,3000,day,https://es.wikipedia.org/wiki/Alessandra_Rojo_de_la_Vega,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,9,Valentín Elizalde,3000,day,https://es.wikipedia.org/wiki/Valentín_Elizalde,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,10,Francisco José I de Austria,2900,day,https://es.wikipedia.org/wiki/Francisco_José_I_de_Austria,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,11,ChatGPT,2800,day,https://es.wikipedia.org/wiki/ChatGPT,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,12,Mariana BO,2600,day,https://es.wikipedia.org/wiki/Mariana_BO,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,13,Damon Albarn,2600,day,https://es.wikipedia.org/wiki/Damon_Albarn,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,14,Mckenna Grace,2500,day,https://es.wikipedia.org/wiki/Mckenna_Grace,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,15,Omar García Harfuch,2500,day,https://es.wikipedia.org/wiki/Omar_García_Harfuch,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,16,Los diez fugitivos más buscados por el FBI,2500,day,https://es.wikipedia.org/wiki/Los_diez_fugitivos_más_buscados_por_el_FBI,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,17,Revolución mexicana,2200,day,https://es.wikipedia.org/wiki/Revolución_mexicana,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,18,Cártel de los Beltrán Leyva,2200,day,https://es.wikipedia.org/wiki/Cártel_de_los_Beltrán_Leyva,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,19,Sylvester Stallone,2100,day,https://es.wikipedia.org/wiki/Sylvester_Stallone,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,20,Ansel Adams,2000,day,https://en.wikipedia.org/wiki/Ansel_Adams,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,22,El Coyote (cantante),2000,day,https://es.wikipedia.org/wiki/El_Coyote_(cantante),es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,23,Porfirio Díaz,1900,day,https://es.wikipedia.org/wiki/Porfirio_Díaz,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,24,Copa Mundial de Fútbol Sub-17 de 2026,1900,day,https://es.wikipedia.org/wiki/Copa_Mundial_de_Fútbol_Sub-17_de_2026,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MX,,,25,Robert Pattinson,1900,day,https://es.wikipedia.org/wiki/Robert_Pattinson,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MY,,,1,2026 MAMA Awards,5300,day,https://en.wikipedia.org/wiki/2026_MAMA_Awards,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MY,,,2,Grand Theft Auto VI,4300,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MY,,,3,My Chemical Romance,4000,day,https://en.wikipedia.org/wiki/My_Chemical_Romance,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MY,,,4,Bigg Boss (Tamil TV series) season 10,3800,day,https://en.wikipedia.org/wiki/Bigg_Boss_(Tamil_TV_series)_season_10,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MY,,,5,Ansel Adams,3400,day,https://en.wikipedia.org/wiki/Ansel_Adams,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MY,,,6,2026 Hong Kong Open (badminton),3100,day,https://en.wikipedia.org/wiki/2026_Hong_Kong_Open_(badminton),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MY,,,7,Gerard Way,3100,day,https://en.wikipedia.org/wiki/Gerard_Way,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MY,,,8,玫瑰戰爭 (無綫電視劇),2700,day,https://zh.wikipedia.org/wiki/玫瑰戰爭_(無綫電視劇),zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MY,,,9,Festival Filem Malaysia ke-35,2500,day,https://ms.wikipedia.org/wiki/Festival_Filem_Malaysia_ke-35,ms.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MY,,,10,Suamiku Anak Mak,2200,day,https://ms.wikipedia.org/wiki/Suamiku_Anak_Mak,ms.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MY,,,11,Laman Utama,2000,day,https://ms.wikipedia.org/wiki/Laman_Utama,ms.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MY,,,12,Khadam,1600,day,https://ms.wikipedia.org/wiki/Khadam,ms.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MY,,,13,Scene (2026 film),1500,day,https://en.wikipedia.org/wiki/Scene_(2026_film),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MY,,,14,The Blue Road (TV series),1400,day,https://en.wikipedia.org/wiki/The_Blue_Road_(TV_series),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MY,,,15,Mikey Way,1400,day,https://en.wikipedia.org/wiki/Mikey_Way,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MY,,,16,Steps (film),1300,day,https://en.wikipedia.org/wiki/Steps_(film),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,MY,,,17,Jailer 2,1300,day,https://en.wikipedia.org/wiki/Jailer_2,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NG,,,1,Emmanuel Emegha,2900,day,https://en.wikipedia.org/wiki/Emmanuel_Emegha,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NG,,,2,Grand Theft Auto VI,1500,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,1,Hoofdpagina,42000,day,https://nl.wikipedia.org/wiki/Hoofdpagina,nl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,2,Jason Bhugwandass,21500,day,https://nl.wikipedia.org/wiki/Jason_Bhugwandass,nl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,3,Groene knolamaniet,14600,day,https://nl.wikipedia.org/wiki/Groene_knolamaniet,nl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,4,Thijs Boontjes,11100,day,https://nl.wikipedia.org/wiki/Thijs_Boontjes,nl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,5,Riemann hypothesis,10700,day,https://en.wikipedia.org/wiki/Riemann_hypothesis,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,6,Заглавная страница,5600,day,https://ru.wikipedia.org/wiki/Заглавная_страница,ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,7,Lidewij de Vos,4900,day,https://nl.wikipedia.org/wiki/Lidewij_de_Vos,nl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,8,Dirk De Wachter,4700,day,https://nl.wikipedia.org/wiki/Dirk_De_Wachter,nl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,9,Grand Theft Auto VI,4700,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,10,Riemann-hypothese,3800,day,https://nl.wikipedia.org/wiki/Riemann-hypothese,nl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,11,Gianni Romme,2900,day,https://nl.wikipedia.org/wiki/Gianni_Romme,nl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,12,Levent Alpöge,2700,day,https://en.wikipedia.org/wiki/Levent_Alpöge,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,13,Elisabeth in Beieren (1837-1898),2500,day,https://nl.wikipedia.org/wiki/Elisabeth_in_Beieren_(1837-1898),nl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,14,Iem al Biyati,2400,day,https://nl.wikipedia.org/wiki/Iem_al_Biyati,nl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,15,XXX (2002 film),2300,day,https://en.wikipedia.org/wiki/XXX_(2002_film),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,16,Betika,2100,day,https://en.wikipedia.org/wiki/Betika,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,18,Maximiliaan van Mexico,2100,day,https://nl.wikipedia.org/wiki/Maximiliaan_van_Mexico,nl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,19,Frans Jozef I van Oostenrijk,1800,day,https://nl.wikipedia.org/wiki/Frans_Jozef_I_van_Oostenrijk,nl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,21,Willem Voogd,1800,day,https://nl.wikipedia.org/wiki/Willem_Voogd,nl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,22,Roosmarijn Wind,1700,day,https://nl.wikipedia.org/wiki/Roosmarijn_Wind,nl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,23,XXX (film series),1700,day,https://en.wikipedia.org/wiki/XXX_(film_series),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,24,Yves Berendse,1700,day,https://nl.wikipedia.org/wiki/Yves_Berendse,nl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NL,,,25,Lance–Adams syndrome,1700,day,https://en.wikipedia.org/wiki/Lance–Adams_syndrome,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NZ,,,1,Grand Theft Auto VI,2500,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NZ,,,2,Riemann hypothesis,1700,day,https://en.wikipedia.org/wiki/Riemann_hypothesis,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NZ,,,3,Navajo Stirling,1600,day,https://en.wikipedia.org/wiki/Navajo_Stirling,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NZ,,,4,Lewis Moody,1400,day,https://en.wikipedia.org/wiki/Lewis_Moody,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,NZ,,,5,Elizabeth Holmes,1300,day,https://en.wikipedia.org/wiki/Elizabeth_Holmes,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,1,Peter June Simon,16500,day,https://en.wikipedia.org/wiki/Peter_June_Simon,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,2,PJ Simon,12800,day,https://en.wikipedia.org/wiki/PJ_Simon,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,3,Grand Theft Auto VI,9000,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,4,UAAP Cheerdance Competition,8500,day,https://en.wikipedia.org/wiki/UAAP_Cheerdance_Competition,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,5,Beeg,4900,day,https://en.wikipedia.org/wiki/Beeg,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,6,2026 MAMA Awards,3400,day,https://en.wikipedia.org/wiki/2026_MAMA_Awards,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,7,Steps (film),3300,day,https://en.wikipedia.org/wiki/Steps_(film),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,8,Samboy Lim,2800,day,https://en.wikipedia.org/wiki/Samboy_Lim,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,9,Miss Universe 2026,2800,day,https://en.wikipedia.org/wiki/Miss_Universe_2026,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,10,Ansel Adams,2200,day,https://en.wikipedia.org/wiki/Ansel_Adams,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,11,Sunrise on the Reaping,2100,day,https://en.wikipedia.org/wiki/Sunrise_on_the_Reaping,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,12,James Yap,2000,day,https://en.wikipedia.org/wiki/James_Yap,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,13,.xxx,1900,day,https://en.wikipedia.org/wiki/.xxx,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,14,Joseph Zada,1900,day,https://en.wikipedia.org/wiki/Joseph_Zada,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,15,The Body (TV series),1900,day,https://en.wikipedia.org/wiki/The_Body_(TV_series),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,16,The Remarried Empress,1700,day,https://en.wikipedia.org/wiki/The_Remarried_Empress,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,17,Mckenna Grace,1700,day,https://en.wikipedia.org/wiki/Mckenna_Grace,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,18,XXX (2002 film),1600,day,https://en.wikipedia.org/wiki/XXX_(2002_film),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,19,Grand Theft Auto V,1600,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto_V,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,20,Grand Theft Auto,1600,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,21,The Hunger Games (film),1500,day,https://en.wikipedia.org/wiki/The_Hunger_Games_(film),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,22,Pinoy Big Brother,1500,day,https://en.wikipedia.org/wiki/Pinoy_Big_Brother,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,23,Robbie Jaworski,1500,day,https://en.wikipedia.org/wiki/Robbie_Jaworski,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,24,The Skeleton Key,1500,day,https://en.wikipedia.org/wiki/The_Skeleton_Key,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PH,,,25,Riemann hypothesis,1400,day,https://en.wikipedia.org/wiki/Riemann_hypothesis,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,1,Mariusz Trynkiewicz,72000,day,https://pl.wikipedia.org/wiki/Mariusz_Trynkiewicz,pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,2,Hipoteza Riemanna,34600,day,https://pl.wikipedia.org/wiki/Hipoteza_Riemanna,pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,3,Zbrodnia połaniecka,24700,day,https://pl.wikipedia.org/wiki/Zbrodnia_połaniecka,pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,4,Sebastian Szczęsny,18400,day,https://pl.wikipedia.org/wiki/Sebastian_Szczęsny,pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,5,Riemann hypothesis,10900,day,https://en.wikipedia.org/wiki/Riemann_hypothesis,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,6,Nina Terentiew,10100,day,https://pl.wikipedia.org/wiki/Nina_Terentiew,pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,7,Wojciech Mann,8500,day,https://pl.wikipedia.org/wiki/Wojciech_Mann,pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,8,Ch-101/102,6800,day,https://pl.wikipedia.org/wiki/Ch-101/102,pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,9,Jarosław Weber,6100,day,https://pl.wikipedia.org/wiki/Jarosław_Weber,pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,10,Łukasz Garlicki,6100,day,https://pl.wikipedia.org/wiki/Łukasz_Garlicki,pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,11,Linda Klimovičová,5900,day,https://pl.wikipedia.org/wiki/Linda_Klimovičová,pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,12,Elżbieta Bawarska,5400,day,https://pl.wikipedia.org/wiki/Elżbieta_Bawarska,pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,13,Grand Theft Auto VI,5300,day,https://pl.wikipedia.org/wiki/Grand_Theft_Auto_VI,pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,14,Wśród nocnej ciszy (serial telewizyjny),5100,day,https://pl.wikipedia.org/wiki/Wśród_nocnej_ciszy_(serial_telewizyjny),pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,15,Puchar Świata w skokach narciarskich 2026/2027,5000,day,https://pl.wikipedia.org/wiki/Puchar_Świata_w_skokach_narciarskich_2026/2027,pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,16,Piotr Garlicki,4400,day,https://pl.wikipedia.org/wiki/Piotr_Garlicki,pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,17,Franciszek Józef I,4400,day,https://pl.wikipedia.org/wiki/Franciszek_Józef_I,pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,18,Martyna Jakubowicz,4400,day,https://pl.wikipedia.org/wiki/Martyna_Jakubowicz,pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,19,Barbara Sobotta,4300,day,https://pl.wikipedia.org/wiki/Barbara_Sobotta,pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,20,Natasza Urbańska,3900,day,https://pl.wikipedia.org/wiki/Natasza_Urbańska,pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,21,Problemy milenijne,3800,day,https://pl.wikipedia.org/wiki/Problemy_milenijne,pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,22,Grand Theft Auto (seria),3800,day,https://pl.wikipedia.org/wiki/Grand_Theft_Auto_(seria),pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,23,James Bond (seria filmów),3700,day,https://pl.wikipedia.org/wiki/James_Bond_(seria_filmów),pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,24,Jacek Kuroń,3600,day,https://pl.wikipedia.org/wiki/Jacek_Kuroń,pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,PL,,,25,Algolagnia,3600,day,https://pl.wikipedia.org/wiki/Algolagnia,pl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,1,Marie Fredriksson,9200,day,https://sv.wikipedia.org/wiki/Marie_Fredriksson,sv.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,2,Arja Saijonmaa,9100,day,https://sv.wikipedia.org/wiki/Arja_Saijonmaa,sv.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,3,Riemann hypothesis,7700,day,https://en.wikipedia.org/wiki/Riemann_hypothesis,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,4,Riemannhypotesen,5100,day,https://sv.wikipedia.org/wiki/Riemannhypotesen,sv.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,5,Elizabeth Holmes,4600,day,https://sv.wikipedia.org/wiki/Elizabeth_Holmes,sv.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,6,Johanna Wagrell,3800,day,https://sv.wikipedia.org/wiki/Johanna_Wagrell,sv.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,7,Mikael Bolyos,3600,day,https://sv.wikipedia.org/wiki/Mikael_Bolyos,sv.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,8,Avicii,3600,day,https://sv.wikipedia.org/wiki/Avicii,sv.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,9,Johan Hurtig,3300,day,https://sv.wikipedia.org/wiki/Johan_Hurtig,sv.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,10,Uje Brandelius,3200,day,https://sv.wikipedia.org/wiki/Uje_Brandelius,sv.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,11,Grand Theft Auto VI,2800,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,12,Alice Landerholm,2700,day,https://sv.wikipedia.org/wiki/Alice_Landerholm,sv.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,13,"Say You, Say Me",2600,day,"https://en.wikipedia.org/wiki/Say_You,_Say_Me",en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,14,Roxette,2500,day,https://sv.wikipedia.org/wiki/Roxette,sv.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,15,Marcus Schenkenberg,2400,day,https://sv.wikipedia.org/wiki/Marcus_Schenkenberg,sv.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,16,Per Gessle,2300,day,https://sv.wikipedia.org/wiki/Per_Gessle,sv.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,17,White Nights (1985 film),2300,day,https://en.wikipedia.org/wiki/White_Nights_(1985_film),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,18,Mårten Triewald,2200,day,https://sv.wikipedia.org/wiki/Mårten_Triewald,sv.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,19,Maffia (TV-serie),2200,day,https://sv.wikipedia.org/wiki/Maffia_(TV-serie),sv.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,20,You Can See Everything,2100,day,https://sv.wikipedia.org/wiki/You_Can_See_Everything,sv.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,21,Levent Alpöge,2000,day,https://en.wikipedia.org/wiki/Levent_Alpöge,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,22,Hanna Friberg (influerare),2000,day,https://sv.wikipedia.org/wiki/Hanna_Friberg_(influerare),sv.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,23,Bruksvallarna,2000,day,https://sv.wikipedia.org/wiki/Bruksvallarna,sv.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,24,"Vita nätter (film, 1985)",1800,day,"https://sv.wikipedia.org/wiki/Vita_nätter_(film,_1985)",sv.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SE,,,25,Jonathan Augustinsson,1800,day,https://sv.wikipedia.org/wiki/Jonathan_Augustinsson,sv.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SG,,,1,Grand Theft Auto VI,4600,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SG,,,2,2026 MAMA Awards,3500,day,https://en.wikipedia.org/wiki/2026_MAMA_Awards,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SG,,,3,Riemann hypothesis,3200,day,https://en.wikipedia.org/wiki/Riemann_hypothesis,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SG,,,4,.xxx,2700,day,https://en.wikipedia.org/wiki/.xxx,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SG,,,5,XXX (2002 film),2400,day,https://en.wikipedia.org/wiki/XXX_(2002_film),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SG,,,6,XNXX,2000,day,https://en.wikipedia.org/wiki/XNXX,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SG,,,7,"Aiko, Princess Toshi",1700,day,"https://en.wikipedia.org/wiki/Aiko,_Princess_Toshi",en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,SG,,,8,The Body (TV series),1300,day,https://en.wikipedia.org/wiki/The_Body_(TV_series),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TH,,,1,หน้าหลัก,10900,day,https://th.wikipedia.org/wiki/หน้าหลัก,th.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TH,,,2,องค์การกระจายเสียงและแพร่ภาพสาธารณะแห่งประเทศไทย,7700,day,https://th.wikipedia.org/wiki/องค์การกระจายเสียงและแพร่ภาพสาธารณะแห่งประเทศไทย,th.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TH,,,3,รพีภัทร เอกพันธ์กุล,3100,day,https://th.wikipedia.org/wiki/รพีภัทร_เอกพันธ์กุล,th.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TH,,,4,หี,2700,day,https://th.wikipedia.org/wiki/หี,th.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TH,,,5,บิ๊กแอส,2700,day,https://th.wikipedia.org/wiki/บิ๊กแอส,th.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TH,,,6,W69,1500,day,https://en.wikipedia.org/wiki/W69,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TH,,,7,อสมท,1400,day,https://th.wikipedia.org/wiki/อสมท,th.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TH,,,8,เอกรัตน์ วงศ์ฉลาด,1400,day,https://th.wikipedia.org/wiki/เอกรัตน์_วงศ์ฉลาด,th.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TH,,,9,Ansel Adams,1400,day,https://en.wikipedia.org/wiki/Ansel_Adams,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TH,,,10,เดชา โคนาโล,1300,day,https://th.wikipedia.org/wiki/เดชา_โคนาโล,th.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TH,,,11,คุณยายวรนาฏ,1200,day,https://th.wikipedia.org/wiki/คุณยายวรนาฏ,th.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TH,,,12,ขจรเดช พรมรักษา,1200,day,https://th.wikipedia.org/wiki/ขจรเดช_พรมรักษา,th.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,1,防彈少年團,32700,day,https://zh.wikipedia.org/wiki/防彈少年團,zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,2,王妃天崩開局穿越整頓霸凌者佀廣洋,18200,day,https://zh.wikipedia.org/wiki/王妃天崩開局穿越整頓霸凌者佀廣洋,zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,3,沈伯洋,10100,day,https://zh.wikipedia.org/wiki/沈伯洋,zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,4,佀廣洋,9600,day,https://zh.wikipedia.org/wiki/佀廣洋,zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,5,罪藍之路,9400,day,https://zh.wikipedia.org/wiki/罪藍之路,zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,6,嫁金钗,8300,day,https://zh.wikipedia.org/wiki/嫁金钗,zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,7,柾国,8300,day,https://zh.wikipedia.org/wiki/柾国,zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,8,急診室的奇蹟,7800,day,https://zh.wikipedia.org/wiki/急診室的奇蹟,zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,9,黎曼猜想,7700,day,https://zh.wikipedia.org/wiki/黎曼猜想,zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,10,今天是太阳雨,6700,day,https://zh.wikipedia.org/wiki/今天是太阳雨,zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,11,唐新民,6700,day,https://zh.wikipedia.org/wiki/唐新民,zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,12,兩京十五日,6600,day,https://zh.wikipedia.org/wiki/兩京十五日,zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,13,再婚皇后 (電視劇),6600,day,https://zh.wikipedia.org/wiki/再婚皇后_(電視劇),zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,14,黃宏成台灣阿成世界偉人財神總統,6500,day,https://zh.wikipedia.org/wiki/黃宏成台灣阿成世界偉人財神總統,zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,15,飢餓遊戲：黎明收割,6400,day,https://zh.wikipedia.org/wiki/飢餓遊戲：黎明收割,zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,16,蘇巧慧,5400,day,https://zh.wikipedia.org/wiki/蘇巧慧,zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,17,俠盜獵車手VI,5200,day,https://zh.wikipedia.org/wiki/俠盜獵車手VI,zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,18,黃珊珊,5000,day,https://zh.wikipedia.org/wiki/黃珊珊,zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,19,Ansel Adams,4700,day,https://en.wikipedia.org/wiki/Ansel_Adams,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,20,飢餓遊戲 (電影系列),4700,day,https://zh.wikipedia.org/wiki/飢餓遊戲_(電影系列),zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,21,百日謊言,4600,day,https://zh.wikipedia.org/wiki/百日謊言,zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,22,BABYMONSTER,4600,day,https://zh.wikipedia.org/wiki/BABYMONSTER,zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,23,RM (防弹少年团),4600,day,https://zh.wikipedia.org/wiki/RM_(防弹少年团),zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,24,秦慧珠,4500,day,https://zh.wikipedia.org/wiki/秦慧珠,zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,TW,,,25,BESTie,4400,day,https://zh.wikipedia.org/wiki/BESTie,zh.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,1,Riemann hypothesis,161900,day,https://en.wikipedia.org/wiki/Riemann_hypothesis,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,2,Grand Theft Auto VI,140300,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,3,メインページ,103700,day,https://ja.wikipedia.org/wiki/メインページ,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,4,Jeff Bezos,83900,day,https://en.wikipedia.org/wiki/Jeff_Bezos,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,5,John Madden,61900,day,https://en.wikipedia.org/wiki/John_Madden,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,6,Deaths in 2026,58200,day,https://en.wikipedia.org/wiki/Deaths_in_2026,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,7,General Sherman (arbre),48800,day,https://fr.wikipedia.org/wiki/General_Sherman_(arbre),fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,8,Dwayne Johnson,44600,day,https://en.wikipedia.org/wiki/Dwayne_Johnson,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,9,The Body (TV series),44300,day,https://en.wikipedia.org/wiki/The_Body_(TV_series),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,10,Grand Theft Auto,41000,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,11,Sunrise on the Reaping,39100,day,https://en.wikipedia.org/wiki/Sunrise_on_the_Reaping,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,12,Joseph Zada,37700,day,https://en.wikipedia.org/wiki/Joseph_Zada,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,13,Levent Alpöge,36100,day,https://en.wikipedia.org/wiki/Levent_Alpöge,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,14,Mckenna Grace,35600,day,https://en.wikipedia.org/wiki/Mckenna_Grace,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,15,Robert Pattinson,35500,day,https://en.wikipedia.org/wiki/Robert_Pattinson,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,16,Steps (film),35200,day,https://en.wikipedia.org/wiki/Steps_(film),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,17,Sylvester Stallone,34100,day,https://en.wikipedia.org/wiki/Sylvester_Stallone,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,18,Fiona (hippopotamus),33600,day,https://en.wikipedia.org/wiki/Fiona_(hippopotamus),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,19,Ansel Adams,30600,day,https://en.wikipedia.org/wiki/Ansel_Adams,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,20,Al Davis,30500,day,https://en.wikipedia.org/wiki/Al_Davis,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,21,Pagina principale,29900,day,https://it.wikipedia.org/wiki/Pagina_principale,it.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,22,Forside,28000,day,https://no.wikipedia.org/wiki/Forside,no.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,23,Stephen Wilson Jr.,27700,day,https://en.wikipedia.org/wiki/Stephen_Wilson_Jr.,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,24,Hoofdpagina,27600,day,https://nl.wikipedia.org/wiki/Hoofdpagina,nl.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,US,,,25,Príomhleathanach,27500,day,https://ga.wikipedia.org/wiki/Príomhleathanach,ga.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ZA,,,1,Phumzile Mlambo-Ngcuka,21400,day,https://en.wikipedia.org/wiki/Phumzile_Mlambo-Ngcuka,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ZA,,,2,Bulelani Ngcuka,13200,day,https://en.wikipedia.org/wiki/Bulelani_Ngcuka,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ZA,,,3,Grand Theft Auto VI,2800,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ZA,,,4,Lewis Moody,2200,day,https://en.wikipedia.org/wiki/Lewis_Moody,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia,ZA,,,5,Robert Baloucoune,2000,day,https://en.wikipedia.org/wiki/Robert_Baloucoune,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,1,الصفحة الرئيسة,34450,day,https://ar.wikipedia.org/wiki/الصفحة_الرئيسة,ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,2,كلب (جنس),15197,day,https://ar.wikipedia.org/wiki/كلب_(جنس),ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,3,جراند ثفت أوتو 6,10782,day,https://ar.wikipedia.org/wiki/جراند_ثفت_أوتو_6,ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,4,سكس بستلس,6480,day,https://ar.wikipedia.org/wiki/سكس_بستلس,ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,5,خيل (جنس),5863,day,https://ar.wikipedia.org/wiki/خيل_(جنس),ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,6,ميثاء بنت محمد بن راشد آل مكتوم,4028,day,https://ar.wikipedia.org/wiki/ميثاء_بنت_محمد_بن_راشد_آل_مكتوم,ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,7,خيسوس دي ميغيل,3919,day,https://ar.wikipedia.org/wiki/خيسوس_دي_ميغيل,ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,8,محمد بن فيصل بن سعود آل سعود,3531,day,https://ar.wikipedia.org/wiki/محمد_بن_فيصل_بن_سعود_آل_سعود,ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,9,رانيا فريد شوقي,3341,day,https://ar.wikipedia.org/wiki/رانيا_فريد_شوقي,ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,10,ميا خليفة,3244,day,https://ar.wikipedia.org/wiki/ميا_خليفة,ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,11,الجواهرجي,2960,day,https://ar.wikipedia.org/wiki/الجواهرجي,ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,12,علي فالح الزيدي,2900,day,https://ar.wikipedia.org/wiki/علي_فالح_الزيدي,ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,13,المثلية الجنسية في الحيوان,2797,day,https://ar.wikipedia.org/wiki/المثلية_الجنسية_في_الحيوان,ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,14,Xxxx (توضيح),2596,day,https://ar.wikipedia.org/wiki/Xxxx_(توضيح),ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,15,قائمة الأفلام المصرية سنة 2026,2362,day,https://ar.wikipedia.org/wiki/قائمة_الأفلام_المصرية_سنة_2026,ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,16,الصفحة الرئيسية,2171,day,https://ar.wikipedia.org/wiki/الصفحة_الرئيسية,ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,17,واتساب,2134,day,https://ar.wikipedia.org/wiki/واتساب,ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,18,جراند ثفت أوتو 5,1999,day,https://ar.wikipedia.org/wiki/جراند_ثفت_أوتو_5,ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,19,الاحتباس الحراري,1880,day,https://ar.wikipedia.org/wiki/الاحتباس_الحراري,ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,20,جرف الصخر,1846,day,https://ar.wikipedia.org/wiki/جرف_الصخر,ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,21,جنسانية المراهقين,1844,day,https://ar.wikipedia.org/wiki/جنسانية_المراهقين,ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,22,إباحية,1817,day,https://ar.wikipedia.org/wiki/إباحية,ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,23,سعود بن محمد بن عبد العزيز آل سعود,1771,day,https://ar.wikipedia.org/wiki/سعود_بن_محمد_بن_عبد_العزيز_آل_سعود,ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,24,فرضية ريمان,1768,day,https://ar.wikipedia.org/wiki/فرضية_ريمان,ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ar,,,,25,فيروز,1766,day,https://ar.wikipedia.org/wiki/فيروز,ar.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,1,রে লিল ব্ল্যাক,3614,day,https://bn.wikipedia.org/wiki/রে_লিল_ব্ল্যাক,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,2,প্রধান পাতা,3100,day,https://bn.wikipedia.org/wiki/প্রধান_পাতা,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,3,পরীমনি,816,day,https://bn.wikipedia.org/wiki/পরীমনি,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,4,মিয়া খলিফা,816,day,https://bn.wikipedia.org/wiki/মিয়া_খলিফা,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,5,শিশুদের বাণিজ্যিক যৌন শোষণ,715,day,https://bn.wikipedia.org/wiki/শিশুদের_বাণিজ্যিক_যৌন_শোষণ,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,6,এক্স এক্স এক্স এক্স (অ্যালবাম),679,day,https://bn.wikipedia.org/wiki/এক্স_এক্স_এক্স_এক্স_(অ্যালবাম),bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,7,যৌনসঙ্গম,645,day,https://bn.wikipedia.org/wiki/যৌনসঙ্গম,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,8,শিশু যৌনতা,620,day,https://bn.wikipedia.org/wiki/শিশু_যৌনতা,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,9,আ. স. ম. আবদুর রব,612,day,https://bn.wikipedia.org/wiki/আ._স._ম._আবদুর_রব,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,10,বাংলাদেশ,608,day,https://bn.wikipedia.org/wiki/বাংলাদেশ,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,11,বাংলা বাগধারার তালিকা,557,day,https://bn.wikipedia.org/wiki/বাংলা_বাগধারার_তালিকা,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,12,বুলু ফিল্ম,514,day,https://bn.wikipedia.org/wiki/বুলু_ফিল্ম,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,13,সশস্ত্র বাহিনী দিবস (বাংলাদেশ),502,day,https://bn.wikipedia.org/wiki/সশস্ত্র_বাহিনী_দিবস_(বাংলাদেশ),bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,14,তারেক রহমান,470,day,https://bn.wikipedia.org/wiki/তারেক_রহমান,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,15,গোপালগঞ্জ জেলা,433,day,https://bn.wikipedia.org/wiki/গোপালগঞ্জ_জেলা,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,16,মেহজাবীন চৌধুরী,405,day,https://bn.wikipedia.org/wiki/মেহজাবীন_চৌধুরী,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,17,পাগলা মসজিদ,404,day,https://bn.wikipedia.org/wiki/পাগলা_মসজিদ,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,18,সানি লিওন,368,day,https://bn.wikipedia.org/wiki/সানি_লিওন,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,19,রিতো রিবা,365,day,https://bn.wikipedia.org/wiki/রিতো_রিবা,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,20,বাংলা ভাষা,349,day,https://bn.wikipedia.org/wiki/বাংলা_ভাষা,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,21,গ্র্যান্ড থেফট অটো ৬,346,day,https://bn.wikipedia.org/wiki/গ্র্যান্ড_থেফট_অটো_৬,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,22,চ,340,day,https://bn.wikipedia.org/wiki/চ,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,23,রবীন্দ্রনাথ ঠাকুর,332,day,https://bn.wikipedia.org/wiki/রবীন্দ্রনাথ_ঠাকুর,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,24,শেখ হাসিনা,307,day,https://bn.wikipedia.org/wiki/শেখ_হাসিনা,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-bn,,,,25,পুরুষে পুরুষে যৌনতা,301,day,https://bn.wikipedia.org/wiki/পুরুষে_পুরুষে_যৌনতা,bn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,1,Riemannsche Vermutung,87443,day,https://de.wikipedia.org/wiki/Riemannsche_Vermutung,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,2,Mordach – Tod in den Bergen,54591,day,https://de.wikipedia.org/wiki/Mordach_–_Tod_in_den_Bergen,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,3,Ronan Keating,44992,day,https://de.wikipedia.org/wiki/Ronan_Keating,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,4,Friedrich Christian Flick,32179,day,https://de.wikipedia.org/wiki/Friedrich_Christian_Flick,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,5,Liste der größten Auslegerbrücken,31917,day,https://de.wikipedia.org/wiki/Liste_der_größten_Auslegerbrücken,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,6,Sarah Bauerett,29799,day,https://de.wikipedia.org/wiki/Sarah_Bauerett,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,7,Grand Theft Auto VI,25373,day,https://de.wikipedia.org/wiki/Grand_Theft_Auto_VI,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,8,Katharina Thalbach,24700,day,https://de.wikipedia.org/wiki/Katharina_Thalbach,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,9,Heinz Rudolf Kunze,18531,day,https://de.wikipedia.org/wiki/Heinz_Rudolf_Kunze,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,10,Robert Pattinson,18344,day,https://de.wikipedia.org/wiki/Robert_Pattinson,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,11,Die Tribute von Panem – Sunrise on the Reaping,18194,day,https://de.wikipedia.org/wiki/Die_Tribute_von_Panem_–_Sunrise_on_the_Reaping,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,12,Pearl Harbor (Film),17679,day,https://de.wikipedia.org/wiki/Pearl_Harbor_(Film),de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,13,Giovanni Zarrella,17405,day,https://de.wikipedia.org/wiki/Giovanni_Zarrella,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,14,Leonard Cohen,16771,day,https://de.wikipedia.org/wiki/Leonard_Cohen,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,15,Maya Felicitas Gräfin von Schönburg-Glauchau,14704,day,https://de.wikipedia.org/wiki/Maya_Felicitas_Gräfin_von_Schönburg-Glauchau,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,16,Olli Dittrich,14450,day,https://de.wikipedia.org/wiki/Olli_Dittrich,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,17,Grand Theft Auto,14180,day,https://de.wikipedia.org/wiki/Grand_Theft_Auto,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,18,Lara Colturi,14101,day,https://de.wikipedia.org/wiki/Lara_Colturi,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,19,The Batman (Film),13877,day,https://de.wikipedia.org/wiki/The_Batman_(Film),de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,20,Levent Alpöge,13556,day,https://de.wikipedia.org/wiki/Levent_Alpöge,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,21,Angriff auf Pearl Harbor,13261,day,https://de.wikipedia.org/wiki/Angriff_auf_Pearl_Harbor,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,22,Juliette Schoppmann,12686,day,https://de.wikipedia.org/wiki/Juliette_Schoppmann,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,23,Howard Carpendale,12571,day,https://de.wikipedia.org/wiki/Howard_Carpendale,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,24,Tim Bendzko,12140,day,https://de.wikipedia.org/wiki/Tim_Bendzko,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-de,,,,25,Matthias Reim,11989,day,https://de.wikipedia.org/wiki/Matthias_Reim,de.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,1,Grand Theft Auto VI,393338,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,2,Riemann hypothesis,388288,day,https://en.wikipedia.org/wiki/Riemann_hypothesis,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,3,.xxx,148049,day,https://en.wikipedia.org/wiki/.xxx,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,4,Deaths in 2026,124212,day,https://en.wikipedia.org/wiki/Deaths_in_2026,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,5,List of highest-grossing Indian films,122695,day,https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,6,Ansel Adams,121328,day,https://en.wikipedia.org/wiki/Ansel_Adams,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,7,Robert Pattinson,119357,day,https://en.wikipedia.org/wiki/Robert_Pattinson,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,8,The Body (TV series),109819,day,https://en.wikipedia.org/wiki/The_Body_(TV_series),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,9,Grand Theft Auto,103318,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,10,Levent Alpöge,102891,day,https://en.wikipedia.org/wiki/Levent_Alpöge,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,11,Nikhil Chaudhary (cricketer),100364,day,https://en.wikipedia.org/wiki/Nikhil_Chaudhary_(cricketer),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,12,XXX (2002 film),92338,day,https://en.wikipedia.org/wiki/XXX_(2002_film),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,13,Jeff Bezos,86703,day,https://en.wikipedia.org/wiki/Jeff_Bezos,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,14,Joseph Zada,82604,day,https://en.wikipedia.org/wiki/Joseph_Zada,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,15,Rockstar Games,77791,day,https://en.wikipedia.org/wiki/Rockstar_Games,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,16,Elizabeth Holmes,76587,day,https://en.wikipedia.org/wiki/Elizabeth_Holmes,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,17,John Madden,74612,day,https://en.wikipedia.org/wiki/John_Madden,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,18,The Odyssey (2026 film),73833,day,https://en.wikipedia.org/wiki/The_Odyssey_(2026_film),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,19,You Can See Everything,71854,day,https://en.wikipedia.org/wiki/You_Can_See_Everything,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,20,Sunrise on the Reaping,71460,day,https://en.wikipedia.org/wiki/Sunrise_on_the_Reaping,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,21,Mckenna Grace,69610,day,https://en.wikipedia.org/wiki/Mckenna_Grace,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,22,Lewis Moody,69243,day,https://en.wikipedia.org/wiki/Lewis_Moody,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,23,Grand Theft Auto V,67990,day,https://en.wikipedia.org/wiki/Grand_Theft_Auto_V,en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,24,Steps (film),67976,day,https://en.wikipedia.org/wiki/Steps_(film),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-en,,,,25,XXX (Kendrick Lamar song),63707,day,https://en.wikipedia.org/wiki/XXX_(Kendrick_Lamar_song),en.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,1,El Chapo Isidro,61950,day,https://es.wikipedia.org/wiki/El_Chapo_Isidro,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,2,Aníbal Gordon,49862,day,https://es.wikipedia.org/wiki/Aníbal_Gordon,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,3,Clube Atlético Mineiro,20274,day,https://es.wikipedia.org/wiki/Clube_Atlético_Mineiro,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,4,Jesús de Miguel Alameda,19413,day,https://es.wikipedia.org/wiki/Jesús_de_Miguel_Alameda,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,5,Hipótesis de Riemann,18125,day,https://es.wikipedia.org/wiki/Hipótesis_de_Riemann,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,6,Tomás Cuello,17184,day,https://es.wikipedia.org/wiki/Tomás_Cuello,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,7,Isabel de Baviera,15987,day,https://es.wikipedia.org/wiki/Isabel_de_Baviera,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,8,Grand Theft Auto VI,15634,day,https://es.wikipedia.org/wiki/Grand_Theft_Auto_VI,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,9,Alberto Núñez Feijóo,13109,day,https://es.wikipedia.org/wiki/Alberto_Núñez_Feijóo,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,10,Carlos Espí,12218,day,https://es.wikipedia.org/wiki/Carlos_Espí,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,11,Microsoft Office,10941,day,https://es.wikipedia.org/wiki/Microsoft_Office,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,12,Eduardo Domínguez (entrenador),10665,day,https://es.wikipedia.org/wiki/Eduardo_Domínguez_(entrenador),es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,13,Ferran Adrià,10648,day,https://es.wikipedia.org/wiki/Ferran_Adrià,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,14,Francisco José I de Austria,10262,day,https://es.wikipedia.org/wiki/Francisco_José_I_de_Austria,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,15,Ben Shelton,10241,day,https://es.wikipedia.org/wiki/Ben_Shelton,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,16,Santiago Ascacíbar,10105,day,https://es.wikipedia.org/wiki/Santiago_Ascacíbar,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,17,Elecciones generales de España de 2026,9764,day,https://es.wikipedia.org/wiki/Elecciones_generales_de_España_de_2026,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,18,Gordon (miniserie),9470,day,https://es.wikipedia.org/wiki/Gordon_(miniserie),es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,19,Maximiliano de México,9182,day,https://es.wikipedia.org/wiki/Maximiliano_de_México,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,20,Robert Pattinson,9072,day,https://es.wikipedia.org/wiki/Robert_Pattinson,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,21,Victoria Eugenia de Battenberg,8882,day,https://es.wikipedia.org/wiki/Victoria_Eugenia_de_Battenberg,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,22,Frente Amplio (España),8857,day,https://es.wikipedia.org/wiki/Frente_Amplio_(España),es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,23,Carlos Alcaraz,8132,day,https://es.wikipedia.org/wiki/Carlos_Alcaraz,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,24,Copa Mundial de Fútbol Sub-17 de 2026,8092,day,https://es.wikipedia.org/wiki/Copa_Mundial_de_Fútbol_Sub-17_de_2026,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-es,,,,25,Grand Theft Auto,7427,day,https://es.wikipedia.org/wiki/Grand_Theft_Auto,es.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,1,Hypothèse de Riemann,54753,day,https://fr.wikipedia.org/wiki/Hypothèse_de_Riemann,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,2,General Sherman (arbre),48854,day,https://fr.wikipedia.org/wiki/General_Sherman_(arbre),fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,3,Liste de sondages sur l'élection présidentielle française de 2027,42430,day,https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'élection_présidentielle_française_de_2027,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,4,Hollie Davidson,35851,day,https://fr.wikipedia.org/wiki/Hollie_Davidson,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,5,Dominique de Villepin,34656,day,https://fr.wikipedia.org/wiki/Dominique_de_Villepin,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,6,Championnat des nations 2026,31921,day,https://fr.wikipedia.org/wiki/Championnat_des_nations_2026,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,7,Affaire Michel Zecler,30755,day,https://fr.wikipedia.org/wiki/Affaire_Michel_Zecler,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,8,Tyler Duguid,28278,day,https://fr.wikipedia.org/wiki/Tyler_Duguid,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,9,Kalvin Gourgues,27086,day,https://fr.wikipedia.org/wiki/Kalvin_Gourgues,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,10,Federico Martín Aramburú,25929,day,https://fr.wikipedia.org/wiki/Federico_Martín_Aramburú,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,11,Grand Theft Auto VI,21219,day,https://fr.wikipedia.org/wiki/Grand_Theft_Auto_VI,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,12,Hunger Games (série de films),19993,day,https://fr.wikipedia.org/wiki/Hunger_Games_(série_de_films),fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,13,Michael Jackson,18960,day,https://fr.wikipedia.org/wiki/Michael_Jackson,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,14,Hugues Moutouh,18523,day,https://fr.wikipedia.org/wiki/Hugues_Moutouh,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,15,Championnat des nations,16898,day,https://fr.wikipedia.org/wiki/Championnat_des_nations,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,16,Natasha St-Pier,14531,day,https://fr.wikipedia.org/wiki/Natasha_St-Pier,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,17,David Lisnard,13869,day,https://fr.wikipedia.org/wiki/David_Lisnard,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,18,Facundo Isa,12962,day,https://fr.wikipedia.org/wiki/Facundo_Isa,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,19,Sarah Knafo,12751,day,https://fr.wikipedia.org/wiki/Sarah_Knafo,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,20,Élisabeth de Wittelsbach,12653,day,https://fr.wikipedia.org/wiki/Élisabeth_de_Wittelsbach,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,21,Grand Theft Auto,12160,day,https://fr.wikipedia.org/wiki/Grand_Theft_Auto,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,22,Jaafar Jackson,11255,day,https://fr.wikipedia.org/wiki/Jaafar_Jackson,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,23,Jesús de Miguel,11018,day,https://fr.wikipedia.org/wiki/Jesús_de_Miguel,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,24,XNXX,10785,day,https://fr.wikipedia.org/wiki/XNXX,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-fr,,,,25,David Habib,10773,day,https://fr.wikipedia.org/wiki/David_Habib,fr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,1,रामायण (2026 फिल्म),7996,day,https://hi.wikipedia.org/wiki/रामायण_(2026_फिल्म),hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,2,ब्लू (2009 फ़िल्म),4932,day,https://hi.wikipedia.org/wiki/ब्लू_(2009_फ़िल्म),hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,3,मुखपृष्ठ,4670,day,https://hi.wikipedia.org/wiki/मुखपृष्ठ,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,4,रघुराज प्रताप सिंह,3404,day,https://hi.wikipedia.org/wiki/रघुराज_प्रताप_सिंह,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,5,ब्लू मूवी,3319,day,https://hi.wikipedia.org/wiki/ब्लू_मूवी,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,6,योगी आदित्यनाथ,2572,day,https://hi.wikipedia.org/wiki/योगी_आदित्यनाथ,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,7,इंस्टाग्राम,1818,day,https://hi.wikipedia.org/wiki/इंस्टाग्राम,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,8,घोड़ा,1741,day,https://hi.wikipedia.org/wiki/घोड़ा,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,9,मिया खलीफ़ा,1556,day,https://hi.wikipedia.org/wiki/मिया_खलीफ़ा,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,10,भारत में 2027 के चुनाव,1485,day,https://hi.wikipedia.org/wiki/भारत_में_2027_के_चुनाव,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,11,खाटूश्यामजी,1321,day,https://hi.wikipedia.org/wiki/खाटूश्यामजी,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,12,राजस्थान विधानसभा चुनाव 2023,1291,day,https://hi.wikipedia.org/wiki/राजस्थान_विधानसभा_चुनाव_2023,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,13,डॉगी स्टाइल,1179,day,https://hi.wikipedia.org/wiki/डॉगी_स्टाइल,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,14,भारत का संविधान,1104,day,https://hi.wikipedia.org/wiki/भारत_का_संविधान,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,15,जॉनी सिन्स,1089,day,https://hi.wikipedia.org/wiki/जॉनी_सिन्स,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,16,यौन आसनों की सूची,1052,day,https://hi.wikipedia.org/wiki/यौन_आसनों_की_सूची,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,17,चित्रांगदा सिंह,1038,day,https://hi.wikipedia.org/wiki/चित्रांगदा_सिंह,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,18,हनुमान चालीसा,996,day,https://hi.wikipedia.org/wiki/हनुमान_चालीसा,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,19,कुत्ता,993,day,https://hi.wikipedia.org/wiki/कुत्ता,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,20,हिन्दी,954,day,https://hi.wikipedia.org/wiki/हिन्दी,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,21,रविन्द्र सिंह भाटी,895,day,https://hi.wikipedia.org/wiki/रविन्द्र_सिंह_भाटी,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,22,आत्महत्या के तरीके,885,day,https://hi.wikipedia.org/wiki/आत्महत्या_के_तरीके,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,23,सुहाग रात,874,day,https://hi.wikipedia.org/wiki/सुहाग_रात,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,24,अमृतपाल सिंह,845,day,https://hi.wikipedia.org/wiki/अमृतपाल_सिंह,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-hi,,,,25,भारत के राज्य तथा केन्द्र-शासित प्रदेश,741,day,https://hi.wikipedia.org/wiki/भारत_के_राज्य_तथा_केन्द्र-शासित_प्रदेश,hi.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,1,Halaman Utama,16094,day,https://id.wikipedia.org/wiki/Halaman_Utama,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,2,Sufmi Dasco Ahmad,7154,day,https://id.wikipedia.org/wiki/Sufmi_Dasco_Ahmad,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,3,XNXX,4222,day,https://id.wikipedia.org/wiki/XNXX,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,4,Suyudi Ario Seto,3365,day,https://id.wikipedia.org/wiki/Suyudi_Ario_Seto,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,5,Hana Malasan,2802,day,https://id.wikipedia.org/wiki/Hana_Malasan,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,6,Hamka,2796,day,https://id.wikipedia.org/wiki/Hamka,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,7,Listyo Sigit Prabowo,2457,day,https://id.wikipedia.org/wiki/Listyo_Sigit_Prabowo,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,8,Hong Kong,2251,day,https://id.wikipedia.org/wiki/Hong_Kong,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,9,Festival Film Indonesia 2026,2082,day,https://id.wikipedia.org/wiki/Festival_Film_Indonesia_2026,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,10,Grand Theft Auto VI,1785,day,https://id.wikipedia.org/wiki/Grand_Theft_Auto_VI,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,11,Hashim Djojohadikusumo,1758,day,https://id.wikipedia.org/wiki/Hashim_Djojohadikusumo,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,12,Prabowo Subianto,1749,day,https://id.wikipedia.org/wiki/Prabowo_Subianto,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,13,Serangan Balik (film),1726,day,https://id.wikipedia.org/wiki/Serangan_Balik_(film),id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,14,XHamster,1645,day,https://id.wikipedia.org/wiki/XHamster,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,15,The Remarried Empress (seri televisi),1572,day,https://id.wikipedia.org/wiki/The_Remarried_Empress_(seri_televisi),id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,16,XXXX (bir),1495,day,https://id.wikipedia.org/wiki/XXXX_(bir),id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,17,Indonesia,1451,day,https://id.wikipedia.org/wiki/Indonesia,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,18,Situs web,1430,day,https://id.wikipedia.org/wiki/Situs_web,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,19,Jepang,1406,day,https://id.wikipedia.org/wiki/Jepang,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,20,Soemitro Djojohadikoesoemo,1344,day,https://id.wikipedia.org/wiki/Soemitro_Djojohadikoesoemo,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,21,Andi Widjajanto,1337,day,https://id.wikipedia.org/wiki/Andi_Widjajanto,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,22,Para Perasuk,1328,day,https://id.wikipedia.org/wiki/Para_Perasuk,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,23,Sean Gelael,1245,day,https://id.wikipedia.org/wiki/Sean_Gelael,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,24,Dinda Ghania,1240,day,https://id.wikipedia.org/wiki/Dinda_Ghania,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-id,,,,25,Dharma Pongrekun,1231,day,https://id.wikipedia.org/wiki/Dharma_Pongrekun,id.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,1,メインページ,696242,day,https://ja.wikipedia.org/wiki/メインページ,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,2,合格電報,159627,day,https://ja.wikipedia.org/wiki/合格電報,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,3,真宝郡,59863,day,https://ja.wikipedia.org/wiki/真宝郡,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,4,宮下今日子,52499,day,https://ja.wikipedia.org/wiki/宮下今日子,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,5,藤井風,52296,day,https://ja.wikipedia.org/wiki/藤井風,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,6,宗佑磨,49471,day,https://ja.wikipedia.org/wiki/宗佑磨,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,7,リーマン予想,40575,day,https://ja.wikipedia.org/wiki/リーマン予想,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,8,珍しい死の一覧,35571,day,https://ja.wikipedia.org/wiki/珍しい死の一覧,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,9,長澤まさみ,26492,day,https://ja.wikipedia.org/wiki/長澤まさみ,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,10,しじみ (女優),25765,day,https://ja.wikipedia.org/wiki/しじみ_(女優),ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,11,東出昌大,24495,day,https://ja.wikipedia.org/wiki/東出昌大,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,12,モナキ,22320,day,https://ja.wikipedia.org/wiki/モナキ,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,13,太田裕美,21283,day,https://ja.wikipedia.org/wiki/太田裕美,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,14,安斉星来,21056,day,https://ja.wikipedia.org/wiki/安斉星来,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,15,魔法使いの夜,20109,day,https://ja.wikipedia.org/wiki/魔法使いの夜,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,16,宇野千代,19580,day,https://ja.wikipedia.org/wiki/宇野千代,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,17,八嶋智人,19457,day,https://ja.wikipedia.org/wiki/八嶋智人,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,18,石橋貴俊,18605,day,https://ja.wikipedia.org/wiki/石橋貴俊,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,19,関芳弘,18354,day,https://ja.wikipedia.org/wiki/関芳弘,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,20,鈴木愛理 (歌手),18032,day,https://ja.wikipedia.org/wiki/鈴木愛理_(歌手),ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,21,岩田絵里奈,17373,day,https://ja.wikipedia.org/wiki/岩田絵里奈,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,22,豊臣秀次,17141,day,https://ja.wikipedia.org/wiki/豊臣秀次,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,23,ピル治験女性バラバラ殺人事件,16969,day,https://ja.wikipedia.org/wiki/ピル治験女性バラバラ殺人事件,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,24,観月あこ,16175,day,https://ja.wikipedia.org/wiki/観月あこ,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ja,,,,25,山田涼介,15265,day,https://ja.wikipedia.org/wiki/山田涼介,ja.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,1,ಸಂಭೋಗ,753,day,https://kn.wikipedia.org/wiki/ಸಂಭೋಗ,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,2,ತುಳಸಿ ಪೂಜೆ,692,day,https://kn.wikipedia.org/wiki/ತುಳಸಿ_ಪೂಜೆ,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,3,ಮುಖ್ಯ ಪುಟ,467,day,https://kn.wikipedia.org/wiki/ಮುಖ್ಯ_ಪುಟ,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,4,ತುಳಸಿ ವಿವಾಹ,458,day,https://kn.wikipedia.org/wiki/ತುಳಸಿ_ವಿವಾಹ,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,5,ಎ.ಪಿ.ಜೆ.ಅಬ್ದುಲ್ ಕಲಾಂ,386,day,https://kn.wikipedia.org/wiki/ಎ.ಪಿ.ಜೆ.ಅಬ್ದುಲ್_ಕಲಾಂ,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,6,ಕುವೆಂಪು,343,day,https://kn.wikipedia.org/wiki/ಕುವೆಂಪು,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,7,ಬಸವೇಶ್ವರ,231,day,https://kn.wikipedia.org/wiki/ಬಸವೇಶ್ವರ,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,8,ಕನಕದಾಸರು,217,day,https://kn.wikipedia.org/wiki/ಕನಕದಾಸರು,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,9,ಕನ್ನಡ,191,day,https://kn.wikipedia.org/wiki/ಕನ್ನಡ,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,10,ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ,175,day,https://kn.wikipedia.org/wiki/ಕನ್ನಡ_ರಾಜ್ಯೋತ್ಸವ,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,11,ಗೌತಮ ಬುದ್ಧ,169,day,https://kn.wikipedia.org/wiki/ಗೌತಮ_ಬುದ್ಧ,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,12,ದ.ರಾ.ಬೇಂದ್ರೆ,167,day,https://kn.wikipedia.org/wiki/ದ.ರಾ.ಬೇಂದ್ರೆ,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,13,ಭಾರತದ ಸಂವಿಧಾನ,165,day,https://kn.wikipedia.org/wiki/ಭಾರತದ_ಸಂವಿಧಾನ,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,14,ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪುರಸ್ಕೃತ ಕನ್ನಡಿಗರು,165,day,https://kn.wikipedia.org/wiki/ಜ್ಞಾನಪೀಠ_ಪ್ರಶಸ್ತಿ_ಪುರಸ್ಕೃತ_ಕನ್ನಡಿಗರು,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,15,ಹಿಂದೂ ಧರ್ಮದಲ್ಲಿ ತುಳಸಿ,141,day,https://kn.wikipedia.org/wiki/ಹಿಂದೂ_ಧರ್ಮದಲ್ಲಿ_ತುಳಸಿ,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,16,ಕರ್ನಾಟಕ ರಾಜ್ಯ ಸರಕಾರಿ ಒಡೆತನದ ನಿಗಮ ಮಂಡಳಿಗಳು ಮತ್ತು ನೇಮಕ,128,day,https://kn.wikipedia.org/wiki/ಕರ್ನಾಟಕ_ರಾಜ್ಯ_ಸರಕಾರಿ_ಒಡೆತನದ_ನಿಗಮ_ಮಂಡಳಿಗಳು_ಮತ್ತು_ನೇಮಕ,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,17,ಅಕ್ಕಮಹಾದೇವಿ,118,day,https://kn.wikipedia.org/wiki/ಅಕ್ಕಮಹಾದೇವಿ,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,18,ಕೆ. ಪಿ. ಪೂರ್ಣಚಂದ್ರ ತೇಜಸ್ವಿ,114,day,https://kn.wikipedia.org/wiki/ಕೆ._ಪಿ._ಪೂರ್ಣಚಂದ್ರ_ತೇಜಸ್ವಿ,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,19,ಚಂದ್ರಶೇಖರ ಕಂಬಾರ,113,day,https://kn.wikipedia.org/wiki/ಚಂದ್ರಶೇಖರ_ಕಂಬಾರ,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,20,ಪ್ರತಾಪ್ ಸಿಂಹ,93,day,https://kn.wikipedia.org/wiki/ಪ್ರತಾಪ್_ಸಿಂಹ,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,21,ಪುರಂದರದಾಸ,90,day,https://kn.wikipedia.org/wiki/ಪುರಂದರದಾಸ,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,22,ಕರ್ನಾಟಕದ ಏಕೀಕರಣ,89,day,https://kn.wikipedia.org/wiki/ಕರ್ನಾಟಕದ_ಏಕೀಕರಣ,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,23,ಜಿ.ಎಸ್.ಶಿವರುದ್ರಪ್ಪ,85,day,https://kn.wikipedia.org/wiki/ಜಿ.ಎಸ್.ಶಿವರುದ್ರಪ್ಪ,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,24,ಬಿ. ಆರ್. ಅಂಬೇಡ್ಕರ್,85,day,https://kn.wikipedia.org/wiki/ಬಿ._ಆರ್._ಅಂಬೇಡ್ಕರ್,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-kn,,,,25,ಸಂಭೋಗ ಭಂಗಿಗಳು,82,day,https://kn.wikipedia.org/wiki/ಸಂಭೋಗ_ಭಂಗಿಗಳು,kn.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,1,പത്മജ വേണുഗോപാൽ,920,day,https://ml.wikipedia.org/wiki/പത്മജ_വേണുഗോപാൽ,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,2,ഗുരുവായൂർ ഏകാദശി,829,day,https://ml.wikipedia.org/wiki/ഗുരുവായൂർ_ഏകാദശി,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,3,പ്രധാന താൾ,482,day,https://ml.wikipedia.org/wiki/പ്രധാന_താൾ,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,4,ഏകാദശി,316,day,https://ml.wikipedia.org/wiki/ഏകാദശി,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,5,ക്രിസ്തുരാജന്റെ തിരുനാൾ,276,day,https://ml.wikipedia.org/wiki/ക്രിസ്തുരാജന്റെ_തിരുനാൾ,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,6,ഹണി ഭാസ്കരൻ,208,day,https://ml.wikipedia.org/wiki/ഹണി_ഭാസ്കരൻ,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,7,ബാച്ച്ലർ പാർട്ടി ഡ്യൂ,169,day,https://ml.wikipedia.org/wiki/ബാച്ച്ലർ_പാർട്ടി_ഡ്യൂ,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,8,മലയാളം,156,day,https://ml.wikipedia.org/wiki/മലയാളം,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,9,ഷുക്കൂർ വധക്കേസ്‌,155,day,https://ml.wikipedia.org/wiki/ഷുക്കൂർ_വധക്കേസ്‌,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,10,"പാറേൽ പള്ളി, ചങ്ങനാശ്ശേരി",152,day,"https://ml.wikipedia.org/wiki/പാറേൽ_പള്ളി,_ചങ്ങനാശ്ശേരി",ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,11,രാമായണം,150,day,https://ml.wikipedia.org/wiki/രാമായണം,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,12,ലൈംഗികബന്ധം,139,day,https://ml.wikipedia.org/wiki/ലൈംഗികബന്ധം,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,13,കറുത്ത കുർബ്ബാന,137,day,https://ml.wikipedia.org/wiki/കറുത്ത_കുർബ്ബാന,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,14,കെ. കരുണാകരൻ,124,day,https://ml.wikipedia.org/wiki/കെ._കരുണാകരൻ,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,15,കൽപന ചൗള,121,day,https://ml.wikipedia.org/wiki/കൽപന_ചൗള,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,16,ദേവ്ദത്ത് പടിക്കൽ,117,day,https://ml.wikipedia.org/wiki/ദേവ്ദത്ത്_പടിക്കൽ,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,17,തത്ത്വമസി,91,day,https://ml.wikipedia.org/wiki/തത്ത്വമസി,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,18,ഗൊമ്മടേശ്വരൻ,82,day,https://ml.wikipedia.org/wiki/ഗൊമ്മടേശ്വരൻ,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,19,കെ. മുരളീധരൻ,82,day,https://ml.wikipedia.org/wiki/കെ._മുരളീധരൻ,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,20,ശബരിമല ധർമ്മശാസ്താക്ഷേത്രം,75,day,https://ml.wikipedia.org/wiki/ശബരിമല_ധർമ്മശാസ്താക്ഷേത്രം,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,21,സമന്താ റൂത്ത് പ്രഭു,74,day,https://ml.wikipedia.org/wiki/സമന്താ_റൂത്ത്_പ്രഭു,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,22,കുഞ്ചൻ നമ്പ്യാർ,69,day,https://ml.wikipedia.org/wiki/കുഞ്ചൻ_നമ്പ്യാർ,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,23,മഹുവ മൊയ്ത്ര,69,day,https://ml.wikipedia.org/wiki/മഹുവ_മൊയ്ത്ര,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,24,സായി പല്ലവി,65,day,https://ml.wikipedia.org/wiki/സായി_പല്ലവി,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ml,,,,25,മലയാളം അക്ഷരമാല,65,day,https://ml.wikipedia.org/wiki/മലയാളം_അക്ഷരമാല,ml.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,1,तुळशी विवाह,1406,day,https://mr.wikipedia.org/wiki/तुळशी_विवाह,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,2,मुखपृष्ठ,868,day,https://mr.wikipedia.org/wiki/मुखपृष्ठ,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,3,मटका,679,day,https://mr.wikipedia.org/wiki/मटका,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,4,टिपू सुलतान,409,day,https://mr.wikipedia.org/wiki/टिपू_सुलतान,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,5,नवग्रह स्तोत्र,376,day,https://mr.wikipedia.org/wiki/नवग्रह_स्तोत्र,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,6,दीपाली भोसले-सय्यद,365,day,https://mr.wikipedia.org/wiki/दीपाली_भोसले-सय्यद,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,7,कार्तिकी एकादशी,333,day,https://mr.wikipedia.org/wiki/कार्तिकी_एकादशी,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,8,शर्वरी वाघ,323,day,https://mr.wikipedia.org/wiki/शर्वरी_वाघ,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,9,निखिल चौधरी,272,day,https://mr.wikipedia.org/wiki/निखिल_चौधरी,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,10,भारताचे संविधान,248,day,https://mr.wikipedia.org/wiki/भारताचे_संविधान,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,11,बाबासाहेब आंबेडकर,234,day,https://mr.wikipedia.org/wiki/बाबासाहेब_आंबेडकर,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,12,विठाबाई नारायणगावकर,228,day,https://mr.wikipedia.org/wiki/विठाबाई_नारायणगावकर,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,13,वि.स. खांडेकर,214,day,https://mr.wikipedia.org/wiki/वि.स._खांडेकर,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,14,छत्रपती शिवाजी महाराज,203,day,https://mr.wikipedia.org/wiki/छत्रपती_शिवाजी_महाराज,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,15,शुक्राचे अधिक्रमण,194,day,https://mr.wikipedia.org/wiki/शुक्राचे_अधिक्रमण,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,16,जया किशोरी,189,day,https://mr.wikipedia.org/wiki/जया_किशोरी,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,17,मराठी भाषा,181,day,https://mr.wikipedia.org/wiki/मराठी_भाषा,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,18,महात्मा फुले,179,day,https://mr.wikipedia.org/wiki/महात्मा_फुले,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,19,ज्ञानेश्वर,177,day,https://mr.wikipedia.org/wiki/ज्ञानेश्वर,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,20,महाराष्ट्रातील प्रादेशिक वाहन नोंदणी क्रमांक यादी,163,day,https://mr.wikipedia.org/wiki/महाराष्ट्रातील_प्रादेशिक_वाहन_नोंदणी_क्रमांक_यादी,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,21,संयुक्त महाराष्ट्र चळवळ,155,day,https://mr.wikipedia.org/wiki/संयुक्त_महाराष्ट्र_चळवळ,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,22,महाराष्ट्रामधील जिल्हे,143,day,https://mr.wikipedia.org/wiki/महाराष्ट्रामधील_जिल्हे,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,23,शरद कपूर,132,day,https://mr.wikipedia.org/wiki/शरद_कपूर,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,24,हुतात्मा दिन,123,day,https://mr.wikipedia.org/wiki/हुतात्मा_दिन,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-mr,,,,25,सदा सर्वदा योग तुझा घडावा,111,day,https://mr.wikipedia.org/wiki/सदा_सर्वदा_योग_तुझा_घडावा,mr.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,1,Lista de campeões do Campeonato Brasileiro de Futebol,13561,day,https://pt.wikipedia.org/wiki/Lista_de_campeões_do_Campeonato_Brasileiro_de_Futebol,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,2,Tupanciretã,13216,day,https://pt.wikipedia.org/wiki/Tupanciretã,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,3,União Desportiva da Serra,11625,day,https://pt.wikipedia.org/wiki/União_Desportiva_da_Serra,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,4,"Isabel da Baviera, Imperatriz da Áustria",9324,day,"https://pt.wikipedia.org/wiki/Isabel_da_Baviera,_Imperatriz_da_Áustria",pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,5,Clube de Regatas do Flamengo,8540,day,https://pt.wikipedia.org/wiki/Clube_de_Regatas_do_Flamengo,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,6,Campeonato Brasileiro de Futebol,8091,day,https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,7,Zumbi dos Palmares,8032,day,https://pt.wikipedia.org/wiki/Zumbi_dos_Palmares,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,8,Samuel Lino,5881,day,https://pt.wikipedia.org/wiki/Samuel_Lino,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,9,Grand Theft Auto VI,5270,day,https://pt.wikipedia.org/wiki/Grand_Theft_Auto_VI,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,10,Maximiliano do México,5250,day,https://pt.wikipedia.org/wiki/Maximiliano_do_México,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,11,Hipótese de Riemann,5234,day,https://pt.wikipedia.org/wiki/Hipótese_de_Riemann,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,12,Caso Richthofen,4842,day,https://pt.wikipedia.org/wiki/Caso_Richthofen,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,13,Francisco José I da Áustria,4818,day,https://pt.wikipedia.org/wiki/Francisco_José_I_da_Áustria,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,14,Santa Catarina da Serra,3688,day,https://pt.wikipedia.org/wiki/Santa_Catarina_da_Serra,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,15,Zoofilia,3599,day,https://pt.wikipedia.org/wiki/Zoofilia,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,16,Leonardo Jardim,3564,day,https://pt.wikipedia.org/wiki/Leonardo_Jardim,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,17,Giorgian de Arrascaeta,3217,day,https://pt.wikipedia.org/wiki/Giorgian_de_Arrascaeta,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,18,Títulos do Clube de Regatas do Flamengo no futebol,3201,day,https://pt.wikipedia.org/wiki/Títulos_do_Clube_de_Regatas_do_Flamengo_no_futebol,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,19,Sylvester Stallone,3196,day,https://pt.wikipedia.org/wiki/Sylvester_Stallone,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,20,Jair Bolsonaro,3142,day,https://pt.wikipedia.org/wiki/Jair_Bolsonaro,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,21,Josep Guardiola,3051,day,https://pt.wikipedia.org/wiki/Josep_Guardiola,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,22,Brasil,3032,day,https://pt.wikipedia.org/wiki/Brasil,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,23,Campeonato Brasileiro de Futebol de 2026 - Série A,2927,day,https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_Série_A,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,24,Joseph Wallach,2813,day,https://pt.wikipedia.org/wiki/Joseph_Wallach,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-pt,,,,25,Carlos Miguel,2732,day,https://pt.wikipedia.org/wiki/Carlos_Miguel,pt.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,1,Заглавная страница,188095,day,https://ru.wikipedia.org/wiki/Заглавная_страница,ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,2,Grand Theft Auto VI,34074,day,https://ru.wikipedia.org/wiki/Grand_Theft_Auto_VI,ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,3,"Брик, Лиля Юрьевна",16438,day,"https://ru.wikipedia.org/wiki/Брик,_Лиля_Юрьевна",ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,4,"Карпов, Анатолий Евгеньевич",15941,day,"https://ru.wikipedia.org/wiki/Карпов,_Анатолий_Евгеньевич",ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,5,Гипотеза Римана,15606,day,https://ru.wikipedia.org/wiki/Гипотеза_Римана,ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,6,Порнография,14641,day,https://ru.wikipedia.org/wiki/Порнография,ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,7,Голодные игры (серия фильмов),13176,day,https://ru.wikipedia.org/wiki/Голодные_игры_(серия_фильмов),ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,8,Список умерших в 2026 году,12858,day,https://ru.wikipedia.org/wiki/Список_умерших_в_2026_году,ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,9,"Ким, Татьяна Владимировна",12457,day,"https://ru.wikipedia.org/wiki/Ким,_Татьяна_Владимировна",ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,10,Гангстерленд,11663,day,https://ru.wikipedia.org/wiki/Гангстерленд,ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,11,"Руссо, Авраам",11495,day,"https://ru.wikipedia.org/wiki/Руссо,_Авраам",ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,12,"Маяковский, Владимир Владимирович",10226,day,"https://ru.wikipedia.org/wiki/Маяковский,_Владимир_Владимирович",ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,13,"Буланова, Татьяна Ивановна",10096,day,"https://ru.wikipedia.org/wiki/Буланова,_Татьяна_Ивановна",ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,14,Тяп-ляп,9541,day,https://ru.wikipedia.org/wiki/Тяп-ляп,ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,15,Grand Theft Auto,9139,day,https://ru.wikipedia.org/wiki/Grand_Theft_Auto,ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,16,"Ярмоленко, Анатолий Иванович",8958,day,"https://ru.wikipedia.org/wiki/Ярмоленко,_Анатолий_Иванович",ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,17,Кирилл (патриарх Московский),8543,day,https://ru.wikipedia.org/wiki/Кирилл_(патриарх_Московский),ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,18,RuTracker.org,8489,day,https://ru.wikipedia.org/wiki/RuTracker.org,ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,19,"Жуков, Сергей Евгеньевич",8370,day,"https://ru.wikipedia.org/wiki/Жуков,_Сергей_Евгеньевич",ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,20,"Одиссея (фильм, 2026)",8321,day,"https://ru.wikipedia.org/wiki/Одиссея_(фильм,_2026)",ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,21,Крымский мост,7976,day,https://ru.wikipedia.org/wiki/Крымский_мост,ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,22,"Зайцева, Людмила Васильевна",7695,day,"https://ru.wikipedia.org/wiki/Зайцева,_Людмила_Васильевна",ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,23,Grand Theft Auto V,7382,day,https://ru.wikipedia.org/wiki/Grand_Theft_Auto_V,ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,24,Увидеть всё,7143,day,https://ru.wikipedia.org/wiki/Увидеть_всё,ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ru,,,,25,Айда! (сериал),7005,day,https://ru.wikipedia.org/wiki/Айда!_(сериал),ru.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,1,"தமிழ்த் திரைப்படங்களின் பட்டியல், 2026",1319,day,"https://ta.wikipedia.org/wiki/தமிழ்த்_திரைப்படங்களின்_பட்டியல்,_2026",ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,2,முதற்பக்கம்,1255,day,https://ta.wikipedia.org/wiki/முதற்பக்கம்,ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,3,வி. சு. பாபு,775,day,https://ta.wikipedia.org/wiki/வி._சு._பாபு,ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,4,தமிழ்த் திரைப்படங்களின் பட்டியல் (ஆண்டு வரிசை),459,day,https://ta.wikipedia.org/wiki/தமிழ்த்_திரைப்படங்களின்_பட்டியல்_(ஆண்டு_வரிசை),ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,5,ஆண் தமிழ்ப் பெயர்கள்,308,day,https://ta.wikipedia.org/wiki/ஆண்_தமிழ்ப்_பெயர்கள்,ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,6,கலாநிதி மாறன்,272,day,https://ta.wikipedia.org/wiki/கலாநிதி_மாறன்,ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,7,முரசொலி மாறன்,226,day,https://ta.wikipedia.org/wiki/முரசொலி_மாறன்,ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,8,பழனி பாபா,210,day,https://ta.wikipedia.org/wiki/பழனி_பாபா,ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,9,குறை ஒன்றும் இல்லை (பாடல்),200,day,https://ta.wikipedia.org/wiki/குறை_ஒன்றும்_இல்லை_(பாடல்),ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,10,ராஜசேகர் (இயக்குநர்),199,day,https://ta.wikipedia.org/wiki/ராஜசேகர்_(இயக்குநர்),ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,11,பெண் தமிழ்ப் பெயர்கள்,197,day,https://ta.wikipedia.org/wiki/பெண்_தமிழ்ப்_பெயர்கள்,ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,12,மூக்குத்தி அம்மன் 2,197,day,https://ta.wikipedia.org/wiki/மூக்குத்தி_அம்மன்_2,ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,13,"தமிழ்த் திரைப்படங்களின் பட்டியல், 2025",195,day,"https://ta.wikipedia.org/wiki/தமிழ்த்_திரைப்படங்களின்_பட்டியல்,_2025",ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,14,அறுபடைவீடுகள்,168,day,https://ta.wikipedia.org/wiki/அறுபடைவீடுகள்,ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,15,சாய் அபயங்கர்,159,day,https://ta.wikipedia.org/wiki/சாய்_அபயங்கர்,ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,16,அன்சூல் காம்போஜ்,156,day,https://ta.wikipedia.org/wiki/அன்சூல்_காம்போஜ்,ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,17,நவம்பர் 22,155,day,https://ta.wikipedia.org/wiki/நவம்பர்_22,ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,18,திருக்குறள்,154,day,https://ta.wikipedia.org/wiki/திருக்குறள்,ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,19,அனிருத் ரவிச்சந்திரன்,153,day,https://ta.wikipedia.org/wiki/அனிருத்_ரவிச்சந்திரன்,ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,20,நவம்பர் 21,151,day,https://ta.wikipedia.org/wiki/நவம்பர்_21,ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,21,அண்ணாமலையார் கோயில்,149,day,https://ta.wikipedia.org/wiki/அண்ணாமலையார்_கோயில்,ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,22,திருப்பரங்குன்றம் சுப்பிரமணிய சுவாமி கோயில்,142,day,https://ta.wikipedia.org/wiki/திருப்பரங்குன்றம்_சுப்பிரமணிய_சுவாமி_கோயில்,ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,23,ராஜ்குமார் பெரியசாமி,134,day,https://ta.wikipedia.org/wiki/ராஜ்குமார்_பெரியசாமி,ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,24,ஐயப்பன்,131,day,https://ta.wikipedia.org/wiki/ஐயப்பன்,ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-ta,,,,25,விஜய் ஆண்டனி,130,day,https://ta.wikipedia.org/wiki/விஜய்_ஆண்டனி,ta.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,1,తెలుగు సినిమాలు 2026,2595,day,https://te.wikipedia.org/wiki/తెలుగు_సినిమాలు_2026,te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,2,మొదటి పేజీ,979,day,https://te.wikipedia.org/wiki/మొదటి_పేజీ,te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,3,త్రినాథ వ్రతకల్పం,740,day,https://te.wikipedia.org/wiki/త్రినాథ_వ్రతకల్పం,te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,4,2026 ఆంధ్రప్రదేశ్ గ్రామ పంచాయతీ ఎన్నికలు,500,day,https://te.wikipedia.org/wiki/2026_ఆంధ్రప్రదేశ్_గ్రామ_పంచాయతీ_ఎన్నికలు,te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,5,చుక్కా రామయ్య,493,day,https://te.wikipedia.org/wiki/చుక్కా_రామయ్య,te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,6,పసుపు గణపతి పూజ,455,day,https://te.wikipedia.org/wiki/పసుపు_గణపతి_పూజ,te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,7,ముక్కా శ్రావణి,450,day,https://te.wikipedia.org/wiki/ముక్కా_శ్రావణి,te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,8,కల్పనా చావ్లా,343,day,https://te.wikipedia.org/wiki/కల్పనా_చావ్లా,te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,9,ఆకాశం లో ఒక తారా,313,day,https://te.wikipedia.org/wiki/ఆకాశం_లో_ఒక_తారా,te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,10,కేదారేశ్వర వ్రతకల్పం,292,day,https://te.wikipedia.org/wiki/కేదారేశ్వర_వ్రతకల్పం,te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,11,మహేంద్రగిరి వారాహి,290,day,https://te.wikipedia.org/wiki/మహేంద్రగిరి_వారాహి,te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,12,తులసీ వివాహం,286,day,https://te.wikipedia.org/wiki/తులసీ_వివాహం,te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,13,పవన్ సాదినేని,225,day,https://te.wikipedia.org/wiki/పవన్_సాదినేని,te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,14,అన్షుల్ కాంబోజ్,171,day,https://te.wikipedia.org/wiki/అన్షుల్_కాంబోజ్,te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,15,రామాయణం (2026 సినిమా),169,day,https://te.wikipedia.org/wiki/రామాయణం_(2026_సినిమా),te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,16,మజ్జి శ్రీనివాసరావు (చిన్న శ్రీను ),167,day,https://te.wikipedia.org/wiki/మజ్జి_శ్రీనివాసరావు_(చిన్న_శ్రీను_),te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,17,శ్రీ లక్ష్మీ అష్టోత్తర స్తోత్రము,153,day,https://te.wikipedia.org/wiki/శ్రీ_లక్ష్మీ_అష్టోత్తర_స్తోత్రము,te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,18,భారతదేశంలో కోడి పందాలు,145,day,https://te.wikipedia.org/wiki/భారతదేశంలో_కోడి_పందాలు,te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,19,కావ్య మారన్,143,day,https://te.wikipedia.org/wiki/కావ్య_మారన్,te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,20,కె. నిరంజన్ రెడ్డి,140,day,https://te.wikipedia.org/wiki/కె._నిరంజన్_రెడ్డి,te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,21,ఇంద్రజిత్ (1990 సినిమా),137,day,https://te.wikipedia.org/wiki/ఇంద్రజిత్_(1990_సినిమా),te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,22,అయ్యప్ప,135,day,https://te.wikipedia.org/wiki/అయ్యప్ప,te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,23,కె.ఎల్. రాహుల్,134,day,https://te.wikipedia.org/wiki/కె.ఎల్._రాహుల్,te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,24,మాగంటి శ్రీనాథ్,132,day,https://te.wikipedia.org/wiki/మాగంటి_శ్రీనాథ్,te.wikipedia
+2026-11-21,2026-11-22T06:52Z,wikipedia-te,,,,25,అనిరుధ్ రవిచందర్,131,day,https://te.wikipedia.org/wiki/అనిరుధ్_రవిచందర్,te.wikipedia
 2026-11-21,2026-11-21T07:12Z,x-trends,AE,,,1,#كل_عام_وانت_منصور_العز,0,now,https://twitter.com/search?q=%23%D9%83%D9%84_%D8%B9%D8%A7%D9%85_%D9%88%D8%A7%D9%86%D8%AA_%D9%85%D9%86%D8%B5%D9%88%D8%B1_%D8%A7%D9%84%D8%B9%D8%B2,
 2026-11-21,2026-11-21T19:17Z,x-trends,AE,,,1,الوحدة,0,now,https://twitter.com/search?q=%D8%A7%D9%84%D9%88%D8%AD%D8%AF%D8%A9,
 2026-11-21,2026-11-21T07:12Z,x-trends,AE,,,2,ثوب الصحه,0,now,https://twitter.com/search?q=%D8%AB%D9%88%D8%A8%20%D8%A7%D9%84%D8%B5%D8%AD%D9%87,
